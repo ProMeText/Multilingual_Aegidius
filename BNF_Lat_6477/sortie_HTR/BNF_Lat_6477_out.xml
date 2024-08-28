@@ -1,0 +1,1116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BNF_Lat_6477" xml:lang="la" type="transcription">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>BNF_Lat_6477</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="facs_qoFXL9" points="662,1919 662,1941 1319,1937 1321,1916 1315,1879 660,1886 662,1919"
+      corresp="#elem_qoFXL9">
+      <graphic url="../lignes/10_qoFXL9.png"/>
+    </surface>
+    <surface xml:id="facs_jHYZwk" points="662,1970 662,1997 732,1986 1313,1984 1315,1966 1310,1934 660,1936 662,1970"
+      corresp="#elem_jHYZwk">
+      <graphic url="../lignes/10_jHYZwk.png"/>
+    </surface>
+    <surface xml:id="facs_nt6lWB"
+      points="662,2011 662,2039 736,2027 857,2034 884,2036 886,2036 1042,2029 1043,2009 1038,1979 660,1979 662,2011"
+      corresp="#elem_nt6lWB">
+      <graphic url="../lignes/10_nt6lWB.png"/>
+    </surface>
+    <surface xml:id="facs_dwz8V0" points="725,2011 725,2057 723,2077 1331,2077 1333,2059 1331,2020 771,2020 732,2011 725,2011"
+      corresp="#elem_dwz8V0">
+      <graphic url="../lignes/10_dwz8V0.png"/>
+    </surface>
+    <surface xml:id="facs_clAZwG" points="739,2104 739,2122 1326,2129 1328,2104 1328,2072 739,2070 739,2104"
+      corresp="#elem_clAZwG">
+      <graphic url="../lignes/10_clAZwG.png"/>
+    </surface>
+    <surface xml:id="facs_w53AgD" points="709,2149 709,2174 1322,2167 1322,2149 1322,2118 709,2118 709,2149"
+      corresp="#elem_w53AgD">
+      <graphic url="../lignes/10_w53AgD.png"/>
+    </surface>
+    <surface xml:id="facs_qRGTkg" points="660,2183 662,2195 662,2213 1335,2210 1337,2192 1331,2161 662,2163 660,2183"
+      corresp="#elem_qRGTkg">
+      <graphic url="../lignes/10_qRGTkg.png"/>
+    </surface>
+    <surface xml:id="facs_kQrKVS" points="664,2240 664,2261 1344,2258 1344,2240 1342,2203 664,2206 664,2240"
+      corresp="#elem_kQrKVS">
+      <graphic url="../lignes/10_kQrKVS.png"/>
+    </surface>
+    <surface xml:id="facs_uSLvvN" points="664,2281 662,2301 1328,2305 1331,2287 1330,2252 664,2247 664,2281"
+      corresp="#elem_uSLvvN">
+      <graphic url="../lignes/10_uSLvvN.png"/>
+    </surface>
+    <surface xml:id="facs_dl2oXS" points="662,2329 660,2347 1331,2353 1335,2333 1331,2292 662,2294 662,2329"
+      corresp="#elem_dl2oXS">
+      <graphic url="../lignes/10_dl2oXS.png"/>
+    </surface>
+    <surface xml:id="facs_exbOoo" points="658,2380 658,2401 1326,2399 1326,2380 1326,2345 658,2345 658,2380"
+      corresp="#elem_exbOoo">
+      <graphic url="../lignes/10_exbOoo.png"/>
+    </surface>
+    <surface xml:id="facs_iki0ZQ" points="658,2424 658,2444 1335,2446 1339,2419 1333,2389 656,2390 658,2424"
+      corresp="#elem_iki0ZQ">
+      <graphic url="../lignes/10_iki0ZQ.png"/>
+    </surface>
+    <surface xml:id="facs_eHCRGV"
+      points="660,2469 662,2514 710,2496 737,2505 739,2505 741,2505 743,2505 764,2496 839,2509 843,2509 845,2509 847,2509 848,2509 884,2498 905,2507 923,2514 925,2514 927,2516 1102,2516 1102,2514 1104,2514 1106,2514 1124,2500 1127,2498 1133,2500 1153,2507 1154,2507 1156,2507 1158,2507 1172,2498 1181,2494 1202,2498 1235,2503 1237,2503 1342,2492 1342,2469 1342,2437 660,2437 660,2469"
+      corresp="#elem_eHCRGV">
+      <graphic url="../lignes/10_eHCRGV.png"/>
+    </surface>
+    <surface xml:id="facs_oVxzuK"
+      points="2098,220 2080,220 2062,220 2044,220 2026,220 2008,218 1990,218 1972,218 1954,218 1936,218 1918,216 1901,216 1883,216 1865,216 1847,216 1829,214 1811,214 1793,214 1775,214 1766,214 1435,214 1437,250 1437,266 2103,272 2107,247 2101,220 2098,220"
+      corresp="#elem_oVxzuK">
+      <graphic url="../lignes/10_oVxzuK.png"/>
+    </surface>
+    <surface xml:id="facs_eRy6i5" points="1435,292 1433,309 2094,313 2098,295 2096,263 1435,259 1435,292" corresp="#elem_eRy6i5">
+      <graphic url="../lignes/10_eRy6i5.png"/>
+    </surface>
+    <surface xml:id="facs_bNN9FT" points="1439,340 1437,365 2112,367 2116,343 2114,309 1439,302 1439,340" corresp="#elem_bNN9FT">
+      <graphic url="../lignes/10_bNN9FT.png"/>
+    </surface>
+    <surface xml:id="facs_e06j4Y" points="1439,390 1437,406 2116,411 2119,395 2117,354 1439,352 1439,390" corresp="#elem_e06j4Y">
+      <graphic url="../lignes/10_e06j4Y.png"/>
+    </surface>
+    <surface xml:id="facs_nkC2RN" points="1441,436 1439,454 2123,458 2126,440 2125,399 1441,395 1441,436" corresp="#elem_nkC2RN">
+      <graphic url="../lignes/10_nkC2RN.png"/>
+    </surface>
+    <surface xml:id="facs_c7kQuF" points="1441,483 1441,501 2116,501 2116,483 2116,452 1441,452 1441,483" corresp="#elem_c7kQuF">
+      <graphic url="../lignes/10_c7kQuF.png"/>
+    </surface>
+    <surface xml:id="facs_azqq1v"
+      points="1417,527 1417,551 2110,549 2112,524 2108,494 1723,487 1721,487 1679,488 1555,496 1546,488 1546,487 1544,487 1543,487 1415,487 1417,527"
+      corresp="#elem_azqq1v">
+      <graphic url="../lignes/10_azqq1v.png"/>
+    </surface>
+    <surface xml:id="facs_kjtnek" points="1441,571 1441,594 2107,587 2107,571 2107,538 1441,538 1441,571" corresp="#elem_kjtnek">
+      <graphic url="../lignes/10_kjtnek.png"/>
+    </surface>
+    <surface xml:id="facs_nauH2Y" points="1444,617 1444,640 2117,637 2117,617 2116,580 1444,581 1444,617" corresp="#elem_nauH2Y">
+      <graphic url="../lignes/10_nauH2Y.png"/>
+    </surface>
+    <surface xml:id="facs_ocMhp7" points="2137,638 2135,626 1442,626 1444,665 1444,685 2140,682 2140,660 2138,658 2137,638"
+      corresp="#elem_ocMhp7">
+      <graphic url="../lignes/10_ocMhp7.png"/>
+    </surface>
+    <surface xml:id="facs_bcq2HJ" points="1448,710 1448,733 2126,722 2126,706 2121,669 1446,678 1448,710" corresp="#elem_bcq2HJ">
+      <graphic url="../lignes/10_bcq2HJ.png"/>
+    </surface>
+    <surface xml:id="facs_dnlhaS" points="1446,749 1444,771 2117,771 2119,753 2116,715 1446,717 1446,749" corresp="#elem_dnlhaS">
+      <graphic url="../lignes/10_dnlhaS.png"/>
+    </surface>
+    <surface xml:id="facs_iaNSvd" points="1448,796 1446,812 2110,815 2114,800 2112,767 1448,764 1448,796" corresp="#elem_iaNSvd">
+      <graphic url="../lignes/10_iaNSvd.png"/>
+    </surface>
+    <surface xml:id="facs_ciP2bp" points="1448,841 1448,857 2121,860 2123,837 2117,803 1446,806 1448,841" corresp="#elem_ciP2bp">
+      <graphic url="../lignes/10_ciP2bp.png"/>
+    </surface>
+    <surface xml:id="facs_dqGKFd" points="1448,886 1448,908 2117,908 2119,882 2116,851 1446,848 1448,886" corresp="#elem_dqGKFd">
+      <graphic url="../lignes/10_dqGKFd.png"/>
+    </surface>
+    <surface xml:id="facs_o2I0wv" points="1450,935 1450,953 2119,957 2121,935 2121,900 1450,895 1450,935" corresp="#elem_o2I0wv">
+      <graphic url="../lignes/10_o2I0wv.png"/>
+    </surface>
+    <surface xml:id="facs_oyPu5a" points="1450,979 1448,997 2112,1000 2116,982 2114,943 1450,943 1450,979" corresp="#elem_oyPu5a">
+      <graphic url="../lignes/10_oyPu5a.png"/>
+    </surface>
+    <surface xml:id="facs_phPBNa" points="1450,1027 1450,1048 2114,1045 2114,1027 2114,995 1450,995 1450,1027"
+      corresp="#elem_phPBNa">
+      <graphic url="../lignes/10_phPBNa.png"/>
+    </surface>
+    <surface xml:id="facs_zCBGZR" points="1450,1068 1450,1090 2112,1090 2114,1064 2108,1032 1448,1036 1450,1068"
+      corresp="#elem_zCBGZR">
+      <graphic url="../lignes/10_zCBGZR.png"/>
+    </surface>
+    <surface xml:id="facs_gBTBMq" points="1446,1111 1446,1134 2114,1130 2114,1111 2114,1079 1446,1079 1446,1111"
+      corresp="#elem_gBTBMq">
+      <graphic url="../lignes/10_gBTBMq.png"/>
+    </surface>
+    <surface xml:id="facs_bU0FwL" points="1448,1156 1448,1183 2123,1184 2125,1156 2125,1125 1448,1125 1448,1156"
+      corresp="#elem_bU0FwL">
+      <graphic url="../lignes/10_bU0FwL.png"/>
+    </surface>
+    <surface xml:id="facs_xFPdcp" points="1448,1204 1448,1227 2110,1223 2110,1204 2110,1172 1448,1170 1448,1204"
+      corresp="#elem_xFPdcp">
+      <graphic url="../lignes/10_xFPdcp.png"/>
+    </surface>
+    <surface xml:id="facs_b3KqVM" points="1448,1252 1448,1277 2116,1268 2117,1249 2114,1218 1446,1213 1448,1252"
+      corresp="#elem_b3KqVM">
+      <graphic url="../lignes/10_b3KqVM.png"/>
+    </surface>
+    <surface xml:id="facs_fBLuju" points="1450,1294 1448,1315 2117,1315 2119,1297 2117,1261 1450,1261 1450,1294"
+      corresp="#elem_fBLuju">
+      <graphic url="../lignes/10_fBLuju.png"/>
+    </surface>
+    <surface xml:id="facs_csJlfC" points="1448,1338 1448,1358 2114,1358 2114,1338 2114,1308 1448,1304 1448,1338"
+      corresp="#elem_csJlfC">
+      <graphic url="../lignes/10_csJlfC.png"/>
+    </surface>
+    <surface xml:id="facs_heSK2f" points="1448,1378 1446,1397 2128,1399 2131,1381 2130,1345 1448,1345 1448,1378"
+      corresp="#elem_heSK2f">
+      <graphic url="../lignes/10_heSK2f.png"/>
+    </surface>
+    <surface xml:id="facs_wCCf0t" points="1448,1426 1448,1447 2131,1440 2131,1422 2126,1390 1446,1394 1448,1426"
+      corresp="#elem_wCCf0t">
+      <graphic url="../lignes/10_wCCf0t.png"/>
+    </surface>
+    <surface xml:id="facs_aepdUu" points="1448,1471 1446,1490 2126,1490 2128,1476 2126,1435 1448,1435 1448,1471"
+      corresp="#elem_aepdUu">
+      <graphic url="../lignes/10_aepdUu.png"/>
+    </surface>
+    <surface xml:id="facs_uHuEmj" points="1450,1519 1450,1535 2116,1542 2117,1519 2117,1485 1450,1485 1450,1519"
+      corresp="#elem_uHuEmj">
+      <graphic url="../lignes/10_uHuEmj.png"/>
+    </surface>
+    <surface xml:id="facs_azDa1f" points="1450,1564 1450,1587 2116,1587 2116,1564 2116,1529 1450,1529 1450,1564"
+      corresp="#elem_azDa1f">
+      <graphic url="../lignes/10_azDa1f.png"/>
+    </surface>
+    <surface xml:id="facs_ea9pXG" points="1450,1605 1448,1626 2108,1626 2110,1609 2108,1573 1450,1571 1450,1605"
+      corresp="#elem_ea9pXG">
+      <graphic url="../lignes/10_ea9pXG.png"/>
+    </surface>
+    <surface xml:id="facs_aeQeEC" points="1450,1651 1450,1669 2116,1667 2117,1648 2112,1610 1448,1617 1450,1651"
+      corresp="#elem_aeQeEC">
+      <graphic url="../lignes/10_aeQeEC.png"/>
+    </surface>
+    <surface xml:id="facs_roOWq3" points="1448,1696 1448,1721 2121,1715 2123,1693 2117,1658 1446,1662 1448,1696"
+      corresp="#elem_roOWq3">
+      <graphic url="../lignes/10_roOWq3.png"/>
+    </surface>
+    <surface xml:id="facs_rv6mAz" points="1450,1741 1448,1757 2130,1760 2133,1744 2131,1709 1450,1705 1450,1741"
+      corresp="#elem_rv6mAz">
+      <graphic url="../lignes/10_rv6mAz.png"/>
+    </surface>
+    <surface xml:id="facs_e8j7jB" points="1450,1787 1450,1805 2128,1811 2130,1787 2130,1755 1450,1755 1450,1787"
+      corresp="#elem_e8j7jB">
+      <graphic url="../lignes/10_e8j7jB.png"/>
+    </surface>
+    <surface xml:id="facs_usWSVI" points="1450,1832 1450,1850 2117,1852 2121,1828 2116,1800 1448,1802 1450,1832"
+      corresp="#elem_usWSVI">
+      <graphic url="../lignes/10_usWSVI.png"/>
+    </surface>
+    <surface xml:id="facs_mWgt9d" points="1451,1875 1451,1898 2110,1898 2112,1871 2107,1843 1450,1844 1451,1875"
+      corresp="#elem_mWgt9d">
+      <graphic url="../lignes/10_mWgt9d.png"/>
+    </surface>
+    <surface xml:id="facs_n7eMU8"
+      points="1450,1916 1448,1939 2121,1937 2123,1919 2121,1889 1801,1889 1799,1888 1790,1879 1788,1879 1786,1879 1784,1879 1450,1884 1450,1916"
+      corresp="#elem_n7eMU8">
+      <graphic url="../lignes/10_n7eMU8.png"/>
+    </surface>
+    <surface xml:id="facs_wwHRca" points="1450,1968 1450,1984 2116,1982 2117,1963 2112,1930 1448,1934 1450,1968"
+      corresp="#elem_wwHRca">
+      <graphic url="../lignes/10_wwHRca.png"/>
+    </surface>
+    <surface xml:id="facs_rA7nKK" points="1417,2009 1415,2032 2108,2030 2110,2013 2108,1977 1417,1972 1417,2009"
+      corresp="#elem_rA7nKK">
+      <graphic url="../lignes/10_rA7nKK.png"/>
+    </surface>
+    <surface xml:id="facs_j9CZDH" points="1451,2061 1451,2083 2121,2081 2123,2057 2117,2018 1450,2025 1451,2061"
+      corresp="#elem_j9CZDH">
+      <graphic url="../lignes/10_j9CZDH.png"/>
+    </surface>
+    <surface xml:id="facs_kRT3H5" points="1451,2104 1451,2123 2126,2123 2126,2104 2126,2074 1451,2074 1451,2104"
+      corresp="#elem_kRT3H5">
+      <graphic url="../lignes/10_kRT3H5.png"/>
+    </surface>
+    <surface xml:id="facs_icA591"
+      points="1453,2150 1453,2168 2125,2174 2128,2147 2125,2116 1788,2108 1786,2108 1451,2116 1453,2150" corresp="#elem_icA591">
+      <graphic url="../lignes/10_icA591.png"/>
+    </surface>
+    <surface xml:id="facs_yJ3P23" points="1451,2195 1451,2213 2123,2213 2123,2195 2123,2165 1451,2165 1451,2195"
+      corresp="#elem_yJ3P23">
+      <graphic url="../lignes/10_yJ3P23.png"/>
+    </surface>
+    <surface xml:id="facs_dSWsh5" points="1451,2240 1451,2260 2131,2260 2131,2240 2130,2203 1451,2204 1451,2240"
+      corresp="#elem_dSWsh5">
+      <graphic url="../lignes/10_dSWsh5.png"/>
+    </surface>
+    <surface xml:id="facs_ioFyPo" points="1453,2285 1453,2303 2133,2299 2133,2281 2128,2251 1451,2252 1453,2285"
+      corresp="#elem_ioFyPo">
+      <graphic url="../lignes/10_ioFyPo.png"/>
+    </surface>
+    <surface xml:id="facs_k6KjxG" points="1451,2333 1451,2351 2128,2351 2128,2333 2126,2292 1451,2296 1451,2333"
+      corresp="#elem_k6KjxG">
+      <graphic url="../lignes/10_k6KjxG.png"/>
+    </surface>
+    <surface xml:id="facs_mkTIr2" points="1451,2378 1451,2398 2128,2398 2128,2378 2126,2338 1451,2344 1451,2378"
+      corresp="#elem_mkTIr2">
+      <graphic url="../lignes/10_mkTIr2.png"/>
+    </surface>
+    <surface xml:id="facs_rukqUK" points="1450,2424 1450,2447 2123,2438 2125,2417 2119,2383 1448,2392 1450,2424"
+      corresp="#elem_rukqUK">
+      <graphic url="../lignes/10_rukqUK.png"/>
+    </surface>
+    <surface xml:id="facs_jgqJvS" points="1451,2469 1451,2501 2125,2501 2126,2465 2121,2433 1450,2435 1451,2469"
+      corresp="#elem_jgqJvS">
+      <graphic url="../lignes/10_jgqJvS.png"/>
+    </surface>
+    <surface xml:id="facs_gEndJM"
+      points="2999,223 2982,223 2964,223 2946,223 2928,223 2910,221 2892,221 2875,221 2857,221 2839,221 2821,221 2817,221 2808,223 2806,223 2788,220 2785,220 2767,220 2749,220 2731,220 2713,220 2695,220 2677,218 2660,218 2642,218 2624,218 2620,218 2579,220 2556,216 2552,216 2534,216 2516,216 2509,216 2504,220 2502,220 2493,216 2480,216 2462,214 2445,214 2427,214 2409,214 2391,214 2378,214 2350,216 2338,223 2338,256 2336,272 2346,279 2348,279 2350,279 2606,283 2608,283 3007,277 3008,265 3008,227 3001,223 2999,223"
+      corresp="#elem_gEndJM">
+      <graphic url="../lignes/10_gEndJM.png"/>
+    </surface>
+    <surface xml:id="facs_swcE0I" points="2330,305 2329,327 3005,329 3008,313 3005,266 2330,266 2330,305" corresp="#elem_swcE0I">
+      <graphic url="../lignes/10_swcE0I.png"/>
+    </surface>
+    <surface xml:id="facs_h4V7ZS" points="2325,350 2323,372 2992,376 2996,359 2996,322 2325,314 2325,350" corresp="#elem_h4V7ZS">
+      <graphic url="../lignes/10_h4V7ZS.png"/>
+    </surface>
+    <surface xml:id="facs_p1KYrd" points="2312,399 2311,420 2990,425 2994,407 2994,372 2312,356 2312,399" corresp="#elem_p1KYrd">
+      <graphic url="../lignes/10_p1KYrd.png"/>
+    </surface>
+    <surface xml:id="facs_hCKkix"
+      points="2323,440 2321,458 2989,470 2992,454 2989,413 2910,420 2817,411 2797,409 2323,407 2323,440" corresp="#elem_hCKkix">
+      <graphic url="../lignes/10_hCKkix.png"/>
+    </surface>
+    <surface xml:id="facs_kbwxcb" points="2321,485 2320,506 3001,517 3005,501 3005,463 2321,452 2321,485" corresp="#elem_kbwxcb">
+      <graphic url="../lignes/10_kbwxcb.png"/>
+    </surface>
+    <surface xml:id="facs_qBn14Z" points="2320,526 2318,547 2982,558 2985,540 2983,509 2320,496 2320,526" corresp="#elem_qBn14Z">
+      <graphic url="../lignes/10_qBn14Z.png"/>
+    </surface>
+    <surface xml:id="facs_hlGYCk" points="2320,574 2318,596 2987,608 2990,587 2990,545 2320,540 2320,574" corresp="#elem_hlGYCk">
+      <graphic url="../lignes/10_hlGYCk.png"/>
+    </surface>
+    <surface xml:id="facs_tFMLAS" points="2318,619 2316,642 2989,651 2992,631 2990,598 2318,585 2318,619" corresp="#elem_tFMLAS">
+      <graphic url="../lignes/10_tFMLAS.png"/>
+    </surface>
+    <surface xml:id="facs_mum76G" points="2318,667 2316,691 2994,701 2998,680 2998,637 2318,629 2318,667" corresp="#elem_mum76G">
+      <graphic url="../lignes/10_mum76G.png"/>
+    </surface>
+    <surface xml:id="facs_rKea6M" points="2318,712 2316,728 2990,746 2994,726 2992,687 2318,678 2318,712" corresp="#elem_rKea6M">
+      <graphic url="../lignes/10_rKea6M.png"/>
+    </surface>
+    <surface xml:id="facs_gGNGNr" points="2316,757 2314,778 2985,785 2989,771 2987,733 2316,721 2316,757" corresp="#elem_gGNGNr">
+      <graphic url="../lignes/10_gGNGNr.png"/>
+    </surface>
+    <surface xml:id="facs_aF6F5p"
+      points="2314,800 2312,821 2985,828 2989,814 2985,773 2910,780 2869,771 2866,771 2864,771 2860,771 2819,778 2620,769 2464,762 2462,762 2314,766 2314,800"
+      corresp="#elem_aF6F5p">
+      <graphic url="../lignes/10_aF6F5p.png"/>
+    </surface>
+    <surface xml:id="facs_xFngwg" points="2316,842 2314,866 2999,875 3003,855 3001,815 2316,808 2316,842" corresp="#elem_xFngwg">
+      <graphic url="../lignes/10_xFngwg.png"/>
+    </surface>
+    <surface xml:id="facs_fFXeBg" points="2312,887 2311,910 2989,925 2992,902 2992,860 2312,850 2312,887" corresp="#elem_fFXeBg">
+      <graphic url="../lignes/10_fFXeBg.png"/>
+    </surface>
+    <surface xml:id="facs_zxwqZ1" points="2311,935 2309,952 2983,966 2987,950 2985,914 2311,900 2311,935" corresp="#elem_zxwqZ1">
+      <graphic url="../lignes/10_zxwqZ1.png"/>
+    </surface>
+    <surface xml:id="facs_nnb1nH" points="2314,982 2312,1002 2978,1014 2982,997 2980,962 2314,948 2314,982" corresp="#elem_nnb1nH">
+      <graphic url="../lignes/10_nnb1nH.png"/>
+    </surface>
+    <surface xml:id="facs_pxrsEw" points="2312,1028 2311,1048 2992,1055 2996,1039 2994,1000 2312,991 2312,1028"
+      corresp="#elem_pxrsEw">
+      <graphic url="../lignes/10_pxrsEw.png"/>
+    </surface>
+    <surface xml:id="facs_loFWlR" points="2314,1070 2312,1086 2971,1099 2975,1082 2973,1050 2314,1034 2314,1070"
+      corresp="#elem_loFWlR">
+      <graphic url="../lignes/10_loFWlR.png"/>
+    </surface>
+    <surface xml:id="facs_ohTAWI" points="2311,1116 2309,1138 2987,1147 2990,1130 2990,1097 2311,1082 2311,1116"
+      corresp="#elem_ohTAWI">
+      <graphic url="../lignes/10_ohTAWI.png"/>
+    </surface>
+    <surface xml:id="facs_aQRLT7" points="2307,1159 2305,1177 2985,1195 2989,1172 2987,1139 2307,1129 2307,1159"
+      corresp="#elem_aQRLT7">
+      <graphic url="../lignes/10_aQRLT7.png"/>
+    </surface>
+    <surface xml:id="facs_l4o2bL" points="2311,1206 2309,1222 2983,1236 2987,1220 2985,1184 2311,1165 2311,1206"
+      corresp="#elem_l4o2bL">
+      <graphic url="../lignes/10_l4o2bL.png"/>
+    </surface>
+    <surface xml:id="facs_lGEwsV" points="2311,1250 2309,1267 2982,1283 2985,1267 2983,1227 2311,1218 2311,1250"
+      corresp="#elem_lGEwsV">
+      <graphic url="../lignes/10_lGEwsV.png"/>
+    </surface>
+    <surface xml:id="facs_fE3NSO" points="2312,1294 2311,1315 2987,1329 2990,1308 2989,1270 2312,1263 2312,1294"
+      corresp="#elem_fE3NSO">
+      <graphic url="../lignes/10_fE3NSO.png"/>
+    </surface>
+    <surface xml:id="facs_dgaozn" points="2309,1338 2307,1356 2983,1369 2987,1352 2987,1322 2309,1303 2309,1338"
+      corresp="#elem_dgaozn">
+      <graphic url="../lignes/10_dgaozn.png"/>
+    </surface>
+    <surface xml:id="facs_uXCtbq" points="2307,1383 2305,1399 2985,1417 2989,1397 2989,1365 2307,1343 2307,1383"
+      corresp="#elem_uXCtbq">
+      <graphic url="../lignes/10_uXCtbq.png"/>
+    </surface>
+    <surface xml:id="facs_jbg9VD" points="2305,1426 2303,1451 2962,1460 2966,1442 2964,1409 2305,1394 2305,1426"
+      corresp="#elem_jbg9VD">
+      <graphic url="../lignes/10_jbg9VD.png"/>
+    </surface>
+    <surface xml:id="facs_fwvTOU" points="2305,1480 2303,1503 2989,1511 2992,1492 2990,1456 2305,1438 2305,1480"
+      corresp="#elem_fwvTOU">
+      <graphic url="../lignes/10_fwvTOU.png"/>
+    </surface>
+    <surface xml:id="facs_i6OrbE" points="2305,1522 2303,1546 2980,1555 2983,1538 2982,1501 2305,1489 2305,1522"
+      corresp="#elem_i6OrbE">
+      <graphic url="../lignes/10_i6OrbE.png"/>
+    </surface>
+    <surface xml:id="facs_wyfdlK" points="2303,1567 2302,1591 2977,1598 2980,1582 2978,1551 2303,1537 2303,1567"
+      corresp="#elem_wyfdlK">
+      <graphic url="../lignes/10_wyfdlK.png"/>
+    </surface>
+    <surface xml:id="facs_gnBWqY" points="2303,1610 2302,1635 2969,1644 2973,1626 2971,1596 2303,1580 2303,1610"
+      corresp="#elem_gnBWqY">
+      <graphic url="../lignes/10_gnBWqY.png"/>
+    </surface>
+    <surface xml:id="facs_tHlp7U" points="2305,1653 2303,1675 2975,1691 2978,1671 2978,1633 2305,1622 2305,1653"
+      corresp="#elem_tHlp7U">
+      <graphic url="../lignes/10_tHlp7U.png"/>
+    </surface>
+    <surface xml:id="facs_pUp6cz" points="2305,1700 2303,1717 2973,1741 2977,1717 2977,1684 2305,1662 2305,1700"
+      corresp="#elem_pUp6cz">
+      <graphic url="../lignes/10_pUp6cz.png"/>
+    </surface>
+    <surface xml:id="facs_xevxR4" points="2305,1746 2303,1771 2980,1784 2983,1766 2983,1730 2305,1705 2305,1746"
+      corresp="#elem_xevxR4">
+      <graphic url="../lignes/10_xevxR4.png"/>
+    </surface>
+    <surface xml:id="facs_sjuLrP" points="2305,1793 2303,1812 2977,1839 2980,1817 2980,1777 2305,1759 2305,1793"
+      corresp="#elem_sjuLrP">
+      <graphic url="../lignes/10_sjuLrP.png"/>
+    </surface>
+    <surface xml:id="facs_mjlqHB"
+      points="2305,1839 2303,1852 2982,1882 2985,1862 2983,1830 2728,1811 2726,1811 2681,1819 2674,1819 2662,1817 2570,1805 2568,1805 2525,1814 2522,1814 2518,1814 2488,1804 2486,1804 2484,1804 2305,1805 2305,1839"
+      corresp="#elem_mjlqHB">
+      <graphic url="../lignes/10_mjlqHB.png"/>
+    </surface>
+    <surface xml:id="facs_gpqpfj"
+      points="2947,1860 2920,1860 2893,1857 2867,1857 2840,1857 2813,1855 2786,1855 2759,1855 2732,1855 2705,1852 2678,1852 2652,1852 2625,1849 2598,1849 2571,1849 2545,1846 2518,1846 2491,1846 2464,1844 2437,1844 2410,1844 2383,1841 2357,1841 2330,1841 2303,1841 2303,1881 2300,1908 2966,1924 2971,1897 2969,1860 2947,1860"
+      corresp="#elem_gpqpfj">
+      <graphic url="../lignes/10_gpqpfj.png"/>
+    </surface>
+    <surface xml:id="facs_zaPW4h"
+      points="2300,1921 2298,1946 2968,1963 2971,1943 2969,1916 2914,1904 2912,1904 2860,1911 2801,1900 2300,1895 2300,1921"
+      corresp="#elem_zaPW4h">
+      <graphic url="../lignes/10_zaPW4h.png"/>
+    </surface>
+    <surface xml:id="facs_pNFIWE" points="2302,1970 2300,1993 3003,2013 3007,1990 3007,1948 2302,1936 2302,1970"
+      corresp="#elem_pNFIWE">
+      <graphic url="../lignes/10_pNFIWE.png"/>
+    </surface>
+    <surface xml:id="facs_wUnzQA" points="2302,2018 2300,2036 2962,2057 2966,2038 2966,2002 2302,1984 2302,2018"
+      corresp="#elem_wUnzQA">
+      <graphic url="../lignes/10_wUnzQA.png"/>
+    </surface>
+    <surface xml:id="facs_igKGPu" points="2300,2065 2298,2083 2975,2101 2978,2083 2978,2048 2300,2027 2300,2065"
+      corresp="#elem_igKGPu">
+      <graphic url="../lignes/10_igKGPu.png"/>
+    </surface>
+    <surface xml:id="facs_xk1Mx3" points="2298,2110 2296,2129 2966,2145 2969,2127 2969,2090 2298,2072 2298,2110"
+      corresp="#elem_xk1Mx3">
+      <graphic url="../lignes/10_xk1Mx3.png"/>
+    </surface>
+    <surface xml:id="facs_hh5iQw" points="2298,2150 2296,2170 2977,2195 2980,2174 2980,2143 2298,2113 2298,2150"
+      corresp="#elem_hh5iQw">
+      <graphic url="../lignes/10_hh5iQw.png"/>
+    </surface>
+    <surface xml:id="facs_enb6VG" points="2298,2197 2296,2218 2968,2236 2971,2218 2971,2188 2298,2165 2298,2197"
+      corresp="#elem_enb6VG">
+      <graphic url="../lignes/10_enb6VG.png"/>
+    </surface>
+    <surface xml:id="facs_nVmyDe" points="2298,2243 2296,2260 2969,2279 2973,2263 2971,2224 2851,2229 2298,2208 2298,2243"
+      corresp="#elem_nVmyDe">
+      <graphic url="../lignes/10_nVmyDe.png"/>
+    </surface>
+    <surface xml:id="facs_qfqGNB" points="2296,2287 2294,2305 2971,2331 2975,2310 2975,2272 2296,2247 2296,2287"
+      corresp="#elem_qfqGNB">
+      <graphic url="../lignes/10_qfqGNB.png"/>
+    </surface>
+    <surface xml:id="facs_keeyJg" points="2294,2335 2293,2356 2969,2378 2973,2360 2973,2324 2294,2301 2294,2335"
+      corresp="#elem_keeyJg">
+      <graphic url="../lignes/10_keeyJg.png"/>
+    </surface>
+    <surface xml:id="facs_zAx7f7" points="2296,2360 2294,2381 2293,2403 2950,2420 2953,2403 2953,2367 2305,2345 2296,2360"
+      corresp="#elem_zAx7f7">
+      <graphic url="../lignes/10_zAx7f7.png"/>
+    </surface>
+    <surface xml:id="facs_oFKUa0" points="2294,2420 2293,2446 2968,2473 2971,2447 2971,2412 2294,2392 2294,2420"
+      corresp="#elem_oFKUa0">
+      <graphic url="../lignes/10_oFKUa0.png"/>
+    </surface>
+    <surface xml:id="facs_m9bLvi"
+      points="2294,2465 2294,2509 2316,2501 2334,2510 2364,2526 2366,2526 2450,2530 2452,2531 2480,2531 2480,2530 2482,2530 2484,2530 2500,2517 2513,2509 2579,2509 2604,2521 2624,2530 2626,2530 2708,2540 2710,2540 2711,2540 2735,2533 2747,2542 2749,2542 2751,2542 2753,2542 2815,2530 2855,2522 2960,2535 2966,2489 2966,2462 2294,2435 2294,2465"
+      corresp="#elem_m9bLvi">
+      <graphic url="../lignes/10_m9bLvi.png"/>
+    </surface>
+    <surface xml:id="facs_py0Aju" points="3114,270 3112,288 3791,293 3794,277 3793,241 3114,234 3114,270" corresp="#elem_py0Aju">
+      <graphic url="../lignes/10_py0Aju.png"/>
+    </surface>
+    <surface xml:id="facs_mRP0KO" points="3112,314 3110,334 3791,345 3794,323 3793,292 3112,283 3112,314" corresp="#elem_mRP0KO">
+      <graphic url="../lignes/10_mRP0KO.png"/>
+    </surface>
+    <surface xml:id="facs_ua8fdL" points="3114,361 3112,385 3789,395 3793,370 3791,338 3114,323 3114,361" corresp="#elem_ua8fdL">
+      <graphic url="../lignes/10_ua8fdL.png"/>
+    </surface>
+    <surface xml:id="facs_jGA3iE" points="3112,407 3110,429 3802,438 3805,420 3805,385 3112,368 3112,407" corresp="#elem_jGA3iE">
+      <graphic url="../lignes/10_jGA3iE.png"/>
+    </surface>
+    <surface xml:id="facs_kd18rN" points="3110,454 3109,479 3784,485 3787,465 3785,433 3110,422 3110,454" corresp="#elem_kd18rN">
+      <graphic url="../lignes/10_kd18rN.png"/>
+    </surface>
+    <surface xml:id="facs_fz5No7" points="3112,503 3110,526 3778,529 3782,513 3780,479 3112,469 3112,503" corresp="#elem_fz5No7">
+      <graphic url="../lignes/10_fz5No7.png"/>
+    </surface>
+    <surface xml:id="facs_d4YRUD" points="3112,545 3110,562 3773,571 3776,554 3775,526 3112,517 3112,545" corresp="#elem_d4YRUD">
+      <graphic url="../lignes/10_d4YRUD.png"/>
+    </surface>
+    <surface xml:id="facs_jdqIsv" points="3110,592 3109,611 3791,617 3794,599 3794,558 3110,558 3110,592" corresp="#elem_jdqIsv">
+      <graphic url="../lignes/10_jdqIsv.png"/>
+    </surface>
+    <surface xml:id="facs_bCaJHP" points="3110,633 3109,653 3785,671 3789,649 3787,610 3110,599 3110,633" corresp="#elem_bCaJHP">
+      <graphic url="../lignes/10_bCaJHP.png"/>
+    </surface>
+    <surface xml:id="facs_dM40FH" points="3109,685 3107,703 3776,713 3780,698 3778,662 3109,649 3109,685" corresp="#elem_dM40FH">
+      <graphic url="../lignes/10_dM40FH.png"/>
+    </surface>
+    <surface xml:id="facs_whLDxp" points="3110,730 3109,751 3778,758 3782,742 3782,710 3110,698 3110,730" corresp="#elem_whLDxp">
+      <graphic url="../lignes/10_whLDxp.png"/>
+    </surface>
+    <surface xml:id="facs_dE2O9R" points="3109,775 3107,791 3773,802 3776,785 3775,748 3109,740 3109,775" corresp="#elem_dE2O9R">
+      <graphic url="../lignes/10_dE2O9R.png"/>
+    </surface>
+    <surface xml:id="facs_hS4N6T" points="3109,819 3107,835 3775,844 3778,828 3778,791 3109,785 3109,819" corresp="#elem_hS4N6T">
+      <graphic url="../lignes/10_hS4N6T.png"/>
+    </surface>
+    <surface xml:id="facs_c25hqd" points="3109,862 3107,878 3782,887 3785,871 3785,839 3109,830 3109,862" corresp="#elem_c25hqd">
+      <graphic url="../lignes/10_c25hqd.png"/>
+    </surface>
+    <surface xml:id="facs_ucI165"
+      points="3109,907 3107,923 3787,934 3791,917 3791,886 3669,875 3667,875 3594,882 3583,882 3581,882 3569,873 3567,873 3565,873 3563,873 3109,873 3109,907"
+      corresp="#elem_ucI165">
+      <graphic url="../lignes/10_ucI165.png"/>
+    </surface>
+    <surface xml:id="facs_cmyhGa"
+      points="3109,957 3107,977 3793,982 3796,964 3796,928 3247,914 3245,914 3232,914 3154,921 3109,912 3109,957"
+      corresp="#elem_cmyhGa">
+      <graphic url="../lignes/10_cmyhGa.png"/>
+    </surface>
+    <surface xml:id="facs_uMsU0P" points="3109,1004 3107,1027 3771,1030 3775,1014 3773,979 3109,964 3109,1004"
+      corresp="#elem_uMsU0P">
+      <graphic url="../lignes/10_uMsU0P.png"/>
+    </surface>
+    <surface xml:id="facs_d7HboW" points="3109,1048 3107,1064 3769,1077 3773,1057 3771,1018 3109,1016 3109,1048"
+      corresp="#elem_d7HboW">
+      <graphic url="../lignes/10_d7HboW.png"/>
+    </surface>
+    <surface xml:id="facs_aO0dq0" points="3109,1088 3107,1111 3773,1120 3776,1102 3775,1066 3109,1050 3109,1088"
+      corresp="#elem_aO0dq0">
+      <graphic url="../lignes/10_aO0dq0.png"/>
+    </surface>
+    <surface xml:id="facs_lCFrKl" points="3107,1136 3105,1154 3791,1165 3794,1148 3793,1114 3107,1099 3107,1136"
+      corresp="#elem_lCFrKl">
+      <graphic url="../lignes/10_lCFrKl.png"/>
+    </surface>
+    <surface xml:id="facs_hqWghu" points="3107,1181 3105,1199 3769,1211 3773,1190 3771,1157 3107,1141 3107,1181"
+      corresp="#elem_hqWghu">
+      <graphic url="../lignes/10_hqWghu.png"/>
+    </surface>
+    <surface xml:id="facs_jHb4gf" points="3109,1225 3107,1243 3773,1259 3776,1236 3776,1197 3109,1192 3109,1225"
+      corresp="#elem_jHb4gf">
+      <graphic url="../lignes/10_jHb4gf.png"/>
+    </surface>
+    <surface xml:id="facs_dBM0jS" points="3109,1268 3107,1292 3775,1301 3778,1283 3776,1247 3109,1236 3109,1268"
+      corresp="#elem_dBM0jS">
+      <graphic url="../lignes/10_dBM0jS.png"/>
+    </surface>
+    <surface xml:id="facs_qbes6W" points="3103,1313 3101,1336 3771,1343 3775,1327 3773,1295 3103,1281 3103,1313"
+      corresp="#elem_qbes6W">
+      <graphic url="../lignes/10_qbes6W.png"/>
+    </surface>
+    <surface xml:id="facs_tmc5lw" points="3103,1356 3101,1378 3773,1388 3776,1372 3776,1333 3103,1324 3103,1356"
+      corresp="#elem_tmc5lw">
+      <graphic url="../lignes/10_tmc5lw.png"/>
+    </surface>
+    <surface xml:id="facs_lkxbJn" points="3103,1401 3101,1417 3780,1433 3784,1415 3784,1376 3103,1367 3103,1401"
+      corresp="#elem_lkxbJn">
+      <graphic url="../lignes/10_lkxbJn.png"/>
+    </surface>
+    <surface xml:id="facs_cxp2WH" points="3107,1445 3105,1463 3758,1478 3762,1460 3760,1427 3107,1408 3107,1445"
+      corresp="#elem_cxp2WH">
+      <graphic url="../lignes/10_cxp2WH.png"/>
+    </surface>
+    <surface xml:id="facs_hPsGK7" points="3105,1492 3103,1517 3766,1524 3769,1507 3769,1476 3105,1458 3105,1492"
+      corresp="#elem_hPsGK7">
+      <graphic url="../lignes/10_hPsGK7.png"/>
+    </surface>
+    <surface xml:id="facs_axrvGq" points="3105,1542 3103,1560 3766,1571 3769,1551 3767,1517 3105,1508 3105,1542"
+      corresp="#elem_axrvGq">
+      <graphic url="../lignes/10_axrvGq.png"/>
+    </surface>
+    <surface xml:id="facs_hWhxfg" points="3103,1589 3101,1610 3766,1619 3769,1598 3767,1564 3103,1555 3103,1589"
+      corresp="#elem_hWhxfg">
+      <graphic url="../lignes/10_hWhxfg.png"/>
+    </surface>
+    <surface xml:id="facs_sj7iMn" points="3103,1631 3101,1648 3757,1660 3760,1644 3758,1610 3103,1600 3103,1631"
+      corresp="#elem_sj7iMn">
+      <graphic url="../lignes/10_sj7iMn.png"/>
+    </surface>
+    <surface xml:id="facs_c8Xr5v" points="3101,1678 3100,1696 3769,1711 3773,1687 3773,1655 3101,1640 3101,1678"
+      corresp="#elem_c8Xr5v">
+      <graphic url="../lignes/10_c8Xr5v.png"/>
+    </surface>
+    <surface xml:id="facs_hokV0F" points="3101,1721 3100,1741 3766,1753 3769,1735 3767,1703 3101,1682 3101,1721"
+      corresp="#elem_hokV0F">
+      <graphic url="../lignes/10_hokV0F.png"/>
+    </surface>
+    <surface xml:id="facs_zvw4DW"
+      points="3101,1769 3100,1791 3773,1807 3776,1786 3775,1742 3705,1750 3612,1739 3608,1739 3607,1739 3601,1739 3505,1744 3474,1735 3470,1735 3469,1735 3101,1730 3101,1769"
+      corresp="#elem_zvw4DW">
+      <graphic url="../lignes/10_zvw4DW.png"/>
+    </surface>
+    <surface xml:id="facs_sNMzdI" points="3101,1817 3100,1834 3776,1846 3780,1830 3778,1798 3101,1786 3101,1817"
+      corresp="#elem_sNMzdI">
+      <graphic url="../lignes/10_sNMzdI.png"/>
+    </surface>
+    <surface xml:id="facs_pFGkuJ" points="3100,1861 3098,1882 3760,1891 3764,1877 3762,1839 3100,1821 3100,1861"
+      corresp="#elem_pFGkuJ">
+      <graphic url="../lignes/10_pFGkuJ.png"/>
+    </surface>
+    <surface xml:id="facs_gOglAp" points="3100,1902 3098,1923 3748,1936 3751,1916 3749,1886 3100,1871 3100,1902"
+      corresp="#elem_gOglAp">
+      <graphic url="../lignes/10_gOglAp.png"/>
+    </surface>
+    <surface xml:id="facs_k1lXFQ" points="3100,1946 3098,1964 3764,1977 3767,1959 3766,1927 3100,1914 3100,1946"
+      corresp="#elem_k1lXFQ">
+      <graphic url="../lignes/10_k1lXFQ.png"/>
+    </surface>
+    <surface xml:id="facs_kzsnSP" points="3094,1991 3092,2008 3767,2023 3771,2006 3771,1970 3094,1957 3094,1991"
+      corresp="#elem_kzsnSP">
+      <graphic url="../lignes/10_kzsnSP.png"/>
+    </surface>
+    <surface xml:id="facs_sPpKAb" points="3096,2041 3094,2066 3762,2074 3766,2048 3764,2016 3096,2006 3096,2041"
+      corresp="#elem_sPpKAb">
+      <graphic url="../lignes/10_sPpKAb.png"/>
+    </surface>
+    <surface xml:id="facs_cH3lrH" points="3096,2086 3094,2104 3758,2116 3762,2101 3760,2061 3096,2050 3096,2086"
+      corresp="#elem_cH3lrH">
+      <graphic url="../lignes/10_cH3lrH.png"/>
+    </surface>
+    <surface xml:id="facs_bcVEjQ" points="3096,2132 3094,2149 3755,2161 3758,2145 3757,2113 3096,2097 3096,2132"
+      corresp="#elem_bcVEjQ">
+      <graphic url="../lignes/10_bcVEjQ.png"/>
+    </surface>
+    <surface xml:id="facs_c8gznx" points="3092,2179 3091,2201 3749,2208 3753,2192 3751,2152 3092,2145 3092,2179"
+      corresp="#elem_c8gznx">
+      <graphic url="../lignes/10_c8gznx.png"/>
+    </surface>
+    <surface xml:id="facs_ug6HCN" points="3089,2225 3088,2245 3758,2252 3762,2238 3760,2203 3089,2190 3089,2225"
+      corresp="#elem_ug6HCN">
+      <graphic url="../lignes/10_ug6HCN.png"/>
+    </surface>
+    <surface xml:id="facs_jSp3Jq"
+      points="3092,2269 3091,2290 3558,2294 3574,2296 3674,2306 3676,2306 3749,2297 3751,2281 3749,2249 3092,2236 3092,2269"
+      corresp="#elem_jSp3Jq">
+      <graphic url="../lignes/10_jSp3Jq.png"/>
+    </surface>
+    <surface xml:id="facs_yFKe3G"
+      points="3086,2317 3084,2340 3757,2347 3760,2327 3758,2296 3508,2281 3506,2281 3425,2288 3415,2279 3413,2279 3411,2279 3409,2279 3086,2283 3086,2317"
+      corresp="#elem_yFKe3G">
+      <graphic url="../lignes/10_yFKe3G.png"/>
+    </surface>
+    <surface xml:id="facs_jlC6Pz" points="3092,2363 3091,2385 3744,2392 3748,2376 3746,2344 3092,2326 3092,2363"
+      corresp="#elem_jlC6Pz">
+      <graphic url="../lignes/10_jlC6Pz.png"/>
+    </surface>
+    <surface xml:id="facs_fBX5Le"
+      points="3091,2408 3089,2426 3748,2440 3751,2426 3751,2392 3527,2378 3526,2378 3524,2378 3510,2385 3508,2385 3490,2376 3488,2376 3487,2376 3440,2383 3434,2383 3429,2383 3399,2374 3397,2374 3091,2374 3091,2408"
+      corresp="#elem_fBX5Le">
+      <graphic url="../lignes/10_fBX5Le.png"/>
+    </surface>
+    <surface xml:id="facs_l8OZj7"
+      points="3091,2453 3089,2474 3744,2485 3748,2467 3746,2437 3680,2437 3678,2435 3669,2426 3667,2426 3665,2426 3664,2426 3598,2433 3583,2433 3563,2431 3467,2422 3465,2422 3433,2429 3429,2429 3427,2429 3420,2422 3420,2420 3418,2420 3416,2420 3415,2420 3091,2420 3091,2453"
+      corresp="#elem_l8OZj7">
+      <graphic url="../lignes/10_l8OZj7.png"/>
+    </surface>
+    <surface xml:id="facs_lKpuSn"
+      points="3091,2498 3089,2530 3316,2546 3318,2546 3381,2537 3390,2535 3397,2537 3433,2548 3434,2548 3436,2548 3508,2539 3510,2539 3512,2539 3542,2551 3544,2551 3545,2551 3769,2542 3771,2514 3769,2478 3091,2465 3091,2498"
+      corresp="#elem_lKpuSn">
+      <graphic url="../lignes/10_lKpuSn.png"/>
+    </surface>
+    <surface xml:id="facs_hySaiT"
+      points="1300,236 1282,236 1264,235 1246,235 1228,235 1210,235 1192,235 1174,233 1156,233 1138,233 1120,233 1102,233 1083,231 1065,231 1047,231 1029,231 1011,231 993,229 975,229 957,229 939,229 921,229 902,227 884,227 866,227 848,227 830,227 812,226 794,226 776,226 758,226 740,226 724,224 648,224 632,235 632,256 630,272 1307,280 1311,263 1307,236 1300,236"
+      corresp="#elem_hySaiT">
+      <graphic url="../lignes/11_hySaiT.png"/>
+    </surface>
+    <surface xml:id="facs_eKxMsl" points="630,301 628,326 1293,328 1297,310 1295,271 630,267 630,301" corresp="#elem_eKxMsl">
+      <graphic url="../lignes/11_eKxMsl.png"/>
+    </surface>
+    <surface xml:id="facs_qPdwJK" points="630,350 628,371 1315,377 1318,361 1318,319 630,314 630,350" corresp="#elem_qPdwJK">
+      <graphic url="../lignes/11_qPdwJK.png"/>
+    </surface>
+    <surface xml:id="facs_fD59iI" points="632,395 630,415 1297,430 1300,406 1298,371 632,361 632,395" corresp="#elem_fD59iI">
+      <graphic url="../lignes/11_fD59iI.png"/>
+    </surface>
+    <surface xml:id="facs_ude3sx" points="634,444 632,462 1309,473 1313,455 1313,413 634,408 634,444" corresp="#elem_ude3sx">
+      <graphic url="../lignes/11_ude3sx.png"/>
+    </surface>
+    <surface xml:id="facs_gsqJh1" points="634,491 632,507 1307,520 1311,498 1309,464 634,457 634,491" corresp="#elem_gsqJh1">
+      <graphic url="../lignes/11_gsqJh1.png"/>
+    </surface>
+    <surface xml:id="facs_dJusfq" points="635,532 634,548 1297,561 1300,545 1298,512 635,500 635,532" corresp="#elem_dJusfq">
+      <graphic url="../lignes/11_dJusfq.png"/>
+    </surface>
+    <surface xml:id="facs_uwrohu" points="634,577 632,597 1306,608 1309,588 1309,550 634,539 634,577" corresp="#elem_uwrohu">
+      <graphic url="../lignes/11_uwrohu.png"/>
+    </surface>
+    <surface xml:id="facs_nXGxbz" points="632,626 630,644 1309,650 1313,634 1313,599 632,592 632,626" corresp="#elem_nXGxbz">
+      <graphic url="../lignes/11_nXGxbz.png"/>
+    </surface>
+    <surface xml:id="facs_p6Emqt" points="632,671 630,693 1311,702 1315,680 1313,644 632,635 632,671" corresp="#elem_p6Emqt">
+      <graphic url="../lignes/11_p6Emqt.png"/>
+    </surface>
+    <surface xml:id="facs_oqYiTy" points="634,715 632,734 1302,743 1306,727 1304,693 634,679 634,715" corresp="#elem_oqYiTy">
+      <graphic url="../lignes/11_oqYiTy.png"/>
+    </surface>
+    <surface xml:id="facs_fxXMYF" points="634,761 632,778 1306,785 1309,767 1307,734 634,729 634,761" corresp="#elem_fxXMYF">
+      <graphic url="../lignes/11_fxXMYF.png"/>
+    </surface>
+    <surface xml:id="facs_wA4rY4" points="635,801 634,820 1311,829 1315,808 1315,772 635,769 635,801" corresp="#elem_wA4rY4">
+      <graphic url="../lignes/11_wA4rY4.png"/>
+    </surface>
+    <surface xml:id="facs_zydZjC" points="635,843 634,859 1302,875 1306,854 1304,816 635,812 635,843" corresp="#elem_zydZjC">
+      <graphic url="../lignes/11_zydZjC.png"/>
+    </surface>
+    <surface xml:id="facs_r60Pp1" points="635,888 634,906 1293,917 1297,899 1295,866 635,856 635,888" corresp="#elem_r60Pp1">
+      <graphic url="../lignes/11_r60Pp1.png"/>
+    </surface>
+    <surface xml:id="facs_t1gCxt" points="634,933 632,956 1300,971 1304,946 1304,910 634,901 634,933" corresp="#elem_t1gCxt">
+      <graphic url="../lignes/11_t1gCxt.png"/>
+    </surface>
+    <surface xml:id="facs_kLWfB8" points="634,983 632,1009 1306,1014 1309,996 1309,962 634,949 634,983" corresp="#elem_kLWfB8">
+      <graphic url="../lignes/11_kLWfB8.png"/>
+    </surface>
+    <surface xml:id="facs_rbrdS1" points="634,1029 632,1045 1307,1063 1311,1042 1309,1007 634,996 634,1029" corresp="#elem_rbrdS1">
+      <graphic url="../lignes/11_rbrdS1.png"/>
+    </surface>
+    <surface xml:id="facs_bK54BR" points="635,1069 634,1087 1304,1105 1307,1083 1306,1052 635,1038 635,1069"
+      corresp="#elem_bK54BR">
+      <graphic url="../lignes/11_bK54BR.png"/>
+    </surface>
+    <surface xml:id="facs_iuLcXg" points="634,1115 632,1130 1297,1148 1300,1126 1298,1092 634,1078 634,1115"
+      corresp="#elem_iuLcXg">
+      <graphic url="../lignes/11_iuLcXg.png"/>
+    </surface>
+    <surface xml:id="facs_kls5Ag" points="634,1160 632,1184 1293,1191 1297,1169 1295,1135 634,1121 634,1160"
+      corresp="#elem_kls5Ag">
+      <graphic url="../lignes/11_kls5Ag.png"/>
+    </surface>
+    <surface xml:id="facs_qMuA9i" points="632,1209 630,1226 1306,1244 1309,1220 1307,1184 632,1173 632,1209"
+      corresp="#elem_qMuA9i">
+      <graphic url="../lignes/11_qMuA9i.png"/>
+    </surface>
+    <surface xml:id="facs_rB30Wt" points="634,1255 632,1273 1289,1282 1293,1264 1291,1229 634,1214 634,1255"
+      corresp="#elem_rB30Wt">
+      <graphic url="../lignes/11_rB30Wt.png"/>
+    </surface>
+    <surface xml:id="facs_xHTe1i" points="632,1298 630,1316 1300,1325 1304,1307 1304,1269 632,1267 632,1298"
+      corresp="#elem_xHTe1i">
+      <graphic url="../lignes/11_xHTe1i.png"/>
+    </surface>
+    <surface xml:id="facs_bAC1EA" points="634,1345 632,1363 1298,1368 1302,1350 1300,1314 634,1312 634,1345"
+      corresp="#elem_bAC1EA">
+      <graphic url="../lignes/11_bAC1EA.png"/>
+    </surface>
+    <surface xml:id="facs_ogzRGL" points="634,1384 632,1408 1298,1413 1302,1393 1300,1361 634,1348 634,1384"
+      corresp="#elem_ogzRGL">
+      <graphic url="../lignes/11_ogzRGL.png"/>
+    </surface>
+    <surface xml:id="facs_qpZrGV" points="634,1428 632,1446 1293,1457 1297,1439 1295,1400 634,1395 634,1428"
+      corresp="#elem_qpZrGV">
+      <graphic url="../lignes/11_qpZrGV.png"/>
+    </surface>
+    <surface xml:id="facs_hy2JK5" points="634,1473 632,1493 1304,1504 1307,1484 1307,1444 634,1441 634,1473"
+      corresp="#elem_hy2JK5">
+      <graphic url="../lignes/11_hy2JK5.png"/>
+    </surface>
+    <surface xml:id="facs_dkpP1s" points="634,1522 632,1540 1309,1550 1313,1532 1311,1493 634,1489 634,1522"
+      corresp="#elem_dkpP1s">
+      <graphic url="../lignes/11_dkpP1s.png"/>
+    </surface>
+    <surface xml:id="facs_lY5plF" points="634,1572 632,1595 1291,1595 1293,1579 1291,1543 634,1531 634,1572"
+      corresp="#elem_lY5plF">
+      <graphic url="../lignes/11_lY5plF.png"/>
+    </surface>
+    <surface xml:id="facs_a6kaY5" points="634,1615 632,1636 1293,1639 1297,1621 1295,1588 634,1583 634,1615"
+      corresp="#elem_a6kaY5">
+      <graphic url="../lignes/11_a6kaY5.png"/>
+    </surface>
+    <surface xml:id="facs_pNjaPn" points="630,1657 628,1675 1293,1681 1297,1663 1295,1632 630,1627 630,1657"
+      corresp="#elem_pNjaPn">
+      <graphic url="../lignes/11_pNjaPn.png"/>
+    </surface>
+    <surface xml:id="facs_cdpgrY" points="630,1702 628,1718 1300,1729 1304,1711 1302,1672 630,1670 630,1702"
+      corresp="#elem_cdpgrY">
+      <graphic url="../lignes/11_cdpgrY.png"/>
+    </surface>
+    <surface xml:id="facs_xK4GO1" points="628,1751 626,1778 1295,1778 1297,1756 1295,1724 628,1718 628,1751"
+      corresp="#elem_xK4GO1">
+      <graphic url="../lignes/11_xK4GO1.png"/>
+    </surface>
+    <surface xml:id="facs_aZHKDq" points="630,1796 628,1814 1288,1826 1291,1803 1289,1772 630,1765 630,1796"
+      corresp="#elem_aZHKDq">
+      <graphic url="../lignes/11_aZHKDq.png"/>
+    </surface>
+    <surface xml:id="facs_o58xbs" points="630,1845 628,1859 1304,1865 1307,1850 1306,1817 630,1808 630,1845"
+      corresp="#elem_o58xbs">
+      <graphic url="../lignes/11_o58xbs.png"/>
+    </surface>
+    <surface xml:id="facs_ez1GIj" points="630,1886 628,1908 1309,1919 1313,1897 1313,1865 630,1854 630,1886"
+      corresp="#elem_ez1GIj">
+      <graphic url="../lignes/11_ez1GIj.png"/>
+    </surface>
+    <surface xml:id="facs_ujL1hg" points="630,1933 628,1955 1295,1955 1297,1939 1295,1906 630,1901 630,1933"
+      corresp="#elem_ujL1hg">
+      <graphic url="../lignes/11_ujL1hg.png"/>
+    </surface>
+    <surface xml:id="facs_myjuBs" points="630,1976 628,2000 1293,2002 1297,1984 1295,1951 630,1944 630,1976"
+      corresp="#elem_myjuBs">
+      <graphic url="../lignes/11_myjuBs.png"/>
+    </surface>
+    <surface xml:id="facs_xwUNC2" points="628,2021 626,2045 1291,2049 1295,2031 1293,1994 628,1987 628,2021"
+      corresp="#elem_xwUNC2">
+      <graphic url="../lignes/11_xwUNC2.png"/>
+    </surface>
+    <surface xml:id="facs_fpVMgh" points="628,2067 626,2087 1300,2096 1304,2078 1302,2045 628,2035 628,2067"
+      corresp="#elem_fpVMgh">
+      <graphic url="../lignes/11_fpVMgh.png"/>
+    </surface>
+    <surface xml:id="facs_bdGWte" points="630,2114 628,2135 1293,2139 1297,2123 1295,2089 630,2074 630,2114"
+      corresp="#elem_bdGWte">
+      <graphic url="../lignes/11_bdGWte.png"/>
+    </surface>
+    <surface xml:id="facs_bzYbzK" points="632,2162 630,2179 1309,2193 1313,2170 1311,2135 632,2123 632,2162"
+      corresp="#elem_bzYbzK">
+      <graphic url="../lignes/11_bzYbzK.png"/>
+    </surface>
+    <surface xml:id="facs_hDJilE" points="632,2207 630,2224 704,2235 1298,2239 1302,2213 1300,2177 632,2175 632,2207"
+      corresp="#elem_hDJilE">
+      <graphic url="../lignes/11_hDJilE.png"/>
+    </surface>
+    <surface xml:id="facs_aMpia6" points="628,2251 626,2271 1293,2285 1297,2264 1295,2229 628,2216 628,2251"
+      corresp="#elem_aMpia6">
+      <graphic url="../lignes/11_aMpia6.png"/>
+    </surface>
+    <surface xml:id="facs_ywDaYp" points="630,2300 628,2314 1297,2330 1300,2309 1300,2275 630,2267 630,2300"
+      corresp="#elem_ywDaYp">
+      <graphic url="../lignes/11_ywDaYp.png"/>
+    </surface>
+    <surface xml:id="facs_ix0OaU" points="632,2345 630,2366 1289,2377 1293,2352 1291,2321 632,2314 632,2345"
+      corresp="#elem_ix0OaU">
+      <graphic url="../lignes/11_ix0OaU.png"/>
+    </surface>
+    <surface xml:id="facs_nk6tmb" points="632,2390 630,2406 1286,2417 1289,2401 1288,2368 632,2357 632,2390"
+      corresp="#elem_nk6tmb">
+      <graphic url="../lignes/11_nk6tmb.png"/>
+    </surface>
+    <surface xml:id="facs_j9183t" points="632,2431 630,2448 1288,2461 1291,2444 1291,2410 632,2393 632,2431"
+      corresp="#elem_j9183t">
+      <graphic url="../lignes/11_j9183t.png"/>
+    </surface>
+    <surface xml:id="facs_yi4PR0"
+      points="634,2477 632,2525 657,2531 659,2531 661,2531 662,2531 670,2525 684,2516 698,2525 709,2531 711,2531 713,2531 740,2525 789,2513 812,2524 834,2534 836,2534 838,2536 890,2536 890,2534 892,2534 925,2524 941,2516 948,2524 961,2534 961,2536 962,2536 964,2536 966,2536 968,2536 1000,2527 1011,2536 1011,2538 1013,2538 1015,2538 1100,2540 1102,2540 1103,2540 1105,2540 1129,2520 1136,2516 1291,2518 1295,2488 1293,2448 634,2437 634,2477"
+      corresp="#elem_yi4PR0">
+      <graphic url="../lignes/11_yi4PR0.png"/>
+    </surface>
+    <surface xml:id="facs_mDronQ"
+      points="2102,245 2084,238 2066,233 2048,231 2030,231 2012,231 1993,231 1975,231 1957,231 1939,231 1921,231 1903,231 1885,233 1867,233 1849,233 1831,233 1813,233 1795,233 1777,233 1759,233 1741,233 1723,233 1705,235 1687,235 1669,235 1651,235 1632,235 1614,235 1596,235 1578,235 1560,235 1542,236 1524,236 1506,236 1488,236 1470,236 1451,236 1433,236 1415,236 1415,265 1414,280 2104,294 2107,272 2105,245 2102,245"
+      corresp="#elem_mDronQ">
+      <graphic url="../lignes/11_mDronQ.png"/>
+    </surface>
+    <surface xml:id="facs_dZ1K9E" points="1417,310 1415,332 2089,337 2093,314 2091,281 1417,278 1417,310" corresp="#elem_dZ1K9E">
+      <graphic url="../lignes/11_dZ1K9E.png"/>
+    </surface>
+    <surface xml:id="facs_urPoLw" points="1417,359 1415,377 2089,388 2093,364 2091,328 1417,323 1417,359" corresp="#elem_urPoLw">
+      <graphic url="../lignes/11_urPoLw.png"/>
+    </surface>
+    <surface xml:id="facs_w02dtB" points="1417,410 1415,426 2098,439 2102,415 2102,371 1417,371 1417,410" corresp="#elem_w02dtB">
+      <graphic url="../lignes/11_w02dtB.png"/>
+    </surface>
+    <surface xml:id="facs_buAe6g" points="1417,457 1415,478 2093,480 2096,464 2095,424 1417,421 1417,457" corresp="#elem_buAe6g">
+      <graphic url="../lignes/11_buAe6g.png"/>
+    </surface>
+    <surface xml:id="facs_uy0OyN" points="1417,505 1417,523 2100,521 2100,505 2098,466 1417,466 1417,505" corresp="#elem_uy0OyN">
+      <graphic url="../lignes/11_uy0OyN.png"/>
+    </surface>
+    <surface xml:id="facs_cRTxQh" points="1421,547 1419,568 2096,568 2098,550 2096,516 1421,512 1421,547" corresp="#elem_cRTxQh">
+      <graphic url="../lignes/11_cRTxQh.png"/>
+    </surface>
+    <surface xml:id="facs_dOrFh1" points="1421,592 1421,616 2105,616 2105,592 2104,554 1421,556 1421,592" corresp="#elem_dOrFh1">
+      <graphic url="../lignes/11_dOrFh1.png"/>
+    </surface>
+    <surface xml:id="facs_esP3H9" points="1419,634 1417,650 2095,661 2098,641 2096,604 1419,597 1419,634" corresp="#elem_esP3H9">
+      <graphic url="../lignes/11_esP3H9.png"/>
+    </surface>
+    <surface xml:id="facs_p8Bzun" points="1417,679 1414,701 1679,706 1685,682 1682,639 1417,636 1417,679" corresp="#elem_p8Bzun">
+      <graphic url="../lignes/11_p8Bzun.png"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div n="1" type="livre">
+        <div n="1.2" type="partie">
+          <div n="1" type="chapitre">
+            <pb n="" facs="../input_files/10.jpg"/>
+            <head n="LzTDRrxe"><lb break="?" facs="#facs_qoFXL9" n="vPYbT6" xml:id="elem_qoFXL9"/>Capitulum primum. quõ diuidunt᷑<lb break="?"
+                facs="#facs_jHYZwk" n="ku4eoj" xml:id="elem_jHYZwk"/>potencie amime. ⁊ in quib potenciis<lb break="?"
+                facs="#facs_nt6lWB" n="u7bGN7" xml:id="elem_nt6lWB"/>habent esse uirtutes.</head>
+            <p n="jjnPUymf"><lb break="?" facs="#facs_dwz8V0" n="vbnpFs" xml:id="elem_dwz8V0"/>POstꝙͣ auxiliãte d̾o ꝯpleuimꝰ pͥmã partẽ<lb
+                break="?" facs="#facs_clAZwG" n="iHGqez" xml:id="elem_clAZwG"/>hꝰ pͥmi libri. inq̊ agit᷑ d̾ regĩe sui.
+                ostẽdẽ<lb break="?" facs="#facs_w53AgD" n="vf3VQr" xml:id="elem_w53AgD"/>tes inqͦ reges ⁊ pͥncipes suã
+                felicitate<lb break="?" facs="#facs_qRGTkg" n="pk5JDb" xml:id="elem_qRGTkg"/>ponẽ debeãt. qr ñ decet eos suũ
+              finẽ pone̾ ĩ di<lb break="?" facs="#facs_kQrKVS" n="gjdwPa" xml:id="elem_kQrKVS"/>uiciis. nͨ in ciuili potẽtia.
+              nͨ in aliqb talib.<lb break="?" facs="#facs_uSLvvN" n="llQYBR" xml:id="elem_uSLvvN"/>s oĩb his ut s̃ pleniꝰ
+              ꝓbat᷑. debẽt uti tamꝙͣ<lb break="?" facs="#facs_dl2oXS" n="t7xQc8" xml:id="elem_dl2oXS"/>organis ad felicitatẽ.
+              suã ãt felicitatẽ pon̾<lb break="?" facs="#facs_exbOoo" n="zYoK1H" xml:id="elem_exbOoo"/>debẽt ĩ actu
+              prudẽtie. ꝓut tał act᷑ ẽ imꝑat᷑ a<lb break="?" facs="#facs_iki0ZQ" n="shg8W8" xml:id="elem_iki0ZQ"/>caritate. Naz
+              tũc reges hñt felicitatez suo<lb break="?" facs="#facs_eHCRGV" n="aNjwsp" xml:id="elem_eHCRGV"/>statui debitã ⁊
+              ꝯdigna. qñ instigãte d̾i diłc<cb break="?"/><lb break="?" facs="#facs_oVxzuK" n="dJk8da" xml:id="elem_oVxzuK"
+              />tione ẜ prudẽtia regnat̾iaz gentẽ s̃ ꝯmissam<lb break="?" facs="#facs_eRy6i5" n="zpenLl" xml:id="elem_eRy6i5"
+              />ẜm legẽ ⁊ rõez sc̃e ⁊ iuste regũt. pͥnt̾r gͥ regu<lb break="?" facs="#facs_bNN9FT" n="foiZSC"
+                xml:id="elem_bNN9FT"/>felicitas poñda ẽ in ip̃o d̾o. ⁊ ex cogͥtõe ⁊ diłctõe<lb break="?" facs="#facs_e06j4Y"
+                n="wSlbjT" xml:id="elem_e06j4Y"/>eĩ suũ studiũ ⁊ suã uittã ad ħ ordinare debeãt<lb break="?"
+                facs="#facs_nkC2RN" n="sAmU7K" xml:id="elem_nkC2RN"/>ut coͦscẽtes ⁊ diligẽtes deũ. tamꝙͣ ueĩ mĩstͥ<lb
+                break="?" facs="#facs_c7kQuF" n="zDdbvF" xml:id="elem_c7kQuF"/>ei᷒. ẜm ordinẽ rõis dirigãt ppłm sͥ ꝯmissũ.<lb
+                break="?" facs="#facs_azqq1v" n="m3QrXM" xml:id="elem_azqq1v"/>¶His g̾ ita pactis ⁊ hostenso inquo debeant<lb
+                break="?" facs="#facs_kjtnek" n="bjb6ct" xml:id="elem_kjtnek"/>ponẽ suũ finẽ. ẜ ordinẽ suꝑi᷒ p̾tertatũ.
+                re<lb break="?" facs="#facs_nauH2Y" n="ajNJHi" xml:id="elem_nauH2Y"/>stat ostende̾ qb u̾tutib pole̾ debẽt. ¶
+                Uirtu<lb break="?" facs="#facs_ocMhp7" n="qtWxIO" xml:id="elem_ocMhp7"/>tes aũt sũt qdã ornat᷑ ⁊ q̃dã
+              ꝑfectões aĩe. oꝑtet<lb break="?" facs="#facs_bcq2HJ" n="vUIsyl" xml:id="elem_bcq2HJ"/>gͥ pri᷒ ostende̾ quot sũt
+              potẽtie. ⁊ in qb potẽtuᷤ<lb break="?" facs="#facs_dnlhaS" n="wx2djm" xml:id="elem_dnlhaS"/>hñt eẽ u̾tutes.
+              ꝯñtᷤ aũt manifestabr᷑ quomͦ<lb break="?" facs="#facs_iaNSvd" n="dxhbWC" xml:id="elem_iaNSvd"/>u̾tutes sũt
+              distĩguẽde. p̾ea u̾o hostendemꝰ qͦt<lb break="?" facs="#facs_ciP2bp" n="lkFyjo" xml:id="elem_ciP2bp"/>sũt nu̾o
+              hi᷒ u̾tutes ⁊ q̃ illaꝵ. S̃t pricipales ⁊ q̃<lb break="?" facs="#facs_dqGKFd" n="pmEcii" xml:id="elem_dqGKFd"/>ẜai̾e.
+              De ind̾ aũt declarabit᷑ singłr q̃ sit una<lb break="?" facs="#facs_o2I0wv" n="eO3EIB" xml:id="elem_o2I0wv"/>q̃
+              illaꝵ u̾tutũ. ⁊ quõ decet reges ⁊ prĩcipes<lb break="?" facs="#facs_oyPu5a" n="kBh8ft" xml:id="elem_oyPu5a"
+              />tales u̾tutes hrͣe. ¶Potẽtie aũt aĩe sic distĩ<lb break="?" facs="#facs_phPBNa" n="vS73bp"
+                xml:id="elem_phPBNa"/>gui possut. qr q̃dã sũt nͣales. q̃dã cogͥtĩe sen<lb break="?" facs="#facs_zCBGZR"
+                n="zl7wXL" xml:id="elem_zCBGZR"/>sitiue. q̃dam appetitĩe. ⁊ q̃dã intellectĩe. nͣles<lb break="?"
+                facs="#facs_gBTBMq" n="poJLx7" xml:id="elem_gBTBMq"/>potẽtie sũt ille in quo coĩcamꝰ cũ uegetabilib.<lb
+                break="?" facs="#facs_bU0FwL" n="joV9eL" xml:id="elem_bU0FwL"/>⁊ plãtis. ut pot̾etia nutͥtiua. augm̃tatĩa.
+                gnaͣ<lb break="?" facs="#facs_xFPdcp" n="c2Wccf" xml:id="elem_xFPdcp"/>tiua ⁊ talia q̃ ⁊ ip̃is arborib ꝯpetũt.
+                potẽtie<lb break="?" facs="#facs_b3KqVM" n="xy3THQ" xml:id="elem_b3KqVM"/>u̾o cogͥtie sensitie. sũt uisus.
+              gust᷒. tact᷒. e ta<lb break="?" facs="#facs_fBLuju" n="tXyfxh" xml:id="elem_fBLuju"/>lia in qb coĩcamꝰ cu
+              bruttis. appetitĩe uoͣ di<lb break="?" facs="#facs_csJlfC" n="tq29Wk" xml:id="elem_csJlfC"/>stingũt᷑. nã ꝗda
+              appetit᷒ est in hoĩe in quo ñ<lb break="?" facs="#facs_heSK2f" n="cYLHei" xml:id="elem_heSK2f"/>coĩcat cu
+              bruttis. ut appetitꝰ intlłctũ seq̃ne.<lb break="?" facs="#facs_wCCf0t" n="a50VkF" xml:id="elem_wCCf0t"/>qdã uõ in
+              qͦ coĩcat cũ eis ut appetit̾ seq̃ns. sẜͫ.<lb break="?" facs="#facs_aepdUu" n="zHy35d" xml:id="elem_aepdUu"
+              />appetit᷒ aũt seq̃ns senũ. p̃t noĩari sẽsualitaᷤ.<lb break="?" facs="#facs_uHuEmj" n="hdDJ0Q"
+                xml:id="elem_uHuEmj"/>sequẽs intłłctu noĩet᷑ uolũtas. ẜ ꝙ̃ modũ<lb break="?" facs="#facs_azDa1f" n="sS5u3v"
+                xml:id="elem_azDa1f"/>loq̃ndi brutta hñt sensualitatẽ ⁊ appetitũ<lb break="?" facs="#facs_ea9pXG" n="yU6HVz"
+                xml:id="elem_ea9pXG"/>sensituiũ. s ñ hñt uolũtatẽ .i. appetitũ in<lb break="?" facs="#facs_aeQeEC"
+                n="wdovyA" xml:id="elem_aeQeEC"/>tellectiuũ. u̾tutes gͦ d̾ qb loꝗ intẽdimꝰ. ꝙs̃<lb break="?"
+                facs="#facs_roOWq3" n="iqz1Ay" xml:id="elem_roOWq3"/>ꝗdã hĩtus laudabiles. uł erũt ĩ potẽtus naͣ<lb break="?"
+                facs="#facs_rv6mAz" n="htNVmK" xml:id="elem_rv6mAz"/>lib. uł imp̃ĩs sensib. uł ĩ appetitu sẽsitiuo.<lb
+                break="?" facs="#facs_e8j7jB" n="iHAAJR" xml:id="elem_e8j7jB"/>uł ĩ appetitu ĩtlłectiuo. uł ĩ ip̃o intłłu. uł
+              ĩ his<lb break="?" facs="#facs_usWSVI" n="ak9PrZ" xml:id="elem_usWSVI"/>õib. uł in a li ꝗb eorũ. In potẽtus
+              ãt nͣlib<lb break="?" facs="#facs_mWgt9d" n="r0RwaC" xml:id="elem_mWgt9d"/>cẽ ñ possũt ꝙ tͥpłr p. ¶Primo qr ex
+                naͣlib<lb break="?" facs="#facs_n7eMU8" n="zLamtg" xml:id="elem_n7eMU8"/>nͨ laudam᷑ nͣ uitupam᷑. nlłs dr̃ e̾ bonꝰ
+              hõ ex eo<lb break="?" facs="#facs_wwHRca" n="iTClkI" xml:id="elem_wwHRca"/>ꝙ hãt bonã digestĩaz.uł bonã
+                augm̃tatĩa.<lb break="?" facs="#facs_rA7nKK" n="p3SpoW" xml:id="elem_rA7nKK"/>¶Scd̾o ĩ talib ñ hñt ẽẽ hiꝰ
+              u̾tutes. qr u̾t̾ ẽ ad<lb break="?" facs="#facs_j9CZDH" n="zUbeXt" xml:id="elem_j9CZDH"/>ẜ rõe. ut p̃t ꝓbai̾ ẜo
+              etħ. poͤ ã nͣles ẜ qd̾ hiꝰ<lb break="?" facs="#facs_kRT3H5" n="g5zqFp" xml:id="elem_kRT3H5"/>sũt roĩ ñ
+              obediũt. Na suĩ ꝗs rõnet᷑ suĩ uelit<lb break="?" facs="#facs_icA591" n="uW6rwf" xml:id="elem_icA591"/>ñ ꝑp ħ
+              ꝑse loq̃ndo poͤ nͣles uaĩant᷑ ĩ actib su<lb break="?" facs="#facs_yJ3P23" n="jYDMmH" xml:id="elem_yJ3P23"/>is. s
+              semꝑ f moduz sͥ poͤ suas actões effici<lb break="?" facs="#facs_dSWsh5" n="yCZhAw" xml:id="elem_dSWsh5"/>unt.
+              ¶Tercio in talib potẽtus ñ sũt hĩt̾ ⁊ u̾tu<lb break="?" facs="#facs_ioFyPo" n="hYN5nf" xml:id="elem_ioFyPo"
+              />tes. qr hĩt᷒ sũt ad det̾minand̾ poͣᷤ. ut bñ uł ma<lb break="?" facs="#facs_k6KjxG" n="w8tPjs"
+                xml:id="elem_k6KjxG"/>le agãt.ut ꝑhĩt̾ uiciosos det̾mĩat᷑ poͣ ad agẽ<lb break="?" facs="#facs_mkTIr2"
+                n="bIaeP7" xml:id="elem_mkTIr2"/>du male. ꝓ ũtuosos ad agend̾ uñ. Cu gͥ nã<lb break="?" facs="#facs_rukqUK"
+                n="tXFs35" xml:id="elem_rukqUK"/>sit det̾mĩata ad unũ ⁊ poͤ nͣales sufficient̾ de<lb break="?"
+                facs="#facs_jgqJvS" n="dXSsQE" xml:id="elem_jgqJvS"/>t̾minẽt᷑ ad agend̾ ex nã sua. s eas nͨ sumus<pb n="10"
+                facs="../input_files/10.jpg"/><lb break="?" facs="#facs_gEndJM" n="r0FwwI" xml:id="elem_gEndJM"/>utuosi nͨ
+              uiciosi. ut ħ d̾ uicio ⁊ u̾tute loqm᷑.<lb break="?" facs="#facs_swcE0I" n="zpiqZD" xml:id="elem_swcE0I"/>qr̃ in eis
+              hĩ u̾tutes eẽ ñ p᷒sũt. ¶Hiis gͥ tͥb rõi<lb break="?" facs="#facs_h4V7ZS" n="yY84nh" xml:id="elem_h4V7ZS"/>in ꝑ
+              qͣs ꝓbatuz ẽ u̾tutos ñ ẽẽ ĩ potẽtue naͣlib.<lb break="?" facs="#facs_p1KYrd" n="nLZezq" xml:id="elem_p1KYrd"
+              />ꝓbai̾ pot̃ eas ẽẽ in cogͥtõe sensitĩa. sui inpotẽ<lb break="?" facs="#facs_hCKkix" n="r0losJ"
+                xml:id="elem_hCKkix"/>ciis sensitĩs. Na sic̃ ñ laudam᷑ nͨ uitupam̃ ex<lb break="?" facs="#facs_kbwxcb"
+                n="zTaEJq" xml:id="elem_kbwxcb"/>potẽciis naͣlib.sic ñ laudam᷑ nͨ uituꝑam̃ ex sẽ<lb break="?"
+                facs="#facs_qBn14Z" n="absFSf" xml:id="elem_qBn14Z"/>sib. Naz sic̾ nlłs laudat᷑ taꝙͣ bonꝰ hõ. exeo qd̾<lb
+                break="?" facs="#facs_hlGYCk" n="yvfdCf" xml:id="elem_hlGYCk"/>bñ degei̾t uł bñ crescit. sic ñ laudat᷑ ex eo
+                qd̾<lb break="?" facs="#facs_tFMLAS" n="fGz1nA" xml:id="elem_tFMLAS"/>acute uidet. uł subtiłr audit. nͥ forte hoc
+                eẽt<lb break="?" facs="#facs_mum76G" n="qlW0bi" xml:id="elem_mum76G"/>paccñs. ut siꝗs ex suꝑflua comesticẽ. uł
+                ex<lb break="?" facs="#facs_rKea6M" n="eXy181" xml:id="elem_rKea6M"/>nimia potatõe ĩ curriss obtalmiã ocłorũ
+                ne<lb break="?" facs="#facs_gGNGNr" n="owqLUC" xml:id="elem_gGNGNr"/>bñ uide̾t. uł debilitatẽ stomaci ne bñ
+                dig̾ẽt.<lb break="?" facs="#facs_aF6F5p" n="rrdDNB" xml:id="elem_aF6F5p"/>in c̃paret᷑ ille ñ qr male digei̾t. uł
+              qr ñ clare ⁊<lb break="?" facs="#facs_xFngwg" n="i2ac75" xml:id="elem_xFngwg"/>uidet qr bñ digere̾ ꝑse loq̃ndo ñ
+              ẽ inpotãte hoĩs<lb break="?" facs="#facs_fFXeBg" n="gHZUfm" xml:id="elem_fFXeBg"/>s incͥpat᷑ ex nimio potu. uł
+              ex suꝑfluo cibo. nã<lb break="?" facs="#facs_zxwqZ1" n="thVNwj" xml:id="elem_zxwqZ1"/>erat in potãte sua. ⁊ posse
+              uti potu ⁊ cibo mode<lb break="?" facs="#facs_nnb1nH" n="gpWm7D" xml:id="elem_nnb1nH"/>rate. ¶Scd̾o insensib ñ ẽ
+              poñda u̾t᷒ morał.<lb break="?" facs="#facs_pxrsEw" n="aVlvYp" xml:id="elem_pxrsEw"/>qr sic̃ poͤ naͣles ñ obediũt
+              rõi. qr ẜz regła roĩs<lb break="?" facs="#facs_loFWlR" n="mn63Ug" xml:id="elem_loFWlR"/>nlłs mag̃ uł minꝰ auget᷑.
+              uł mãg ⁊ minꝰ di<lb break="?" facs="#facs_ohTAWI" n="f5xlFF" xml:id="elem_ohTAWI"/>gei̾t. sic nͨ ssͫ obediũt roĩ.
+              ñ eͥ ẽ in potãte hoĩs<lb break="?" facs="#facs_aQRLT7" n="duDcPZ" xml:id="elem_aQRLT7"/>uite̾ clariꝰ uł nmꝰ
+              clare. q̃r si uirt᷒ morał est<lb break="?" facs="#facs_l4o2bL" n="qhQxZR" xml:id="elem_l4o2bL"/>aͥd ẜ roẽ hi᷒
+              uirt᷒ insensib poĩ ñ d̾z. ¶Tert̃o<lb break="?" facs="#facs_lGEwsV" n="fmhulz" xml:id="elem_lGEwsV"/>intalib ñ
+              ẽ morał uirt᷒.qr sic poͤ naͣles. suffi<lb break="?" facs="#facs_fE3NSO" n="meWXcZ" xml:id="elem_fE3NSO"/>cient̾
+              det̾iant᷑ ad actões suas ꝑ suã nã. sic ⁊ ssꝰ.<lb break="?" facs="#facs_dgaozn" n="z5kqCc" xml:id="elem_dgaozn"
+              />Na sic̃ ignis tm̃ calefac̃.ꝙͫ pot̃ caleface̾. ꝑp ꝙ<lb break="?" facs="#facs_uXCtbq" n="tQDL82"
+                xml:id="elem_uXCtbq"/>det̾iatꝰ in accõe sua. nͨ laudat᷑ nͨ uitupat᷑. nͨ est<lb break="?" facs="#facs_jbg9VD"
+                n="vjHRMh" xml:id="elem_jbg9VD"/>ĩ eo u̾t̾ morał. Sic qr poͣ digestia dig̾it tm̃<lb break="?" facs="#facs_fwvTOU"
+                n="biy42Y" xml:id="elem_fwvTOU"/>ꝙͫ pot̃ digerẽ. ⁊ ocłs uidet t̾m ꝙͫ pt̃ uide̾. ĩ eis<lb break="?"
+                facs="#facs_i6OrbE" n="bePP04" xml:id="elem_i6OrbE"/>uirt̾ morał ẽẽ ñ p̃t. Na ꝑ u̾tutẽ moralẽ det̾<lb
+                break="?" facs="#facs_wyfdlK" n="vx7H6H" xml:id="elem_wyfdlK"/>minat᷑ poͣ adagend̾. ħ aũt sufficient̾ det̾mi<lb
+                break="?" facs="#facs_gnBWqY" n="cXRgnI" xml:id="elem_gnBWqY"/>nãt᷑ ad actões ꝓpͥas pna̾. nõ gͥ indigẽt
+                u̾tu<lb break="?" facs="#facs_tHlp7U" n="n5Wiou" xml:id="elem_tHlp7U"/>te morali. Si gͥ ĩ potẽcus nͣlib nͨ
+              insensib ẽ<lb break="?" facs="#facs_pUp6cz" n="oe9IYd" xml:id="elem_pUp6cz"/>u̾t̾ morał. cu p̾t̾ potẽcias nãles
+              ⁊ ss᷒. nõ sit<lb break="?" facs="#facs_xevxR4" n="bEWLhp" xml:id="elem_xevxR4"/>nͥ intelłctꝰ ⁊ appetit̾ intłłctiũ
+              ⁊ sensitiũ. oꝑt<lb break="?" facs="#facs_sjuLrP" n="cH181p" xml:id="elem_sjuLrP"/>ĩ talib ẽẽ u̾tutes morales.
+            </p>
+          </div>
+          <div n="1.2.2" type="chapitre">
+            <head>Capłm.ii. quõ<lb break="?" facs="#facs_mjlqHB" n="k9ubYr" xml:id="elem_mjlqHB"/>distĩgunt᷑.⁊ quõ se hũt ĩ
+              ĩtlłctu ⁊ apetitͧ.</head>
+            <p><lb break="?" facs="#facs_gpqpfj" n="sB3dmK" xml:id="elem_gpqpfj"/>Stenso q nͦ in potẽcus naͣlib n᷑ insensib<lb
+                break="?" facs="#facs_zaPW4h" n="urxZj1" xml:id="elem_zaPW4h"/>hñt cẽ u̾tutes. restat ostende̾ quo distin<lb
+                break="?" facs="#facs_pNFIWE" n="quxEiq" xml:id="elem_pNFIWE"/>gunt᷑ u̾tutes. ⁊ quõ in ĩtlłu ⁊ appetitu
+                existũt.<lb break="?" facs="#facs_wUnzQA" n="lltqVq" xml:id="elem_wUnzQA"/>Distinguend̾ ẽ gͦ d̾ ũtutib ⁊ de
+              hi᷒ potẽcus.<lb break="?" facs="#facs_igKGPu" n="ccM7OW" xml:id="elem_igKGPu"/>Na u̾tutũ q̃da sũt ĩtlłctuales.
+              q̃dã mo̾ales.<lb break="?" facs="#facs_xk1Mx3" n="fMyi7g" xml:id="elem_xk1Mx3"/>q̃dam medie intlłctuales ⁊ morales.
+                u̾tuteᷤᷤ<lb break="?" facs="#facs_hh5iQw" n="gO5S5b" xml:id="elem_hh5iQw"/>ĩtlłctuales diꝯt᷑ ille q̃ sũt ĩ
+              intlłu specłatiuo.<lb break="?" facs="#facs_enb6VG" n="nyfSmY" xml:id="elem_enb6VG"/>cuiꝰ scĩe sũt specłatĩe. ut
+              nͣał. pħia.geometͥͥa.<lb break="?" facs="#facs_nVmyDe" n="gBMEK1" xml:id="elem_nVmyDe"/>methͣ. ⁊cet̾a talia. ũtutes
+              u̾o sunpͣ moraleᷤ<lb break="?" facs="#facs_qfqGNB" n="e4czzO" xml:id="elem_qfqGNB"/>sũt ille q̃ sũt ĩ appetitu.
+              siũ appetit᷒ ille sit sẽ<lb break="?" facs="#facs_keeyJg" n="u0YQ38" xml:id="elem_keeyJg"/>sitiũ. siue
+              ĩtłłctiũ. ciũ ãt sũt iustĩa. teꝑãtia.<lb break="?" facs="#facs_zAx7f7" n="woTuCa" xml:id="elem_zAx7f7"
+              />fortitudo. mãsuetudo. ⁊ c̃ talia d̾ qb sumꝰ<lb break="?" facs="#facs_oFKUa0" n="mHHHWl" xml:id="elem_oFKUa0"
+              />singłr tͣctat᷑i. u̾tutes a medie int̾ ĩtlłctua<lb break="?" facs="#facs_m9bLvi" n="vlIg88" xml:id="elem_m9bLvi"
+              />les ⁊ morales sũt u̾tutes existẽtes ĩ intlłu<fw type="titre_courant"/><cb break="?"/><lb break="?"
+                facs="#facs_py0Aju" n="nClrnJ" xml:id="elem_py0Aju"/>pͣtico. ut prudẽcia ⁊ alie u̾tutes s̾ anexe. prudẽ<lb
+                break="?" facs="#facs_mRP0KO" n="t1cqI0" xml:id="elem_mRP0KO"/>cia aũt s com̃tatorẽ. sr̾ libꝰ etħ media ẽ int̾
+                u̾<lb break="?" facs="#facs_ua8fdL" n="wyzHMz" xml:id="elem_ua8fdL"/>tutes morales ⁊ ĩtlłctuales. ꝯputa̾ tñ p̃t
+              cũ u̾<lb break="?" facs="#facs_jGA3iE" n="r0uRZv" xml:id="elem_jGA3iE"/>tutib moralib. Naz prudẽtia ñ ĩ est n̾
+              hoĩb boĩs.<lb break="?" facs="#facs_kd18rN" n="vBno78" xml:id="elem_kd18rN"/>sic̃ nͨ u̾tutes morales. p̃ui e̾
+              hoĩes ⁊ si possent<lb break="?" facs="#facs_fz5No7" n="uoolGr" xml:id="elem_fz5No7"/>ce sciẽtes hastuti
+              ⁊u̾sipelles. prudẽtes tñ ẽẽ<lb break="?" facs="#facs_d4YRUD" n="i35kiv" xml:id="elem_d4YRUD"/>ñ p̾sũt.ut suo
+              loco patebit. ind̾ ẽ gͦ ꝙ dr̾.ui.<lb break="?" facs="#facs_jdqIsv" n="dQaLR7" xml:id="elem_jdqIsv"/>etħ. ꝙ impͥo.
+              ẽ prudẽte ẽẽ ñ entẽ bonũ. ¶Di<lb break="?" facs="#facs_bCaJHP" n="dLj8Ou" xml:id="elem_bCaJHP"/>missis gͦ
+              u̾tutib intlłctualib ⁊ dimissis sci<lb break="?" facs="#facs_dM40FH" n="bjW5wL" xml:id="elem_dM40FH"/>enciis
+              specłatĩs. d̾ prudẽtia ⁊d̾ u̾tutib mora<lb break="?" facs="#facs_whLDxp" n="nEgV8F" xml:id="elem_whLDxp"/>lib ẽ
+              tͣctand̾. Suscepimꝰ eͥ ut płies dixi᷒ pñs<lb break="?" facs="#facs_dE2O9R" n="g8YFHy" xml:id="elem_dE2O9R"/>op᷒ ut
+              ñ sciam᷑. s ut boni fiamꝰ. q̃ boĩtas sine<lb break="?" facs="#facs_hS4N6T" n="lht9mv" xml:id="elem_hS4N6T"
+              />prudẽtia ⁊ũtutib moralib nob ĩ eẽ ñ pot̃.<lb break="?" facs="#facs_c25hqd" n="hQEUFn" xml:id="elem_c25hqd"
+              />has aũt u̾tutes in ĩtlłu ⁊ appetitu ẽẽ ꝯt̃igit.<lb break="?" facs="#facs_ucI165" n="nD2Uxv"
+                xml:id="elem_ucI165"/>dẽm ẽ eͥ u̾tutẽ eẽ aͥd s roe. gͦ eẽ poͣ rõalez.in<lb break="?" facs="#facs_cmyhGa"
+                n="gODKEX" xml:id="elem_cmyhGa"/>q̃ ponit᷑ eẽ u̾t᷑. rõale a d̾ ẽ ẜm pħm ꝑ eẽntiã<lb break="?"
+                facs="#facs_uMsU0P" n="jKvBgB" xml:id="elem_uMsU0P"/>⁊ ꝑ ꝑticipatõe. ĩtellectꝰ ãt ẽ rõał ꝑ eẽncia.<lb
+                break="?" facs="#facs_d7HboW" n="e0wOTo" xml:id="elem_d7HboW"/>appetit̾ nõ ꝑ ꝑticipatõe. Na appetit̾ l nõ<lb
+                break="?" facs="#facs_aO0dq0" n="j2qi7Q" xml:id="elem_aO0dq0"/>sit ip̃e intellectꝰ uł ip̃a rõ eenciałr. dr̃ tñ
+                ꝑti<lb break="?" facs="#facs_lCFrKl" n="nM7xq5" xml:id="elem_lCFrKl"/>cipare rõe. qr ẽ appetitꝰ nat᷒ rõi
+              obedire. potẽcie<lb break="?" facs="#facs_hqWghu" n="wIDqpM" xml:id="elem_hqWghu"/>aũt nãles ⁊ ssͫ. ñ sũt
+              nͣales ꝑ ẽena. qr ñ ipa<lb break="?" facs="#facs_jHb4gf" n="hCpsXJ" xml:id="elem_jHb4gf"/>rõ sũt. nͨ rõe
+              ꝑticipãt. qr ꝑse ⁊ ẜ ꝙ hi᷒ ñ obedi<lb break="?" facs="#facs_dBM0jS" n="chBU3g" xml:id="elem_dBM0jS"/>unt roĩ.
+              Igͣ insensib ⁊ ĩ potẽcus naͣlib.ut sͣ<lb break="?" facs="#facs_qbes6W" n="uJZTLx" xml:id="elem_qbes6W"/>dicebat᷑
+              ñ hñt ẽẽ u̾tutes. s solu ẽẽ hñt ĩ ĩtlłu<lb break="?" facs="#facs_tmc5lw" n="xFzeyr" xml:id="elem_tmc5lw"
+              />⁊ appetitu. In noƀ aũt dup̽ ẽ appetit᷑ intlłctiu᷒<lb break="?" facs="#facs_lkxbJn" n="uRDz1Y"
+                xml:id="elem_lkxbJn"/>⁊ sensitiuꝰ. Na si c̃ appetit᷒ nͣał seqt᷑ formã naͣ<lb break="?" facs="#facs_cxp2WH"
+                n="ih1GMw" xml:id="elem_cxp2WH"/>łr adeptã. sic appetitꝰ cogͥtiũ seqt᷑ formã ꝑ<lb break="?" facs="#facs_hPsGK7"
+                n="u1YmLi" xml:id="elem_hPsGK7"/>cogͥtõez app̾hensa. Sic ẽ gͣuia ex eo ꝙ hñt for<lb break="?"
+                facs="#facs_axrvGq" n="cs5RyK" xml:id="elem_axrvGq"/>ma gͣuis seqt᷑ ⟦ca⟧ q̃da nͣał inclinatõ. ⁊ ꝙdã<lb
+                break="?" facs="#facs_hWhxfg" n="mjmgNa" xml:id="elem_hWhxfg"/>appetitꝰ nͣał. ut nͣałr desiderẽt ẽẽ deorsũ.
+              sic i<lb break="?" facs="#facs_sj7iMn" n="u3gENV" xml:id="elem_sj7iMn"/>hñtia cogͥtõe. ꝓut hñt in se ip̃is
+              formã app̃<lb break="?" facs="#facs_c8Xr5v" n="vIqLm6" xml:id="elem_c8Xr5v"/>hensa seqr᷑ q̃dam inclinatõ ⁊ ꝗdã
+                appetitus<lb break="?" facs="#facs_hokV0F" n="zy1Oti" xml:id="elem_hokV0F"/>s formã illa. ꝑꝑ ꝙ sic̃ ẽ in noƀ
+              dup̽ cogͥtio.<lb break="?" facs="#facs_zvw4DW" n="c32Tcy" xml:id="elem_zvw4DW"/>sensitĩa ⁊ ĩtlłctiua. sic ẽ in
+              noƀ d̾ appetitus.<lb break="?" facs="#facs_sNMzdI" n="cOvQws" xml:id="elem_sNMzdI"/>uidelz sensitiũ ꝗ seqt᷑ formã
+              app̾hensa ꝑ ssͫ<lb break="?" facs="#facs_pFGkuJ" n="aLisJu" xml:id="elem_pFGkuJ"/>⁊ intlłctiuꝰ ꝗ seqr᷑ formã
+              app̾hensa ꝑ ĩcłłm.<lb break="?" facs="#facs_gOglAp" n="nyRMha" xml:id="elem_gOglAp"/>appetit᷑ a sensitiũ dup̽ ẽ.
+              Na cu ałla sint sͣ<lb break="?" facs="#facs_k1lXFQ" n="hLa78n" xml:id="elem_k1lXFQ"/>inaĩata. si nã ełis ⁊ reb
+              inaĩatis dedit dupli<lb break="?" facs="#facs_kzsnSP" n="caxO1s" xml:id="elem_kzsnSP"/>cẽ potẽcia. unã ꝑ ꝙͣ
+              tendũt in ꝓpͥa ꝗetẽ.⁊ aliã<lb break="?" facs="#facs_sPpKAb" n="iy9r5q" xml:id="elem_sPpKAb"/>ꝑ ꝙͣ resistũt ⁊
+              agũt in ꝓhibẽtia ⁊ in ꝯiͣa. młto<lb break="?" facs="#facs_cH3lrH" n="jRmmuY" xml:id="elem_cH3lrH"/>mag̃ duplicẽ
+              potẽcia nã dedit ipĩs aĩalibus.<lb break="?" facs="#facs_bcVEjQ" n="kqYM9N" xml:id="elem_bcVEjQ"/>q̃ sũt
+              ꝑfectora aluis. uidem᷒ eͥ ꝙ ignis ẽ nͣłr<lb break="?" facs="#facs_c8gznx" n="q2QHmF" xml:id="elem_c8gznx"/>calidus
+              ⁊ leuis. ꝑ leuitatẽ ãt tendit in locũ<lb break="?" facs="#facs_ug6HCN" n="hXrI50" xml:id="elem_ug6HCN"/>ꝓpͥuz ⁊
+              inꝗetem s̾ ꝯucĩentẽ. ꝑ casitate aũt<lb break="?" facs="#facs_jSp3Jq" n="xTKnd0" xml:id="elem_jSp3Jq"/>ag in
+              eẽia. ne gͦ ignis ꝑ q̃cũq ꝯĩa agẽtia ĩ<lb break="?" facs="#facs_yFKe3G" n="bauO8p" xml:id="elem_yFKe3G"
+              />pediret᷑ ne ꝑ leuitatẽ in ꝓpͥo loco qescẽ dedit<lb break="?" facs="#facs_jlC6Pz" n="zVilas" xml:id="elem_jlC6Pz"
+              />ei nã potẽtia calefact̃ia. ut ꝑ cã resistẽt. ⁊<lb break="?" facs="#facs_fBX5Le" n="m7BJ2T"
+                xml:id="elem_fBX5Le"/>agẽt in eẽia coruptĩa. Si gͥ igni ⁊ reb ĩ aĩa<lb break="?" facs="#facs_l8OZj7"
+                n="vKMQuM" xml:id="elem_l8OZj7"/>tis naͣ dedit duplicẽ potẽcia. unã ꝑ ꝙͣ adi<lb break="?" facs="#facs_lKpuSn"
+                n="iJQdvb" xml:id="elem_lKpuSn"/>pis ꝯt᷑ ꝓp̾am ꝗecem. ⁊ aliã ꝑ ꝙͣ agũt ĩ ꝓhibẽcia<pb n=""
+                facs="../input_files/11.jpg"/><add type="ajout" place="?" facs="#facs_qZdgNo" xml:id="elem_qZdgNo"/><lb break="?"
+                facs="#facs_hySaiT" n="dATXUl" xml:id="elem_hySaiT"/>ccĩa. meto mag̃ hoc dedit aĩalib. tͥburt gͥ eis<lb
+                break="?" facs="#facs_eKxMsl" n="t3ppFD" xml:id="elem_eKxMsl"/>tͣplicẽ appetitu sensitiuũ unũ ꝑ ꝙ̃ ꝓseqnt᷑<lb
+                break="?" facs="#facs_qPdwJK" n="ls7e57" xml:id="elem_qPdwJK"/>ꝓpͥim qete ⁊ ꝓpͥam dełcratõe ut xupiscibilẽ<lb
+                break="?" facs="#facs_fD59iI" n="y9gI78" xml:id="elem_fD59iI"/>⁊ aliũ ꝑq̃ resistũt ⁊ agg̾diũt᷑ ꝓhĩtu
+                ꝯꝯͣria.<lb break="?" facs="#facs_ude3sx" n="kCt94I" xml:id="elem_ude3sx"/>ut irascibilẽ. ita ꝙ ocupiscibił se ht̃
+                sicut<lb break="?" facs="#facs_gsqJh1" n="a3WznD" xml:id="elem_gsqJh1"/>leuitas. uł gͣuitas ĩ leuibs ⁊ gͣuib.
+                irasci<lb break="?" facs="#facs_dJusfq" n="tKXr4R" xml:id="elem_dJusfq"/>bit noͣ se ħt ꝙi casitas ⁊ frĩtas in
+              eis. Nã<lb break="?" facs="#facs_uwrohu" n="wl0ngd" xml:id="elem_uwrohu"/>sic̃ gͣuia ꝑ gͣuitatẽ reced̃t aloco
+              fursu t̃ qͣ<lb break="?" facs="#facs_nXGxbz" n="dfzaHQ" xml:id="elem_nXGxbz"/>a nõ gͥente. ⁊ tendũt ĩ locũ
+              deorsuz. tamꝙͣ ad<lb break="?" facs="#facs_p6Emqt" n="kyIAly" xml:id="elem_p6Emqt"/>locũ cͥenter ⁊ ꝯformẽ.
+              ꝑfr̃itatẽ noͣ resistũt ꝯus<lb break="?" facs="#facs_oqYiTy" n="hgOjm7" xml:id="elem_oqYiTy"/>ne corũpant᷑ ⁊ ꝓpͥa
+              nã. ⁊ deẜant ꝓpͥa loca. ⁊ppã<lb break="?" facs="#facs_fxXMYF" n="sv56n5" xml:id="elem_fxXMYF"/>qetem. sic ualia ꝑ
+              ocupiscibilẽ fugiũt mala<lb break="?" facs="#facs_wA4rY4" n="kSyaGg" xml:id="elem_wA4rY4"/>t̾stia. ⁊ ꝓsequnt᷑ bona
+              dełctabilia. pirascibilẽ<lb break="?" facs="#facs_zydZjC" n="dHtSAj" xml:id="elem_zydZjC"/>uõ aggdiunt᷑ ecͣia q̃
+              possẽt ea ab biꝰ dełctatõi<lb break="?" facs="#facs_r60Pp1" n="rPuF5S" xml:id="elem_r60Pp1"/>b ꝓhibẽ. ut leo
+              ꝑꝯcupiscibilẽ ꝑgit ut ꝓsẽqͣt᷑ ci<lb break="?" facs="#facs_t1gCxt" n="yXUhmQ" xml:id="elem_t1gCxt"/>bumi tamq id
+              dełctabile. ꝑ irascibilẽ uõ agͥ<lb break="?" facs="#facs_kLWfB8" n="hxUX0e" xml:id="elem_kLWfB8"/>dit᷑ u̾alia
+              nolẽtia ip̃m ꝓhibẽ incibo adepto. ꝑꝑ<lb break="?" facs="#facs_rbrdS1" n="p1C7oy" xml:id="elem_rbrdS1"/>q. bñ dẽm
+              ẽ.q xupiscibił respic̃ bonũ ⁊ malũ<lb break="?" facs="#facs_bK54BR" n="vlJhnO" xml:id="elem_bK54BR"/>ẜm se.
+              Irascibił uõ respic̃ bonũ ⁊ malũ in ꝙͦ.<lb break="?" facs="#facs_iuLcXg" n="sF8cvK" xml:id="elem_iuLcXg"/>hñt
+              roem difficił ⁊ ardui. Na cũ bonũ ẜm se<lb break="?" facs="#facs_kls5Ag" n="sdyFaQ" xml:id="elem_kls5Ag"/>dicat
+              qͥ ꝓscq̃nd̾. malũ uõ qd fugiend̾. ꝯcu<lb break="?" facs="#facs_qMuA9i" n="mTYp3m" xml:id="elem_qMuA9i"/>piscibit
+              q̃ ẜm se tẽdit in qetẽ ⁊ in bõa dełcta<lb break="?" facs="#facs_rB30Wt" n="bxeY9m" xml:id="elem_rB30Wt"/>bilia. ⁊
+              fug mala tͥ̾stia. ꝓ obo bt̃ boã ⁊ mala<lb break="?" facs="#facs_xHTe1i" n="nIp3Vi" xml:id="elem_xHTe1i"/>sensibilia
+              ẜm se ꝯscid̾ata. Irascibił uõ smn ꝙͣ<lb break="?" facs="#facs_bAC1EA" n="eeoSlJ" xml:id="elem_bAC1EA"/>agg̾dim᷑ ⁊
+              restimꝰ ꝓhibẽtib ⁊ nocuus cẽdit in<lb break="?" facs="#facs_ogzRGL" n="x59EZf" xml:id="elem_ogzRGL"/>bona ⁊ mala
+              sensibilia ñ ẜm se ꝯscid̾rata. s ut i<lb break="?" facs="#facs_qpZrGV" n="qSIKYA" xml:id="elem_qpZrGV"/>bñt rõer
+              ardu ꝯdifficit. Na arduitas ⁊dif<lb break="?" facs="#facs_hy2JK5" n="pPgJLq" xml:id="elem_hy2JK5"/>ficultas
+              potissime sũt repugnãtia ⁊ꝑibẽtiꝰ<lb break="?" facs="#facs_dkpP1s" n="x92hvb" xml:id="elem_dkpP1s"/>ne possimꝰ
+              ꝯseq bonũ ⁊ uirare malũ. Imꝑfrẽ<lb break="?" facs="#facs_lY5plF" n="wJDPSV" xml:id="elem_lY5plF"/>gͦ regiss nã
+              si dediss aĩalib xupiscibilẽ ꝑ<lb break="?" facs="#facs_a6kaY5" n="j7j8Su" xml:id="elem_a6kaY5"/>ꝙͣ uitarẽt
+              mala ⁊ ꝓseq̃rent᷑ bona. nͥ dediss a<lb break="?" facs="#facs_pNjaPn" n="dPgS5L" xml:id="elem_pNjaPn"/>eis
+              irascibilẽ ꝑ ꝙͣ aggdirent᷑ impediẽtia deloc<lb break="?" facs="#facs_cdpgrY" n="cv3vpx" xml:id="elem_cdpgrY"
+              />tatõe illã. ut gͥ ałia s modũ s̾ ꝯentẽ plene p̃sĩt<lb break="?" facs="#facs_xK4GO1" n="bHuLPY"
+                xml:id="elem_xK4GO1"/>dełctaĩ ꝑ ocupiscibilẽ. data ẽ eiꝰirascibit. ꝑ ꝙͣ re<lb break="?" facs="#facs_aZHKDq"
+                n="m0vLN1" xml:id="elem_aZHKDq"/>sistãt ⁊ ag̾g̾diant᷑ impediẽtia dełctatõe illa.<lb break="?"
+                facs="#facs_o58xbs" n="qsgHpm" xml:id="elem_o58xbs"/>Dup᷑ ẽg appetitꝰ sensitiũ. iniscibił ⁊ ꝯxupiscibi<lb
+                break="?" facs="#facs_ez1GIj" n="xv29Av" xml:id="elem_ez1GIj"/>ł.appetit᷑ ã intłsctiũ q dr̾ uolũtas remanr ĩ
+                duus.<lb break="?" facs="#facs_ujL1hg" n="h8b9ST" xml:id="elem_ujL1hg"/>Na cũ intłłctꝰ u̾łiori mõ respiciat
+              suũ od̾m. ꝙͣ<lb break="?" facs="#facs_myjuBs" n="aM9doi" xml:id="elem_myjuBs"/>ssꝰ appetitꝰ i intelłctiũ q scqͣ
+              intłłm. u̾łiori mõ<lb break="?" facs="#facs_xwUNC2" n="cRPvhG" xml:id="elem_xwUNC2"/>fert᷑ bonũ ꝙͣ appetit᷑ s ss
+              ͦ. ⁊ qͣnto aͥd sb̾u̾łiori mͦ<lb break="?" facs="#facs_fpVMgh" n="nh3diz" xml:id="elem_fpVMgh"/>accipit᷑ tãto unũ
+              ridẽ existẽs ad pła se extẽdit.<lb break="?" facs="#facs_bdGWte" n="tjhCp0" xml:id="elem_bdGWte"/>l appetit᷑
+              sensit̾s sit alĩ ⁊ aliꝰ f quẽ ꝓseqm᷑ dełe<lb break="?" facs="#facs_bzYbzK" n="olXVLG" xml:id="elem_bzYbzK"
+              />tabilia ẜ ssͦ. ⁊ aggͥdim̃ t̾ribilia. appetitꝰ tñ ĩtlłe<lb break="?" facs="#facs_hDJilE" n="coJkq4"
+                xml:id="elem_hDJilE"/>tiũ uñ ⁊idẽ exñs in õe bonũ ĩ telligibile. ñ gͦ ẽ<lb break="?" facs="#facs_aMpia6"
+                n="p0rOxB" xml:id="elem_aMpia6"/>ali appetitꝰ intellectiuꝰ. ẜ quẽ ꝓseqm bca delec<lb break="?"
+                facs="#facs_ywDaYp" n="v6LzoO" xml:id="elem_ywDaYp"/>tabilia ꝑ intlłm. ⁊ agg̾dim̃ bona ardua. sic̃ est<lb
+                break="?" facs="#facs_ix0OaU" n="qKnMak" xml:id="elem_ix0OaU"/>aliꝰ appetit̾ sensitiũ. ꝑ quẽ ꝓseqm̃ uñi
+                sẽsibilia<lb break="?" facs="#facs_nk6tmb" n="zcClS4" xml:id="elem_nk6tmb"/>tełctabilia. ⁊ agg̃dim̃ t̾ribilia.
+              Qr̃ si oĩs uirt᷑ i<lb break="?" facs="#facs_j9183t" n="g2V6fg" xml:id="elem_j9183t"/>morat ẽ in ĩtlłu uł in
+              appetitu. ⁊ appetit᷑ a li̾ ẽ<lb break="?" facs="#facs_yi4PR0" n="iMTrfm" xml:id="elem_yi4PR0"/>ĩtelletiũ uł
+              uolũtas. aliꝰ sensitiũ. Ute est alui<cb break="?"/><lb break="?" facs="#facs_mDronQ" n="ug7A1L"
+                xml:id="elem_mDronQ"/>sensus ⁊ hic dup᷑. irascibił.s. ⁊ ocupiscibił. oꝑt<lb break="?" facs="#facs_dZ1K9E"
+                n="izWYyJ" xml:id="elem_dZ1K9E"/>oẽ u̾tutẽ moralẽ. uł ẽẽ inĩtlłli. uł ĩ uolũtate<lb break="?"
+                facs="#facs_urPoLw" n="vCpmGB" xml:id="elem_urPoLw"/>uł in irascibili uł in ocupis cibili. accipiẽdo gͥ<lb
+                break="?" facs="#facs_w02dtB" n="mFRLb1" xml:id="elem_w02dtB"/>u̾tutẽ moralẽ large ꝓut ipã prudẽtia dr
+                q̃dã<lb break="?" facs="#facs_buAe6g" n="halJ6V" xml:id="elem_buAe6g"/>u̾tus morał dicẽ possumꝰ q ẜm has uiͦii.
+                potẽ<lb break="?" facs="#facs_uy0OyN" n="qDI9VD" xml:id="elem_uy0OyN"/>cias aĩe inqb ħt ẽẽ uirt. sũpte
+              sũt.4. u̾tu<lb break="?" facs="#facs_cRTxQh" n="wcoGLN" xml:id="elem_cRTxQh"/>tes caardinales .s. prudẽtia.
+              iustĩa. fortitudo<lb break="?" facs="#facs_dOrFh1" n="xRo6di" xml:id="elem_dOrFh1"/>⁊ tempantia. Na prudẽtia ẽ
+              in intlłu. uisti<lb break="?" facs="#facs_esP3H9" n="e6TCNp" xml:id="elem_esP3H9"/>cia ĩ uolũtate. fortitudo in
+              iras cibili. tẽꝑan<lb break="?" facs="#facs_p8Bzun" n="jz5OyZ" xml:id="elem_p8Bzun"/>tia ĩ xupiscibili</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

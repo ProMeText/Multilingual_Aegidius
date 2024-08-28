@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>manuscritBC_275275_full.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15328" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15329" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT15316" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15317" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15318" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15319" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15320" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15321" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15322" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15323" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15324" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15325" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15326" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15327" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15330" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT6460" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6461" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6462" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6463" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6464" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1642"
+          HEIGHT="2183"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1642"
+                  HEIGHT="2183">
+        
+        <TextBlock HPOS="305"
+                   VPOS="291"
+                   WIDTH="1118"
+                   HEIGHT="1444"
+                   ID="eSc_textblock_7c4e00c4"
+                   TAGREFS="BT15320">
+          <Shape><Polygon POINTS="1404 300 1404 454 1418 465 1408 1012 1423 1023 1413 1730 320 1735 305 1284 320 310 1057 291"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_789b8af7"
+                    TAGREFS="LT6464"
+                    BASELINE="325 320 1398 317" 
+                    HPOS="325"
+                    VPOS="291"
+                    WIDTH="1073"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="1391 299 1379 299 1367 299 1355 298 1343 298 1331 298 1319 298 1307 297 1294 297 1282 297 1270 295 1258 295 1246 295 1234 295 1222 294 1209 294 1197 294 1185 294 1173 293 1161 293 1149 293 1137 292 1125 292 1112 292 1100 292 1091 291 1081 294 1072 291 1064 291 1052 291 1040 291 1027 291 1015 291 1003 292 991 292 979 292 967 292 955 293 942 293 930 293 918 293 906 294 894 294 882 294 870 295 858 295 845 295 833 295 821 297 815 297 809 298 808 298 807 298 802 297 797 297 785 297 773 298 760 298 748 298 736 298 724 299 716 299 712 299 700 299 688 299 675 300 663 300 651 300 639 301 627 301 615 301 603 301 591 303 578 303 566 303 554 303 542 304 530 304 518 304 506 304 493 305 481 305 469 305 457 305 445 306 433 306 421 306 408 308 396 308 384 308 382 308 325 320 325 333 1395 337 1398 317 1395 299 1391 299"/></Shape>
+	    <String CONTENT="tanec o en la uoluntat. Quar ia es dit q̃ uirtut es alguã cosa segõs raho/ Coue donq̃s q̃ lapotẽcia en la q̈l"
+                    HPOS="325"
+                    VPOS="291"
+                    WIDTH="1073"
+                    HEIGHT="46"
+                    WC="0.9520986575101104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46f5f319"
+                    TAGREFS="LT6464"
+                    BASELINE="324 346 1398 349" 
+                    HPOS="322"
+                    VPOS="323"
+                    WIDTH="1076"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="324 346 322 358 1395 363 1398 349 1396 331 324 323 324 346"/></Shape>
+	    <String CONTENT="ha esser la uirtut sia racional/ Mas la cosa raçional es en dues manẽs segõs lo philosoph/ ço es assaber ꝑ"
+                    HPOS="322"
+                    VPOS="323"
+                    WIDTH="1076"
+                    HEIGHT="40"
+                    WC="0.9784531444311142"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_486b3bde"
+                    TAGREFS="LT6464"
+                    BASELINE="325 377 1399 374" 
+                    HPOS="324"
+                    VPOS="357"
+                    WIDTH="1075"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="325 377 325 389 1398 386 1399 374 1396 358 324 357 325 377"/></Shape>
+	    <String CONTENT="eencia e ꝑ participacio. lencenimẽt̃ es racional o rahonable ꝑ eeñcia Mas lappetimẽt o la uoluntat iat sia"
+                    HPOS="324"
+                    VPOS="357"
+                    WIDTH="1075"
+                    HEIGHT="32"
+                    WC="0.9688957530424136"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_472c7583"
+                    TAGREFS="LT6464"
+                    BASELINE="325 401 640 406 1401 400" 
+                    HPOS="325"
+                    VPOS="383"
+                    WIDTH="1076"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="325 417 1123 419 1125 419 1126 419 1146 413 1149 413 1254 418 1256 418 1400 411 1401 400 1394 383 325 383 325 401 325 417"/></Shape>
+	    <String CONTENT="q̃ ell no sia enceniment oraħo eeñcialmẽt Sinꝑo ell es dit ꝑticipar raho per talcõ es apte e couinẽt de obeyr"
+                    HPOS="325"
+                    VPOS="383"
+                    WIDTH="1076"
+                    HEIGHT="36"
+                    WC="0.9718499257501247"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6faa70d5"
+                    TAGREFS="LT6464"
+                    BASELINE="324 430 1402 426" 
+                    HPOS="322"
+                    VPOS="406"
+                    WIDTH="1080"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="324 430 324 442 1401 439 1402 426 1399 406 322 413 324 430"/></Shape>
+	    <String CONTENT="ala raho/. Mas les potẽcies nals els seỹs no son rõnals o raonables ꝑ eeñcia ꝑ cal cõ no sõ la Raho ne ꝑticipẽ"
+                    HPOS="322"
+                    VPOS="406"
+                    WIDTH="1080"
+                    HEIGHT="36"
+                    WC="0.9747674949148781"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b62a406"
+                    TAGREFS="LT6464"
+                    BASELINE="322 458 1384 453" 
+                    HPOS="321"
+                    VPOS="436"
+                    WIDTH="1063"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="322 458 322 476 355 470 533 475 570 475 571 475 583 474 629 469 722 472 759 474 760 474 1383 465 1384 453 1381 436 321 439 322 458"/></Shape>
+	    <String CONTENT="de raho ꝑ cal cõ ꝑsi e segõs q̃ sõ cals no obehexẽ alaraho/ Donq̃s les uirtuts no han eẽr en los seỹs ne enles"
+                    HPOS="321"
+                    VPOS="436"
+                    WIDTH="1063"
+                    HEIGHT="40"
+                    WC="0.980876809050297"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fff85cf8"
+                    TAGREFS="LT6464"
+                    BASELINE="325 486 1415 480" 
+                    HPOS="324"
+                    VPOS="457"
+                    WIDTH="1091"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1405 457 1347 463 1208 459 1171 458 1169 458 1162 459 1139 464 1061 460 1002 458 1001 458 974 462 946 465 899 463 842 459 841 459 790 464 758 466 709 465 597 460 595 460 594 460 593 460 586 466 584 466 572 466 424 462 423 462 422 462 404 468 358 462 356 462 324 469 325 486 325 504 1413 496 1415 480 1411 460 1405 457"/></Shape>
+	    <String CONTENT="potẽcies nals segõs q̃ damũt dehyẽ Mas han esser solament en lentenimẽt/ Sii nos es doble uoluntat e deble"
+                    HPOS="324"
+                    VPOS="457"
+                    WIDTH="1091"
+                    HEIGHT="47"
+                    WC="0.9818581331957568"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9221784"
+                    TAGREFS="LT6464"
+                    BASELINE="324 514 1405 509" 
+                    HPOS="322"
+                    VPOS="487"
+                    WIDTH="1083"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="324 514 324 526 1404 522 1405 509 1401 487 862 494 781 493 639 489 638 489 601 494 591 496 555 496 398 491 396 491 322 497 324 514"/></Shape>
+	    <String CONTENT="appetimẽt co es assaber. un incellectu S altre sensitiu/. Quar axi cõ lappetiment nal seguex la forma ñalmẽt"
+                    HPOS="322"
+                    VPOS="487"
+                    WIDTH="1083"
+                    HEIGHT="39"
+                    WC="0.9720658460365874"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_070ec61e"
+                    TAGREFS="LT6464"
+                    BASELINE="322 542 1398 534" 
+                    HPOS="321"
+                    VPOS="514"
+                    WIDTH="1077"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="322 542 322 555 1396 551 1398 534 1395 519 1053 514 1052 514 1050 514 1036 520 353 519 351 519 321 525 322 542"/></Shape>
+	    <String CONTENT="acõseguidã Aximatex lappetimẽr conexedor oconexent seguex la forma p̃sa ꝑ couexença/ Quar axi cõ al"
+                    HPOS="321"
+                    VPOS="514"
+                    WIDTH="1077"
+                    HEIGHT="41"
+                    WC="0.9758588121487544"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5892c14e"
+                    TAGREFS="LT6464"
+                    BASELINE="324 571 1020 570 1410 560" 
+                    HPOS="322"
+                    VPOS="539"
+                    WIDTH="1088"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="324 571 325 589 345 582 553 582 571 586 578 588 580 588 581 588 582 588 583 588 586 585 592 582 609 585 621 588 622 588 637 585 662 580 766 580 788 583 814 586 815 586 1408 574 1410 560 1406 543 1354 545 1343 543 1331 539 1330 539 1328 539 1327 539 1316 543 1303 546 1279 543 1262 540 1260 540 1246 543 1225 546 1203 543 1185 540 1184 540 1183 540 1172 543 1155 549 1049 549 1033 544 1025 542 1024 542 1023 542 1010 544 989 550 879 550 861 545 853 543 851 543 850 543 849 543 841 545 820 550 706 545 666 544 665 544 654 545 620 551 525 546 500 545 498 545 497 545 493 546 473 553 322 548 324 571"/></Shape>
+	    <String CONTENT="gunna inclinacio nal e algũ appetimẽt natural seguex les coses greus o fexugues per co cõ han for de cosa greu"
+                    HPOS="322"
+                    VPOS="539"
+                    WIDTH="1088"
+                    HEIGHT="50"
+                    WC="0.9805076734154625"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_daef759e"
+                    TAGREFS="LT6464"
+                    BASELINE="324 595 1015 597 1393 589" 
+                    HPOS="322"
+                    VPOS="570"
+                    WIDTH="1071"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="324 595 324 606 362 613 364 613 405 607 461 613 462 613 463 613 487 606 489 606 491 606 544 613 546 614 628 614 628 613 629 613 631 613 640 607 750 613 751 613 752 613 765 606 775 613 776 613 777 613 779 614 815 614 815 613 1025 612 1055 606 1084 612 1086 612 1087 612 1114 605 1308 605 1317 611 1319 611 1320 611 1321 611 1391 602 1393 589 1389 570 1245 576 1231 571 1230 571 1229 571 1228 571 1205 577 1169 571 1165 571 1163 571 1158 571 1123 577 1097 572 1089 571 1088 571 1087 571 1084 572 1071 577 1043 572 1032 571 1031 571 1019 572 992 577 885 573 822 572 821 572 820 572 819 572 816 574 811 578 786 574 764 572 763 572 496 577 433 578 432 578 421 572 419 572 347 572 345 572 344 572 322 578 324 595"/></Shape>
+	    <String CONTENT="o decosa fexugua axi q̃ nalment elles desigẽ esser baix/ Aximatex aq̃lles coses qui han conexença per cal"
+                    HPOS="322"
+                    VPOS="570"
+                    WIDTH="1071"
+                    HEIGHT="44"
+                    WC="0.9711844096673983"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_03cf78c7"
+                    TAGREFS="LT6464"
+                    BASELINE="322 625 1063 625 1393 617" 
+                    HPOS="321"
+                    VPOS="597"
+                    WIDTH="1072"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="322 625 322 636 604 642 605 642 606 642 628 635 632 635 634 635 660 641 661 641 662 641 677 635 678 635 690 635 798 641 799 641 800 641 802 641 810 635 811 635 866 641 867 641 1091 640 1092 640 1106 634 1168 640 1169 640 1391 631 1393 617 1389 597 888 605 794 602 634 599 633 599 604 605 594 606 559 605 424 600 423 600 367 606 333 600 332 600 331 600 330 600 321 605 322 625"/></Shape>
+	    <String CONTENT="cõ han ensi forͣ p̃sa be seguex alguna inclinacio e algimn appetimẽt segõs aq̃lla for̈¶per la q̈l cosa axicõ es"
+                    HPOS="321"
+                    VPOS="597"
+                    WIDTH="1072"
+                    HEIGHT="45"
+                    WC="0.9690905938977781"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0583e0b8"
+                    TAGREFS="LT6464"
+                    BASELINE="322 653 1391 648" 
+                    HPOS="321"
+                    VPOS="625"
+                    WIDTH="1070"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="322 653 322 664 1390 659 1391 648 1388 625 1326 631 1274 627 1263 625 1262 625 1260 625 1257 627 1242 631 1138 628 1099 627 1098 627 1097 627 1095 627 1094 628 1086 634 855 634 849 631 842 628 841 628 627 628 626 628 587 634 577 635 542 634 361 629 360 629 321 636 322 653"/></Shape>
+	    <String CONTENT="en nos dobla conexẽca/ co es assaber sensitiua e intellectiua. Axi es en nos dobla uolunrar o dobla appeti"
+                    HPOS="321"
+                    VPOS="625"
+                    WIDTH="1070"
+                    HEIGHT="39"
+                    WC="0.9816771790245983"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e6817d77"
+                    TAGREFS="LT6464"
+                    BASELINE="322 682 1407 677" 
+                    HPOS="321"
+                    VPOS="653"
+                    WIDTH="1086"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="322 682 322 693 1406 691 1407 677 1405 659 1234 653 1233 653 1146 659 1133 660 321 660 322 682"/></Shape>
+	    <String CONTENT="ment/ co es assaber sensitiu qui regex la forma p̃sa ꝑlo sey E incellectiu qui seguex la forͣ p̃sa per lentenimẽt"
+                    HPOS="321"
+                    VPOS="653"
+                    WIDTH="1086"
+                    HEIGHT="40"
+                    WC="0.9647076827915091"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_322faab2"
+                    TAGREFS="LT6464"
+                    BASELINE="321 708 1402 704" 
+                    HPOS="320"
+                    VPOS="681"
+                    WIDTH="1082"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="321 708 321 722 1401 720 1402 704 1399 681 320 688 321 708"/></Shape>
+	    <String CONTENT="Mas lappetiment sensitiu es doble. Quar cõ les coses aĩa des sien sobre aq̃lles q̃ no han ciã/ si nac̾a ha do"
+                    HPOS="320"
+                    VPOS="681"
+                    WIDTH="1082"
+                    HEIGHT="41"
+                    WC="0.9783762698726994"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c503a42a"
+                    TAGREFS="LT6464"
+                    BASELINE="324 736 1388 732" 
+                    HPOS="322"
+                    VPOS="708"
+                    WIDTH="1066"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="324 736 324 748 677 753 678 753 679 753 703 747 706 745 908 745 921 745 1004 751 1006 751 1105 745 1122 744 1123 744 1134 750 1135 750 1137 751 1334 751 1334 750 1387 743 1388 732 1384 708 1248 714 1093 710 1027 709 1026 709 1014 711 991 715 839 713 671 710 669 710 668 710 660 715 656 716 651 715 637 710 635 710 634 710 516 716 503 716 501 716 479 710 478 710 476 710 446 716 428 710 427 710 425 710 322 717 324 736"/></Shape>
+	    <String CONTENT="uada dobla potẽcia als elamẽs e ales coses qͥ no han aĩa una ꝑ la qual uan enlur ꝓp repos / Ealtra ꝑ la q̈l"
+                    HPOS="322"
+                    VPOS="708"
+                    WIDTH="1066"
+                    HEIGHT="45"
+                    WC="0.9764386296272278"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa6519ba"
+                    TAGREFS="LT6464"
+                    BASELINE="322 766 1411 760" 
+                    HPOS="321"
+                    VPOS="737"
+                    WIDTH="1090"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="322 766 322 781 1410 776 1411 760 1407 737 321 741 322 766"/></Shape>
+	    <String CONTENT="contrasten e obrẽ en les coses contrarioses¶Molt mes na ha donada aq̃sta dobla potẽçia ales coses aĩades"
+                    HPOS="321"
+                    VPOS="737"
+                    WIDTH="1090"
+                    HEIGHT="44"
+                    WC="0.9787559840414259"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46a42203"
+                    TAGREFS="LT6464"
+                    BASELINE="324 794 1406 794" 
+                    HPOS="324"
+                    VPOS="766"
+                    WIDTH="1082"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="506 766 504 766 490 772 490 773 324 773 324 794 324 810 785 810 785 808 786 808 803 802 850 808 851 808 853 808 877 802 910 808 911 808 912 808 938 802 1072 808 1074 808 1075 808 1110 802 1173 808 1174 808 1175 808 1192 802 1222 808 1223 808 1224 808 1372 802 1405 808 1406 794 1406 772 807 766 805 766 804 766 803 766 793 772 792 773 718 773 717 772 689 766 688 766 686 766 669 772 668 772 666 772 608 766 606 766 538 772 537 772 536 772 507 766 506 766"/></Shape>
+	    <String CONTENT="qͥ son mes ꝑfetes q̃ les coses ĩ aĩades ¶Quar nos uehem q̃ll foch nalmẽt es calent eleuger sꝑ leuġia ua en"
+                    HPOS="324"
+                    VPOS="766"
+                    WIDTH="1082"
+                    HEIGHT="44"
+                    WC="0.9658072200688449"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_505c4cdc"
+                    TAGREFS="LT6464"
+                    BASELINE="322 824 1407 816" 
+                    HPOS="321"
+                    VPOS="795"
+                    WIDTH="1086"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="1365 795 1353 795 1341 795 1328 795 1316 795 1304 795 1292 795 1280 795 1253 798 1243 798 1226 798 1171 795 1158 795 1146 795 1134 795 1122 795 1110 795 1098 795 1083 798 1074 800 321 800 322 824 324 841 349 835 438 840 445 840 446 840 1406 827 1407 816 1405 798 1371 795 1365 795"/></Shape>
+	    <String CONTENT="son loch ꝓpri e en repos qui li es courent/. Mas ꝑcalor obra enles coses contraries/ ꝑ cal donq̃s q̃l foch ꝑ q̃ scũ"
+                    HPOS="321"
+                    VPOS="795"
+                    WIDTH="1086"
+                    HEIGHT="46"
+                    WC="0.9639338118762806"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82e2533e"
+                    TAGREFS="LT6464"
+                    BASELINE="322 850 1406 846" 
+                    HPOS="321"
+                    VPOS="822"
+                    WIDTH="1085"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="322 850 322 865 1405 859 1406 846 1401 822 1375 828 1151 823 1044 822 1043 822 1015 824 978 829 959 825 947 823 946 823 839 827 747 829 729 828 691 823 690 823 661 828 644 831 321 831 322 850"/></Shape>
+	    <String CONTENT="nes coses contraries no fos emparxar q̃ per raho dela sua leugia en sõ ꝓpͥ loqui no reposas/ ha li donada nȧ"
+                    HPOS="321"
+                    VPOS="822"
+                    WIDTH="1085"
+                    HEIGHT="43"
+                    WC="0.9815072352235967"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ad290bc"
+                    TAGREFS="LT6464"
+                    BASELINE="324 880 1407 876" 
+                    HPOS="322"
+                    VPOS="852"
+                    WIDTH="1085"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="324 880 324 892 1406 890 1407 876 1404 852 322 856 324 880"/></Shape>
+	    <String CONTENT="potẽcia calefaciua/ o escalfatiua pertal q̃ per ella cõtrastas eobras enles coses contraries corruptiues ¶Don"
+                    HPOS="322"
+                    VPOS="852"
+                    WIDTH="1085"
+                    HEIGHT="40"
+                    WC="0.9780180695894602"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_449b25b2"
+                    TAGREFS="LT6464"
+                    BASELINE="322 908 1402 901" 
+                    HPOS="321"
+                    VPOS="878"
+                    WIDTH="1081"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1100 878 1027 885 1025 885 1023 885 908 879 907 879 842 886 839 886 837 886 781 880 780 880 695 886 685 880 684 880 683 880 682 880 680 880 661 887 660 887 651 887 523 881 521 881 470 887 342 882 341 882 339 882 321 888 322 908 322 925 503 918 1400 918 1402 901 1400 884 1101 878 1100 878"/></Shape>
+	    <String CONTENT="q̃s si al foch e als coses qͥ no han aiã natura ha donada dobla potẽcia una ꝑ la q̈l aconseguexẽ lur ꝓpri re"
+                    HPOS="321"
+                    VPOS="878"
+                    WIDTH="1081"
+                    HEIGHT="47"
+                    WC="0.9775691300899059"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4f4c40b6"
+                    TAGREFS="LT6464"
+                    BASELINE="320 936 1396 931" 
+                    HPOS="319"
+                    VPOS="905"
+                    WIDTH="1077"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="320 936 320 953 367 947 523 952 548 952 549 952 567 950 648 945 775 949 848 950 849 950 850 950 858 948 868 944 955 947 1030 949 1031 949 1395 942 1396 931 1394 909 1127 905 1126 905 1067 910 1042 913 1023 912 981 907 980 907 979 907 967 912 963 913 961 912 953 907 952 907 951 907 858 907 856 907 728 913 700 914 694 913 667 908 666 908 665 908 644 914 640 914 638 914 611 908 610 908 609 908 589 914 584 915 560 914 475 909 474 909 422 915 417 915 413 915 379 909 378 909 319 915 320 936"/></Shape>
+	    <String CONTENT="pos/ E altra per la q̈l obren en les coses contraries ¶Molt mes aq̃sces ha donades als coses aĩades. Donq̃s ha"
+                    HPOS="319"
+                    VPOS="905"
+                    WIDTH="1077"
+                    HEIGHT="48"
+                    WC="0.9740700920422872"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c503a908"
+                    TAGREFS="LT6464"
+                    BASELINE="320 961 1398 956" 
+                    HPOS="319"
+                    VPOS="939"
+                    WIDTH="1079"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="320 961 320 975 1105 977 1106 977 1108 977 1126 971 1129 970 1250 970 1251 970 1263 976 1264 976 1265 976 1396 969 1398 956 1395 939 319 939 320 961"/></Shape>
+	    <String CONTENT="lus donat dobla appetimẽt sensitiu un ꝑ lo q̈l aconseguexẽ ꝓpri repos eꝓpria delectacio S aq̃st es appen"
+                    HPOS="319"
+                    VPOS="939"
+                    WIDTH="1079"
+                    HEIGHT="38"
+                    WC="0.980432632396806"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66730738"
+                    TAGREFS="LT6464"
+                    BASELINE="320 992 1395 984" 
+                    HPOS="319"
+                    VPOS="962"
+                    WIDTH="1076"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="320 992 320 1004 1394 996 1395 984 1393 969 1237 962 1236 962 1169 969 891 965 890 965 832 971 827 971 821 971 723 966 722 966 682 972 675 972 656 972 504 967 503 967 502 967 501 967 495 973 493 975 319 975 320 992"/></Shape>
+	    <String CONTENT="ment cobehegyos/ E altre ꝑlo qual contrascen e uan contra les coses ꝯtrarioses e aq̃st appetimẽt es iros ¶Axi"
+                    HPOS="319"
+                    VPOS="962"
+                    WIDTH="1076"
+                    HEIGHT="42"
+                    WC="0.9758607945658944"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db52bb37"
+                    TAGREFS="LT6464"
+                    BASELINE="320 1021 1394 1012" 
+                    HPOS="319"
+                    VPOS="989"
+                    WIDTH="1075"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="320 1021 320 1034 1393 1023 1394 1012 1390 992 1111 995 1099 993 1087 989 1086 989 1084 989 1083 989 1074 993 1060 998 991 998 978 993 969 990 968 990 967 990 966 990 958 993 950 996 944 993 940 990 939 990 938 990 936 990 935 990 927 993 911 998 877 993 860 992 859 992 756 993 754 993 753 993 752 994 743 999 685 994 663 993 662 993 652 994 623 1000 513 995 483 994 481 994 480 994 478 995 463 1001 319 996 320 1021"/></Shape>
+	    <String CONTENT="q̈l appetiment cobehegyos es ꝑ semblant condiccio en les coses aiades/ cõ es leugia o fexuguea en les coses"
+                    HPOS="319"
+                    VPOS="989"
+                    WIDTH="1075"
+                    HEIGHT="45"
+                    WC="0.9762552717217693"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b999dac"
+                    TAGREFS="LT6464"
+                    BASELINE="320 1047 1421 1038" 
+                    HPOS="319"
+                    VPOS="1021"
+                    WIDTH="1102"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="1413 1021 319 1024 320 1047 320 1067 385 1061 615 1063 711 1063 712 1063 713 1063 720 1061 733 1057 976 1057 1406 1057 1407 1057 1408 1057 1421 1050 1421 1038 1417 1026 1413 1021"/></Shape>
+	    <String CONTENT="leuges o fexugues ¶Mas lappetimẽt iros es axi cõ lacalor ola fredor en elles/ Quar axi cõ les coses fexugues"
+                    HPOS="319"
+                    VPOS="1021"
+                    WIDTH="1102"
+                    HEIGHT="46"
+                    WC="0.9817569486729734"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09a5d36c"
+                    TAGREFS="LT6464"
+                    BASELINE="320 1076 1411 1068" 
+                    HPOS="319"
+                    VPOS="1049"
+                    WIDTH="1092"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="320 1076 320 1092 1410 1081 1411 1068 1408 1050 787 1049 786 1049 757 1055 756 1055 751 1055 553 1051 552 1051 473 1057 472 1057 347 1052 345 1052 344 1052 319 1058 320 1076"/></Shape>
+	    <String CONTENT="ꝑ fexuguea se ꝑtexẽ de loch subira/ axi cõ daq̃ll qui nols es enuinent ne degut e uan al Poch bax / axi cõ aq̃ll"
+                    HPOS="319"
+                    VPOS="1049"
+                    WIDTH="1092"
+                    HEIGHT="43"
+                    WC="0.9764212846755982"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_954f9e1b"
+                    TAGREFS="LT6464"
+                    BASELINE="317 1104 1413 1097" 
+                    HPOS="316"
+                    VPOS="1073"
+                    WIDTH="1097"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="317 1104 317 1115 1412 1108 1413 1097 1411 1079 1251 1073 1250 1073 1248 1073 1247 1073 1239 1079 1237 1079 1222 1079 1108 1074 1106 1074 1064 1079 1042 1081 316 1081 317 1104"/></Shape>
+	    <String CONTENT="loch qͥls es couinẽt e acordant¶Mas ꝑfredor contrascẽ ales coses contraries ꝑral q̃ no sien corrũpudes ne destr"
+                    HPOS="316"
+                    VPOS="1073"
+                    WIDTH="1097"
+                    HEIGHT="42"
+                    WC="0.9826249339078602"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49fde7b9"
+                    TAGREFS="LT6464"
+                    BASELINE="319 1132 1413 1125" 
+                    HPOS="317"
+                    VPOS="1102"
+                    WIDTH="1096"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="319 1132 319 1143 1412 1141 1413 1125 1410 1102 1228 1108 1123 1104 1058 1103 1057 1103 1055 1103 1046 1106 1032 1109 890 1108 699 1106 697 1106 696 1106 684 1110 680 1112 609 1112 345 1108 344 1108 343 1108 317 1114 319 1132"/></Shape>
+	    <String CONTENT="uydes de lur ꝓpͥa natura ne desemparẽ los seus lochs ꝓpͥs ne lur ꝓpͥ repos ¶Aximarex les coses aiãdes ꝑ potẽ/"
+                    HPOS="317"
+                    VPOS="1102"
+                    WIDTH="1096"
+                    HEIGHT="41"
+                    WC="0.964496409786599"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f48590bf"
+                    TAGREFS="LT6464"
+                    BASELINE="319 1159 1401 1152" 
+                    HPOS="317"
+                    VPOS="1129"
+                    WIDTH="1084"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="319 1159 319 1171 1400 1164 1401 1152 1399 1135 1252 1129 1251 1129 1250 1129 1236 1136 1058 1136 1043 1130 1042 1130 1041 1130 1040 1130 1038 1130 1030 1137 1029 1137 1018 1137 878 1131 877 1131 876 1131 875 1131 865 1137 766 1132 765 1132 764 1132 751 1140 621 1140 610 1133 609 1133 608 1133 606 1133 567 1140 531 1133 530 1133 529 1133 527 1133 518 1141 436 1141 366 1135 365 1135 317 1142 319 1159"/></Shape>
+	    <String CONTENT="cia cobehegyosa fugen los mals crisos eseguexẽ los bẽs delirables/. Mas ꝑ potençia irosa uan ꝯtͦ les coses q̈ies"
+                    HPOS="317"
+                    VPOS="1129"
+                    WIDTH="1084"
+                    HEIGHT="42"
+                    WC="0.9752735897250797"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6bd94937"
+                    TAGREFS="LT6464"
+                    BASELINE="319 1186 1407 1180" 
+                    HPOS="317"
+                    VPOS="1160"
+                    WIDTH="1090"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="319 1186 319 1201 1406 1192 1407 1180 1405 1164 754 1160 753 1160 752 1160 728 1166 348 1163 347 1163 317 1169 319 1186"/></Shape>
+	    <String CONTENT="qui lus porien uedar ocontrascar aq̃st bẽs delirables /. Axi cõ lo leo ꝑ potencia cobehegyosa ua ꝑ tal q̃ seq̃sta"
+                    HPOS="317"
+                    VPOS="1160"
+                    WIDTH="1090"
+                    HEIGHT="41"
+                    WC="0.9880505012429279"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_729a706a"
+                    TAGREFS="LT6464"
+                    BASELINE="315 1217 1413 1207" 
+                    HPOS="314"
+                    VPOS="1186"
+                    WIDTH="1099"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="315 1217 315 1228 1412 1220 1413 1207 1411 1189 1092 1186 1091 1186 1089 1186 1081 1189 1075 1192 1065 1189 1047 1186 1046 1186 1020 1189 997 1194 776 1194 747 1190 731 1188 730 1188 714 1190 682 1195 615 1190 593 1189 592 1189 582 1190 544 1197 461 1190 450 1190 449 1190 447 1190 446 1190 429 1198 415 1192 413 1192 314 1192 315 1217"/></Shape>
+	    <String CONTENT="la uianda ol mãgyar axi cõ acosa delitabla¶ Mas ꝑ potẽçia irosa ua contͦ les besties qui liuolen uedar ocõtra"
+                    HPOS="314"
+                    VPOS="1186"
+                    WIDTH="1099"
+                    HEIGHT="42"
+                    WC="0.9663119948746866"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7073d3df"
+                    TAGREFS="LT6464"
+                    BASELINE="316 1244 1408 1235" 
+                    HPOS="315"
+                    VPOS="1216"
+                    WIDTH="1093"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="316 1244 317 1262 337 1256 563 1260 626 1260 627 1260 1407 1247 1408 1235 1405 1216 315 1222 316 1244"/></Shape>
+	    <String CONTENT="star la uianda olmẽgyar desigyat/ E perral es ben dit q̃ la potẽçia cobehegyosa guarda be e mal segõs si/"
+                    HPOS="315"
+                    VPOS="1216"
+                    WIDTH="1093"
+                    HEIGHT="46"
+                    WC="0.9722360350670071"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_421244a1"
+                    TAGREFS="LT6464"
+                    BASELINE="314 1272 1400 1263" 
+                    HPOS="313"
+                    VPOS="1245"
+                    WIDTH="1087"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="314 1272 314 1284 1399 1274 1400 1263 1396 1245 313 1252 314 1272"/></Shape>
+	    <String CONTENT="Mas la potencia irosa guarda be en mal en quãt q̃ be e mal han raho decõsa diffĩcil e grã o alra Quar cõ lo"
+                    HPOS="313"
+                    VPOS="1245"
+                    WIDTH="1087"
+                    HEIGHT="39"
+                    WC="0.9848070836492947"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6708c14b"
+                    TAGREFS="LT6464"
+                    BASELINE="316 1298 1417 1292" 
+                    HPOS="315"
+                    VPOS="1275"
+                    WIDTH="1102"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="1413 1275 315 1275 316 1298 316 1309 479 1315 480 1315 553 1309 561 1309 577 1309 714 1314 716 1314 764 1309 776 1308 1417 1308 1417 1292 1416 1287 1413 1275"/></Shape>
+	    <String CONTENT="be de si diga alguna cosa qͥ deu esser seguida o demanada/. Emal diga algũa cosa qͥ deu eẽr fugida o esquiuada"
+                    HPOS="315"
+                    VPOS="1275"
+                    WIDTH="1102"
+                    HEIGHT="40"
+                    WC="0.9772982113063335"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_97c1db31"
+                    TAGREFS="LT6464"
+                    BASELINE="317 1325 1410 1319" 
+                    HPOS="316"
+                    VPOS="1300"
+                    WIDTH="1094"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="317 1325 317 1337 1408 1335 1410 1319 1406 1300 316 1303 317 1325"/></Shape>
+	    <String CONTENT="la potẽçia cobregyosa qui desi ua en repos eenbẽs delirables/ e fuig mals trists ha ꝑ obget o ꝑ cosa rep̃sencada"
+                    HPOS="316"
+                    VPOS="1300"
+                    WIDTH="1094"
+                    HEIGHT="37"
+                    WC="0.9846629666245502"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74529b8a"
+                    TAGREFS="LT6464"
+                    BASELINE="315 1353 1404 1347" 
+                    HPOS="314"
+                    VPOS="1325"
+                    WIDTH="1090"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="315 1353 315 1365 1184 1366 1185 1366 1402 1359 1404 1347 1400 1325 314 1329 315 1353"/></Shape>
+	    <String CONTENT="bens emals sensibles/ segõs sipensats e cõsiderats/ Mas la potẽcia irosa segõs la q̈l nos contrascã ales coses ꝯͣrio"
+                    HPOS="314"
+                    VPOS="1325"
+                    WIDTH="1090"
+                    HEIGHT="41"
+                    WC="0.9754225143716355"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8ab110f"
+                    TAGREFS="LT6464"
+                    BASELINE="314 1382 1400 1376" 
+                    HPOS="313"
+                    VPOS="1352"
+                    WIDTH="1087"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="314 1382 314 1394 1399 1387 1400 1376 1398 1359 1239 1352 1237 1352 1183 1359 1179 1359 1174 1359 1103 1354 1101 1354 894 1360 871 1360 866 1360 821 1354 820 1354 819 1354 804 1360 803 1360 800 1360 753 1354 752 1354 724 1360 719 1361 717 1360 705 1355 703 1355 571 1355 570 1355 313 1361 314 1382"/></Shape>
+	    <String CONTENT="ses e noybles ua eentenen los bẽs e en los mals sensibles/ no segõs simarerx pensats/. mas segõs q̃ ells han rao"
+                    HPOS="313"
+                    VPOS="1352"
+                    WIDTH="1087"
+                    HEIGHT="42"
+                    WC="0.9715252389078555"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d86dfd23"
+                    TAGREFS="LT6464"
+                    BASELINE="314 1409 1408 1405" 
+                    HPOS="313"
+                    VPOS="1386"
+                    WIDTH="1095"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="314 1409 314 1421 1407 1420 1408 1405 1406 1387 313 1386 314 1409"/></Shape>
+	    <String CONTENT="de cosa alca e difficill/ Quar altea e difficulrat molt contrascen e ueden q̃ nos no pusquã acõseguir be e esqͥuar"
+                    HPOS="313"
+                    VPOS="1386"
+                    WIDTH="1095"
+                    HEIGHT="35"
+                    WC="0.9876683755167599"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8ce7c84"
+                    TAGREFS="LT6464"
+                    BASELINE="317 1435 1399 1438" 
+                    HPOS="316"
+                    VPOS="1414"
+                    WIDTH="1083"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="317 1435 316 1448 1396 1450 1399 1438 1398 1418 317 1414 317 1435"/></Shape>
+	    <String CONTENT="mal. Inꝑfecamẽt haguera fet na si hagues donat ales coses aĩades potencia cobehegyosa per la q̈l esquassen"
+                    HPOS="316"
+                    VPOS="1414"
+                    WIDTH="1083"
+                    HEIGHT="36"
+                    WC="0.9888363888970128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35ffaf74"
+                    TAGREFS="LT6464"
+                    BASELINE="317 1465 1413 1465" 
+                    HPOS="317"
+                    VPOS="1446"
+                    WIDTH="1096"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="317 1465 317 1479 1412 1477 1413 1465 1411 1446 317 1446 317 1465"/></Shape>
+	    <String CONTENT="mals/ e segunssen bens si nols hagues donadͦ potẽcia irosa per la q̈l anassen cõtra les coses qui empatxẽ o destor"
+                    HPOS="317"
+                    VPOS="1446"
+                    WIDTH="1096"
+                    HEIGHT="33"
+                    WC="0.9748737554774325"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38452bd1"
+                    TAGREFS="LT6464"
+                    BASELINE="316 1494 1413 1491" 
+                    HPOS="315"
+                    VPOS="1473"
+                    WIDTH="1098"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="316 1494 316 1508 1365 1509 1366 1509 1413 1502 1413 1491 1411 1473 315 1473 316 1494"/></Shape>
+	    <String CONTENT="ben aq̃lla delectaçio/ per ral donq̃s q̃ les coses aiades segons la manera qͥ aelles es couinent cõplidamẽt eꝑ fera"
+                    HPOS="315"
+                    VPOS="1473"
+                    WIDTH="1098"
+                    HEIGHT="36"
+                    WC="0.9718114445775242"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c43db3f9"
+                    TAGREFS="LT6464"
+                    BASELINE="316 1520 1408 1525" 
+                    HPOS="315"
+                    VPOS="1501"
+                    WIDTH="1093"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="316 1520 315 1532 1406 1536 1408 1525 1407 1503 316 1501 316 1520"/></Shape>
+	    <String CONTENT="ment se pusqñ delicar ꝑ potẽcia cobeegyosa es lus donada potẽçia irosa per la q̈l contrascen e uagencont᷑ aq̃lłs"
+                    HPOS="315"
+                    VPOS="1501"
+                    WIDTH="1093"
+                    HEIGHT="35"
+                    WC="0.9697670874924496"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9bbb22ed"
+                    TAGREFS="LT6464"
+                    BASELINE="314 1549 1410 1552" 
+                    HPOS="313"
+                    VPOS="1526"
+                    WIDTH="1097"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="314 1545 314 1549 313 1560 370 1568 371 1568 1408 1566 1410 1552 1408 1534 862 1534 860 1532 832 1526 831 1526 320 1531 314 1545"/></Shape>
+	    <String CONTENT="coses qui empatxẽ aq̃lla delectacio Donq̃s doble es lappetiment sensitiu ço es asaber iros e cobeegyos ¶Mas lap"
+                    HPOS="313"
+                    VPOS="1526"
+                    WIDTH="1097"
+                    HEIGHT="42"
+                    WC="0.9750663843830075"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd8657a1"
+                    TAGREFS="LT6464"
+                    BASELINE="315 1581 1402 1581" 
+                    HPOS="315"
+                    VPOS="1563"
+                    WIDTH="1087"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="315 1581 315 1597 1402 1596 1402 1581 1402 1563 315 1563 315 1581"/></Shape>
+	    <String CONTENT="petiment incellectui qui es appellat uollntat roman in diuisit ono de ꝑtit Quar cõ lenteniment guart lo"
+                    HPOS="315"
+                    VPOS="1563"
+                    WIDTH="1087"
+                    HEIGHT="34"
+                    WC="0.981186949289762"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c026cbe"
+                    TAGREFS="LT6464"
+                    BASELINE="315 1609 1391 1604" 
+                    HPOS="314"
+                    VPOS="1582"
+                    WIDTH="1077"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="1259 1582 1016 1588 970 1582 969 1582 968 1582 941 1588 888 1582 887 1582 708 1583 707 1583 686 1589 641 1583 640 1583 570 1591 565 1591 549 1591 331 1585 330 1585 328 1585 314 1589 315 1609 315 1622 1390 1616 1391 1604 1389 1588 1260 1582 1259 1582"/></Shape>
+	    <String CONTENT="seu obget ab manera pus uniũsal q̃ no fa lo seỹ lappetimẽt ola uolũtat intellectual qui seguex lenteniment"
+                    HPOS="314"
+                    VPOS="1582"
+                    WIDTH="1077"
+                    HEIGHT="40"
+                    WC="0.9839115998961708"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7aff638d"
+                    TAGREFS="LT6464"
+                    BASELINE="315 1638 1411 1632" 
+                    HPOS="314"
+                    VPOS="1610"
+                    WIDTH="1097"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="315 1638 315 1650 1183 1651 1184 1651 1411 1643 1411 1632 1408 1610 973 1610 972 1610 929 1614 906 1616 861 1615 753 1611 752 1611 702 1616 689 1617 662 1617 535 1612 533 1612 532 1612 531 1612 524 1619 523 1619 520 1619 489 1614 487 1614 314 1620 315 1638"/></Shape>
+	    <String CONTENT="es portat o ua enbe ab manera pus uniu̾sal q̃ no fa lappetimẽt o la uolũtat sensual/ E per tal cõ quãt mes al"
+                    HPOS="314"
+                    VPOS="1610"
+                    WIDTH="1097"
+                    HEIGHT="41"
+                    WC="0.9647921545315633"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fbde71de"
+                    TAGREFS="LT6464"
+                    BASELINE="315 1667 1400 1660" 
+                    HPOS="314"
+                    VPOS="1642"
+                    WIDTH="1086"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="314 1655 315 1667 315 1685 354 1679 470 1684 486 1684 487 1684 489 1684 491 1684 509 1678 626 1682 663 1683 665 1683 1399 1672 1400 1660 1396 1642 316 1649 314 1655"/></Shape>
+	    <String CONTENT="guna cosa es p̾sa sotmana unuisal entant ella estãt una macexa se exsten ames coses /. Iarsia q̃l appetiment"
+                    HPOS="314"
+                    VPOS="1642"
+                    WIDTH="1086"
+                    HEIGHT="43"
+                    WC="0.9860388324895036"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b033834b"
+                    TAGREFS="LT6464"
+                    BASELINE="316 1694 1408 1690" 
+                    HPOS="315"
+                    VPOS="1667"
+                    WIDTH="1093"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="316 1694 316 1705 400 1712 401 1712 402 1712 429 1706 658 1712 660 1712 939 1705 1041 1711 1042 1711 1084 1703 1258 1710 1259 1710 1408 1701 1408 1690 1405 1667 1332 1673 1148 1669 1044 1667 1043 1667 1024 1671 1002 1674 996 1671 993 1668 992 1668 991 1668 990 1668 972 1671 949 1674 927 1671 904 1668 902 1668 901 1668 900 1668 895 1672 890 1674 855 1672 816 1669 815 1669 729 1673 672 1676 603 1674 354 1669 353 1669 315 1677 316 1694"/></Shape>
+	    <String CONTENT="sensitiu sia altre e altre segons lo qual nos segui les coses delirables segõs sey corꝑal e escomarẽ les coses tri"
+                    HPOS="315"
+                    VPOS="1667"
+                    WIDTH="1093"
+                    HEIGHT="45"
+                    WC="0.9894657926312809"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_95b5cd11"
+                    TAGREFS="LT6464"
+                    BASELINE="315 1720 1405 1720" 
+                    HPOS="315"
+                    VPOS="1699"
+                    WIDTH="1090"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="315 1720 315 1756 481 1756 481 1754 486 1754 524 1745 605 1753 623 1754 625 1754 626 1754 627 1754 629 1753 649 1741 764 1752 794 1754 796 1756 849 1756 849 1754 850 1754 859 1751 888 1741 949 1741 975 1751 986 1754 987 1754 989 1754 1008 1751 1047 1741 1071 1750 1077 1752 1078 1752 1080 1752 1081 1752 1086 1750 1103 1741 1356 1741 1370 1748 1376 1752 1377 1752 1378 1752 1379 1752 1405 1747 1405 1720 1405 1702 315 1699 315 1720"/></Shape>
+	    <String CONTENT="bles. Emꝑo lappetiment incellectiu un matex ua en tot be incellectual. No es donq̃s altre lappetiment ĩtelleciui"
+                    HPOS="315"
+                    VPOS="1699"
+                    WIDTH="1090"
+                    HEIGHT="57"
+                    WC="0.9658192216822531"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

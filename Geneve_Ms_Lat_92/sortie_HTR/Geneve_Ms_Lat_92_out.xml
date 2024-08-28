@@ -1,0 +1,1756 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Geneve_Ms_Lat_92" xml:lang="la" type="transcription">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Geneve_Ms_Lat_92</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="facs_hoCHjE" points="2241,2669 2241,2696 2540,2702 2543,2666 2536,2624 2237,2621 2241,2669"
+      corresp="#elem_hoCHjE">
+      <graphic url="../lignes/e-codices_bge-lat0092_012v_max_hoCHjE.png"/>
+    </surface>
+    <surface xml:id="facs_jPEb4F"
+      points="1771,2723 1771,2750 2520,2743 2520,2717 2516,2687 2115,2678 2113,2678 1769,2691 1771,2723" corresp="#elem_jPEb4F">
+      <graphic url="../lignes/e-codices_bge-lat0092_012v_max_jPEb4F.png"/>
+    </surface>
+    <surface xml:id="facs_w9cBNA"
+      points="1771,2776 1771,2817 2171,2806 2185,2817 2191,2821 2193,2821 2195,2821 2198,2821 2225,2815 2275,2804 2310,2815 2325,2819 2327,2819 2330,2819 2332,2819 2345,2815 2366,2806 2412,2812 2416,2769 2412,2737 2048,2728 2046,2728 2044,2728 2042,2728 2029,2739 1946,2730 1944,2730 1886,2741 1840,2730 1838,2730 1836,2730 1769,2743 1771,2776"
+      corresp="#elem_w9cBNA">
+      <graphic url="../lignes/e-codices_bge-lat0092_012v_max_w9cBNA.png"/>
+    </surface>
+    <surface xml:id="facs_tQBxkL"
+      points="513,349 502,349 491,349 482,349 472,353 470,354 457,354 457,353 450,347 448,347 437,347 430,353 427,353 384,353 384,352 377,346 372,346 361,346 350,346 340,346 329,346 318,356 318,369 317,379 344,386 345,386 346,386 397,381 404,387 406,387 407,387 408,387 584,382 586,372 584,355 530,355 529,354 524,349 513,349"
+      corresp="#elem_tQBxkL">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_tQBxkL.png"/>
+    </surface>
+    <surface xml:id="facs_xXIKCM" points="318,385 318,397 318,412 578,407 578,397 577,379 320,381 318,385" corresp="#elem_xXIKCM">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_xXIKCM.png"/>
+    </surface>
+    <surface xml:id="facs_hkXIdO" points="317,421 317,434 581,431 581,421 581,407 317,404 317,421" corresp="#elem_hkXIdO">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_hkXIdO.png"/>
+    </surface>
+    <surface xml:id="facs_wPzsD2" points="315,445 314,454 337,461 337,461 338,462 579,462 580,447 578,427 315,427 315,445"
+      corresp="#elem_wPzsD2">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_wPzsD2.png"/>
+    </surface>
+    <surface xml:id="facs_fsYCzI" points="318,472 317,479 494,487 496,487 587,481 589,474 589,458 318,451 318,472"
+      corresp="#elem_fsYCzI">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_fsYCzI.png"/>
+    </surface>
+    <surface xml:id="facs_u5GYyU" points="212,484 201,486 190,488 190,497 190,509 589,509 589,497 589,481 223,481 212,484"
+      corresp="#elem_u5GYyU">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_u5GYyU.png"/>
+    </surface>
+    <surface xml:id="facs_rNNtah" points="191,524 191,538 590,533 590,524 590,506 191,506 191,524" corresp="#elem_rNNtah">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_rNNtah.png"/>
+    </surface>
+    <surface xml:id="facs_uCPS4l" points="191,545 190,557 591,562 593,548 592,533 191,529 191,545" corresp="#elem_uCPS4l">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_uCPS4l.png"/>
+    </surface>
+    <surface xml:id="facs_fsG6Wh" points="190,569 189,582 202,587 203,587 205,587 574,587 575,571 574,555 190,554 190,569"
+      corresp="#elem_fsG6Wh">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_fsG6Wh.png"/>
+    </surface>
+    <surface xml:id="facs_s5Yoyo"
+      points="189,601 189,614 238,608 311,613 346,614 347,614 396,610 435,607 466,608 567,613 568,613 569,613 570,613 570,611 575,606 575,598 574,583 381,577 380,577 338,583 208,578 206,578 205,578 188,583 189,601"
+      corresp="#elem_s5Yoyo">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_s5Yoyo.png"/>
+    </surface>
+    <surface xml:id="facs_ywCm9q" points="189,628 189,637 579,642 580,628 580,610 189,610 189,628" corresp="#elem_ywCm9q">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_ywCm9q.png"/>
+    </surface>
+    <surface xml:id="facs_eiZXCR" points="189,653 189,662 565,668 566,653 566,637 189,633 189,653" corresp="#elem_eiZXCR">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eiZXCR.png"/>
+    </surface>
+    <surface xml:id="facs_mYvWNJ"
+      points="189,680 189,694 438,692 458,688 465,687 482,688 545,692 547,692 587,685 587,676 584,658 188,664 189,680"
+      corresp="#elem_mYvWNJ">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_mYvWNJ.png"/>
+    </surface>
+    <surface xml:id="facs_m8WJYs"
+      points="189,703 188,710 230,718 232,718 232,718 247,712 266,718 267,718 268,718 325,712 385,719 386,719 490,719 490,719 491,719 504,713 553,719 554,719 580,712 581,704 580,688 189,686 189,703"
+      corresp="#elem_m8WJYs">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_m8WJYs.png"/>
+    </surface>
+    <surface xml:id="facs_txhMvZ" points="189,727 188,736 447,743 448,743 575,738 575,731 575,712 189,711 189,727"
+      corresp="#elem_txhMvZ">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_txhMvZ.png"/>
+    </surface>
+    <surface xml:id="facs_hbkpVi"
+      points="189,757 189,767 364,769 365,769 365,769 381,765 389,764 423,765 521,769 523,769 575,763 577,754 575,739 393,733 392,733 310,739 206,734 205,734 205,734 188,739 189,757"
+      corresp="#elem_hbkpVi">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_hbkpVi.png"/>
+    </surface>
+    <surface xml:id="facs_lL2RY3" points="189,779 189,791 580,791 580,779 579,760 189,761 189,779" corresp="#elem_lL2RY3">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_lL2RY3.png"/>
+    </surface>
+    <surface xml:id="facs_pa54x4"
+      points="189,808 189,821 547,821 547,820 587,814 587,804 584,789 320,785 319,785 318,785 317,785 308,790 196,786 194,786 193,786 193,786 188,789 189,808"
+      corresp="#elem_pa54x4">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_pa54x4.png"/>
+    </surface>
+    <surface xml:id="facs_dSToAj" points="188,832 188,842 567,843 569,830 566,814 187,814 188,832" corresp="#elem_dSToAj">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_dSToAj.png"/>
+    </surface>
+    <surface xml:id="facs_fHbQrd" points="189,854 189,869 570,869 570,854 569,836 189,836 189,854" corresp="#elem_fHbQrd">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_fHbQrd.png"/>
+    </surface>
+    <surface xml:id="facs_jq1xdT"
+      points="189,877 189,886 197,892 198,892 199,892 200,892 201,892 221,886 571,891 572,877 572,862 189,862 189,877"
+      corresp="#elem_jq1xdT">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_jq1xdT.png"/>
+    </surface>
+    <surface xml:id="facs_pFodwQ"
+      points="185,910 493,917 493,917 572,911 574,902 572,889 535,881 533,881 467,886 451,886 449,886 443,880 442,880 440,880 439,880 367,883 314,886 302,882 294,879 293,879 292,879 260,881 199,884 187,879 186,899 185,910"
+      corresp="#elem_pFodwQ">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_pFodwQ.png"/>
+    </surface>
+    <surface xml:id="facs_d9m8qe"
+      points="188,928 188,936 218,943 220,943 221,943 238,937 244,936 307,936 314,938 325,944 326,944 326,945 364,945 364,944 365,944 376,940 393,935 568,943 570,925 568,905 394,905 393,905 392,905 382,908 374,910 328,909 199,906 198,906 197,906 187,910 188,928"
+      corresp="#elem_d9m8qe">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_d9m8qe.png"/>
+    </surface>
+    <surface xml:id="facs_gaVyzv"
+      points="186,959 196,964 197,964 198,964 236,960 244,967 244,967 245,967 247,967 530,962 554,968 555,968 556,968 557,968 559,968 567,961 568,955 567,937 410,932 409,932 385,933 330,937 304,932 298,931 296,931 295,931 294,931 294,932 287,937 205,937 188,930 187,952 186,959"
+      corresp="#elem_gaVyzv">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_gaVyzv.png"/>
+    </surface>
+    <surface xml:id="facs_aEmvJy" points="577,958 205,962 188,957 187,980 187,991 579,991 579,980 578,961 577,958"
+      corresp="#elem_aEmvJy">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_aEmvJy.png"/>
+    </surface>
+    <surface xml:id="facs_ibNLQU"
+      points="188,1002 187,1011 214,1018 215,1018 216,1019 371,1019 371,1018 372,1018 382,1014 385,1018 386,1018 386,1019 387,1019 388,1019 389,1019 581,1013 582,1004 581,989 188,986 188,1002"
+      corresp="#elem_ibNLQU">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_ibNLQU.png"/>
+    </surface>
+    <surface xml:id="facs_g4PkFj"
+      points="187,1035 205,1041 205,1041 206,1041 584,1037 586,1028 584,1014 477,1007 476,1007 475,1007 474,1007 470,1011 465,1014 393,1014 389,1010 388,1007 387,1007 387,1007 386,1007 385,1007 384,1007 383,1007 376,1009 370,1012 341,1009 323,1007 322,1007 299,1007 216,1012 189,1006 188,1026 187,1035"
+      corresp="#elem_g4PkFj">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_g4PkFj.png"/>
+    </surface>
+    <surface xml:id="facs_n8EoaI" points="186,1049 185,1063 565,1063 566,1052 565,1037 186,1034 186,1049" corresp="#elem_n8EoaI">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_n8EoaI.png"/>
+    </surface>
+    <surface xml:id="facs_ouXK5R"
+      points="181,1074 179,1085 196,1092 197,1092 198,1092 247,1087 328,1092 329,1092 330,1092 344,1087 396,1093 397,1093 583,1087 584,1076 583,1058 181,1055 181,1074"
+      corresp="#elem_ouXK5R">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_ouXK5R.png"/>
+    </surface>
+    <surface xml:id="facs_fBhXYv"
+      points="184,1102 182,1115 189,1119 190,1119 191,1119 193,1119 381,1114 535,1120 536,1120 579,1114 580,1104 579,1088 184,1085 184,1102"
+      corresp="#elem_fBhXYv">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_fBhXYv.png"/>
+    </surface>
+    <surface xml:id="facs_rcqXcO" points="188,1129 188,1140 578,1140 578,1129 577,1109 188,1109 188,1129" corresp="#elem_rcqXcO">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_rcqXcO.png"/>
+    </surface>
+    <surface xml:id="facs_zzG0eS" points="187,1154 187,1163 527,1169 528,1169 568,1162 568,1154 568,1138 187,1133 187,1154"
+      corresp="#elem_zzG0eS">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_zzG0eS.png"/>
+    </surface>
+    <surface xml:id="facs_fqWh5m" points="580,1163 185,1162 185,1181 185,1196 581,1190 581,1181 581,1170 580,1163"
+      corresp="#elem_fqWh5m">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_fqWh5m.png"/>
+    </surface>
+    <surface xml:id="facs_oJGtTu"
+      points="579,1190 511,1185 509,1185 509,1185 508,1185 502,1190 501,1192 451,1192 449,1190 431,1184 431,1184 430,1184 186,1187 186,1205 185,1212 580,1216 582,1208 581,1195 579,1190"
+      corresp="#elem_oJGtTu">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_oJGtTu.png"/>
+    </surface>
+    <surface xml:id="facs_fyBxE2"
+      points="187,1229 187,1240 578,1240 578,1229 578,1216 513,1209 512,1209 511,1209 498,1214 477,1209 476,1209 475,1209 474,1209 463,1214 462,1216 424,1216 424,1214 419,1210 419,1209 418,1209 416,1209 415,1209 377,1214 374,1214 371,1214 333,1209 332,1209 187,1213 187,1229"
+      corresp="#elem_fyBxE2">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_fyBxE2.png"/>
+    </surface>
+    <surface xml:id="facs_cM0UX4"
+      points="184,1256 184,1267 316,1272 317,1272 376,1267 435,1271 436,1271 437,1271 451,1264 452,1264 464,1264 570,1270 571,1270 572,1270 587,1263 587,1252 582,1231 554,1237 508,1232 500,1232 499,1232 498,1232 497,1232 497,1233 489,1237 361,1236 193,1234 193,1234 191,1234 182,1237 184,1256"
+      corresp="#elem_cM0UX4">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_cM0UX4.png"/>
+    </surface>
+    <surface xml:id="facs_zJo8UP" points="185,1279 184,1287 317,1295 318,1295 582,1290 583,1282 582,1267 185,1259 185,1279"
+      corresp="#elem_zJo8UP">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_zJo8UP.png"/>
+    </surface>
+    <surface xml:id="facs_utk9jG" points="185,1306 184,1316 577,1322 579,1307 578,1290 185,1288 185,1306" corresp="#elem_utk9jG">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_utk9jG.png"/>
+    </surface>
+    <surface xml:id="facs_qjoHBe"
+      points="182,1331 182,1345 266,1341 274,1345 276,1348 277,1348 278,1348 279,1349 334,1349 334,1348 354,1345 371,1342 380,1345 392,1349 393,1349 394,1349 446,1345 460,1343 461,1345 467,1350 469,1350 470,1350 470,1351 550,1351 550,1350 551,1350 565,1343 566,1336 566,1318 182,1314 182,1331"
+      corresp="#elem_qjoHBe">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_qjoHBe.png"/>
+    </surface>
+    <surface xml:id="facs_tiRcjV" points="185,1355 184,1364 504,1373 505,1373 568,1368 569,1361 569,1345 185,1340 185,1355"
+      corresp="#elem_tiRcjV">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_tiRcjV.png"/>
+    </surface>
+    <surface xml:id="facs_yzTme4"
+      points="574,1369 496,1363 494,1363 450,1368 446,1368 443,1368 410,1361 409,1361 408,1361 407,1361 400,1367 373,1361 372,1361 182,1364 182,1380 182,1400 201,1408 202,1408 203,1408 205,1408 224,1402 232,1408 233,1408 235,1408 236,1408 272,1403 275,1403 277,1403 306,1409 307,1409 308,1409 310,1409 317,1404 322,1400 337,1405 355,1409 356,1409 357,1409 358,1409 359,1409 364,1405 367,1403 370,1406 373,1408 374,1408 376,1408 376,1408 377,1408 379,1408 381,1406 386,1402 416,1402 445,1402 450,1408 451,1408 451,1409 452,1409 454,1409 454,1409 461,1408 488,1403 497,1409 500,1412 501,1412 502,1412 503,1412 574,1411 575,1385 575,1384 574,1369"
+      corresp="#elem_yzTme4">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_yzTme4.png"/>
+    </surface>
+    <surface xml:id="facs_c4YP2Q"
+      points="1100,349 1094,345 1065,345 1064,345 1063,345 1062,345 1050,354 906,345 905,345 904,345 902,345 902,345 902,346 892,355 714,355 695,347 688,349 688,372 688,383 733,389 734,389 778,385 789,384 802,385 835,389 836,389 895,386 955,384 965,388 970,389 971,389 972,389 985,388 1021,384 1100,389 1101,372 1101,371 1100,349"
+      corresp="#elem_c4YP2Q">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_c4YP2Q.png"/>
+    </surface>
+    <surface xml:id="facs_ooRMHz" points="687,397 687,408 1084,408 1084,397 1084,382 687,380 687,397" corresp="#elem_ooRMHz">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_ooRMHz.png"/>
+    </surface>
+    <surface xml:id="facs_y6AA4G"
+      points="688,424 688,433 701,439 703,439 703,439 743,434 886,439 887,439 889,439 902,433 940,438 941,439 1045,439 1045,438 1046,438 1057,433 1063,438 1064,438 1065,438 1066,438 1067,438 1088,431 1088,422 1085,407 910,401 909,401 881,407 727,403 726,403 687,408 688,424"
+      corresp="#elem_y6AA4G">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_y6AA4G.png"/>
+    </surface>
+    <surface xml:id="facs_fYZh0J" points="683,449 683,461 1079,459 1080,447 1078,427 698,427 697,427 696,427 682,431 683,449"
+      corresp="#elem_fYZh0J">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_fYZh0J.png"/>
+    </surface>
+    <surface xml:id="facs_r3ugXK" points="685,474 684,488 1075,488 1076,476 1075,458 685,458 685,474" corresp="#elem_r3ugXK">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_r3ugXK.png"/>
+    </surface>
+    <surface xml:id="facs_aHRlmH" points="687,500 687,512 1074,509 1075,498 1072,484 686,485 687,500" corresp="#elem_aHRlmH">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_aHRlmH.png"/>
+    </surface>
+    <surface xml:id="facs_gsdxIZ" points="688,527 688,536 1075,537 1077,524 1075,509 687,508 688,527" corresp="#elem_gsdxIZ">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_gsdxIZ.png"/>
+    </surface>
+    <surface xml:id="facs_dN2if7"
+      points="685,548 685,560 1074,563 1076,547 1074,533 692,529 692,529 691,529 689,529 684,532 685,548" corresp="#elem_dN2if7">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_dN2if7.png"/>
+    </surface>
+    <surface xml:id="facs_x5KcXY" points="685,575 685,587 1084,587 1085,571 1082,557 684,556 685,575" corresp="#elem_x5KcXY">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_x5KcXY.png"/>
+    </surface>
+    <surface xml:id="facs_o31bQr" points="686,601 686,614 1079,607 1080,598 1078,582 685,580 686,601" corresp="#elem_o31bQr">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_o31bQr.png"/>
+    </surface>
+    <surface xml:id="facs_pD3K0J"
+      points="686,626 686,638 957,643 958,643 1094,635 1094,623 1091,608 1007,608 987,602 986,602 985,602 984,602 983,602 983,603 976,608 941,603 940,603 897,609 896,609 821,603 820,603 819,603 818,603 808,610 738,604 737,604 685,611 686,626"
+      corresp="#elem_pD3K0J">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_pD3K0J.png"/>
+    </surface>
+    <surface xml:id="facs_riobV9" points="686,653 686,664 941,668 943,668 1073,660 1074,650 1070,634 685,637 686,653"
+      corresp="#elem_riobV9">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_riobV9.png"/>
+    </surface>
+    <surface xml:id="facs_qq9e1J" points="687,679 687,691 1082,687 1084,676 1080,662 686,664 687,679" corresp="#elem_qq9e1J">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_qq9e1J.png"/>
+    </surface>
+    <surface xml:id="facs_jgkBeU"
+      points="685,707 686,722 707,715 835,721 836,721 836,721 838,721 845,715 890,719 891,719 892,719 893,719 893,719 898,714 1070,719 1073,704 1069,689 684,691 685,707"
+      corresp="#elem_jgkBeU">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_jgkBeU.png"/>
+    </surface>
+    <surface xml:id="facs_ywbBzs" points="687,731 687,746 1068,740 1068,731 1068,715 687,715 687,731" corresp="#elem_ywbBzs">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_ywbBzs.png"/>
+    </surface>
+    <surface xml:id="facs_sTGQkM"
+      points="685,757 685,772 819,772 819,770 820,770 821,770 824,767 829,765 844,767 867,770 868,770 869,770 886,766 896,764 943,765 1073,769 1074,769 1075,769 1076,769 1084,762 1084,752 1080,737 684,740 685,757"
+      corresp="#elem_sTGQkM">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_sTGQkM.png"/>
+    </surface>
+    <surface xml:id="facs_swucdA" points="685,781 685,791 1084,791 1084,781 1084,765 685,763 685,781" corresp="#elem_swucdA">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_swucdA.png"/>
+    </surface>
+    <surface xml:id="facs_gLEWEy"
+      points="1090,788 685,787 686,808 686,817 819,823 820,823 821,823 835,816 836,816 892,816 913,816 956,821 957,821 1013,816 1084,820 1085,820 1085,820 1087,820 1093,814 1093,804 1092,797 1090,788"
+      corresp="#elem_gLEWEy">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_gLEWEy.png"/>
+    </surface>
+    <surface xml:id="facs_hMSf6M"
+      points="685,830 685,841 838,847 839,847 840,847 851,841 852,841 867,847 868,847 869,847 870,847 871,847 880,841 881,841 906,847 907,847 908,847 925,841 926,841 929,841 976,847 977,847 1043,841 1055,847 1057,847 1057,847 1058,847 1080,840 1080,830 1080,816 685,816 685,830"
+      corresp="#elem_hMSf6M">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_hMSf6M.png"/>
+    </surface>
+    <surface xml:id="facs_tTZH5Z" points="684,855 684,870 1079,865 1079,855 1079,840 684,840 684,855" corresp="#elem_tTZH5Z">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_tTZH5Z.png"/>
+    </surface>
+    <surface xml:id="facs_crBzwM" points="683,878 683,889 1062,886 1063,875 1060,860 682,862 683,878" corresp="#elem_crBzwM">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_crBzwM.png"/>
+    </surface>
+    <surface xml:id="facs_yBw2Ar" points="683,904 683,918 1076,913 1077,902 1075,886 682,883 683,904" corresp="#elem_yBw2Ar">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_yBw2Ar.png"/>
+    </surface>
+    <surface xml:id="facs_inKrCf" points="684,930 684,945 1081,937 1082,925 1080,910 782,907 781,907 683,913 684,930"
+      corresp="#elem_inKrCf">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_inKrCf.png"/>
+    </surface>
+    <surface xml:id="facs_bxFQcZ" points="685,956 685,968 1060,965 1061,953 1057,937 684,937 685,956" corresp="#elem_bxFQcZ">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_bxFQcZ.png"/>
+    </surface>
+    <surface xml:id="facs_xOQSaZ" points="684,982 684,989 1079,986 1079,979 1077,963 683,962 684,982" corresp="#elem_xOQSaZ">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_xOQSaZ.png"/>
+    </surface>
+    <surface xml:id="facs_pfTmfb"
+      points="684,1006 683,1021 1070,1021 1072,1009 1072,991 1063,986 1062,986 1061,986 1060,986 1014,992 1001,992 962,992 962,991 957,987 957,986 956,986 955,986 953,986 930,991 924,986 924,985 923,985 922,985 921,985 684,988 684,1006"
+      corresp="#elem_pfTmfb">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_pfTmfb.png"/>
+    </surface>
+    <surface xml:id="facs_qA6WpN" points="684,1030 683,1041 1061,1040 1062,1031 1061,1016 684,1014 684,1030"
+      corresp="#elem_qA6WpN">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_qA6WpN.png"/>
+    </surface>
+    <surface xml:id="facs_vKYQcZ" points="685,1053 685,1063 1060,1062 1061,1051 1057,1037 684,1038 685,1053"
+      corresp="#elem_vKYQcZ">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_vKYQcZ.png"/>
+    </surface>
+    <surface xml:id="facs_lMtyon"
+      points="682,1078 682,1089 1070,1085 1072,1074 1069,1057 1018,1053 1018,1053 1016,1053 1006,1057 1001,1058 996,1057 987,1053 986,1053 985,1053 984,1053 983,1053 980,1057 976,1060 930,1060 924,1057 921,1054 920,1054 919,1054 918,1054 865,1057 747,1062 680,1057 682,1078"
+      corresp="#elem_lMtyon">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_lMtyon.png"/>
+    </surface>
+    <surface xml:id="facs_bHuuWa" points="682,1104 682,1119 1065,1112 1066,1102 1064,1087 725,1082 724,1082 680,1088 682,1104"
+      corresp="#elem_bHuuWa">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_bHuuWa.png"/>
+    </surface>
+    <surface xml:id="facs_t0tvwh" points="683,1130 683,1143 1066,1140 1067,1128 1065,1112 755,1108 754,1108 682,1114 683,1130"
+      corresp="#elem_t0tvwh">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_t0tvwh.png"/>
+    </surface>
+    <surface xml:id="facs_dXucVj" points="680,1155 680,1166 1064,1166 1065,1153 1062,1138 680,1139 680,1155"
+      corresp="#elem_dXucVj">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_dXucVj.png"/>
+    </surface>
+    <surface xml:id="facs_jLkOxy" points="682,1181 680,1192 1062,1194 1064,1184 1062,1162 682,1162 682,1181"
+      corresp="#elem_jLkOxy">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_jLkOxy.png"/>
+    </surface>
+    <surface xml:id="facs_yOSbVT" points="1082,1207 1081,1190 682,1190 682,1207 680,1221 1082,1220 1084,1210 1082,1204 1082,1207"
+      corresp="#elem_yOSbVT">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_yOSbVT.png"/>
+    </surface>
+    <surface xml:id="facs_qzSz3C" points="680,1233 680,1248 1068,1244 1069,1231 1066,1213 680,1216 680,1233"
+      corresp="#elem_qzSz3C">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_qzSz3C.png"/>
+    </surface>
+    <surface xml:id="facs_nqsKc9"
+      points="680,1256 680,1271 1075,1265 1076,1253 1074,1240 959,1240 944,1234 943,1234 941,1234 913,1240 909,1240 904,1240 841,1235 840,1235 680,1240 680,1256"
+      corresp="#elem_nqsKc9">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_nqsKc9.png"/>
+    </surface>
+    <surface xml:id="facs_iW4lH2" points="682,1283 682,1295 1073,1292 1074,1280 1072,1265 930,1260 929,1260 680,1267 682,1283"
+      corresp="#elem_iW4lH2">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_iW4lH2.png"/>
+    </surface>
+    <surface xml:id="facs_aut63z" points="680,1309 680,1324 1062,1318 1063,1306 1061,1290 679,1290 680,1309"
+      corresp="#elem_aut63z">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_aut63z.png"/>
+    </surface>
+    <surface xml:id="facs_k7h9hZ" points="675,1333 674,1345 1066,1348 1068,1334 1068,1315 675,1315 675,1333"
+      corresp="#elem_k7h9hZ">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_k7h9hZ.png"/>
+    </surface>
+    <surface xml:id="facs_ruqTAV"
+      points="676,1361 676,1375 703,1372 737,1375 760,1377 761,1377 762,1377 763,1377 766,1375 770,1370 779,1373 788,1377 789,1377 790,1377 812,1373 828,1370 886,1372 1018,1375 1018,1375 1055,1367 1057,1356 1053,1341 675,1345 676,1361"
+      corresp="#elem_ruqTAV">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_ruqTAV.png"/>
+    </surface>
+    <surface xml:id="facs_sHuhKK"
+      points="684,1387 685,1411 713,1404 750,1404 757,1411 758,1411 758,1411 758,1411 760,1411 761,1412 808,1412 808,1411 809,1411 811,1411 811,1411 813,1409 818,1404 830,1409 836,1411 836,1411 838,1411 839,1411 840,1411 843,1409 853,1403 889,1403 909,1408 918,1411 919,1411 920,1411 941,1408 980,1403 997,1407 1009,1411 1010,1411 1011,1411 1038,1411 1038,1411 1039,1411 1040,1411 1045,1407 1049,1403 1065,1406 1066,1384 1064,1366 821,1365 820,1365 792,1370 789,1370 787,1370 766,1365 765,1365 764,1365 683,1372 684,1387"
+      corresp="#elem_sHuhKK">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_sHuhKK.png"/>
+    </surface>
+    <surface xml:id="facs_mreDPM"
+      points="773,337 762,337 751,337 740,337 731,337 726,342 650,342 637,337 632,337 621,337 617,337 611,341 515,341 509,337 502,337 491,337 481,337 470,337 459,337 448,337 437,337 426,337 416,337 403,338 399,337 394,337 393,335 384,332 383,356 382,367 777,367 778,359 778,337 773,337"
+      corresp="#elem_mreDPM">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_mreDPM.png"/>
+    </surface>
+    <surface xml:id="facs_uOfSVG" points="382,380 381,389 700,398 701,398 772,393 773,384 772,369 382,364 382,380"
+      corresp="#elem_uOfSVG">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_uOfSVG.png"/>
+    </surface>
+    <surface xml:id="facs_uhDLc8" points="383,407 382,420 773,420 774,410 773,394 383,391 383,407" corresp="#elem_uhDLc8">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_uhDLc8.png"/>
+    </surface>
+    <surface xml:id="facs_d5NjcP" points="384,433 383,446 762,449 764,439 763,423 384,416 384,433" corresp="#elem_d5NjcP">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_d5NjcP.png"/>
+    </surface>
+    <surface xml:id="facs_rCFSlX" points="383,455 382,472 769,472 769,461 769,443 383,440 383,455" corresp="#elem_rCFSlX">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_rCFSlX.png"/>
+    </surface>
+    <surface xml:id="facs_bROnJX"
+      points="383,481 382,490 498,498 499,498 563,493 577,499 578,499 579,499 772,494 773,486 772,469 383,465 383,481"
+      corresp="#elem_bROnJX">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_bROnJX.png"/>
+    </surface>
+    <surface xml:id="facs_fGHzSy" points="384,509 383,517 493,518 509,525 509,525 511,525 762,520 763,513 762,496 384,493 384,509"
+      corresp="#elem_fGHzSy">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_fGHzSy.png"/>
+    </surface>
+    <surface xml:id="facs_pLCGpg" points="773,536 766,521 383,517 383,535 382,547 772,548 774,539 774,523 773,521 773,536"
+      corresp="#elem_pLCGpg">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_pLCGpg.png"/>
+    </surface>
+    <surface xml:id="facs_tvZoRA" points="383,557 382,569 766,575 769,562 769,547 383,542 383,557" corresp="#elem_tvZoRA">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_tvZoRA.png"/>
+    </surface>
+    <surface xml:id="facs_f3Wjhd" points="765,569 383,566 383,582 382,598 772,598 773,587 772,581 765,569" corresp="#elem_f3Wjhd">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_f3Wjhd.png"/>
+    </surface>
+    <surface xml:id="facs_mZdfiJ" points="382,609 381,623 763,623 764,611 762,590 382,592 382,609" corresp="#elem_mZdfiJ">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_mZdfiJ.png"/>
+    </surface>
+    <surface xml:id="facs_tKHFmb" points="382,635 381,644 401,650 403,650 404,650 765,646 766,637 765,620 382,617 382,635"
+      corresp="#elem_tKHFmb">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_tKHFmb.png"/>
+    </surface>
+    <surface xml:id="facs_xR3qti" points="382,647 382,661 382,672 764,675 765,661 765,647 385,643 382,647" corresp="#elem_xR3qti">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_xR3qti.png"/>
+    </surface>
+    <surface xml:id="facs_zHFFM0" points="382,687 382,699 758,699 758,687 758,671 382,667 382,687" corresp="#elem_zHFFM0">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_zHFFM0.png"/>
+    </surface>
+    <surface xml:id="facs_vsGUTK" points="381,713 381,728 763,724 763,713 763,699 381,697 381,713" corresp="#elem_vsGUTK">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_vsGUTK.png"/>
+    </surface>
+    <surface xml:id="facs_hct0yh" points="382,738 381,752 758,754 760,740 760,724 382,722 382,738" corresp="#elem_hct0yh">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_hct0yh.png"/>
+    </surface>
+    <surface xml:id="facs_aqHuvx" points="381,751 381,764 381,774 754,776 755,764 755,748 383,748 381,751" corresp="#elem_aqHuvx">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_aqHuvx.png"/>
+    </surface>
+    <surface xml:id="facs_culkGa"
+      points="380,787 379,801 770,801 772,790 772,776 727,776 726,775 719,769 719,769 718,769 716,769 692,775 688,775 618,775 617,774 613,769 613,769 611,769 610,769 609,769 587,773 581,774 574,773 548,769 548,769 530,772 521,774 509,772 485,767 484,767 380,769 380,787"
+      corresp="#elem_culkGa">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_culkGa.png"/>
+    </surface>
+    <surface xml:id="facs_eo1Wot" points="382,813 381,821 773,826 775,817 775,802 382,797 382,813" corresp="#elem_eo1Wot">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eo1Wot.png"/>
+    </surface>
+    <surface xml:id="facs_lPEwa5" points="382,838 381,851 773,851 774,841 774,827 746,820 382,820 382,838" corresp="#elem_lPEwa5">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_lPEwa5.png"/>
+    </surface>
+    <surface xml:id="facs_gWExKE" points="382,860 381,875 458,872 494,878 503,879 504,880 769,880 769,866 769,850 382,844 382,860"
+      corresp="#elem_gWExKE">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_gWExKE.png"/>
+    </surface>
+    <surface xml:id="facs_qHjXfr" points="381,887 380,899 764,899 765,891 765,877 614,869 613,869 381,872 381,887"
+      corresp="#elem_qHjXfr">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_qHjXfr.png"/>
+    </surface>
+    <surface xml:id="facs_cWqUAQ" points="379,911 377,926 769,928 772,913 769,893 379,894 379,911" corresp="#elem_cWqUAQ">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_cWqUAQ.png"/>
+    </surface>
+    <surface xml:id="facs_vLik5t" points="770,936 764,922 381,919 381,935 380,949 775,949 776,940 776,923 770,922 770,936"
+      corresp="#elem_vLik5t">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_vLik5t.png"/>
+    </surface>
+    <surface xml:id="facs_uB1t5T" points="380,960 379,968 758,972 760,963 758,947 380,943 380,960" corresp="#elem_uB1t5T">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_uB1t5T.png"/>
+    </surface>
+    <surface xml:id="facs_kmbVVE"
+      points="380,986 379,1001 505,998 552,1001 595,1004 596,1004 620,1001 633,999 656,1000 727,1006 728,1006 760,999 761,989 761,973 380,970 380,986"
+      corresp="#elem_kmbVVE">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_kmbVVE.png"/>
+    </surface>
+    <surface xml:id="facs_wg7d4r"
+      points="381,1011 380,1026 476,1023 502,1028 509,1030 509,1030 523,1028 571,1024 591,1030 593,1030 594,1030 595,1030 764,1030 765,1014 765,999 381,996 381,1011"
+      corresp="#elem_wg7d4r">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_wg7d4r.png"/>
+    </surface>
+    <surface xml:id="facs_g6hpse" points="383,1037 382,1048 755,1048 757,1039 755,1024 383,1022 383,1037" corresp="#elem_g6hpse">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_g6hpse.png"/>
+    </surface>
+    <surface xml:id="facs_aVhsxC"
+      points="382,1058 381,1068 395,1074 396,1074 397,1074 509,1069 517,1075 518,1075 520,1075 520,1075 772,1070 773,1062 772,1041 382,1042 382,1058"
+      corresp="#elem_aVhsxC">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_aVhsxC.png"/>
+    </surface>
+    <surface xml:id="facs_tmHMvM"
+      points="381,1092 773,1099 775,1089 775,1074 686,1073 683,1070 674,1066 673,1066 672,1066 649,1069 634,1072 628,1068 619,1065 618,1065 617,1065 616,1065 614,1065 610,1068 606,1070 531,1066 509,1065 509,1065 503,1065 464,1069 446,1064 443,1063 443,1063 442,1063 436,1063 400,1068 383,1062 382,1084 381,1092"
+      corresp="#elem_tmHMvM">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_tmHMvM.png"/>
+    </surface>
+    <surface xml:id="facs_y8n4rJ"
+      points="770,1112 763,1096 381,1096 381,1112 381,1128 545,1124 575,1127 634,1130 635,1130 662,1126 667,1124 668,1126 672,1129 672,1130 673,1130 674,1130 675,1131 718,1131 718,1130 719,1130 719,1130 725,1124 726,1124 774,1124 774,1112 773,1096 770,1112"
+      corresp="#elem_y8n4rJ">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_y8n4rJ.png"/>
+    </surface>
+    <surface xml:id="facs_pRj1lD"
+      points="381,1140 380,1147 766,1150 769,1142 767,1126 734,1118 733,1118 684,1124 682,1124 680,1124 662,1118 661,1118 660,1118 659,1118 658,1118 652,1124 642,1118 641,1118 640,1118 638,1118 637,1118 629,1124 628,1126 590,1126 586,1124 548,1117 547,1117 381,1123 381,1140"
+      corresp="#elem_pRj1lD">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_pRj1lD.png"/>
+    </surface>
+    <surface xml:id="facs_lXJ9IS"
+      points="380,1174 404,1182 406,1182 407,1182 533,1177 543,1182 544,1182 545,1182 547,1182 587,1178 676,1183 677,1183 679,1183 696,1178 740,1183 742,1183 742,1183 765,1177 766,1168 765,1151 391,1151 383,1145 381,1166 380,1174"
+      corresp="#elem_lXJ9IS">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_lXJ9IS.png"/>
+    </surface>
+    <surface xml:id="facs_myGU4e"
+      points="383,1193 383,1204 539,1204 547,1209 548,1209 548,1209 550,1209 551,1209 567,1204 582,1209 583,1209 584,1209 769,1202 769,1193 769,1178 383,1172 383,1193"
+      corresp="#elem_myGU4e">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_myGU4e.png"/>
+    </surface>
+    <surface xml:id="facs_uscBHB"
+      points="380,1229 571,1228 598,1229 664,1235 665,1235 667,1235 668,1235 674,1229 675,1229 679,1229 736,1235 737,1235 767,1228 769,1220 767,1204 593,1204 581,1199 572,1197 571,1197 570,1197 515,1198 398,1201 382,1196 381,1218 380,1229"
+      corresp="#elem_uscBHB">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_uscBHB.png"/>
+    </surface>
+    <surface xml:id="facs_gt7I0s"
+      points="382,1245 382,1256 721,1259 722,1259 762,1252 762,1245 762,1229 694,1229 692,1229 684,1223 683,1223 682,1223 680,1223 680,1223 665,1228 664,1229 382,1225 382,1245"
+      corresp="#elem_gt7I0s">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_gt7I0s.png"/>
+    </surface>
+    <surface xml:id="facs_ydaKKv" points="382,1268 382,1279 766,1282 769,1265 765,1251 381,1251 382,1268" corresp="#elem_ydaKKv">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_ydaKKv.png"/>
+    </surface>
+    <surface xml:id="facs_kyocL5"
+      points="764,1277 381,1274 381,1294 381,1302 474,1309 475,1309 531,1303 565,1309 566,1310 715,1310 715,1309 740,1303 762,1309 763,1309 764,1309 765,1309 766,1309 773,1303 773,1294 770,1294 764,1277"
+      corresp="#elem_kyocL5">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_kyocL5.png"/>
+    </surface>
+    <surface xml:id="facs_gHfroy"
+      points="381,1315 380,1325 404,1333 406,1333 407,1333 516,1327 575,1334 577,1334 605,1328 614,1334 614,1334 616,1334 617,1334 762,1327 763,1318 762,1302 381,1300 381,1315"
+      corresp="#elem_gHfroy">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_gHfroy.png"/>
+    </surface>
+    <surface xml:id="facs_tgTmZn"
+      points="380,1340 379,1351 386,1355 387,1355 388,1355 389,1355 601,1352 640,1357 641,1357 769,1352 770,1343 769,1323 512,1326 502,1321 501,1321 500,1321 499,1321 408,1325 380,1319 380,1340"
+      corresp="#elem_tgTmZn">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_tgTmZn.png"/>
+    </surface>
+    <surface xml:id="facs_b6Wlex"
+      points="379,1385 430,1400 431,1400 431,1400 526,1392 565,1389 575,1394 590,1400 591,1400 619,1402 620,1402 621,1402 622,1402 631,1396 643,1389 656,1397 660,1400 661,1400 662,1400 664,1400 664,1400 665,1400 670,1397 685,1390 709,1390 728,1400 734,1403 735,1403 736,1403 777,1402 778,1370 777,1354 418,1346 416,1346 393,1351 381,1345 380,1367 379,1385"
+      corresp="#elem_b6Wlex">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_b6Wlex.png"/>
+    </surface>
+    <surface xml:id="facs_sXd6qR"
+      points="1271,349 1260,349 1249,349 1238,349 1228,349 1217,347 1206,347 1195,347 1184,347 1174,346 1162,346 1151,346 1141,345 1130,345 1119,345 1116,344 881,343 881,361 882,376 899,371 932,376 937,376 938,376 1280,371 1280,361 1280,349 1271,349"
+      corresp="#elem_sXd6qR">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_sXd6qR.png"/>
+    </surface>
+    <surface xml:id="facs_szs97g" points="881,384 880,392 1263,395 1265,387 1264,371 881,368 881,384" corresp="#elem_szs97g">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_szs97g.png"/>
+    </surface>
+    <surface xml:id="facs_l4cHj1"
+      points="881,411 881,421 1271,420 1271,411 1268,391 1247,396 1226,391 1225,391 1224,391 1223,391 1222,391 1221,391 1209,396 1170,392 1158,391 1157,391 1156,391 1151,392 1135,396 1075,393 1030,391 1028,391 881,395 881,411"
+      corresp="#elem_l4cHj1">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_l4cHj1.png"/>
+    </surface>
+    <surface xml:id="facs_loP7Vv"
+      points="881,440 881,452 1275,445 1276,437 1274,422 1246,415 1245,415 1141,422 1041,416 1040,416 1009,423 982,418 980,418 980,418 979,418 968,424 913,424 891,418 890,418 889,418 887,418 886,418 880,422 881,440"
+      corresp="#elem_loP7Vv">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_loP7Vv.png"/>
+    </surface>
+    <surface xml:id="facs_gh4v2w"
+      points="879,463 879,475 1263,470 1263,463 1263,448 970,442 968,442 968,442 967,442 967,443 961,448 879,448 879,463"
+      corresp="#elem_gh4v2w">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_gh4v2w.png"/>
+    </surface>
+    <surface xml:id="facs_kbphPA"
+      points="882,488 881,498 884,501 884,502 886,502 886,502 887,502 961,497 992,502 994,502 1073,498 1078,502 1078,503 1079,503 1080,503 1081,503 1121,498 1130,503 1131,503 1132,503 1133,503 1135,503 1135,503 1142,498 1229,504 1229,504 1276,498 1277,491 1277,474 882,470 882,488"
+      corresp="#elem_kbphPA">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_kbphPA.png"/>
+    </surface>
+    <surface xml:id="facs_tlXv8i"
+      points="882,514 882,524 1268,524 1268,514 1268,499 946,493 945,493 944,493 930,498 916,493 914,493 913,493 882,498 882,514"
+      corresp="#elem_tlXv8i">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_tlXv8i.png"/>
+    </surface>
+    <surface xml:id="facs_lAJMO9" points="882,540 882,550 1273,550 1273,540 1273,525 882,524 882,540" corresp="#elem_lAJMO9">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_lAJMO9.png"/>
+    </surface>
+    <surface xml:id="facs_hoMmtr" points="878,563 877,571 1082,579 1084,579 1271,574 1272,565 1270,545 886,547 878,563"
+      corresp="#elem_hoMmtr">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_hoMmtr.png"/>
+    </surface>
+    <surface xml:id="facs_tU6V0m"
+      points="881,587 880,602 1075,598 1080,601 1088,605 1089,605 1090,605 1153,601 1167,599 1175,599 1221,605 1222,605 1270,598 1271,590 1270,574 1087,574 1085,572 1078,567 1077,567 1076,567 1075,567 881,570 881,587"
+      corresp="#elem_tU6V0m">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_tU6V0m.png"/>
+    </surface>
+    <surface xml:id="facs_mSCWC1" points="880,614 880,630 1268,625 1268,614 1268,601 880,601 880,614" corresp="#elem_mSCWC1">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_mSCWC1.png"/>
+    </surface>
+    <surface xml:id="facs_xCNJIf" points="882,641 882,652 1267,652 1268,638 1265,625 881,625 882,641" corresp="#elem_xCNJIf">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_xCNJIf.png"/>
+    </surface>
+    <surface xml:id="facs_uqzVcm"
+      points="880,664 879,671 979,679 980,679 1060,673 1075,680 1076,680 1077,680 1078,680 1094,674 1124,680 1124,680 1126,680 1144,674 1158,680 1159,680 1160,680 1162,680 1185,674 1250,680 1251,680 1252,680 1271,673 1272,665 1270,645 880,647 880,664"
+      corresp="#elem_uqzVcm">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_uqzVcm.png"/>
+    </surface>
+    <surface xml:id="facs_z4Qn2I"
+      points="879,688 879,700 886,706 887,706 889,706 890,706 891,706 902,700 932,706 933,707 980,707 980,706 980,706 982,706 989,700 1030,706 1030,706 1031,706 1045,700 1060,706 1061,706 1062,707 1165,707 1165,706 1166,706 1167,706 1175,700 1255,706 1256,706 1256,706 1273,699 1273,688 1273,673 879,668 879,688"
+      corresp="#elem_z4Qn2I">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_z4Qn2I.png"/>
+    </surface>
+    <surface xml:id="facs_dXtBso"
+      points="878,722 1270,725 1272,716 1270,696 1015,699 1012,695 1011,695 1011,694 1010,694 1009,694 1007,694 1003,694 893,698 880,692 879,713 878,722"
+      corresp="#elem_dXtBso">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_dXtBso.png"/>
+    </surface>
+    <surface xml:id="facs_eQz9gU" points="874,742 874,760 1270,754 1270,742 1270,728 874,726 874,742" corresp="#elem_eQz9gU">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eQz9gU.png"/>
+    </surface>
+    <surface xml:id="facs_hMiWjH" points="1272,757 1264,748 882,750 882,767 881,781 1273,777 1274,769 1272,749 1272,757"
+      corresp="#elem_hMiWjH">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_hMiWjH.png"/>
+    </surface>
+    <surface xml:id="facs_cZOLF8"
+      points="880,794 879,808 1259,804 1260,797 1259,781 1163,781 1162,779 1148,774 1147,774 1146,774 1096,778 1082,779 1080,778 1072,773 1070,773 1069,773 1068,773 880,776 880,794"
+      corresp="#elem_cZOLF8">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_cZOLF8.png"/>
+    </surface>
+    <surface xml:id="facs_ulMeAC" points="882,818 881,831 1262,832 1264,820 1263,804 882,803 882,818" corresp="#elem_ulMeAC">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_ulMeAC.png"/>
+    </surface>
+    <surface xml:id="facs_nBa3R1" points="882,842 881,853 1268,854 1271,844 1270,829 882,826 882,842" corresp="#elem_nBa3R1">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_nBa3R1.png"/>
+    </surface>
+    <surface xml:id="facs_x5KOnL" points="880,866 879,878 1262,883 1264,870 1264,854 880,850 880,866" corresp="#elem_x5KOnL">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_x5KOnL.png"/>
+    </surface>
+    <surface xml:id="facs_erE1HX" points="881,891 880,905 1275,904 1276,894 1276,878 881,875 881,891" corresp="#elem_erE1HX">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_erE1HX.png"/>
+    </surface>
+    <surface xml:id="facs_cYmg3q" points="881,917 881,928 1264,930 1267,916 1263,902 880,902 881,917" corresp="#elem_cYmg3q">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_cYmg3q.png"/>
+    </surface>
+    <surface xml:id="facs_tj3e9t" points="881,941 881,956 1263,950 1264,940 1261,925 880,926 881,941" corresp="#elem_tj3e9t">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_tj3e9t.png"/>
+    </surface>
+    <surface xml:id="facs_yNB149" points="878,964 877,979 1268,977 1268,967 1268,952 884,949 878,964" corresp="#elem_yNB149">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_yNB149.png"/>
+    </surface>
+    <surface xml:id="facs_lSkCjP"
+      points="880,994 880,1004 1265,1004 1265,994 1265,979 1153,972 1151,972 1116,977 1114,979 1030,979 1030,977 1023,972 1022,972 1021,972 1019,972 880,976 880,994"
+      corresp="#elem_lSkCjP">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_lSkCjP.png"/>
+    </surface>
+    <surface xml:id="facs_eN3Oap"
+      points="879,1026 1264,1030 1267,1018 1265,1002 1082,1002 1077,998 1074,996 1073,996 1072,996 1070,996 1011,997 892,1000 881,995 880,1015 879,1026"
+      corresp="#elem_eN3Oap">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eN3Oap.png"/>
+    </surface>
+    <surface xml:id="facs_pnA9g4" points="879,1039 878,1054 1038,1054 1039,1041 1038,1023 879,1023 879,1039"
+      corresp="#elem_pnA9g4">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_pnA9g4.png"/>
+    </surface>
+    <surface xml:id="facs_jd1bSr" points="884,1075 894,1078 895,1065 892,1046 882,1046 884,1066 884,1075" corresp="#elem_jd1bSr">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_jd1bSr.png"/>
+    </surface>
+    <surface xml:id="facs_mD064H"
+      points="980,1065 980,1074 1046,1080 1048,1080 1049,1080 1062,1074 1112,1079 1114,1079 1231,1077 1232,1077 1258,1069 1258,1061 1253,1040 1240,1046 1184,1042 1181,1042 1180,1042 1179,1042 1178,1042 1178,1043 1172,1049 1084,1049 1066,1046 1048,1042 1046,1042 979,1048 980,1065"
+      corresp="#elem_mD064H">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_mD064H.png"/>
+    </surface>
+    <surface xml:id="facs_mYMccS"
+      points="983,1090 983,1101 1263,1101 1263,1090 1263,1075 1250,1069 1249,1069 1248,1069 1105,1075 1068,1069 1067,1069 1066,1069 1054,1076 983,1076 983,1090"
+      corresp="#elem_mYMccS">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_mYMccS.png"/>
+    </surface>
+    <surface xml:id="facs_rBpabo"
+      points="983,1116 983,1127 1124,1132 1126,1132 1270,1124 1271,1114 1268,1100 988,1096 987,1096 986,1096 985,1096 985,1096 982,1099 983,1116"
+      corresp="#elem_rBpabo">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_rBpabo.png"/>
+    </surface>
+    <surface xml:id="facs_lAxWU3"
+      points="983,1144 983,1153 996,1159 997,1159 998,1159 999,1159 1014,1154 1096,1158 1096,1158 1097,1158 1119,1153 1258,1157 1259,1157 1260,1157 1274,1150 1274,1141 1272,1126 1181,1120 1180,1120 1179,1120 1178,1120 1178,1121 1172,1126 1038,1123 1037,1123 982,1128 983,1144"
+      corresp="#elem_lAxWU3">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_lAxWU3.png"/>
+    </surface>
+    <surface xml:id="facs_vHdMQ6"
+      points="877,1170 875,1184 961,1185 962,1185 963,1185 964,1185 965,1184 973,1180 998,1184 1014,1186 1015,1186 1028,1184 1043,1181 1058,1184 1080,1187 1081,1187 1082,1187 1084,1187 1088,1183 1091,1182 1150,1182 1163,1183 1212,1189 1213,1189 1262,1182 1263,1174 1262,1157 877,1148 877,1170"
+      corresp="#elem_vHdMQ6">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_vHdMQ6.png"/>
+    </surface>
+    <surface xml:id="facs_bFWls8" points="878,1198 878,1210 1256,1212 1259,1196 1256,1178 883,1182 878,1198"
+      corresp="#elem_bFWls8">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_bFWls8.png"/>
+    </surface>
+    <surface xml:id="facs_qJpUmr" points="879,1223 879,1235 1263,1233 1264,1221 1262,1207 1070,1201 1069,1201 878,1207 879,1223"
+      corresp="#elem_qJpUmr">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_qJpUmr.png"/>
+    </surface>
+    <surface xml:id="facs_oQYYrT" points="878,1246 877,1259 1268,1258 1270,1249 1270,1232 884,1231 878,1246"
+      corresp="#elem_oQYYrT">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_oQYYrT.png"/>
+    </surface>
+    <surface xml:id="facs_heUSkh" points="880,1268 879,1279 1260,1282 1262,1272 1261,1256 880,1253 880,1268"
+      corresp="#elem_heUSkh">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_heUSkh.png"/>
+    </surface>
+    <surface xml:id="facs_sSS6ao" points="881,1292 880,1301 1079,1309 1080,1309 1276,1303 1277,1295 1277,1279 881,1277 881,1292"
+      corresp="#elem_sSS6ao">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_sSS6ao.png"/>
+    </surface>
+    <surface xml:id="facs_m6KlOi" points="882,1318 881,1333 1252,1334 1255,1321 1253,1306 882,1303 882,1318"
+      corresp="#elem_m6KlOi">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_m6KlOi.png"/>
+    </surface>
+    <surface xml:id="facs_ttKzTd"
+      points="881,1345 880,1357 1276,1355 1277,1346 1276,1330 1106,1330 1102,1329 1079,1324 1078,1324 881,1327 881,1345"
+      corresp="#elem_ttKzTd">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_ttKzTd.png"/>
+    </surface>
+    <surface xml:id="facs_qRWwDN"
+      points="881,1370 881,1396 930,1391 940,1397 944,1400 945,1400 946,1400 947,1402 976,1402 976,1400 977,1400 984,1399 999,1391 1019,1397 1021,1397 1022,1397 1089,1391 1097,1397 1099,1397 1100,1397 1101,1397 1102,1397 1103,1397 1112,1391 1131,1400 1135,1400 1135,1400 1136,1402 1170,1402 1170,1400 1171,1400 1172,1400 1172,1400 1181,1391 1211,1391 1221,1399 1222,1399 1223,1399 1224,1399 1225,1399 1226,1399 1232,1394 1264,1400 1265,1370 1264,1355 881,1355 881,1370"
+      corresp="#elem_qRWwDN">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_qRWwDN.png"/>
+    </surface>
+    <surface xml:id="facs_hQrAoO"
+      points="601,338 590,338 579,338 568,338 557,338 547,337 536,337 525,337 514,337 503,337 493,337 481,337 470,337 460,337 449,335 438,335 427,335 416,335 406,334 395,334 384,334 373,334 362,333 352,333 341,333 330,333 319,333 315,331 306,332 292,325 291,325 290,325 211,333 211,334 200,342 200,355 199,371 606,374 608,358 607,338 601,338"
+      corresp="#elem_hQrAoO">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_hQrAoO.png"/>
+    </surface>
+    <surface xml:id="facs_lZHian" points="196,384 196,396 577,397 578,397 579,397 590,391 590,381 587,367 194,369 196,384"
+      corresp="#elem_lZHian">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_lZHian.png"/>
+    </surface>
+    <surface xml:id="facs_kYese9" points="198,409 198,423 587,415 589,404 587,391 531,385 530,385 197,393 198,409"
+      corresp="#elem_kYese9">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_kYese9.png"/>
+    </surface>
+    <surface xml:id="facs_iNfviO" points="201,431 201,442 592,442 593,428 590,413 200,415 201,431" corresp="#elem_iNfviO">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_iNfviO.png"/>
+    </surface>
+    <surface xml:id="facs_bSqltv"
+      points="197,457 199,472 208,466 221,472 221,472 223,472 224,472 228,472 251,466 272,470 281,472 282,472 577,465 578,454 577,439 553,433 552,433 551,433 550,433 536,438 536,439 415,439 407,437 387,433 386,433 385,433 377,436 371,439 362,436 355,434 354,434 353,434 352,434 346,436 337,439 196,435 197,457"
+      corresp="#elem_bSqltv">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_bSqltv.png"/>
+    </surface>
+    <surface xml:id="facs_t6WiMx" points="198,481 197,491 211,497 212,497 213,497 583,493 584,482 583,467 198,463 198,481"
+      corresp="#elem_t6WiMx">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_t6WiMx.png"/>
+    </surface>
+    <surface xml:id="facs_noS3jN"
+      points="198,509 198,521 570,523 571,523 572,523 595,516 595,508 593,490 205,488 205,488 203,488 202,488 197,491 198,509"
+      corresp="#elem_noS3jN">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_noS3jN.png"/>
+    </surface>
+    <surface xml:id="facs_pB8vwu" points="197,535 197,548 582,548 583,548 584,548 586,548 593,543 593,531 590,516 196,517 197,535"
+      corresp="#elem_pB8vwu">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_pB8vwu.png"/>
+    </surface>
+    <surface xml:id="facs_ivjpKR" points="197,559 197,568 587,568 587,559 587,543 197,543 197,559" corresp="#elem_ivjpKR">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_ivjpKR.png"/>
+    </surface>
+    <surface xml:id="facs_jMHLm7"
+      points="198,583 197,596 310,593 428,599 449,601 450,601 464,601 544,595 574,601 575,587 575,569 198,563 198,583"
+      corresp="#elem_jMHLm7">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_jMHLm7.png"/>
+    </surface>
+    <surface xml:id="facs_uGwxHW" points="197,609 196,623 591,625 593,613 593,596 197,593 197,609" corresp="#elem_uGwxHW">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_uGwxHW.png"/>
+    </surface>
+    <surface xml:id="facs_kBRFdK"
+      points="197,637 197,655 599,649 599,637 599,623 536,617 535,617 533,617 523,622 520,623 467,623 466,621 462,618 462,617 461,617 460,617 459,617 458,617 446,621 440,622 197,618 197,637"
+      corresp="#elem_kBRFdK">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_kBRFdK.png"/>
+    </surface>
+    <surface xml:id="facs_ynL50a" points="197,665 197,673 577,674 579,664 575,646 196,649 197,665" corresp="#elem_ynL50a">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_ynL50a.png"/>
+    </surface>
+    <surface xml:id="facs_hxEsPH" points="197,688 196,703 587,701 589,692 587,676 197,673 197,688" corresp="#elem_hxEsPH">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_hxEsPH.png"/>
+    </surface>
+    <surface xml:id="facs_yas1KA"
+      points="198,713 197,722 216,728 217,728 218,728 266,724 269,724 271,724 293,730 294,730 295,730 360,726 382,725 385,726 389,731 391,731 392,731 393,731 584,731 586,718 584,701 198,696 198,713"
+      corresp="#elem_yas1KA">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_yas1KA.png"/>
+    </surface>
+    <surface xml:id="facs_bsYNpV" points="198,738 197,750 567,749 568,742 567,724 198,721 198,738" corresp="#elem_bsYNpV">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_bsYNpV.png"/>
+    </surface>
+    <surface xml:id="facs_bYHq4d"
+      points="198,765 198,776 586,774 587,763 584,742 409,742 408,742 407,742 396,746 387,748 338,747 229,743 228,743 197,749 198,765"
+      corresp="#elem_bYHq4d">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_bYHq4d.png"/>
+    </surface>
+    <surface xml:id="facs_nLMRZh"
+      points="199,792 199,801 326,806 328,806 493,800 575,804 575,804 577,804 587,797 587,789 584,774 198,776 199,792"
+      corresp="#elem_nLMRZh">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_nLMRZh.png"/>
+    </surface>
+    <surface xml:id="facs_eSEVNq" points="198,816 198,829 586,826 586,816 586,801 198,799 198,816" corresp="#elem_eSEVNq">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSEVNq.png"/>
+    </surface>
+    <surface xml:id="facs_xEBlNz" points="198,840 198,852 579,852 579,840 579,824 198,824 198,840" corresp="#elem_xEBlNz">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_xEBlNz.png"/>
+    </surface>
+    <surface xml:id="facs_pzdiND" points="199,863 199,874 571,871 572,860 569,842 198,847 199,863" corresp="#elem_pzdiND">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_pzdiND.png"/>
+    </surface>
+    <surface xml:id="facs_sFccwS"
+      points="203,889 203,898 239,904 240,904 272,898 274,898 281,904 282,904 283,904 284,904 411,897 418,897 420,897 459,902 460,902 461,902 462,902 470,896 470,896 486,902 487,902 488,902 590,895 591,886 589,870 202,868 203,889"
+      corresp="#elem_sFccwS">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_sFccwS.png"/>
+    </surface>
+    <surface xml:id="facs_eCpazb"
+      points="197,913 197,921 256,928 257,929 450,929 450,928 451,928 452,928 452,926 458,922 574,928 575,928 575,928 592,921 592,913 592,897 197,897 197,913"
+      corresp="#elem_eCpazb">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eCpazb.png"/>
+    </surface>
+    <surface xml:id="facs_vrUZx5" points="197,938 197,950 583,947 584,935 581,920 196,922 197,938" corresp="#elem_vrUZx5">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_vrUZx5.png"/>
+    </surface>
+    <surface xml:id="facs_ymXsS6" points="197,964 197,975 575,972 575,961 574,947 196,945 197,964" corresp="#elem_ymXsS6">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_ymXsS6.png"/>
+    </surface>
+    <surface xml:id="facs_x8MOUK"
+      points="196,988 198,1006 208,998 227,1004 228,1004 229,1004 230,1004 232,1004 242,998 275,998 280,1003 281,1003 281,1004 282,1004 283,1004 284,1004 299,1002 337,998 354,1001 369,1004 370,1004 493,1003 493,1003 494,1003 494,1002 500,998 500,997 502,998 517,1003 518,1003 520,1004 574,1004 574,1003 575,1003 575,1003 587,996 587,986 584,965 550,972 194,972 196,988"
+      corresp="#elem_x8MOUK">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_x8MOUK.png"/>
+    </surface>
+    <surface xml:id="facs_ymLqWC"
+      points="197,1014 197,1030 228,1024 326,1027 365,1028 365,1028 571,1022 572,1012 569,997 196,998 197,1014"
+      corresp="#elem_ymLqWC">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_ymLqWC.png"/>
+    </surface>
+    <surface xml:id="facs_zB433y"
+      points="197,1039 197,1057 232,1050 334,1053 387,1055 388,1055 568,1054 569,1054 582,1048 582,1037 579,1021 196,1022 197,1039"
+      corresp="#elem_zB433y">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_zB433y.png"/>
+    </surface>
+    <surface xml:id="facs_gFFHc0" points="589,1049 196,1049 196,1065 196,1078 591,1076 591,1065 591,1057 589,1049"
+      corresp="#elem_gFFHc0">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_gFFHc0.png"/>
+    </surface>
+    <surface xml:id="facs_b1idXa" points="196,1091 196,1101 592,1097 593,1088 590,1068 194,1073 196,1091" corresp="#elem_b1idXa">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_b1idXa.png"/>
+    </surface>
+    <surface xml:id="facs_nf6g35"
+      points="196,1116 196,1131 388,1124 392,1127 394,1129 394,1130 395,1130 396,1130 397,1130 564,1129 565,1129 586,1123 586,1112 582,1092 194,1100 196,1116"
+      corresp="#elem_nf6g35">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_nf6g35.png"/>
+    </surface>
+    <surface xml:id="facs_q6vf4T" points="197,1140 197,1155 589,1151 590,1136 587,1123 196,1124 197,1140" corresp="#elem_q6vf4T">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_q6vf4T.png"/>
+    </surface>
+    <surface xml:id="facs_i3Cx89" points="194,1166 194,1179 568,1175 569,1162 566,1146 193,1150 194,1166" corresp="#elem_i3Cx89">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_i3Cx89.png"/>
+    </surface>
+    <surface xml:id="facs_bmfxzu"
+      points="194,1194 194,1202 320,1209 321,1209 365,1201 369,1201 370,1201 388,1208 389,1208 391,1208 392,1208 393,1208 400,1202 448,1208 449,1208 450,1208 451,1208 462,1201 543,1207 544,1207 578,1199 579,1190 575,1174 193,1177 194,1194"
+      corresp="#elem_bmfxzu">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_bmfxzu.png"/>
+    </surface>
+    <surface xml:id="facs_hxQC1k"
+      points="582,1211 575,1201 193,1202 193,1220 193,1235 567,1232 568,1232 586,1225 586,1216 583,1211 582,1211"
+      corresp="#elem_hxQC1k">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_hxQC1k.png"/>
+    </surface>
+    <surface xml:id="facs_jLHTZ9" points="577,1228 193,1226 193,1243 193,1253 579,1253 580,1245 579,1234 577,1228"
+      corresp="#elem_jLHTZ9">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_jLHTZ9.png"/>
+    </surface>
+    <surface xml:id="facs_pl1vqp" points="193,1272 193,1285 568,1277 569,1270 566,1253 193,1255 193,1272" corresp="#elem_pl1vqp">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_pl1vqp.png"/>
+    </surface>
+    <surface xml:id="facs_yhNQkx" points="194,1294 193,1302 574,1304 575,1295 574,1275 194,1279 194,1294" corresp="#elem_yhNQkx">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_yhNQkx.png"/>
+    </surface>
+    <surface xml:id="facs_l7OcKE" points="575,1303 193,1306 193,1321 193,1331 581,1329 582,1318 580,1309 575,1303"
+      corresp="#elem_l7OcKE">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_l7OcKE.png"/>
+    </surface>
+    <surface xml:id="facs_jgtLIE" points="194,1343 194,1353 578,1353 578,1343 578,1329 194,1327 194,1343" corresp="#elem_jgtLIE">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_jgtLIE.png"/>
+    </surface>
+    <surface xml:id="facs_pw1o5t"
+      points="194,1369 196,1397 228,1388 263,1396 267,1397 268,1397 269,1399 328,1399 328,1397 329,1397 330,1397 332,1395 344,1388 361,1388 371,1395 374,1397 376,1397 376,1397 377,1397 379,1397 384,1394 401,1387 427,1392 428,1392 430,1392 431,1392 437,1387 497,1387 502,1393 505,1395 505,1396 506,1396 508,1396 509,1396 509,1396 524,1392 542,1387 548,1392 553,1395 553,1396 554,1396 555,1396 556,1396 589,1391 589,1367 586,1349 193,1353 194,1369"
+      corresp="#elem_pw1o5t">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_pw1o5t.png"/>
+    </surface>
+    <surface xml:id="facs_vnHMWJ"
+      points="1068,349 1057,349 1046,349 1036,349 1025,349 1014,349 1003,349 992,349 982,347 971,347 960,347 949,347 938,346 928,346 917,346 906,346 895,346 884,345 874,345 863,345 852,345 847,344 700,344 700,360 700,374 1079,371 1079,360 1078,349 1068,349"
+      corresp="#elem_vnHMWJ">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_vnHMWJ.png"/>
+    </surface>
+    <surface xml:id="facs_nHMbLw" points="700,385 700,396 991,398 991,398 1090,391 1090,381 1087,362 699,370 700,385"
+      corresp="#elem_nHMbLw">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_nHMbLw.png"/>
+    </surface>
+    <surface xml:id="facs_dNxmfi"
+      points="700,409 700,419 1080,416 1081,407 1079,393 1033,386 1031,386 1030,386 1014,392 1012,393 913,393 907,391 894,386 893,386 892,386 891,386 890,386 890,387 889,387 886,389 884,393 874,389 863,387 863,387 862,387 860,387 852,389 839,393 699,388 700,409"
+      corresp="#elem_dNxmfi">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_dNxmfi.png"/>
+    </surface>
+    <surface xml:id="facs_zmBWmB" points="701,433 701,448 1081,442 1082,430 1079,415 700,418 701,433" corresp="#elem_zmBWmB">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_zmBWmB.png"/>
+    </surface>
+    <surface xml:id="facs_mu4cct"
+      points="701,459 701,470 1088,466 1088,455 1085,442 980,436 979,436 977,436 958,442 956,443 700,443 701,459"
+      corresp="#elem_mu4cct">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_mu4cct.png"/>
+    </surface>
+    <surface xml:id="facs_jaYxEX"
+      points="700,484 700,497 1073,498 1074,498 1075,498 1076,498 1085,493 1085,479 1081,462 699,465 700,484"
+      corresp="#elem_jaYxEX">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_jaYxEX.png"/>
+    </surface>
+    <surface xml:id="facs_dp3hG4" points="701,509 701,524 1077,518 1078,506 1075,491 700,493 701,509" corresp="#elem_dp3hG4">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_dp3hG4.png"/>
+    </surface>
+    <surface xml:id="facs_ioPzpF" points="703,532 703,544 1096,545 1099,530 1096,517 701,518 703,532" corresp="#elem_ioPzpF">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_ioPzpF.png"/>
+    </surface>
+    <surface xml:id="facs_gbqIeP"
+      points="701,559 701,570 893,575 894,575 983,575 984,575 1001,568 1049,574 1050,574 1089,566 1089,555 1085,541 700,542 701,559"
+      corresp="#elem_gbqIeP">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_gbqIeP.png"/>
+    </surface>
+    <surface xml:id="facs_jlOe7G" points="700,587 700,598 1087,593 1088,583 1085,567 699,567 700,587" corresp="#elem_jlOe7G">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_jlOe7G.png"/>
+    </surface>
+    <surface xml:id="facs_lyUU4G" points="699,614 699,626 1087,623 1088,611 1085,595 698,598 699,614" corresp="#elem_lyUU4G">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_lyUU4G.png"/>
+    </surface>
+    <surface xml:id="facs_cFHpaO" points="698,642 698,653 1091,648 1091,637 1088,621 697,625 698,642" corresp="#elem_cFHpaO">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_cFHpaO.png"/>
+    </surface>
+    <surface xml:id="facs_o9eojq" points="700,668 700,676 1077,680 1079,665 1077,650 968,645 967,645 699,650 700,668"
+      corresp="#elem_o9eojq">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_o9eojq.png"/>
+    </surface>
+    <surface xml:id="facs_hvM6T1"
+      points="1091,676 1090,671 697,677 698,692 698,703 775,708 776,708 777,708 794,703 1009,704 1010,704 1093,697 1093,687 1092,685 1091,676"
+      corresp="#elem_hvM6T1">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_hvM6T1.png"/>
+    </surface>
+    <surface xml:id="facs_lfHnc2"
+      points="1088,706 1088,699 853,695 852,695 698,701 699,716 699,728 1089,725 1090,713 1089,707 1088,706"
+      corresp="#elem_lfHnc2">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_lfHnc2.png"/>
+    </surface>
+    <surface xml:id="facs_prBJlg"
+      points="698,742 698,754 775,752 777,753 786,758 787,758 788,758 789,758 799,753 803,750 891,750 894,751 911,757 913,757 913,757 914,757 916,757 923,751 930,757 931,757 932,757 933,757 1035,755 1036,755 1037,755 1037,754 1042,750 1078,755 1079,755 1080,755 1081,755 1091,748 1091,738 1089,724 697,724 698,742"
+      corresp="#elem_prBJlg">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_prBJlg.png"/>
+    </surface>
+    <surface xml:id="facs_cVca1S" points="698,766 698,777 1074,781 1076,764 1074,749 697,748 698,766" corresp="#elem_cVca1S">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_cVca1S.png"/>
+    </surface>
+    <surface xml:id="facs_n5QBlX" points="698,792 698,802 1085,797 1085,788 1084,774 697,773 698,792" corresp="#elem_n5QBlX">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_n5QBlX.png"/>
+    </surface>
+    <surface xml:id="facs_wWpTAS" points="1101,799 697,802 698,817 698,833 1105,832 1106,814 1105,812 1101,799"
+      corresp="#elem_wWpTAS">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_wWpTAS.png"/>
+    </surface>
+    <surface xml:id="facs_bxWTAY" points="698,840 698,851 1092,850 1093,838 1091,824 697,824 698,840" corresp="#elem_bxWTAY">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_bxWTAY.png"/>
+    </surface>
+    <surface xml:id="facs_k5AIvO" points="696,862 695,875 1084,874 1085,863 1084,848 696,842 696,862" corresp="#elem_k5AIvO">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_k5AIvO.png"/>
+    </surface>
+    <surface xml:id="facs_urkjdf" points="698,889 698,901 1087,896 1088,884 1085,871 908,867 907,867 697,874 698,889"
+      corresp="#elem_urkjdf">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_urkjdf.png"/>
+    </surface>
+    <surface xml:id="facs_zW8y2K" points="697,913 697,929 1090,922 1091,910 1088,892 696,893 697,913" corresp="#elem_zW8y2K">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_zW8y2K.png"/>
+    </surface>
+    <surface xml:id="facs_zINSZL" points="696,940 696,952 1096,947 1096,936 1093,922 695,922 696,940" corresp="#elem_zINSZL">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_zINSZL.png"/>
+    </surface>
+    <surface xml:id="facs_s5VRif" points="697,965 697,974 1085,972 1087,963 1085,948 708,944 707,944 706,944 696,948 697,965"
+      corresp="#elem_s5VRif">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_s5VRif.png"/>
+    </surface>
+    <surface xml:id="facs_fZ89yx" points="696,988 696,1004 1088,1004 1088,988 1088,973 696,973 696,988" corresp="#elem_fZ89yx">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_fZ89yx.png"/>
+    </surface>
+    <surface xml:id="facs_q48sZu" points="696,1011 695,1025 1078,1023 1079,1013 1077,995 696,995 696,1011" corresp="#elem_q48sZu">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_q48sZu.png"/>
+    </surface>
+    <surface xml:id="facs_yT8Son" points="697,1038 697,1050 1082,1052 1085,1036 1081,1022 696,1023 697,1038"
+      corresp="#elem_yT8Son">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_yT8Son.png"/>
+    </surface>
+    <surface xml:id="facs_uPkdTd"
+      points="695,1065 695,1074 727,1080 728,1080 754,1075 769,1080 769,1080 770,1080 814,1075 853,1080 854,1080 1055,1075 1061,1079 1061,1080 1062,1080 1063,1080 1064,1080 1093,1074 1093,1065 1093,1050 695,1046 695,1065"
+      corresp="#elem_uPkdTd">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_uPkdTd.png"/>
+    </surface>
+    <surface xml:id="facs_iz6ep4" points="696,1091 696,1104 1085,1100 1085,1091 1085,1076 696,1076 696,1091"
+      corresp="#elem_iz6ep4">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_iz6ep4.png"/>
+    </surface>
+    <surface xml:id="facs_jaoZiz" points="695,1117 695,1129 1090,1127 1091,1114 1088,1099 694,1101 695,1117"
+      corresp="#elem_jaoZiz">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_jaoZiz.png"/>
+    </surface>
+    <surface xml:id="facs_yZ29C0" points="695,1141 695,1156 1096,1147 1096,1136 1093,1124 694,1123 695,1141"
+      corresp="#elem_yZ29C0">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_yZ29C0.png"/>
+    </surface>
+    <surface xml:id="facs_gVH5y1"
+      points="700,1166 700,1180 979,1181 980,1181 980,1181 997,1174 999,1174 1099,1172 1099,1162 1096,1147 699,1150 700,1166"
+      corresp="#elem_gVH5y1">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_gVH5y1.png"/>
+    </surface>
+    <surface xml:id="facs_cptCNq" points="696,1194 696,1205 1085,1201 1085,1190 1082,1172 695,1175 696,1194"
+      corresp="#elem_cptCNq">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_cptCNq.png"/>
+    </surface>
+    <surface xml:id="facs_t73aST" points="696,1220 696,1231 986,1234 987,1234 1085,1226 1085,1216 1081,1198 695,1205 696,1220"
+      corresp="#elem_t73aST">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_t73aST.png"/>
+    </surface>
+    <surface xml:id="facs_diCDXf" points="696,1246 696,1256 950,1261 952,1261 1079,1253 1080,1243 1077,1229 695,1231 696,1246"
+      corresp="#elem_diCDXf">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_diCDXf.png"/>
+    </surface>
+    <surface xml:id="facs_opm2Iu" points="694,1271 694,1284 1077,1282 1077,1271 1077,1256 694,1255 694,1271"
+      corresp="#elem_opm2Iu">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_opm2Iu.png"/>
+    </surface>
+    <surface xml:id="facs_mn45MU" points="695,1297 694,1306 1082,1306 1085,1299 1084,1283 695,1280 695,1297"
+      corresp="#elem_mn45MU">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_mn45MU.png"/>
+    </surface>
+    <surface xml:id="facs_rNhSQv" points="695,1322 695,1336 1070,1337 1072,1322 1072,1307 695,1302 695,1322"
+      corresp="#elem_rNhSQv">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_rNhSQv.png"/>
+    </surface>
+    <surface xml:id="facs_tvpnuu" points="695,1345 695,1361 1088,1356 1088,1345 1088,1330 695,1330 695,1345"
+      corresp="#elem_tvpnuu">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_tvpnuu.png"/>
+    </surface>
+    <surface xml:id="facs_fSGUBd"
+      points="692,1372 692,1390 716,1390 718,1390 734,1400 735,1400 736,1400 737,1400 738,1400 773,1390 775,1390 831,1390 833,1391 848,1400 850,1400 851,1400 852,1400 904,1392 922,1389 956,1392 1026,1400 1027,1400 1099,1393 1099,1369 1096,1353 692,1354 692,1372"
+      corresp="#elem_fSGUBd">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_fSGUBd.png"/>
+    </surface>
+    <surface xml:id="facs_h3W9Yg"
+      points="758,350 748,350 737,350 726,350 715,350 704,350 694,350 683,350 672,350 661,350 650,350 640,350 629,350 618,350 607,350 596,350 586,350 575,350 564,350 553,350 542,350 531,350 520,350 509,350 499,350 488,350 477,350 466,350 455,350 445,350 434,350 423,350 412,350 401,350 391,350 380,350 380,359 379,367 758,369 761,361 761,350 758,350"
+      corresp="#elem_h3W9Yg">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_h3W9Yg.png"/>
+    </surface>
+    <surface xml:id="facs_h5lG0O" points="379,384 377,396 758,395 760,386 758,370 379,368 379,384" corresp="#elem_h5lG0O">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_h5lG0O.png"/>
+    </surface>
+    <surface xml:id="facs_g0gzln" points="379,409 377,416 758,419 760,411 758,392 379,392 379,409" corresp="#elem_g0gzln">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_g0gzln.png"/>
+    </surface>
+    <surface xml:id="facs_zIzg0J" points="380,431 379,440 762,445 764,436 764,421 380,416 380,431" corresp="#elem_zIzg0J">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_zIzg0J.png"/>
+    </surface>
+    <surface xml:id="facs_fSXs8Z" points="379,461 379,470 762,472 763,461 763,445 379,445 379,461" corresp="#elem_fSXs8Z">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_fSXs8Z.png"/>
+    </surface>
+    <surface xml:id="facs_gzd7ly" points="377,482 376,498 769,500 772,485 772,470 377,467 377,482" corresp="#elem_gzd7ly">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_gzd7ly.png"/>
+    </surface>
+    <surface xml:id="facs_wr3ldm" points="379,506 377,520 765,518 766,509 765,493 379,491 379,506" corresp="#elem_wr3ldm">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_wr3ldm.png"/>
+    </surface>
+    <surface xml:id="facs_pmKWI2" points="379,531 377,539 457,547 458,547 767,544 769,537 769,520 379,515 379,531"
+      corresp="#elem_pmKWI2">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_pmKWI2.png"/>
+    </surface>
+    <surface xml:id="facs_i8D0GG" points="380,557 379,569 770,568 772,560 772,543 380,541 380,557" corresp="#elem_i8D0GG">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_i8D0GG.png"/>
+    </surface>
+    <surface xml:id="facs_wj11sA"
+      points="379,583 377,598 499,594 506,599 506,601 508,601 509,601 509,601 524,601 608,595 617,601 618,601 619,601 620,601 621,601 645,596 661,602 664,602 664,602 665,603 767,603 769,587 766,565 379,566 379,583"
+      corresp="#elem_wj11sA">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_wj11sA.png"/>
+    </surface>
+    <surface xml:id="facs_tCQDaa" points="380,609 379,625 763,625 764,614 763,598 380,593 380,609" corresp="#elem_tCQDaa">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_tCQDaa.png"/>
+    </surface>
+    <surface xml:id="facs_g3fIxj" points="379,641 379,649 504,656 505,656 763,652 763,641 763,623 379,623 379,641"
+      corresp="#elem_g3fIxj">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_g3fIxj.png"/>
+    </surface>
+    <surface xml:id="facs_jQPess"
+      points="379,667 377,677 385,682 386,682 387,682 388,682 547,677 578,683 579,683 762,677 763,669 762,653 379,650 379,667"
+      corresp="#elem_jQPess">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_jQPess.png"/>
+    </surface>
+    <surface xml:id="facs_rhmPiD" points="380,692 380,703 772,700 773,691 769,671 379,674 380,692" corresp="#elem_rhmPiD">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_rhmPiD.png"/>
+    </surface>
+    <surface xml:id="facs_c9zAcN" points="379,718 379,727 758,725 760,714 757,695 377,697 379,718" corresp="#elem_c9zAcN">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_c9zAcN.png"/>
+    </surface>
+    <surface xml:id="facs_dgzsvl" points="379,740 379,754 766,750 766,740 766,725 379,723 379,740" corresp="#elem_dgzsvl">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_dgzsvl.png"/>
+    </surface>
+    <surface xml:id="facs_ukxP0G" points="379,766 379,781 767,774 769,764 765,749 377,750 379,766" corresp="#elem_ukxP0G">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_ukxP0G.png"/>
+    </surface>
+    <surface xml:id="facs_hIqkIG"
+      points="379,792 379,802 565,800 571,804 574,806 575,806 575,806 577,808 640,808 640,806 657,805 703,800 710,805 711,805 712,805 713,806 775,806 776,789 773,774 377,775 379,792"
+      corresp="#elem_hIqkIG">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_hIqkIG.png"/>
+    </surface>
+    <surface xml:id="facs_esmzvu" points="380,814 380,828 764,830 765,814 765,799 380,799 380,814" corresp="#elem_esmzvu">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_esmzvu.png"/>
+    </surface>
+    <surface xml:id="facs_cEip83" points="380,838 379,850 778,850 779,840 778,824 380,823 380,838" corresp="#elem_cEip83">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_cEip83.png"/>
+    </surface>
+    <surface xml:id="facs_rzXYrz" points="380,866 380,875 772,877 774,862 770,847 379,850 380,866" corresp="#elem_rzXYrz">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_rzXYrz.png"/>
+    </surface>
+    <surface xml:id="facs_kxxsIp"
+      points="379,890 379,899 775,899 776,887 774,872 382,868 381,868 380,868 379,868 379,869 377,869 379,890"
+      corresp="#elem_kxxsIp">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_kxxsIp.png"/>
+    </surface>
+    <surface xml:id="facs_sFOH0r" points="380,916 380,924 775,925 776,916 776,901 380,901 380,916" corresp="#elem_sFOH0r">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_sFOH0r.png"/>
+    </surface>
+    <surface xml:id="facs_oYPqBW"
+      points="379,948 395,955 396,955 397,955 427,950 578,956 579,956 775,950 776,941 775,924 580,924 575,920 572,918 571,918 570,918 569,918 505,919 389,922 382,917 380,938 379,948"
+      corresp="#elem_oYPqBW">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_oYPqBW.png"/>
+    </surface>
+    <surface xml:id="facs_xcV2h5"
+      points="380,962 379,976 552,973 560,975 574,980 575,980 575,980 668,974 676,974 682,974 757,980 758,980 758,980 760,980 767,973 769,964 767,946 380,945 380,962"
+      corresp="#elem_xcV2h5">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_xcV2h5.png"/>
+    </surface>
+    <surface xml:id="facs_zL0e3u" points="380,986 379,995 409,1001 410,1001 770,999 772,988 770,973 380,971 380,986"
+      corresp="#elem_zL0e3u">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_zL0e3u.png"/>
+    </surface>
+    <surface xml:id="facs_zVHK6a" points="379,1013 379,1026 767,1022 767,1013 767,998 379,992 379,1013" corresp="#elem_zVHK6a">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_zVHK6a.png"/>
+    </surface>
+    <surface xml:id="facs_vVt5mE"
+      points="379,1038 379,1052 419,1046 508,1050 540,1051 541,1051 767,1045 769,1036 765,1019 377,1021 379,1038"
+      corresp="#elem_vVt5mE">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_vVt5mE.png"/>
+    </surface>
+    <surface xml:id="facs_h5nBEA"
+      points="377,1065 377,1079 430,1076 445,1078 476,1084 477,1084 478,1084 479,1084 487,1077 490,1075 525,1075 527,1076 532,1081 532,1082 533,1082 535,1082 536,1082 537,1082 538,1082 545,1076 548,1074 625,1074 628,1074 638,1081 640,1081 641,1081 642,1081 750,1080 751,1080 781,1070 781,1061 778,1045 688,1039 687,1039 686,1039 685,1039 676,1046 674,1046 598,1046 598,1046 578,1040 577,1040 575,1040 575,1040 562,1046 560,1046 559,1046 544,1041 543,1041 542,1041 541,1041 540,1041 540,1042 535,1046 526,1046 423,1042 422,1042 376,1048 377,1065"
+      corresp="#elem_h5nBEA">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_h5nBEA.png"/>
+    </surface>
+    <surface xml:id="facs_rFEYMO" points="380,1092 380,1105 772,1099 773,1089 769,1075 379,1077 380,1092" corresp="#elem_rFEYMO">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_rFEYMO.png"/>
+    </surface>
+    <surface xml:id="facs_wVhE39" points="379,1117 379,1127 764,1126 764,1117 764,1101 379,1100 379,1117" corresp="#elem_wVhE39">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_wVhE39.png"/>
+    </surface>
+    <surface xml:id="facs_arb1vI" points="379,1141 379,1155 774,1151 774,1141 774,1127 379,1127 379,1141" corresp="#elem_arb1vI">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_arb1vI.png"/>
+    </surface>
+    <surface xml:id="facs_pOuZ2S" points="377,1163 376,1178 772,1178 773,1166 772,1150 377,1147 377,1163" corresp="#elem_pOuZ2S">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_pOuZ2S.png"/>
+    </surface>
+    <surface xml:id="facs_m6NvsC" points="379,1192 377,1205 777,1204 778,1195 777,1178 379,1174 379,1192" corresp="#elem_m6NvsC">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_m6NvsC.png"/>
+    </surface>
+    <surface xml:id="facs_iGZQpk"
+      points="379,1218 379,1228 440,1234 442,1235 520,1235 520,1234 521,1234 523,1234 523,1233 528,1229 578,1234 579,1234 700,1229 731,1234 733,1234 762,1228 762,1218 762,1201 379,1201 379,1218"
+      corresp="#elem_iGZQpk">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_iGZQpk.png"/>
+    </surface>
+    <surface xml:id="facs_bwLMEX"
+      points="377,1240 376,1250 393,1256 394,1256 395,1256 521,1251 529,1256 530,1256 531,1256 532,1256 697,1252 737,1258 738,1258 765,1251 766,1243 764,1222 377,1222 377,1240"
+      corresp="#elem_bwLMEX">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_bwLMEX.png"/>
+    </surface>
+    <surface xml:id="facs_vjmni0"
+      points="769,1252 383,1249 382,1249 381,1249 380,1249 380,1250 376,1252 377,1270 377,1280 486,1287 487,1287 488,1287 513,1280 526,1287 527,1287 528,1288 571,1288 571,1287 572,1287 574,1287 574,1286 580,1280 589,1286 590,1286 591,1286 592,1286 774,1279 775,1268 774,1262 769,1252"
+      corresp="#elem_vjmni0">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_vjmni0.png"/>
+    </surface>
+    <surface xml:id="facs_cTXhXH"
+      points="376,1298 376,1306 762,1303 763,1295 760,1272 692,1279 593,1279 584,1276 580,1274 579,1274 578,1274 577,1274 575,1274 575,1275 574,1276 570,1280 530,1280 520,1277 503,1274 502,1274 501,1274 493,1279 487,1280 464,1279 421,1275 420,1275 376,1280 376,1298"
+      corresp="#elem_cTXhXH">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_cTXhXH.png"/>
+    </surface>
+    <surface xml:id="facs_wDIHXz"
+      points="376,1321 376,1331 766,1333 767,1318 765,1304 385,1301 384,1301 383,1301 382,1301 376,1304 376,1321"
+      corresp="#elem_wDIHXz">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_wDIHXz.png"/>
+    </surface>
+    <surface xml:id="facs_hZY3jU" points="376,1343 376,1358 757,1358 757,1343 755,1327 376,1328 376,1343" corresp="#elem_hZY3jU">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_hZY3jU.png"/>
+    </surface>
+    <surface xml:id="facs_v0lI5E"
+      points="376,1372 376,1393 719,1396 719,1396 765,1389 765,1369 763,1354 713,1348 712,1348 711,1348 688,1353 687,1353 647,1348 646,1348 645,1348 631,1353 376,1353 376,1372"
+      corresp="#elem_v0lI5E">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_v0lI5E.png"/>
+    </surface>
+    <surface xml:id="facs_gviAXX"
+      points="1276,345 1265,345 1255,345 1244,345 1233,344 1225,344 1224,346 1133,346 1129,342 1124,342 1114,342 1103,342 1092,342 1089,341 1085,345 1039,345 1012,344 1007,340 1006,340 995,340 984,338 973,338 962,338 960,338 953,343 946,338 941,338 930,337 919,337 908,337 897,337 886,337 875,340 875,362 874,376 1015,373 1018,376 1021,377 1021,379 1022,379 1023,379 1024,379 1099,376 1140,374 1150,376 1182,380 1183,380 1184,380 1197,374 1199,374 1205,374 1247,380 1248,380 1286,373 1287,365 1286,349 1276,345"
+      corresp="#elem_gviAXX">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_gviAXX.png"/>
+    </surface>
+    <surface xml:id="facs_gtzrkp" points="880,386 879,398 1264,398 1265,388 1263,369 880,369 880,386" corresp="#elem_gtzrkp">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_gtzrkp.png"/>
+    </surface>
+    <surface xml:id="facs_zFq1dh" points="881,410 880,419 1267,423 1268,415 1268,397 881,394 881,410" corresp="#elem_zFq1dh">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_zFq1dh.png"/>
+    </surface>
+    <surface xml:id="facs_x2NzCx" points="881,437 881,447 1261,447 1261,437 1261,422 881,416 881,437" corresp="#elem_x2NzCx">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_x2NzCx.png"/>
+    </surface>
+    <surface xml:id="facs_uM1Mfh"
+      points="881,464 882,478 902,473 1013,476 1061,477 1062,477 1063,477 1068,475 1077,472 1272,472 1273,462 1270,446 880,447 881,464"
+      corresp="#elem_uM1Mfh">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_uM1Mfh.png"/>
+    </surface>
+    <surface xml:id="facs_n7KcTa" points="880,487 880,501 1270,497 1270,487 1270,473 880,473 880,487" corresp="#elem_n7KcTa">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_n7KcTa.png"/>
+    </surface>
+    <surface xml:id="facs_z4vr0c" points="882,511 882,520 1259,520 1260,511 1259,496 882,496 882,511" corresp="#elem_z4vr0c">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_z4vr0c.png"/>
+    </surface>
+    <surface xml:id="facs_iicLDE" points="879,538 879,550 1268,547 1268,538 1268,521 879,520 879,538" corresp="#elem_iicLDE">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_iicLDE.png"/>
+    </surface>
+    <surface xml:id="facs_lZZXMt" points="880,562 879,575 1270,571 1271,564 1270,548 880,545 880,562" corresp="#elem_lZZXMt">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_lZZXMt.png"/>
+    </surface>
+    <surface xml:id="facs_rPmlLR"
+      points="880,589 880,602 955,598 962,601 970,604 971,604 972,604 973,604 987,601 997,598 1004,601 1024,605 1025,605 1026,605 1027,605 1041,599 1045,598 1046,599 1061,605 1062,605 1063,605 1140,604 1175,598 1178,598 1179,598 1216,604 1217,604 1268,595 1268,587 1265,566 879,571 880,589"
+      corresp="#elem_rPmlLR">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_rPmlLR.png"/>
+    </surface>
+    <surface xml:id="facs_nq5Xzu"
+      points="879,617 879,632 1108,625 1117,625 1168,630 1169,630 1170,630 1171,630 1178,625 1261,629 1262,629 1263,629 1264,629 1264,628 1265,628 1268,625 1268,613 1264,598 878,599 879,617"
+      corresp="#elem_nq5Xzu">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_nq5Xzu.png"/>
+    </surface>
+    <surface xml:id="facs_dvr2RY" points="880,641 879,649 1260,652 1262,643 1260,622 880,625 880,641" corresp="#elem_dvr2RY">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_dvr2RY.png"/>
+    </surface>
+    <surface xml:id="facs_e8hQb5"
+      points="879,679 1263,679 1263,670 1262,652 1108,653 1103,649 1101,647 1100,647 1099,647 1097,647 1085,649 1066,653 1051,648 1046,647 1045,647 1043,647 1033,648 1004,653 1000,648 999,648 999,647 998,647 997,647 953,647 952,647 946,647 902,653 880,647 879,670 879,679"
+      corresp="#elem_e8hQb5">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_e8hQb5.png"/>
+    </surface>
+    <surface xml:id="facs_p3d90W" points="882,695 882,703 1268,703 1270,695 1270,680 882,680 882,695" corresp="#elem_p3d90W">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_p3d90W.png"/>
+    </surface>
+    <surface xml:id="facs_h5DGOq"
+      points="879,718 879,730 882,733 882,734 883,734 884,734 886,734 935,728 965,734 967,734 1006,728 1039,734 1040,734 1264,727 1264,718 1264,703 879,701 879,718"
+      corresp="#elem_h5DGOq">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_h5DGOq.png"/>
+    </surface>
+    <surface xml:id="facs_dQiDYN"
+      points="877,743 877,758 977,754 1037,758 1038,758 1039,758 1054,753 1151,758 1174,760 1175,760 1177,760 1182,758 1212,751 1276,758 1277,738 1274,722 875,726 877,743"
+      corresp="#elem_dQiDYN">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_dQiDYN.png"/>
+    </surface>
+    <surface xml:id="facs_dkvVzD" points="881,769 881,785 1260,776 1261,765 1258,750 880,753 881,769" corresp="#elem_dkvVzD">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_dkvVzD.png"/>
+    </surface>
+    <surface xml:id="facs_xGYbtg" points="880,794 880,808 1268,802 1270,792 1267,777 879,777 880,794" corresp="#elem_xGYbtg">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_xGYbtg.png"/>
+    </surface>
+    <surface xml:id="facs_xlHaCd" points="880,817 880,828 1270,828 1270,817 1270,803 880,803 880,817" corresp="#elem_xlHaCd">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_xlHaCd.png"/>
+    </surface>
+    <surface xml:id="facs_kKouFI" points="877,842 877,853 1240,856 1240,856 1241,856 1256,850 1256,839 1253,824 875,827 877,842"
+      corresp="#elem_kKouFI">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_kKouFI.png"/>
+    </surface>
+    <surface xml:id="facs_ta3uKc"
+      points="880,869 880,878 1022,882 1023,882 1268,872 1268,863 1264,848 1041,847 1040,847 1039,847 1027,852 974,847 973,847 879,854 880,869"
+      corresp="#elem_ta3uKc">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_ta3uKc.png"/>
+    </surface>
+    <surface xml:id="facs_p9gE94" points="879,892 879,901 1263,902 1264,892 1264,877 879,877 879,892" corresp="#elem_p9gE94">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_p9gE94.png"/>
+    </surface>
+    <surface xml:id="facs_gB5Iuq"
+      points="878,917 878,925 931,932 932,932 933,932 934,932 944,926 1041,926 1070,932 1072,932 1144,926 1255,931 1256,931 1256,931 1258,931 1268,924 1268,914 1267,901 877,896 878,917"
+      corresp="#elem_gB5Iuq">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_gB5Iuq.png"/>
+    </surface>
+    <surface xml:id="facs_oP5jqO" points="880,941 880,956 1274,952 1274,941 1274,925 880,925 880,941" corresp="#elem_oP5jqO">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_oP5jqO.png"/>
+    </surface>
+    <surface xml:id="facs_n67tjG" points="883,967 883,975 1260,973 1261,964 1258,949 882,952 883,967" corresp="#elem_n67tjG">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_n67tjG.png"/>
+    </surface>
+    <surface xml:id="facs_xzYxsO"
+      points="881,991 881,1000 1133,1004 1135,1004 1190,999 1247,1003 1248,1003 1249,1003 1263,997 1263,988 1261,974 1177,968 1175,968 880,975 881,991"
+      corresp="#elem_xzYxsO">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_xzYxsO.png"/>
+    </surface>
+    <surface xml:id="facs_slfNa9" points="879,1016 879,1026 1255,1023 1256,1013 1252,998 878,1001 879,1016" corresp="#elem_slfNa9">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_slfNa9.png"/>
+    </surface>
+    <surface xml:id="facs_pooZmE"
+      points="880,1040 880,1050 1031,1055 1033,1055 1034,1055 1035,1055 1035,1054 1040,1050 1042,1050 1217,1054 1218,1054 1258,1048 1259,1038 1256,1023 879,1024 880,1040"
+      corresp="#elem_pooZmE">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_pooZmE.png"/>
+    </surface>
+    <surface xml:id="facs_wa2X24"
+      points="880,1068 880,1081 1268,1073 1268,1064 1261,1048 1076,1045 1075,1045 1074,1045 1073,1045 1067,1050 1066,1050 1063,1050 1007,1046 1006,1046 879,1051 880,1068"
+      corresp="#elem_wa2X24">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_wa2X24.png"/>
+    </surface>
+    <surface xml:id="facs_moDA35"
+      points="879,1094 879,1103 1133,1107 1135,1107 1263,1100 1264,1091 1262,1076 1006,1073 1004,1073 878,1078 879,1094"
+      corresp="#elem_moDA35">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_moDA35.png"/>
+    </surface>
+    <surface xml:id="facs_azRWym" points="878,1120 878,1131 1270,1128 1271,1118 1268,1102 877,1103 878,1120"
+      corresp="#elem_azRWym">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_azRWym.png"/>
+    </surface>
+    <surface xml:id="facs_jxd1ZW"
+      points="880,1144 880,1159 1046,1159 1046,1158 1049,1158 1073,1153 1263,1157 1265,1142 1262,1128 879,1129 880,1144"
+      corresp="#elem_jxd1ZW">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_jxd1ZW.png"/>
+    </surface>
+    <surface xml:id="facs_fTUxuW"
+      points="878,1169 878,1182 1261,1175 1262,1165 1260,1151 1072,1146 1070,1146 1069,1146 1068,1146 1061,1151 1060,1151 1057,1151 1007,1147 1006,1147 877,1153 878,1169"
+      corresp="#elem_fTUxuW">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_fTUxuW.png"/>
+    </surface>
+    <surface xml:id="facs_qqoRFL"
+      points="879,1193 879,1202 1174,1206 1174,1206 1175,1206 1186,1201 1222,1205 1223,1205 1274,1198 1274,1189 1272,1174 1108,1170 1107,1170 878,1178 879,1193"
+      corresp="#elem_qqoRFL">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_qqoRFL.png"/>
+    </surface>
+    <surface xml:id="facs_qeBqWH" points="878,1218 878,1228 1272,1224 1273,1214 1271,1201 1007,1197 1007,1197 877,1202 878,1218"
+      corresp="#elem_qeBqWH">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_qeBqWH.png"/>
+    </surface>
+    <surface xml:id="facs_rBmGpJ" points="879,1244 879,1258 1272,1251 1273,1240 1270,1224 878,1225 879,1244"
+      corresp="#elem_rBmGpJ">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_rBmGpJ.png"/>
+    </surface>
+    <surface xml:id="facs_xAwZWy"
+      points="878,1272 878,1284 1262,1279 1263,1268 1261,1252 1174,1247 1172,1247 1171,1247 1170,1247 1162,1252 889,1250 887,1250 886,1250 877,1255 878,1272"
+      corresp="#elem_xAwZWy">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_xAwZWy.png"/>
+    </surface>
+    <surface xml:id="facs_pKgPyL" points="877,1298 877,1311 1264,1304 1265,1295 1262,1279 875,1280 877,1298"
+      corresp="#elem_pKgPyL">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_pKgPyL.png"/>
+    </surface>
+    <surface xml:id="facs_sRt6uL"
+      points="878,1321 878,1329 1258,1326 1259,1318 1256,1304 890,1301 889,1301 887,1301 877,1306 878,1321" corresp="#elem_sRt6uL">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_sRt6uL.png"/>
+    </surface>
+    <surface xml:id="facs_anwZnC" points="877,1342 877,1357 1270,1354 1270,1342 1270,1327 877,1327 877,1342"
+      corresp="#elem_anwZnC">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_anwZnC.png"/>
+    </surface>
+    <surface xml:id="facs_sz7NMo"
+      points="878,1370 878,1389 913,1389 919,1391 933,1400 934,1400 935,1400 936,1400 937,1400 938,1400 950,1392 958,1388 1000,1393 1023,1395 1024,1395 1040,1393 1080,1389 1100,1395 1112,1399 1112,1399 1114,1399 1115,1399 1123,1395 1138,1388 1162,1396 1167,1397 1168,1397 1169,1397 1170,1397 1174,1396 1196,1388 1205,1396 1205,1397 1206,1397 1207,1397 1208,1399 1265,1399 1267,1365 1264,1351 1111,1346 1109,1346 1108,1346 1107,1346 1101,1352 884,1350 883,1350 882,1350 881,1350 877,1353 878,1370"
+      corresp="#elem_sz7NMo">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_sz7NMo.png"/>
+    </surface>
+    <surface xml:id="facs_injmhr" points="193,338 193,354 191,370 591,371 593,356 592,338 197,337 193,338" corresp="#elem_injmhr">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_injmhr.png"/>
+    </surface>
+    <surface xml:id="facs_cULF2z" points="197,381 197,395 587,388 587,379 586,365 211,360 210,360 209,360 196,365 197,381"
+      corresp="#elem_cULF2z">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_cULF2z.png"/>
+    </surface>
+    <surface xml:id="facs_erqXcu" points="198,407 198,418 587,412 589,403 587,388 294,385 293,385 197,392 198,407"
+      corresp="#elem_erqXcu">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_erqXcu.png"/>
+    </surface>
+    <surface xml:id="facs_uVfm1D" points="198,430 198,439 590,437 591,427 587,411 197,413 198,430" corresp="#elem_uVfm1D">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_uVfm1D.png"/>
+    </surface>
+    <surface xml:id="facs_ikfZia"
+      points="197,454 197,469 291,464 333,466 379,470 380,470 381,470 382,470 387,466 393,463 397,465 403,469 404,469 404,469 436,465 455,463 474,464 524,469 525,469 526,469 527,469 527,467 531,463 532,463 582,463 583,452 580,433 196,434 197,454"
+      corresp="#elem_ikfZia">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_ikfZia.png"/>
+    </surface>
+    <surface xml:id="facs_yPwV2U"
+      points="198,481 198,491 304,497 305,497 408,490 418,490 419,490 423,494 423,496 424,496 425,496 426,497 470,497 470,496 506,490 523,496 524,496 525,496 526,496 539,490 565,496 566,496 567,496 582,489 582,479 579,463 197,464 198,481"
+      corresp="#elem_yPwV2U">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_yPwV2U.png"/>
+    </surface>
+    <surface xml:id="facs_rqY3Rg" points="196,509 196,520 598,516 599,506 598,490 194,488 196,509" corresp="#elem_rqY3Rg">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_rqY3Rg.png"/>
+    </surface>
+    <surface xml:id="facs_qtxWEv" points="196,533 196,544 602,544 602,533 602,517 196,513 196,533" corresp="#elem_qtxWEv">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_qtxWEv.png"/>
+    </surface>
+    <surface xml:id="facs_btGCwP" points="197,556 196,565 392,572 393,572 582,567 583,559 582,542 197,540 197,556"
+      corresp="#elem_btGCwP">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_btGCwP.png"/>
+    </surface>
+    <surface xml:id="facs_aLUhM1" points="197,586 197,594 592,592 593,583 590,567 196,568 197,586" corresp="#elem_aLUhM1">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_aLUhM1.png"/>
+    </surface>
+    <surface xml:id="facs_veUlfY"
+      points="198,611 198,620 465,625 466,625 602,617 602,608 599,594 331,590 330,590 287,595 209,591 208,591 206,591 197,595 198,611"
+      corresp="#elem_veUlfY">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_veUlfY.png"/>
+    </surface>
+    <surface xml:id="facs_fskjuN" points="199,637 199,654 261,649 261,637 261,615 199,615 199,637" corresp="#elem_fskjuN">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_fskjuN.png"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div n="1" type="livre">
+        <div n="1.2" type="partie">
+          <div n="1" type="chapitre">
+            <pb n="" facs="../input_files/e-codices_bge-lat0092_012v_max.jpg"/>
+            <head n="LzTDRrxe"><lb break="?" facs="#facs_hoCHjE" n="cf0mTM" xml:id="elem_hoCHjE"/>Caplm̃ primum<lb break="?"
+                facs="#facs_jPEb4F" n="n74rBM" xml:id="elem_jPEb4F"/>quomodo diuiduntur potencie aĩe et in<lb break="?"
+                facs="#facs_w9cBNA" n="bWaiPH" xml:id="elem_w9cBNA"/>quib potenciis habet esse uirtus.<pb n=""
+                facs="../input_files/e-codices_bge-lat0092_013r_large.jpg"/></head>
+            <p n="jjnPUymf"><lb break="?" facs="#facs_tQBxkL" n="yfMa0P" xml:id="elem_tQBxkL"/>Ostꝙ auxiliante deo com¬<lb break="?"
+                facs="#facs_xXIKCM" n="yqeILV" xml:id="elem_xXIKCM"/>plenimus primam partẽ<lb break="?" facs="#facs_hkXIdO"
+                n="tric5S" xml:id="elem_hkXIdO"/>huius primi libri in quo<lb break="?" facs="#facs_wPzsD2" n="cFuIDP"
+                xml:id="elem_wPzsD2"/>agitur de regimẽ sin ostẽ¬<lb break="?" facs="#facs_fsYCzI" n="c6qECZ"
+                xml:id="elem_fsYCzI"/>dentes in quo reges et prin¬<lb break="?" facs="#facs_u5GYyU" n="gZAIty"
+                xml:id="elem_u5GYyU"/>cipes suam felicitatẽ pon̾e debeant quia<lb break="?" facs="#facs_rNNtah" n="opf5I2"
+                xml:id="elem_rNNtah"/>non decet eos suam finem pone̾ in diui¬<lb break="?" facs="#facs_uCPS4l" n="fJxr8t"
+                xml:id="elem_uCPS4l"/>ciis nec in ciuili potencia nec in aliqui¬<lb break="?" facs="#facs_fsG6Wh" n="prgULZ"
+                xml:id="elem_fsG6Wh"/>bus talibus sz om̃ibus hiis ut supra<lb break="?" facs="#facs_s5Yoyo" n="fEb0ot"
+                xml:id="elem_s5Yoyo"/>plenius probatur debent uti tamꝙͣ or¬<lb break="?" facs="#facs_ywCm9q" n="hG2iVP"
+                xml:id="elem_ywCm9q"/>gans ad felicitatẽ. Suam autem felici¬<lb break="?" facs="#facs_eiZXCR" n="unXRhx"
+                xml:id="elem_eiZXCR"/>tatem ponere in actu prudencie debent<lb break="?" facs="#facs_mYvWNJ" n="hbSXor"
+                xml:id="elem_mYvWNJ"/>prout talis actus imperatus est a ⟦uirti⟧ ca¬<lb break="?" facs="#facs_m8WJYs" n="daAtZ6"
+                xml:id="elem_m8WJYs"/>ritate. Nam tunc rege⟦sis⟧ hñt suam fe¬<lb break="?" facs="#facs_txhMvZ" n="gfrEVZ"
+                xml:id="elem_txhMvZ"/>licitatem suo statui condignam et debitã<lb break="?" facs="#facs_hbkpVi" n="zj9zmd"
+                xml:id="elem_hbkpVi"/>qñ instigante dei dilectione sz pruden¬<lb break="?" facs="#facs_lL2RY3" n="j046dq"
+                xml:id="elem_lL2RY3"/>tiam regnatinam gentem sibi cõmissã<lb break="?" facs="#facs_pa54x4" n="xby39n"
+                xml:id="elem_pa54x4"/>sz legem et rõnem sancte et iuste regunt<lb break="?" facs="#facs_dSToAj" n="kayMmC"
+                xml:id="elem_dSToAj"/>¶ Principaliter igitur regum felicitas<lb break="?" facs="#facs_fHbQrd" n="oEGYpV"
+                xml:id="elem_fHbQrd"/>ponenda est in ip̃o deo et ex cognicione<lb break="?" facs="#facs_jq1xdT" n="c4xtIq"
+                xml:id="elem_jq1xdT"/>et dilectione eius suum studium et suam<lb break="?" facs="#facs_pFodwQ" n="qSRQYS"
+                xml:id="elem_pFodwQ"/>uitam ad hoc ordinare debent ut cogno¬<lb break="?" facs="#facs_d9m8qe" n="yig4O9"
+                xml:id="elem_d9m8qe"/>scentes et diligentes deum ip̃i tamꝙͣ<lb break="?" facs="#facs_gaVyzv" n="hIwI3Y"
+                xml:id="elem_gaVyzv"/>ueri ministri eius sz ordinem rõms<lb break="?" facs="#facs_aEmvJy" n="ad4iVL"
+                xml:id="elem_aEmvJy"/>dirigant ppłm sibi comissum. hiis igr̃<lb break="?" facs="#facs_ibNLQU" n="lqCOPr"
+                xml:id="elem_ibNLQU"/>ita peractis et ostenso in quo reges de¬<lb break="?" facs="#facs_g4PkFj" n="eqDShm"
+                xml:id="elem_g4PkFj"/>beant ponere suam finem sz ordinẽ rõma<lb break="?" facs="#facs_n8EoaI" n="rMTRjK"
+                xml:id="elem_n8EoaI"/>suꝑius pretaxatum. Restat ostende̾ qͥb<lb break="?" facs="#facs_ouXK5R" n="ywkulh"
+                xml:id="elem_ouXK5R"/>uirtutibz reges pollere debent. uirtutes<lb break="?" facs="#facs_fBhXYv" n="nO77Qy"
+                xml:id="elem_fBhXYv"/>autem sunt quid̃ ornatus et qued̃ perfe¬<lb break="?" facs="#facs_rcqXcO" n="dcsYab"
+                xml:id="elem_rcqXcO"/>ctiones aĩe. Oportet igitur prius ostẽ¬<lb break="?" facs="#facs_zzG0eS" n="qqoPLK"
+                xml:id="elem_zzG0eS"/>dere quot sunt potencie aĩe et in quib<lb break="?" facs="#facs_fqWh5m" n="iEWvRD"
+                xml:id="elem_fqWh5m"/>potenciis habent ẽe uirtutes Conseq̃n¬<lb break="?" facs="#facs_oJGtTu" n="gQPwU3"
+                xml:id="elem_oJGtTu"/>ter autem maĩfestabit᷑ quomodo uir¬<lb break="?" facs="#facs_fyBxE2" n="qCy8cw"
+                xml:id="elem_fyBxE2"/>tutes sunt distinguende. postea uero o¬<lb break="?" facs="#facs_cM0UX4" n="j6AMK2"
+                xml:id="elem_cM0UX4"/>stendemus quot sunt in nimo hiioi¬<lb break="?" facs="#facs_zJo8UP" n="qEQg2H"
+                xml:id="elem_zJo8UP"/>virtutes et que illarum sunt pͥncipales<lb break="?" facs="#facs_utk9jG" n="tWRMcB"
+                xml:id="elem_utk9jG"/>et que sunt secundarie. Dem̃ autem de¬<lb break="?" facs="#facs_qjoHBe" n="x4nOzO"
+                xml:id="elem_qjoHBe"/>clarabit᷑ singłariter que sit unaqueqz<lb break="?" facs="#facs_tiRcjV" n="cjxxhD"
+                xml:id="elem_tiRcjV"/>illaꝵ uirtutum et quomodo decet reges<lb break="?" facs="#facs_yzTme4" n="ffmcnW"
+                xml:id="elem_yzTme4"/>et principes tales uirtutes hĩe. ¶Ido<cb break="?"/><lb break="?" facs="#facs_c4YP2Q"
+                n="voLNJH" xml:id="elem_c4YP2Q"/>tencie autem etiam sic distingui possut̾<lb break="?" facs="#facs_ooRMHz"
+                n="xNCoIO" xml:id="elem_ooRMHz"/>Quia qued sunt naturales qued co¬<lb break="?" facs="#facs_y6AA4G" n="wzPUpG"
+                xml:id="elem_y6AA4G"/>gnitiue sensitiue, qued̃ appetitiue et q̃d<lb break="?" facs="#facs_fYZh0J" n="htg2Lw"
+                xml:id="elem_fYZh0J"/>intellectiue. ¶ Naturales potencie sũt<lb break="?" facs="#facs_r3ugXK" n="tfLHW5"
+                xml:id="elem_r3ugXK"/>ille quibz cõĩtamus cum uegetabłib<lb break="?" facs="#facs_aHRlmH" n="xgbRq1"
+                xml:id="elem_aHRlmH"/>et plantis ut potentia nuitritiua aug<lb break="?" facs="#facs_gsdxIZ" n="jK31Gy"
+                xml:id="elem_gsdxIZ"/>mentatiua gn̾atina et talia etiam q̃<lb break="?" facs="#facs_dN2if7" n="ayPpwN"
+                xml:id="elem_dN2if7"/>ip̃is arboribus competunt. ¶ Potencie<lb break="?" facs="#facs_x5KcXY" n="gpI4UD"
+                xml:id="elem_x5KcXY"/>uero cognitiue sensitiue sunt uisus au¬<lb break="?" facs="#facs_o31bQr" n="i31Aln"
+                xml:id="elem_o31bQr"/>ditus gustus et talia quibz coĩcamus<lb break="?" facs="#facs_pD3K0J" n="hfVBaa"
+                xml:id="elem_pD3K0J"/>cum brutis. ¶ Appetitiue uero distingũ¬<lb break="?" facs="#facs_riobV9" n="mMUY9I"
+                xml:id="elem_riobV9"/>tur. Namquid̃ est appetitus in homĩe ĩ<lb break="?" facs="#facs_qq9e1J" n="el6itz"
+                xml:id="elem_qq9e1J"/>quo non coitat cum brutis ut appetitus<lb break="?" facs="#facs_jgkBeU" n="lpfF2V"
+                xml:id="elem_jgkBeU"/>sequens intellettum Quid̃ autem ut<lb break="?" facs="#facs_ywbBzs" n="mOTp2C"
+                xml:id="elem_ywbBzs"/>coĩtat cum eis ut appetitus sequens<lb break="?" facs="#facs_sTGQkM" n="xctzlj"
+                xml:id="elem_sTGQkM"/>sensum. qui quid̃ p̃t nonnãri sensuali/<lb break="?" facs="#facs_swucdA" n="eYf6GL"
+                xml:id="elem_swucdA"/>tas. Sequens uero intellectum uocatur<lb break="?" facs="#facs_gLEWEy" n="rpTA5g"
+                xml:id="elem_gLEWEy"/>uoluntas sz quem modum loquendi bru¬<lb break="?" facs="#facs_hMSf6M" n="bpzLhA"
+                xml:id="elem_hMSf6M"/>ta habent sensualitatẽ et appetitũ sen<lb break="?" facs="#facs_tTZH5Z" n="kCKAqa"
+                xml:id="elem_tTZH5Z"/>sitiuum sz non habent uoluntatẽ idest<lb break="?" facs="#facs_crBzwM" n="ahks8O"
+                xml:id="elem_crBzwM"/>appetitum intellectum̃. Uirtutes ergo<lb break="?" facs="#facs_yBw2Ar" n="cfoYEU"
+                xml:id="elem_yBw2Ar"/>de quibus loqui intendim᷒ que sunt<lb break="?" facs="#facs_inKrCf" n="crb1ia"
+                xml:id="elem_inKrCf"/>qued laudabiles uel erunt in potenciis<lb break="?" facs="#facs_bxFQcZ" n="sM85OE"
+                xml:id="elem_bxFQcZ"/>naturalibz uel in appetitu sensitiuo<lb break="?" facs="#facs_xOQSaZ" n="o9M7s6"
+                xml:id="elem_xOQSaZ"/>uel in appetitu intellettiuo uel in ip̃o in¬<lb break="?" facs="#facs_pfTmfb" n="krY5yR"
+                xml:id="elem_pfTmfb"/>tellectu uel in hiis omĩbus uel in aliqͥb<lb break="?" facs="#facs_qA6WpN" n="eZaBKg"
+                xml:id="elem_qA6WpN"/>eorum ¶ In potenciis autem naturalibz<lb break="?" facs="#facs_vKYQcZ" n="fn12D9"
+                xml:id="elem_vKYQcZ"/>esse non possunt quod trippliciter patet<lb break="?" facs="#facs_lMtyon" n="bQWQOg"
+                xml:id="elem_lMtyon"/>¶Primo qr ex naturalibz non laudamͬ<lb break="?" facs="#facs_bHuuWa" n="uXi6Gj"
+                xml:id="elem_bHuuWa"/>neqz uituperamur. nullus enĩ dr̃ bonus<lb break="?" facs="#facs_t0tvwh" n="vArApk"
+                xml:id="elem_t0tvwh"/>ex eo ꝙ hẽat bonam augmẽtatiuam uel<lb break="?" facs="#facs_dXucVj" n="escEdx"
+                xml:id="elem_dXucVj"/>nutritiuam ¶ Secundo in talibus non<lb break="?" facs="#facs_jLkOxy" n="rdtc9C"
+                xml:id="elem_jLkOxy"/>habent esse hinoĩ uirtutes quia uirtus<lb break="?" facs="#facs_yOSbVT" n="tKPe9c"
+                xml:id="elem_yOSbVT"/>est aliquid ss̃ rõnem ut p̃t ꝓbari 2 ͦ eth.<lb break="?" facs="#facs_qzSz3C" n="gXuggT"
+                xml:id="elem_qzSz3C"/>Potencie autem naturales sz ꝙ huioi<lb break="?" facs="#facs_nqsKc9" n="py9faH"
+                xml:id="elem_nqsKc9"/>sunt rõm non obediunt. Nam siue quis<lb break="?" facs="#facs_iW4lH2" n="jVzGB3"
+                xml:id="elem_iW4lH2"/>rõtinetur siue uelit non pp̃ hoc per se lo-<lb break="?" facs="#facs_aut63z" n="lImRRv"
+                xml:id="elem_aut63z"/>quendo potencie naturales uariantur<lb break="?" facs="#facs_k7h9hZ" n="oFptgR"
+                xml:id="elem_k7h9hZ"/>in actibus suis sz semper sz modũ sibi<lb break="?" facs="#facs_ruqTAV" n="qTBMin"
+                xml:id="elem_ruqTAV"/>possibilem suas actiones efficiunt.<lb break="?" facs="#facs_sHuhKK" n="mHu4tm"
+                xml:id="elem_sHuhKK"/>¶ Tercio In talibus potenciis non sunt<pb n=""
+                facs="../input_files/e-codices_bge-lat0092_013v_large.jpg"/><lb break="?" facs="#facs_mreDPM" n="sXh2kC"
+                xml:id="elem_mreDPM"/>habitus et uirtutes quia hĩtus sunt ad de<lb break="?" facs="#facs_uOfSVG" n="gTK21p"
+                xml:id="elem_uOfSVG"/>terminãd potencias ut bene uel male a<lb break="?" facs="#facs_uhDLc8" n="kMxzKZ"
+                xml:id="elem_uhDLc8"/>gant ut per hĩtus uiciosos det̾minatur<lb break="?" facs="#facs_d5NjcP" n="yDGUXK"
+                xml:id="elem_d5NjcP"/>potencia ad agendum male et per uir<lb break="?" facs="#facs_rCFSlX" n="dd2AwM"
+                xml:id="elem_rCFSlX"/>tuosos et ad agendum bene. Cum igit᷑<lb break="?" facs="#facs_bROnJX" n="l954k5"
+                xml:id="elem_bROnJX"/>natura sit detiãta ad unum et potẽ<lb break="?" facs="#facs_fGHzSy" n="iUHW8E"
+                xml:id="elem_fGHzSy"/>cie naturales sufficienter det̾minẽtur<lb break="?" facs="#facs_pLCGpg" n="g8y4mG"
+                xml:id="elem_pLCGpg"/>ad agendum ex natura sua sy eas nec su<lb break="?" facs="#facs_tvZoRA" n="wKTnEs"
+                xml:id="elem_tvZoRA"/>imus uirtuosi nec uiciosi ut hic de uicio<lb break="?" facs="#facs_f3Wjhd" n="qWVml0"
+                xml:id="elem_f3Wjhd"/>et uirtute lo quiuidem᷑ quare in poten<lb break="?" facs="#facs_mZdfiJ" n="qnpWoK"
+                xml:id="elem_mZdfiJ"/>ciis naturalib hinusmodi uirtutes eẽ<lb break="?" facs="#facs_tKHFmb" n="ujf2pI"
+                xml:id="elem_tKHFmb"/>non possunt. ¶ Ex hiis igitur tribz ioi<lb break="?" facs="#facs_xR3qti" n="njZYW6"
+                xml:id="elem_xR3qti"/>bus per quas probatum est uirtutes non<lb break="?" facs="#facs_zHFFM0" n="vrMOMT"
+                xml:id="elem_zHFFM0"/>ẽẽ in potenciis naturalib probari p̃t<lb break="?" facs="#facs_vsGUTK" n="tkdASk"
+                xml:id="elem_vsGUTK"/>eas non ẽẽ incognitione sensitiua siue<lb break="?" facs="#facs_hct0yh" n="miZWOl"
+                xml:id="elem_hct0yh"/>in potenciis sensituus Nam sicut non<lb break="?" facs="#facs_aqHuvx" n="p8FCos"
+                xml:id="elem_aqHuvx"/>laudamur nec uituperam᷑ ex potẽtiis<lb break="?" facs="#facs_culkGa" n="iXKGBT"
+                xml:id="elem_culkGa"/>naturalib probari p̃t eas non ẽẽ in co-<lb break="?" facs="#facs_eo1Wot" n="cKcoMn"
+                xml:id="elem_eo1Wot"/>gincione sensitia siue in potenciis sen<lb break="?" facs="#facs_lPEwa5" n="emA1i1"
+                xml:id="elem_lPEwa5"/>situus. Nam sicut non laudamur nec ui-<lb break="?" facs="#facs_gWExKE" n="m8VJW9"
+                xml:id="elem_gWExKE"/>tuperamur ex potenciis naturalibz bic<lb break="?" facs="#facs_qHjXfr" n="nHdcD4"
+                xml:id="elem_qHjXfr"/>non laudatur quis nec uitupera tur ex<lb break="?" facs="#facs_cWqUAQ" n="aZpl5r"
+                xml:id="elem_cWqUAQ"/>sensibus Nam sicut millus laudat᷑ tãꝙͣ<lb break="?" facs="#facs_vLik5t" n="hgDj3L"
+                xml:id="elem_vLik5t"/>bomus ex eo ꝙ bene digerit uel bñ crescit<lb break="?" facs="#facs_uB1t5T" n="cY6kyZ"
+                xml:id="elem_uB1t5T"/>Sic non laudatur ex eo ꝙ atute uidet uel<lb break="?" facs="#facs_kmbVVE" n="djoki5"
+                xml:id="elem_kmbVVE"/>subtiliter audit insi forte hoc esset per<lb break="?" facs="#facs_wg7d4r" n="hf3EVx"
+                xml:id="elem_wg7d4r"/>accidens. Uef si quis ex suꝑflua comestio<lb break="?" facs="#facs_g6hpse" n="yReeSX"
+                xml:id="elem_g6hpse"/>ne uel ex nimia potatione inturisset<lb break="?" facs="#facs_aVhsxC" n="fD6m5j"
+                xml:id="elem_aVhsxC"/>obtalimam oculorum ne bene uideret uł<lb break="?" facs="#facs_tmHMvM" n="ljX2am"
+                xml:id="elem_tmHMvM"/>deblitatem stomaci ne bene digereret in<lb break="?" facs="#facs_y8n4rJ" n="f9wL9S"
+                xml:id="elem_y8n4rJ"/>treparetur ille non qr male digerit ul<lb break="?" facs="#facs_pRj1lD" n="tCrZr3"
+                xml:id="elem_pRj1lD"/>qr clare non uidet qr clare uideie et bene<lb break="?" facs="#facs_lXJ9IS" n="uFcR3d"
+                xml:id="elem_lXJ9IS"/>digerere per se loquendo non est in ptãte<lb break="?" facs="#facs_myGU4e" n="jczSCl"
+                xml:id="elem_myGU4e"/>homis ded intreparet᷑ ex fuperfluo potu<lb break="?" facs="#facs_uscBHB" n="eICupL"
+                xml:id="elem_uscBHB"/>uel superfluo cibo. Nam erat in potestate<lb break="?" facs="#facs_gt7I0s" n="kzSx75"
+                xml:id="elem_gt7I0s"/>sua ut posset uti cibo et potu moderate:<lb break="?" facs="#facs_ydaKKv" n="b37t2l"
+                xml:id="elem_ydaKKv"/>¶ decimdo in sensibus non est ponenda<lb break="?" facs="#facs_kyocL5" n="zJ4bEB"
+                xml:id="elem_kyocL5"/>uirtus moralis quia sicut potencie na/<lb break="?" facs="#facs_gHfroy" n="uKS9Pa"
+                xml:id="elem_gHfroy"/>turales non obediunt rõm qr ss rlam<lb break="?" facs="#facs_tgTmZn" n="aRFPsW"
+                xml:id="elem_tgTmZn"/>rõnis nllus magis uel ininꝰ auget᷑<lb break="?" facs="#facs_b6Wlex" n="whUtil"
+                xml:id="elem_b6Wlex"/>ues magis et minus digeut sic nec sen<cb break="?"/><lb break="?" facs="#facs_sXd6qR"
+                n="ytkiEd" xml:id="elem_sXd6qR"/>sus obediunt racioni Non enm est in po-<lb break="?" facs="#facs_szs97g"
+                n="o0UE3a" xml:id="elem_szs97g"/>testate homĩs uidere clarius uel minus<lb break="?" facs="#facs_l4cHj1"
+                n="rAQ636" xml:id="elem_l4cHj1"/>clare quare si uirtus moralis est aquid<lb break="?" facs="#facs_loP7Vv"
+                n="c97VLM" xml:id="elem_loP7Vv"/>s rõnem himusmodi uirtus in sensibus<lb break="?" facs="#facs_gh4v2w" n="gpCUgb"
+                xml:id="elem_gh4v2w"/>pom non debet. ¶ Tercio in talib nou<lb break="?" facs="#facs_kbphPA" n="rq1Naa"
+                xml:id="elem_kbphPA"/>est uirtus moralis qr sic potentie natu-<lb break="?" facs="#facs_tlXv8i" n="jk4Ybt"
+                xml:id="elem_tlXv8i"/>rales sufficienter det̾minãtur ad actio,<lb break="?" facs="#facs_lAJMO9" n="r3RyBt"
+                xml:id="elem_lAJMO9"/>nes suas per suam naturam. sic et sensus<lb break="?" facs="#facs_hoMmtr" n="ypMCh1"
+                xml:id="elem_hoMmtr"/>Uam sicict igins tantum calefacit quãtũ<lb break="?" facs="#facs_tU6V0m" n="pzG8Oo"
+                xml:id="elem_tU6V0m"/>p̃t calefatere pp̃ quod quia det̾imãtus in<lb break="?" facs="#facs_mSCWC1" n="nQwrc1"
+                xml:id="elem_mSCWC1"/>attione sua nec laudatur nec uituperat<lb break="?" facs="#facs_xCNJIf" n="ucDbzp"
+                xml:id="elem_xCNJIf"/>nec est in eouirtus moralis. Sic quia po<lb break="?" facs="#facs_uqzVcm" n="jKfmQj"
+                xml:id="elem_uqzVcm"/>tentia digestiua tantum digerit quãtũ<lb break="?" facs="#facs_z4Qn2I" n="zWJv0n"
+                xml:id="elem_z4Qn2I"/>p̃t digerere et oculus uidet ꝙtum potest<lb break="?" facs="#facs_dXtBso" n="gVKcZl"
+                xml:id="elem_dXtBso"/>uidere mneis uirtus moralis ẽẽ non ꝑt<lb break="?" facs="#facs_eQz9gU" n="ahNOQP"
+                xml:id="elem_eQz9gU"/>Nam peruirtutem moralem non deter<lb break="?" facs="#facs_hMiWjH" n="y2CUPG"
+                xml:id="elem_hMiWjH"/>miãtur potencia adagendum. hel autẽ<lb break="?" facs="#facs_cZOLF8" n="l7Hkrw"
+                xml:id="elem_cZOLF8"/>sufficienter det̾mantur ad actiones<lb break="?" facs="#facs_ulMeAC" n="zeqm5p"
+                xml:id="elem_ulMeAC"/>suas per naturam. non igitur indi<lb break="?" facs="#facs_nBa3R1" n="l0zPvi"
+                xml:id="elem_nBa3R1"/>gent uirtute morali. ¶ Si igitur nec<lb break="?" facs="#facs_x5KOnL" n="j3VJRD"
+                xml:id="elem_x5KOnL"/>in potericiis naturalibz nec in sensib<lb break="?" facs="#facs_erE1HX" n="wOXkbi"
+                xml:id="elem_erE1HX"/>est uirtus moralis cum preter potencias<lb break="?" facs="#facs_cYmg3q" n="oNNOno"
+                xml:id="elem_cYmg3q"/>et sensus non sit insi intellectus et fen<lb break="?" facs="#facs_tj3e9t" n="j8fBTh"
+                xml:id="elem_tj3e9t"/>s appetitus sensitums et intellectuius<lb break="?" facs="#facs_yNB149" n="nrL3qh"
+                xml:id="elem_yNB149"/>opoitet in talibus ẽe uirtutes morales</p>
+          </div>
+          <div n="1.2.2" type="chapitre">
+            <head><lb break="?" facs="#facs_lSkCjP" n="j7ssYM" xml:id="elem_lSkCjP"/>Capluĩ secundum quomodo distinguntur<lb
+                break="?" facs="#facs_eN3Oap" n="qc8OAm" xml:id="elem_eN3Oap"/>uirtutes et quo modo se habent in intel<lb
+                break="?" facs="#facs_pnA9g4" n="aHfCbJ" xml:id="elem_pnA9g4"/>lectu et appetitu.</head>
+            <p><lb break="?" facs="#facs_jd1bSr" n="vaMtWV" xml:id="elem_jd1bSr"/>o<lb break="?" facs="#facs_mD064H" n="uvSm5r"
+                xml:id="elem_mD064H"/>dtenso ꝙ nec in potenciis<lb break="?" facs="#facs_mYMccS" n="ev0lxS" xml:id="elem_mYMccS"
+              />naturalibus nec in sensibz<lb break="?" facs="#facs_rBpabo" n="yNN9q9" xml:id="elem_rBpabo"/>habent esse uirtutes.
+                Restat<lb break="?" facs="#facs_lAxWU3" n="z1tFGX" xml:id="elem_lAxWU3"/>ostendere quo modo distĩgũt᷑<lb
+                break="?" facs="#facs_vHdMQ6" n="jPwzDR" xml:id="elem_vHdMQ6"/>uirtutes et quomodo in intellectu et<lb break="?"
+                facs="#facs_bFWls8" n="eg6Noz" xml:id="elem_bFWls8"/>appetitu sexistunt. ¶ Distinguendũ<lb break="?"
+                facs="#facs_qJpUmr" n="ksj6eZ" xml:id="elem_qJpUmr"/>est de uirtutib et hiis potenciis Nam<lb break="?"
+                facs="#facs_oQYYrT" n="wdEIGY" xml:id="elem_oQYYrT"/>uirtutum qued sunt intellectuales q̃d<lb break="?"
+                facs="#facs_heUSkh" n="kRvn6G" xml:id="elem_heUSkh"/>morales et qued̾ medie inter morales<lb break="?"
+                facs="#facs_sSS6ao" n="vEU1XW" xml:id="elem_sSS6ao"/>et intellectuales. Intellectuales dicũt᷑<lb break="?"
+                facs="#facs_m6KlOi" n="g55KdU" xml:id="elem_m6KlOi"/>ille que sunt in intellectu speculatiuo<lb break="?"
+                facs="#facs_ttKzTd" n="v60sX6" xml:id="elem_ttKzTd"/>cinusmodi sunt scĩe speculatiue ut na-<lb break="?"
+                facs="#facs_qRWwDN" n="oh1qCM" xml:id="elem_qRWwDN"/>turalis phĩa arismetica geometria<pb n=""
+                facs="../input_files/e-codices_bge-lat0092_014r_large.jpg"/><lb break="?" facs="#facs_hQrAoO" n="cQn4Nx"
+                xml:id="elem_hQrAoO"/>et talia uir tutes uero simp liiter morales<lb break="?" facs="#facs_lZHian" n="taZ5fu"
+                xml:id="elem_lZHian"/>sunt ille que sunt in appetitu siue appe<lb break="?" facs="#facs_kYese9" n="j35Ggd"
+                xml:id="elem_kYese9"/>titus ille fit sensitimis siue intellecti<lb break="?" facs="#facs_iNfviO" n="qcpRyF"
+                xml:id="elem_iNfviO"/>uus Cimismodi iustida temperantia<lb break="?" facs="#facs_bSqltv" n="rRMroX"
+                xml:id="elem_bSqltv"/>fortitudo mansuetudo et cettera talia<lb break="?" facs="#facs_t6WiMx" n="nY9Ytp"
+                xml:id="elem_t6WiMx"/>de quibus sumus singulariter tratta<lb break="?" facs="#facs_noS3jN" n="fTkB3X"
+                xml:id="elem_noS3jN"/>turi. Uirtutes uero medie inter intel<lb break="?" facs="#facs_pB8vwu" n="mjjauK"
+                xml:id="elem_pB8vwu"/>lectuales et morales sunt uirtutes exi-<lb break="?" facs="#facs_ivjpKR" n="ceAdm5"
+                xml:id="elem_ivjpKR"/>stentes in intellectu practicout pru<lb break="?" facs="#facs_jMHLm7" n="bghUXL"
+                xml:id="elem_jMHLm7"/>dentia et alie uirtutes sibi amnex e<lb break="?" facs="#facs_uGwxHW" n="jqIjF6"
+                xml:id="elem_uGwxHW"/>Prudencia emm ss cõmentatorẽ super<lb break="?" facs="#facs_kBRFdK" n="zgSHdy"
+                xml:id="elem_kBRFdK"/>librum ethitorum est media inter uirtu-<lb break="?" facs="#facs_ynL50a" n="t6RzQe"
+                xml:id="elem_ynL50a"/>tes morales et intellettuales tamen<lb break="?" facs="#facs_hxEsPH" n="kLcfof"
+                xml:id="elem_hxEsPH"/>potest comparari cum uirtutib mora<lb break="?" facs="#facs_yas1KA" n="b6ZA2f"
+                xml:id="elem_yas1KA"/>libus Nam prudencia non dnest nisi<lb break="?" facs="#facs_bsYNpV" n="f6bjQ7"
+                xml:id="elem_bsYNpV"/>homibus boms sicut nec uirtutes<lb break="?" facs="#facs_bYHq4d" n="jAKiod"
+                xml:id="elem_bYHq4d"/>mora les sdram enimi honnẽs et si possit<lb break="?" facs="#facs_nLMRZh" n="giYGwo"
+                xml:id="elem_nLMRZh"/>ee scientes astuti et uersipelles prudẽtes<lb break="?" facs="#facs_eSEVNq" n="iM5NMd"
+                xml:id="elem_eSEVNq"/>tamen ẽẽ non possunt ut suo loco pate<lb break="?" facs="#facs_xEBlNz" n="tGJArd"
+                xml:id="elem_xEBlNz"/>bit. Inde est ergo ꝙ dr̃ sexto ethiz ꝙ im<lb break="?" facs="#facs_pzdiND" n="rc3WTu"
+                xml:id="elem_pzdiND"/>possibile est prudentem non entem homuĩ<lb break="?" facs="#facs_sFccwS" n="mSBZRW"
+                xml:id="elem_sFccwS"/>¶ Dimisfis igitur uirtutes intellectua<lb break="?" facs="#facs_eCpazb" n="kTHwxK"
+                xml:id="elem_eCpazb"/>les et saienciis speculatiuis De prudencia<lb break="?" facs="#facs_vrUZx5" n="slh4ad"
+                xml:id="elem_vrUZx5"/>et de uirtutib inoralib est trattandum<lb break="?" facs="#facs_ymXsS6" n="aY7HpP"
+                xml:id="elem_ymXsS6"/>Suscepmiꝰ enm ut pluries diximus<lb break="?" facs="#facs_x8MOUK" n="zlVWAd"
+                xml:id="elem_x8MOUK"/>presens opus non ut sciamus szut boĩ<lb break="?" facs="#facs_ymLqWC" n="unhSsR"
+                xml:id="elem_ymLqWC"/>fiamus que honitas sineprudentia<lb break="?" facs="#facs_zB433y" n="dTgHP9"
+                xml:id="elem_zB433y"/>et sine uirtutibz moralib nobis Iuesse<lb break="?" facs="#facs_gFFHc0" n="phB5d7"
+                xml:id="elem_gFFHc0"/>non potest. has autem uirtates intel<lb break="?" facs="#facs_b1idXa" n="cfwL36"
+                xml:id="elem_b1idXa"/>lectu et appetitu sicesse contingit dictũ<lb break="?" facs="#facs_nf6g35" n="soSRzG"
+                xml:id="elem_nf6g35"/>est enm uirtutem esse aliquid̃ sgz rõnẽ<lb break="?" facs="#facs_q6vf4T" n="lmSc8z"
+                xml:id="elem_q6vf4T"/>oportet ergo rõnalem potenciam in qua<lb break="?" facs="#facs_i3Cx89" n="yn89Qj"
+                xml:id="elem_i3Cx89"/>pomitur esse uirtus. Lacionale autem<lb break="?" facs="#facs_bmfxzu" n="a1VFh3"
+                xml:id="elem_bmfxzu"/>dupplex est ss phm̃ per essentiam et per<lb break="?" facs="#facs_hxQC1k" n="kNX3Vm"
+                xml:id="elem_hxQC1k"/>participationẽ Intellectus auten rõnal<lb break="?" facs="#facs_jLHTZ9" n="lINrvY"
+                xml:id="elem_jLHTZ9"/>est per essentiam Ꝙz appetitucz est rõnalis<lb break="?" facs="#facs_pl1vqp" n="cwXtDP"
+                xml:id="elem_pl1vqp"/>per participationẽ. Nam apetitus licet<lb break="?" facs="#facs_yhNQkx" n="ur28G7"
+                xml:id="elem_yhNQkx"/>non sit intellectus siue ipã rõ essencialit<lb break="?" facs="#facs_l7OcKE" n="qRmJwk"
+                xml:id="elem_l7OcKE"/>dicitur tñ participare rõnem qr est aytusz<lb break="?" facs="#facs_jgtLIE" n="dtWIBS"
+                xml:id="elem_jgtLIE"/>natus racioni obedire. Idotentie autem<lb break="?" facs="#facs_pw1o5t" n="dC7JPA"
+                xml:id="elem_pw1o5t"/>nales et sensus nec sintt rõnales per esse<cb break="?"/><lb break="?" facs="#facs_vnHMWJ"
+                n="aoTc8X" xml:id="elem_vnHMWJ"/>tiam qr non sunt ipã racio nec rõnem<lb break="?" facs="#facs_nHMbLw"
+                n="yy8kFl" xml:id="elem_nHMbLw"/>participant qr per se nec ssz ꝙ himusmoĩ<lb break="?" facs="#facs_dNxmfi"
+                n="oiM4gQ" xml:id="elem_dNxmfi"/>non obediunt rõm Igitur in sensibz et<lb break="?" facs="#facs_zmBWmB"
+                n="gUFZBu" xml:id="elem_zmBWmB"/>in potenciis naturalib ut supra dictum<lb break="?" facs="#facs_mu4cct"
+                n="rgSZka" xml:id="elem_mu4cct"/>est non habent esseuirtutes sz solum ha<lb break="?" facs="#facs_jaYxEX"
+                n="htV9Fy" xml:id="elem_jaYxEX"/>bent esse in appetitu et intellectu. In no-<lb break="?" facs="#facs_dp3hG4"
+                n="nUdujw" xml:id="elem_dp3hG4"/>bis autem dupplex est appetitus scilicet<lb break="?" facs="#facs_ioPzpF"
+                n="awemJl" xml:id="elem_ioPzpF"/>intellectinus et sensituius. nam sicut appe<lb break="?" facs="#facs_gbqIeP"
+                n="cFpWQh" xml:id="elem_gbqIeP"/>titus naturalis sequitur formam appre,<lb break="?" facs="#facs_jlOe7G"
+                n="bPCiCb" xml:id="elem_jlOe7G"/>hensam per cognicionẽ sicut em̃ grama<lb break="?" facs="#facs_lyUU4G"
+                n="dnD5H7" xml:id="elem_lyUU4G"/>ex eo ꝙ habent formam grauem seguitur<lb break="?" facs="#facs_cFHpaO" n="ttl0kD"
+                xml:id="elem_cFHpaO"/>ea qued̃ naturalis inclinacio et quid appe-<lb break="?" facs="#facs_o9eojq" n="rMuHEw"
+                xml:id="elem_o9eojq"/>titus natitralis ut naturalit̾ desiderent<lb break="?" facs="#facs_hvM6T1" n="mB46OS"
+                xml:id="elem_hvM6T1"/>esse deorsum sic humana cognostentia pro<lb break="?" facs="#facs_lfHnc2" n="bBitog"
+                xml:id="elem_lfHnc2"/>ut habent in se ip̃is formain apprehensam<lb break="?" facs="#facs_prBJlg" n="urHGLO"
+                xml:id="elem_prBJlg"/>sequitur qued niclinacio quid appetitus ss<lb break="?" facs="#facs_cVca1S" n="fKmOtg"
+                xml:id="elem_cVca1S"/>formam illam pp̃ quod sicut est in nobicz<lb break="?" facs="#facs_n5QBlX" n="jL4QH8"
+                xml:id="elem_n5QBlX"/>dupplex cognnicio sensitiua et intellettiua<lb break="?" facs="#facs_wWpTAS" n="sryGcZ"
+                xml:id="elem_wWpTAS"/>Sic est in nobis dumplex appetitus sensituu<lb break="?" facs="#facs_bxWTAY" n="aXKE6A"
+                xml:id="elem_bxWTAY"/>et intellectutus Sensitums qui sequitur<lb break="?" facs="#facs_k5AIvO" n="bmNQlS"
+                xml:id="elem_k5AIvO"/>formam apprehensam per sensum et intel<lb break="?" facs="#facs_urkjdf" n="iE2MO5"
+                xml:id="elem_urkjdf"/>lectiuus qui sequitur formam apprehen<lb break="?" facs="#facs_zW8y2K" n="fn4V31"
+                xml:id="elem_zW8y2K"/>sam per intellectum ¶ Appetitus autem sẽ<lb break="?" facs="#facs_zINSZL" n="iqYJCA"
+                xml:id="elem_zINSZL"/>situius dupplex est. nam cum aĩalia sint<lb break="?" facs="#facs_s5VRif" n="pym6wH"
+                xml:id="elem_s5VRif"/>supra aiãta sic natura calidis et rebus<lb break="?" facs="#facs_fZ89yx" n="aBpt2c"
+                xml:id="elem_fZ89yx"/>inaiãtis dedit duplicem potenciã unam<lb break="?" facs="#facs_q48sZu" n="zaxvjf"
+                xml:id="elem_q48sZu"/>per quam tendinit in propriam qui etem<lb break="?" facs="#facs_yT8Son" n="qWbQ4b"
+                xml:id="elem_yT8Son"/>et aliam per quam resistunt et agunt in<lb break="?" facs="#facs_uPkdTd" n="dFNXvh"
+                xml:id="elem_uPkdTd"/>prohibencia et in contraria. multo magis<lb break="?" facs="#facs_iz6ep4" n="dIgOPW"
+                xml:id="elem_iz6ep4"/>hanc dupplitem potenciã natura dedit i<lb break="?" facs="#facs_jaoZiz" n="jwrxEV"
+                xml:id="elem_jaoZiz"/>ꝑsis aiãlibz que sunt perfectiora illis. Ui<lb break="?" facs="#facs_yZ29C0" n="grP3Ak"
+                xml:id="elem_yZ29C0"/>demus emĩ ꝙ ignis qm est naturaliter ca<lb break="?" facs="#facs_gVH5y1" n="dKbQW1"
+                xml:id="elem_gVH5y1"/>lidus et leuis per leiitatem emĩ tendit in<lb break="?" facs="#facs_cptCNq" n="lZ47hW"
+                xml:id="elem_cptCNq"/>locum propum et in quietem sibi cõueĩ<lb break="?" facs="#facs_t73aST" n="ldxnry"
+                xml:id="elem_t73aST"/>entem per caliditatem uero agit in con<lb break="?" facs="#facs_diCDXf" n="wvqlmR"
+                xml:id="elem_diCDXf"/>traria. Ne ergo ignis per quecumqz a<lb break="?" facs="#facs_opm2Iu" n="qPvrOI"
+                xml:id="elem_opm2Iu"/>gencia contraria impediat᷑ qum per<lb break="?" facs="#facs_mn45MU" n="d3xV97"
+                xml:id="elem_mn45MU"/>leuitatem in proprio loco quiescere posset<lb break="?" facs="#facs_rNhSQv" n="jdTkSR"
+                xml:id="elem_rNhSQv"/>dedit ei natura potenciã calefactiuam<lb break="?" facs="#facs_tvpnuu" n="ip1IO0"
+                xml:id="elem_tvpnuu"/>ut per eam resisteret et ageret in cõtraria<lb break="?" facs="#facs_fSGUBd" n="cmZjUq"
+                xml:id="elem_fSGUBd"/>coreuꝑtiuia. Si igitur natura dedit igni<pb n=""
+                facs="../input_files/e-codices_bge-lat0092_014v_large.jpg"/><lb break="?" facs="#facs_h3W9Yg" n="l5xs6U"
+                xml:id="elem_h3W9Yg"/>et rebus Inaiatis dupplicem potentia una<lb break="?" facs="#facs_h5lG0O" n="lyzCUK"
+                xml:id="elem_h5lG0O"/>per quam adipiscuntur propriam quietem<lb break="?" facs="#facs_g0gzln" n="bvb4E8"
+                xml:id="elem_g0gzln"/>et aliam per quam aqunt in prohibencia<lb break="?" facs="#facs_zIzg0J" n="mrrzqT"
+                xml:id="elem_zIzg0J"/>et contraria multo magis hoc dedit aĩa<lb break="?" facs="#facs_fSXs8Z" n="pcdiNP"
+                xml:id="elem_fSXs8Z"/>libus Tribint ergo eis dupplicem appetitũ<lb break="?" facs="#facs_gzd7ly" n="uDQI8S"
+                xml:id="elem_gzd7ly"/>sensituium unũ per quem prosequũtur pro<lb break="?" facs="#facs_wr3ldm" n="yFqzNP"
+                xml:id="elem_wr3ldm"/>priam quietem et propriam delectationẽ ut<lb break="?" facs="#facs_pmKWI2" n="f8R2s9"
+                xml:id="elem_pmKWI2"/>concupiscencionalem Et alium per quem<lb break="?" facs="#facs_i8D0GG" n="fvDOgz"
+                xml:id="elem_i8D0GG"/>resistunt et aggreduuntur prohibentia cõ-<lb break="?" facs="#facs_wj11sA" n="zy9R3Q"
+                xml:id="elem_wj11sA"/>traria ut irascibilem Ita ꝙ concupiscibłis<lb break="?" facs="#facs_tCQDaa" n="xfoZOn"
+                xml:id="elem_tCQDaa"/>se ht̃ sicut grauitas et leuitas in grauibz<lb break="?" facs="#facs_g3fIxj" n="xvSUNQ"
+                xml:id="elem_g3fIxj"/>et lembus. Trascibilis se ht̃ sicut caliditas<lb break="?" facs="#facs_jQPess" n="dc4Q3a"
+                xml:id="elem_jQPess"/>et frigiditas in eis. Nam sicut grama per<lb break="?" facs="#facs_rhmPiD" n="nmplzO"
+                xml:id="elem_rhmPiD"/>graintatem desi recedunt aloco sursum tũ<lb break="?" facs="#facs_c9zAcN" n="pj6Ry9"
+                xml:id="elem_c9zAcN"/>ꝙͣ a non cõueniente et tendunt in locũ<lb break="?" facs="#facs_dgzsvl" n="peN3p0"
+                xml:id="elem_dgzsvl"/>deorsum tamꝙͣ in locum sibi cõuemiẽtem<lb break="?" facs="#facs_ukxP0G" n="mLNwLF"
+                xml:id="elem_ukxP0G"/>et conformem per frigiditatem uero re-<lb break="?" facs="#facs_hIqkIG" n="zBTr1L"
+                xml:id="elem_hIqkIG"/>sistunt contrariis ne corrumpant᷑ a pro<lb break="?" facs="#facs_esmzvu" n="uio9pJ"
+                xml:id="elem_esmzvu"/>pria natura et deserant propria loca et<lb break="?" facs="#facs_cEip83" n="zYG33V"
+                xml:id="elem_cEip83"/>propriam q inetem dic aĩalia per concupi-<lb break="?" facs="#facs_rzXYrz" n="ekmMPO"
+                xml:id="elem_rzXYrz"/>scibilem fugunt mala tristia et prosequũ<lb break="?" facs="#facs_kxxsIp" n="qA558w"
+                xml:id="elem_kxxsIp"/>tur bona delectabilia. per irascibilẽ uero ag<lb break="?" facs="#facs_sFOH0r" n="ro0WM4"
+                xml:id="elem_sFOH0r"/>gredumtur contraria que possent ab hiniꝰ.<lb break="?" facs="#facs_oYPqBW" n="xrKXKV"
+                xml:id="elem_oYPqBW"/>de lectabilibz prohibere. ut leo per concupi-<lb break="?" facs="#facs_xcV2h5" n="lXO1id"
+                xml:id="elem_xcV2h5"/>scibilem pergit ut prosequatur cibum tãꝙ̃<lb break="?" facs="#facs_zL0e3u" n="f7AC9q"
+                xml:id="elem_zL0e3u"/>aliquid delectabile. per nrascibilem aggre<lb break="?" facs="#facs_zVHK6a" n="rZI9cj"
+                xml:id="elem_zVHK6a"/>ditur aĩalia uolencia ipsum prohibere a<lb break="?" facs="#facs_vVt5mE" n="lvupo3"
+                xml:id="elem_vVt5mE"/>cilr adepto Et ꝙ hec uirtus sit data aĩ<lb break="?" facs="#facs_h5nBEA" n="jx178z"
+                xml:id="elem_h5nBEA"/>malib signum p̃t adduci ꝙ sensin se offert<lb break="?" facs="#facs_rFEYMO" n="rsulFu"
+                xml:id="elem_rFEYMO"/>continue. nam canes cum inueumt a li<lb break="?" facs="#facs_wVhE39" n="jfjL3V"
+                xml:id="elem_wVhE39"/>mentum non cessant donec posuerint In<lb break="?" facs="#facs_arb1vI" n="yR9vp2"
+                xml:id="elem_arb1vI"/>occulto et hoc facunt ut elongentur ab ob-<lb break="?" facs="#facs_pOuZ2S" n="chxztY"
+                xml:id="elem_pOuZ2S"/>staculo. pp̃ quod bene dictum est ꝙ concupi<lb break="?" facs="#facs_m6NvsC" n="juU78g"
+                xml:id="elem_m6NvsC"/>stibilis respicit bonum et malum ssz se dia-<lb break="?" facs="#facs_iGZQpk" n="j3Z5ou"
+                xml:id="elem_iGZQpk"/>scibilis uero respicit bonũ et malũ inꝙͣtũ<lb break="?" facs="#facs_bwLMEX" n="euQOgK"
+                xml:id="elem_bwLMEX"/>habent rõnem difficilis et ardui. nam cũ<lb break="?" facs="#facs_vjmni0" n="rgljNw"
+                xml:id="elem_vjmni0"/>bonimi ssz se dicat quid prosequendum ma-<lb break="?" facs="#facs_cTXhXH" n="ayPMMQ"
+                xml:id="elem_cTXhXH"/>lum uero quid fugiendum, concupisciblis<lb break="?" facs="#facs_wDIHXz" n="cAWnVB"
+                xml:id="elem_wDIHXz"/>ss se tendit in quuietem et in bona delecta-<lb break="?" facs="#facs_hZY3jU" n="bwQDWj"
+                xml:id="elem_hZY3jU"/>bilia et fugit mala tristia. pro obiecto<lb break="?" facs="#facs_v0lI5E" n="fpKALF"
+                xml:id="elem_v0lI5E"/>emm ħt bona et mala sy se considerata<cb break="?"/><lb break="?" facs="#facs_gviAXX"
+                n="kDrcIv" xml:id="elem_gviAXX"/>Irascibilis uero sẜ ꝙ aggre dimur et resistimr<lb break="?" facs="#facs_gtzrkp"
+                n="ywhl2b" xml:id="elem_gtzrkp"/>prohibentibz et nocuns tendit in bona et<lb break="?" facs="#facs_zFq1dh"
+                n="fzxWl6" xml:id="elem_zFq1dh"/>in mala non ss se considerata sed ut hñt<lb break="?" facs="#facs_x2NzCx"
+                n="eyXg7B" xml:id="elem_x2NzCx"/>rõnem ardin et difficilis nam arduitas<lb break="?" facs="#facs_uM1Mfh"
+                n="ryO9b6" xml:id="elem_uM1Mfh"/>et difficultas potissime sunt repugnãcia<lb break="?" facs="#facs_n7KcTa"
+                n="abbkzL" xml:id="elem_n7KcTa"/>et prohibentia ne possim⁊ consequr bo<lb break="?" facs="#facs_z4vr0c" n="cIzYqY"
+                xml:id="elem_z4vr0c"/>nim et uitare nalum. Imperfecte ergo<lb break="?" facs="#facs_iicLDE" n="m7hAZF"
+                xml:id="elem_iicLDE"/>fecisset natura si dedisset aĩalibz concu-<lb break="?" facs="#facs_lZZXMt" n="gxkDJE"
+                xml:id="elem_lZZXMt"/>piscibilem per quam uitarent mala et pro<lb break="?" facs="#facs_rPmlLR" n="zWXtgA"
+                xml:id="elem_rPmlLR"/>sequerent᷑ bona insi dedisset eis nrascibilẽ<lb break="?" facs="#facs_nq5Xzu" n="evTivt"
+                xml:id="elem_nq5Xzu"/>per quam aggrederentur impedientia de<lb break="?" facs="#facs_dvr2RY" n="jNJL0A"
+                xml:id="elem_dvr2RY"/>lectacionem illam Ut ugit᷑ aĩalia ss mo-<lb break="?" facs="#facs_e8hQb5" n="dCWXol"
+                xml:id="elem_e8hQb5"/>dum sibi cõuenientem plene possent de<lb break="?" facs="#facs_p3d90W" n="f8uunM"
+                xml:id="elem_p3d90W"/>lettari percontupisciblem̃ data est eis ira<lb break="?" facs="#facs_h5DGOq" n="gaXZQ8"
+                xml:id="elem_h5DGOq"/>stibilis per quam resistant et aggrediant᷑<lb break="?" facs="#facs_dQiDYN" n="nMHbx6"
+                xml:id="elem_dQiDYN"/>tmpedientia delectationẽ illam ¶ Dupplex<lb break="?" facs="#facs_dkvVzD" n="ckSjYZ"
+                xml:id="elem_dkvVzD"/>est ergo appetitus sensituius Irascibilis<lb break="?" facs="#facs_xGYbtg" n="lFKtsX"
+                xml:id="elem_xGYbtg"/>et concupisciblĩs. Apetitus autem du<lb break="?" facs="#facs_xlHaCd" n="tDUezz"
+                xml:id="elem_xlHaCd"/>telle ttiuus qui dr̃ uoliitas est indiuisus<lb break="?" facs="#facs_kKouFI" n="lxiNdk"
+                xml:id="elem_kKouFI"/>nam cum gritellectus umu̾saliori modo<lb break="?" facs="#facs_ta3uKc" n="ynIBjx"
+                xml:id="elem_ta3uKc"/>respiciat suum obiectum ꝙͣ sensus appeti<lb break="?" facs="#facs_p9gE94" n="pxrDHk"
+                xml:id="elem_p9gE94"/>tus intellectinus qui sequit᷑ intellectum<lb break="?" facs="#facs_gB5Iuq" n="puyFzs"
+                xml:id="elem_gB5Iuq"/>uinu̾saliori modo fertur in bonum ꝙ̃ ape<lb break="?" facs="#facs_oP5jqO" n="dg1wmQ"
+                xml:id="elem_oP5jqO"/>titus ss sensum Et quia quanto quid uni<lb break="?" facs="#facs_n67tjG" n="wmxBj7"
+                xml:id="elem_n67tjG"/>uersaliori mõ accipitur. tanto unum et<lb break="?" facs="#facs_xzYxsO" n="mbySQw"
+                xml:id="elem_xzYxsO"/>idem existens ad plura se extendit. licet<lb break="?" facs="#facs_slfNa9" n="pzzWEW"
+                xml:id="elem_slfNa9"/>appetitus sensituius sit aluus et aluis ser<lb break="?" facs="#facs_pooZmE" n="uqxq7M"
+                xml:id="elem_pooZmE"/>quem prosequi᷑ delectabilia ss sensum<lb break="?" facs="#facs_wa2X24" n="gHXDAK"
+                xml:id="elem_wa2X24"/>et aggredimur terribilia. Appetitus tamẽ<lb break="?" facs="#facs_moDA35" n="hJ2dPv"
+                xml:id="elem_moDA35"/>intellectuus unus et idem existens fertur<lb break="?" facs="#facs_azRWym" n="ppmTsu"
+                xml:id="elem_azRWym"/>in omẽ bonũ intelligibile. Non est ergo a<lb break="?" facs="#facs_jxd1ZW" n="tAt62H"
+                xml:id="elem_jxd1ZW"/>luis appetitus intedectuius ss quem pro<lb break="?" facs="#facs_fTUxuW" n="nAbOxm"
+                xml:id="elem_fTUxuW"/>sequint᷑ bona delectabilia per intellectum<lb break="?" facs="#facs_qqoRFL" n="r6eYhw"
+                xml:id="elem_qqoRFL"/>et aggredimur bona ardua sicut est alis<lb break="?" facs="#facs_qeBqWH" n="mKHwYU"
+                xml:id="elem_qeBqWH"/>appetitus sensituius ssz quem prosequimur<lb break="?" facs="#facs_rBmGpJ" n="o2e74e"
+                xml:id="elem_rBmGpJ"/>bona delectabilia et aggredim᷑ terribilia<lb break="?" facs="#facs_xAwZWy" n="rYR9L1"
+                xml:id="elem_xAwZWy"/>Quare si omĩs uirtus moralis uel est in<lb break="?" facs="#facs_pKgPyL" n="jn7jRj"
+                xml:id="elem_pKgPyL"/>Intellettu uel in appetitu Et appetitꝰ alius<lb break="?" facs="#facs_sRt6uL" n="lTJFvS"
+                xml:id="elem_sRt6uL"/>est intellectius uit uolintas et alius est<lb break="?" facs="#facs_anwZnC" n="omsHR3"
+                xml:id="elem_anwZnC"/>sensituuis et hic est dupplex scilicet irasci<lb break="?" facs="#facs_sz7NMo" n="l7mX7K"
+                xml:id="elem_sz7NMo"/>bilis et concupisciblis Oportet onmnem<pb n=""
+                facs="../input_files/e-codices_bge-lat0092_015r_large.jpg"/><lb break="?" facs="#facs_injmhr" n="nbn7QI"
+                xml:id="elem_injmhr"/>uirtutem esse uel in intellettu uel in appeti<lb break="?" facs="#facs_cULF2z" n="aooyrH"
+                xml:id="elem_cULF2z"/>tu intellectiuo uel in mascibili uel in con<lb break="?" facs="#facs_erqXcu" n="c54NUH"
+                xml:id="elem_erqXcu"/>cupiscibili. Accipiendo ergo uirtutem mo-<lb break="?" facs="#facs_uVfm1D" n="nepo30"
+                xml:id="elem_uVfm1D"/>ralem large prout ipsa prudencia dicit᷑ qued<lb break="?" facs="#facs_ikfZia" n="wlER9S"
+                xml:id="elem_ikfZia"/>uirtus moralis dice possumꝰ ꝙ sy has<lb break="?" facs="#facs_yPwV2U" n="y6bsEf"
+                xml:id="elem_yPwV2U"/>quatuor potentias aĩe in quibus ht esse<lb break="?" facs="#facs_rqY3Rg" n="jJqIPs"
+                xml:id="elem_rqY3Rg"/>uirtus moralis sumpte sunt quatuor uirtu<lb break="?" facs="#facs_qtxWEv" n="cXn8tl"
+                xml:id="elem_qtxWEv"/>tes cardinales scilicet prudencia iusticia for-<lb break="?" facs="#facs_btGCwP" n="t8lB9p"
+                xml:id="elem_btGCwP"/>titudo temperancia. Nam prudentia est<lb break="?" facs="#facs_aLUhM1" n="iz91x2"
+                xml:id="elem_aLUhM1"/>in intellectu dusticia est in uoluntate forti<lb break="?" facs="#facs_veUlfY" n="jmZUBq"
+                xml:id="elem_veUlfY"/>tudo in irascibili. temperantia in concupi<lb break="?" facs="#facs_fskjuN" n="wSwVdk"
+                xml:id="elem_fskjuN"/>scibili</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

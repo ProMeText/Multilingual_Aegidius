@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>it0.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15440" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15441" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15442" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15443" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15444" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15445" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15446" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15447" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15448" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15449" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15450" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15451" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15452" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15453" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT15454" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT6511" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6512" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6513" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6514" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6515" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2832"
+          HEIGHT="3815"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2832"
+                  HEIGHT="3815">
+        
+        <TextBlock HPOS="644"
+                   VPOS="466"
+                   WIDTH="1863"
+                   HEIGHT="2448"
+                   ID="eSc_textblock_767fe6e3"
+                   TAGREFS="BT15454">
+          <Shape><Polygon POINTS="712 466 2380 491 2448 517 2439 871 2490 1424 2456 1803 2490 2125 2439 2363 2465 2373 2456 2515 2507 2780 2456 2905 729 2914 737 2704 1009 2693 1025 2450 1006 2397 864 2380 924 2346 888 2320 703 2312 729 2238 661 2168 678 1297 644 712 712 466"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6dbf1d3f"
+                    
+                    BASELINE="1028 2171 2393 2174" 
+                    HPOS="1024"
+                    VPOS="2120"
+                    WIDTH="1368"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1027 2168 1024 2193 1056 2209 1059 2209 1062 2209 2389 2206 2392 2171 2389 2126 1027 2120 1027 2168"/></Shape>
+	    <String CONTENT="Lo primiero capito lo della seconda parte del Primo"
+                    HPOS="1024"
+                    VPOS="2120"
+                    WIDTH="1368"
+                    HEIGHT="89"
+                    WC="0.9861789392490014"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d41bbec2"
+                    TAGREFS="LT6515"
+                    BASELINE="766 2240 2454 2227" 
+                    HPOS="760"
+                    VPOS="2180"
+                    WIDTH="1693"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="763 2238 763 2266 2453 2260 2453 2225 2446 2180 760 2180 763 2238"/></Shape>
+	    <String CONTENT="ubro del ghauernamento delli dẽ edelli principi Iusegna Quante potençie"
+                    HPOS="760"
+                    VPOS="2180"
+                    WIDTH="1693"
+                    HEIGHT="86"
+                    WC="0.9786337491584151"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_019396d0"
+                    TAGREFS="LT6515"
+                    BASELINE="764 2297 2422 2278" 
+                    HPOS="760"
+                    VPOS="2238"
+                    WIDTH="1661"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="763 2295 763 2349 1011 2349 1011 2346 1015 2346 1018 2346 1021 2343 1043 2327 1065 2343 1069 2343 1072 2343 1075 2346 1291 2346 1291 2343 1295 2343 1298 2343 1301 2339 1333 2317 1425 2330 1428 2330 1915 2311 1944 2327 1953 2333 1956 2333 1960 2333 1963 2333 1998 2327 2065 2311 2131 2323 2138 2323 2141 2323 2151 2323 2230 2308 2259 2320 2278 2330 2281 2330 2284 2330 2287 2330 2291 2330 2300 2320 2316 2311 2418 2317 2421 2276 2411 2238 760 2241 763 2295"/></Shape>
+	    <String CONTENT="anima a e uelle chui potencie le uirtu delle buone huopere sonno."
+                    HPOS="760"
+                    VPOS="2238"
+                    WIDTH="1661"
+                    HEIGHT="111"
+                    WC="0.953998071872271"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec1b8893"
+                    TAGREFS="LT6515"
+                    BASELINE="1036 2431 2433 2414" 
+                    HPOS="1034"
+                    VPOS="2356"
+                    WIDTH="1399"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1036 2462 1208 2462 1208 2460 1210 2460 1212 2460 1214 2458 1233 2447 1350 2456 1373 2458 1375 2458 1377 2458 1379 2458 1379 2456 1392 2445 1524 2454 1555 2456 1558 2456 1583 2454 1674 2443 2433 2443 2433 2414 2427 2365 2321 2378 2276 2365 2266 2361 2263 2361 2261 2361 2259 2361 2257 2361 2253 2365 2229 2380 2136 2367 2134 2367 2132 2367 2130 2367 2111 2380 2049 2371 2047 2371 2045 2371 2024 2382 1975 2367 1973 2367 1971 2367 1969 2367 1926 2382 1880 2365 1861 2356 1859 2356 1856 2356 1854 2356 1839 2365 1818 2375 1765 2365 1757 2363 1755 2363 1753 2363 1746 2365 1666 2386 1585 2365 1572 2361 1570 2361 1568 2361 1566 2361 1560 2365 1517 2386 1477 2365 1471 2361 1468 2361 1466 2361 1464 2361 1462 2361 1460 2365 1443 2378 1337 2390 1278 2371 1276 2371 1273 2371 1271 2371 1269 2371 1257 2380 1242 2369 1242 2367 1240 2367 1237 2367 1235 2367 1233 2367 1184 2384 1142 2365 1138 2363 1136 2363 1134 2363 1034 2363 1036 2431"/></Shape>
+	    <String CONTENT="A ꝑui che noi auiamo inseguiato a lande didio nella prima ꝑte"
+                    HPOS="1034"
+                    VPOS="2356"
+                    WIDTH="1399"
+                    HEIGHT="106"
+                    WC="0.9555850439384336"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5490d814"
+                    TAGREFS="LT6515"
+                    BASELINE="1072 2483 2422 2471" 
+                    HPOS="1070"
+                    VPOS="2424"
+                    WIDTH="1352"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1072 2513 1276 2511 1278 2511 1282 2509 1322 2496 1392 2507 1405 2509 1407 2509 1430 2507 1534 2494 1632 2503 1685 2507 1687 2507 1689 2507 1691 2507 1700 2500 1712 2494 1727 2500 1742 2507 1744 2507 1746 2507 1748 2507 1750 2507 1759 2500 1767 2494 1791 2500 1812 2505 1814 2505 1816 2505 1888 2498 1945 2492 1952 2496 1965 2505 1967 2505 1969 2505 1971 2505 2030 2494 2060 2490 2073 2494 2096 2503 2098 2503 2100 2503 2164 2492 2166 2492 2168 2492 2181 2503 2183 2503 2185 2503 2187 2503 2189 2503 2191 2503 2204 2492 2204 2490 2297 2488 2299 2490 2308 2496 2308 2498 2310 2498 2312 2498 2314 2498 2420 2486 2422 2471 2418 2437 2253 2424 2251 2424 2249 2424 2219 2437 2215 2441 2128 2441 2107 2439 2028 2426 2026 2426 2024 2426 2022 2426 2007 2439 2003 2443 1863 2443 1856 2441 1822 2428 1820 2428 1818 2428 1816 2428 1814 2428 1797 2441 1793 2445 1623 2445 1619 2443 1591 2431 1589 2431 1587 2431 1432 2441 1390 2433 1388 2433 1386 2433 1384 2433 1384 2435 1371 2445 1369 2450 1324 2450 1320 2445 1301 2433 1299 2433 1297 2433 1295 2433 1293 2433 1263 2447 1259 2450 1252 2447 1231 2437 1229 2437 1227 2437 1225 2437 1204 2447 1199 2450 1070 2450 1072 2483"/></Shape>
+	    <String CONTENT="di questo liro che li Re elli principi sono ingraçia quando eglino"
+                    HPOS="1070"
+                    VPOS="2424"
+                    WIDTH="1352"
+                    HEIGHT="89"
+                    WC="0.9826569672840745"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3144c0be"
+                    TAGREFS="LT6515"
+                    BASELINE="1051 2543 1717 2524 2418 2520" 
+                    HPOS="1049"
+                    VPOS="2473"
+                    WIDTH="1369"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="2280 2473 2278 2473 2278 2475 2268 2483 2268 2486 2263 2483 2238 2473 2236 2473 2234 2473 2232 2473 2196 2486 2185 2490 2096 2490 2092 2488 2066 2475 2064 2475 2062 2475 2060 2475 2058 2475 2039 2488 2037 2490 2026 2488 1984 2479 1981 2479 1979 2479 1977 2479 1977 2481 1969 2488 1958 2477 1956 2477 1954 2477 1952 2477 1839 2479 1837 2479 1808 2492 1803 2494 1799 2492 1767 2481 1765 2481 1763 2481 1761 2481 1759 2481 1744 2494 1719 2481 1717 2481 1714 2481 1712 2481 1676 2496 1672 2498 1613 2498 1611 2496 1591 2483 1589 2483 1587 2483 1585 2483 1583 2483 1543 2498 1541 2498 1524 2486 1521 2486 1519 2486 1517 2486 1515 2486 1466 2498 1430 2486 1428 2486 1426 2486 1424 2486 1388 2498 1335 2488 1333 2488 1331 2488 1290 2503 1288 2503 1250 2492 1248 2492 1246 2492 1244 2492 1242 2492 1242 2494 1231 2505 1049 2507 1051 2543 1051 2568 1136 2558 1199 2566 1210 2566 1212 2566 1214 2566 1216 2566 1233 2553 1280 2562 1282 2562 1284 2562 1305 2551 1384 2562 1409 2564 1411 2564 1413 2564 1428 2560 1475 2549 1640 2556 1710 2558 1712 2558 1748 2553 1818 2543 1945 2549 2060 2553 2062 2553 2416 2536 2418 2520 2414 2481 2285 2473 2282 2473"/></Shape>
+	    <String CONTENT="amano dio. Eꝑ lamore didio sichome buomi sergienti e leagli"
+                    HPOS="1049"
+                    VPOS="2473"
+                    WIDTH="1369"
+                    HEIGHT="95"
+                    WC="0.9871972758891219"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29c505b1"
+                    TAGREFS="LT6515"
+                    BASELINE="1051 2592 1742 2579 2458 2583" 
+                    HPOS="1049"
+                    VPOS="2530"
+                    WIDTH="1409"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1110 2543 1049 2551 1051 2592 1051 2606 1112 2617 1114 2617 1117 2617 1148 2606 1161 2604 1261 2606 1384 2611 1386 2611 1388 2611 1399 2606 1416 2600 1447 2606 1485 2615 1488 2615 1545 2606 1591 2600 1666 2606 1759 2615 1761 2615 1763 2615 1765 2615 1774 2606 1786 2598 1984 2598 2003 2606 2020 2613 2022 2613 2024 2613 2138 2606 2238 2600 2454 2604 2458 2583 2456 2547 2382 2547 2361 2530 2359 2530 2357 2530 2145 2530 2143 2530 2140 2530 2138 2530 2111 2547 2109 2549 2043 2549 2043 2547 2026 2534 2026 2532 2024 2532 2022 2532 1780 2532 1778 2532 1706 2547 1623 2534 1621 2534 1619 2534 1617 2534 1598 2549 1598 2551 1538 2551 1538 2549 1490 2534 1488 2534 1485 2534 1416 2551 1409 2551 1394 2551 1273 2541 1271 2541 1172 2551 1170 2551 1167 2551 1127 2541 1112 2543"/></Shape>
+	    <String CONTENT="eglmno actendono aghouernare samamẽte lopoplo sicondo leggie"
+                    HPOS="1049"
+                    VPOS="2530"
+                    WIDTH="1409"
+                    HEIGHT="87"
+                    WC="0.9941370838978252"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8155b6d4"
+                    TAGREFS="LT6515"
+                    BASELINE="1045 2645 1350 2634 2439 2638" 
+                    HPOS="1045"
+                    VPOS="2587"
+                    WIDTH="1394"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1045 2604 1045 2645 1047 2666 1085 2653 1148 2666 1155 2666 1157 2666 1163 2666 1235 2653 1288 2664 1297 2666 1299 2666 1310 2664 1371 2653 1564 2653 1585 2662 1594 2666 1596 2666 1598 2666 1600 2666 1602 2666 1606 2662 1621 2653 1712 2653 1721 2662 1725 2666 1727 2666 1729 2666 1731 2666 1733 2666 1748 2662 1774 2653 1869 2659 1945 2666 1948 2668 2028 2668 2028 2666 2030 2666 2032 2666 2039 2659 2043 2655 2058 2659 2081 2666 2083 2666 2085 2666 2437 2655 2439 2638 2437 2606 2244 2606 2219 2587 2217 2587 2215 2587 2213 2587 2210 2587 2168 2600 2126 2587 2124 2587 2121 2587 2119 2587 2117 2587 2092 2606 1971 2606 1950 2587 1948 2587 1945 2587 1772 2587 1770 2587 1767 2587 1765 2587 1738 2604 1585 2587 1583 2587 1581 2587 1547 2606 1502 2606 1468 2587 1466 2587 1403 2587 1401 2587 1399 2587 1396 2587 1377 2602 1312 2587 1310 2587"/></Shape>
+	    <String CONTENT="eyagione. Noi diremo che uirtu li Re elli principi de bono auere"
+                    HPOS="1045"
+                    VPOS="2587"
+                    WIDTH="1394"
+                    HEIGHT="81"
+                    WC="0.968916617333889"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_129324eb"
+                    TAGREFS="LT6515"
+                    BASELINE="1047 2693 1729 2685 2482 2698" 
+                    HPOS="1047"
+                    VPOS="2638"
+                    WIDTH="1435"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1047 2715 1131 2706 1151 2715 1155 2717 1157 2717 1159 2717 1161 2717 1167 2715 1193 2704 1223 2715 1229 2717 1231 2717 1233 2717 1250 2715 1307 2704 1513 2704 1528 2712 1541 2719 1543 2719 1545 2719 1547 2719 1562 2712 1574 2706 1793 2706 1829 2710 1903 2721 1905 2723 2450 2723 2450 2721 2452 2721 2480 2706 2482 2698 2480 2662 2346 2662 2346 2659 2289 2642 2287 2642 2285 2642 2282 2642 2280 2642 2257 2659 2255 2662 2092 2662 2090 2659 2045 2642 2043 2642 2041 2642 1969 2659 1967 2659 1965 2659 1954 2649 1954 2647 1952 2647 1950 2647 1948 2647 1850 2651 1808 2640 1806 2640 1664 2640 1661 2640 1659 2640 1613 2655 1585 2640 1583 2640 1471 2640 1468 2640 1466 2640 1435 2657 1432 2657 1360 2640 1358 2640 1356 2640 1354 2640 1326 2657 1290 2638 1288 2638 1286 2638 1199 2657 1047 2657 1047 2693"/></Shape>
+	    <String CONTENT="Et imꝑo che le uirtu fammo lanima ꝑfetta. Ecomuene p̾nuera"
+                    HPOS="1047"
+                    VPOS="2638"
+                    WIDTH="1435"
+                    HEIGHT="85"
+                    WC="0.9757364053150703"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_411cac2f"
+                    TAGREFS="LT6515"
+                    BASELINE="760 2744 1479 2738 2461 2753" 
+                    HPOS="754"
+                    VPOS="2683"
+                    WIDTH="1705"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="1266 2692 1234 2692 1202 2692 1170 2692 1139 2692 1107 2692 1075 2692 1043 2692 1040 2686 757 2683 757 2743 754 2769 2453 2778 2459 2749 2459 2705 1288 2689 1266 2692"/></Shape>
+	    <String CONTENT="nente sapere quante potençe lanima a e chomelonirtu delle buone huopre"
+                    HPOS="754"
+                    VPOS="2683"
+                    WIDTH="1705"
+                    HEIGHT="95"
+                    WC="0.9860365130531956"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfa17103"
+                    TAGREFS="LT6515"
+                    BASELINE="760 2799 1528 2791 2490 2799" 
+                    HPOS="754"
+                    VPOS="2746"
+                    WIDTH="1734"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="757 2797 754 2823 2485 2819 2488 2797 2485 2753 757 2746 757 2797"/></Shape>
+	    <String CONTENT="debono essare fatte. Et ap̃sso noi diremo chomesi de diuisare le uirtu delle buo-"
+                    HPOS="754"
+                    VPOS="2746"
+                    WIDTH="1734"
+                    HEIGHT="77"
+                    WC="0.9838257476135537"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec63b1d1"
+                    TAGREFS="LT6515"
+                    BASELINE="758 2846 1492 2837 2463 2846" 
+                    HPOS="754"
+                    VPOS="2797"
+                    WIDTH="1708"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="757 2845 754 2867 2459 2867 2462 2845 2456 2797 757 2800 757 2845"/></Shape>
+	    <String CONTENT="ne huopre e quante ne sonno. Epoi noi diremo di craschuna quale ella e et"
+                    HPOS="754"
+                    VPOS="2797"
+                    WIDTH="1708"
+                    HEIGHT="70"
+                    WC="0.982962236012498"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_998a84de"
+                    TAGREFS="LT6515"
+                    BASELINE="758 2888 1725 2884 2422 2893" 
+                    HPOS="757"
+                    VPOS="2845"
+                    WIDTH="1664"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="2408 2845 2376 2845 2345 2845 2313 2845 2281 2845 2249 2845 2217 2845 2186 2845 2154 2845 976 2845 945 2845 913 2845 881 2845 849 2845 817 2845 785 2845 757 2845 757 2886 757 2943 827 2918 989 2918 1040 2943 1043 2943 1046 2947 1196 2947 1196 2943 1199 2943 1272 2918 1645 2918 1724 2937 1727 2937 1731 2937 1734 2937 1788 2918 1864 2943 1867 2943 1871 2943 2023 2918 2055 2943 2058 2943 2061 2943 2065 2947 2418 2947 2421 2889 2418 2845 2408 2845"/></Shape>
+	    <String CONTENT="chome li Ro elli prmnapi debono auere tale uirtu. Et diremo le quale sonno"
+                    HPOS="757"
+                    VPOS="2845"
+                    WIDTH="1664"
+                    HEIGHT="102"
+                    WC="0.9751530136611011"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

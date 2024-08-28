@@ -1,0 +1,614 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BC_Ms_739" xml:lang="ca">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>BC_Ms_739</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="facs_eSc_line_97e296ac" corresp="#elem_eSc_line_97e296ac">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_97e296ac.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fb145f17" corresp="#elem_eSc_line_fb145f17">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_fb145f17.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_703c66d2" corresp="#elem_eSc_line_703c66d2">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_703c66d2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dce71f64" corresp="#elem_eSc_line_dce71f64">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_dce71f64.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_af1e3928" corresp="#elem_eSc_line_af1e3928">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_af1e3928.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_91f37dc9" corresp="#elem_eSc_line_91f37dc9">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_91f37dc9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b9faefc3" corresp="#elem_eSc_line_b9faefc3">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_b9faefc3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_347b5c70" corresp="#elem_eSc_line_347b5c70">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_347b5c70.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8be4fec2" corresp="#elem_eSc_line_8be4fec2">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_8be4fec2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_74d5681f" corresp="#elem_eSc_line_74d5681f">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_74d5681f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0f7ac8ad" corresp="#elem_eSc_line_0f7ac8ad">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_0f7ac8ad.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5db73746" corresp="#elem_eSc_line_5db73746">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_5db73746.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d49fc1a1" corresp="#elem_eSc_line_d49fc1a1">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_d49fc1a1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c813e5d6" corresp="#elem_eSc_line_c813e5d6">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_c813e5d6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7f31933a" corresp="#elem_eSc_line_7f31933a">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_7f31933a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5b33a918" corresp="#elem_eSc_line_5b33a918">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_5b33a918.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5340a27d" corresp="#elem_eSc_line_5340a27d">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_5340a27d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4c0ef224" corresp="#elem_eSc_line_4c0ef224">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_4c0ef224.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6fe9f227" corresp="#elem_eSc_line_6fe9f227">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_6fe9f227.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ea1f1dd7" corresp="#elem_eSc_line_ea1f1dd7">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_ea1f1dd7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1ed8f37f" corresp="#elem_eSc_line_1ed8f37f">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_1ed8f37f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_231481e8" corresp="#elem_eSc_line_231481e8">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_231481e8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c77cd6c8" corresp="#elem_eSc_line_c77cd6c8">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_c77cd6c8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bfe93123" corresp="#elem_eSc_line_bfe93123">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_bfe93123.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_52553f54" corresp="#elem_eSc_line_52553f54">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_52553f54.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9e56cf7e" corresp="#elem_eSc_line_9e56cf7e">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_9e56cf7e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9e207689" corresp="#elem_eSc_line_9e207689">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_9e207689.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_738298c9" corresp="#elem_eSc_line_738298c9">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_738298c9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5d9f933a" corresp="#elem_eSc_line_5d9f933a">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_5d9f933a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2b08834c" corresp="#elem_eSc_line_2b08834c">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_2b08834c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6fbb0e97" corresp="#elem_eSc_line_6fbb0e97">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_6fbb0e97.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2ff3f3d4" corresp="#elem_eSc_line_2ff3f3d4">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_2ff3f3d4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c0884717" corresp="#elem_eSc_line_c0884717">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_c0884717.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_428da7ed" corresp="#elem_eSc_line_428da7ed">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_428da7ed.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6d95c238" corresp="#elem_eSc_line_6d95c238">
+      <graphic url="../lignes/manuscritBC_275273_full_eSc_line_6d95c238.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f90b7dc2" corresp="#elem_eSc_line_f90b7dc2">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_f90b7dc2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f180064b" corresp="#elem_eSc_line_f180064b">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_f180064b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_074be56d" corresp="#elem_eSc_line_074be56d">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_074be56d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d4da0ca0" corresp="#elem_eSc_line_d4da0ca0">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_d4da0ca0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_01013fc5" corresp="#elem_eSc_line_01013fc5">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_01013fc5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_94d9e7de" corresp="#elem_eSc_line_94d9e7de">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_94d9e7de.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dae1a1f0" corresp="#elem_eSc_line_dae1a1f0">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_dae1a1f0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_983489ef" corresp="#elem_eSc_line_983489ef">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_983489ef.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dcf477ff" corresp="#elem_eSc_line_dcf477ff">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_dcf477ff.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e41f630c" corresp="#elem_eSc_line_e41f630c">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_e41f630c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ee94b1df" corresp="#elem_eSc_line_ee94b1df">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_ee94b1df.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0d402a3e" corresp="#elem_eSc_line_0d402a3e">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_0d402a3e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_65ecb856" corresp="#elem_eSc_line_65ecb856">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_65ecb856.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_96b9146f" corresp="#elem_eSc_line_96b9146f">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_96b9146f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bdf1228c" corresp="#elem_eSc_line_bdf1228c">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_bdf1228c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_71a4794e" corresp="#elem_eSc_line_71a4794e">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_71a4794e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a7eb0981" corresp="#elem_eSc_line_a7eb0981">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_a7eb0981.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_26c5d8f8" corresp="#elem_eSc_line_26c5d8f8">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_26c5d8f8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e7f38b0e" corresp="#elem_eSc_line_e7f38b0e">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_e7f38b0e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f8c9f6ac" corresp="#elem_eSc_line_f8c9f6ac">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_f8c9f6ac.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0eb66e42" corresp="#elem_eSc_line_0eb66e42">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_0eb66e42.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4b00a578" corresp="#elem_eSc_line_4b00a578">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_4b00a578.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_859bcaf1" corresp="#elem_eSc_line_859bcaf1">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_859bcaf1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8f66d44e" corresp="#elem_eSc_line_8f66d44e">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_8f66d44e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a84038d6" corresp="#elem_eSc_line_a84038d6">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_a84038d6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a7e4d3d6" corresp="#elem_eSc_line_a7e4d3d6">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_a7e4d3d6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_57276474" corresp="#elem_eSc_line_57276474">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_57276474.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_16df6986" corresp="#elem_eSc_line_16df6986">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_16df6986.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fd90b33f" corresp="#elem_eSc_line_fd90b33f">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_fd90b33f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_67fc70ea" corresp="#elem_eSc_line_67fc70ea">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_67fc70ea.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5ccadbe2" corresp="#elem_eSc_line_5ccadbe2">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_5ccadbe2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5ce48966" corresp="#elem_eSc_line_5ce48966">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_5ce48966.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0096c8ef" corresp="#elem_eSc_line_0096c8ef">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_0096c8ef.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b48ed010" corresp="#elem_eSc_line_b48ed010">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_b48ed010.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_862f4fce" corresp="#elem_eSc_line_862f4fce">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_862f4fce.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_819796a4" corresp="#elem_eSc_line_819796a4">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_819796a4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_47741d8f" corresp="#elem_eSc_line_47741d8f">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_47741d8f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_81a8a537" corresp="#elem_eSc_line_81a8a537">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_81a8a537.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_26c1cb49" corresp="#elem_eSc_line_26c1cb49">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_26c1cb49.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0f7d842d" corresp="#elem_eSc_line_0f7d842d">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_0f7d842d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dcff0e1a" corresp="#elem_eSc_line_dcff0e1a">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_dcff0e1a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9b47fc1e" corresp="#elem_eSc_line_9b47fc1e">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_9b47fc1e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8d306fab" corresp="#elem_eSc_line_8d306fab">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_8d306fab.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1115e770" corresp="#elem_eSc_line_1115e770">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_1115e770.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ce99372a" corresp="#elem_eSc_line_ce99372a">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_ce99372a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e5d441b7" corresp="#elem_eSc_line_e5d441b7">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_e5d441b7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_338b1a36" corresp="#elem_eSc_line_338b1a36">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_338b1a36.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_90c8b01e" corresp="#elem_eSc_line_90c8b01e">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_90c8b01e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_df832346" corresp="#elem_eSc_line_df832346">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_df832346.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_204b4a32" corresp="#elem_eSc_line_204b4a32">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_204b4a32.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_36f6fcc4" corresp="#elem_eSc_line_36f6fcc4">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_36f6fcc4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_50bdf134" corresp="#elem_eSc_line_50bdf134">
+      <graphic url="../lignes/manuscritBC_275274_full_eSc_line_50bdf134.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_789b8af7" corresp="#elem_eSc_line_789b8af7">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_789b8af7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_46f5f319" corresp="#elem_eSc_line_46f5f319">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_46f5f319.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_486b3bde" corresp="#elem_eSc_line_486b3bde">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_486b3bde.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_472c7583" corresp="#elem_eSc_line_472c7583">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_472c7583.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6faa70d5" corresp="#elem_eSc_line_6faa70d5">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_6faa70d5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4b62a406" corresp="#elem_eSc_line_4b62a406">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_4b62a406.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fff85cf8" corresp="#elem_eSc_line_fff85cf8">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_fff85cf8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d9221784" corresp="#elem_eSc_line_d9221784">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_d9221784.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_070ec61e" corresp="#elem_eSc_line_070ec61e">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_070ec61e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5892c14e" corresp="#elem_eSc_line_5892c14e">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_5892c14e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_daef759e" corresp="#elem_eSc_line_daef759e">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_daef759e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_03cf78c7" corresp="#elem_eSc_line_03cf78c7">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_03cf78c7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0583e0b8" corresp="#elem_eSc_line_0583e0b8">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_0583e0b8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e6817d77" corresp="#elem_eSc_line_e6817d77">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_e6817d77.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_322faab2" corresp="#elem_eSc_line_322faab2">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_322faab2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c503a42a" corresp="#elem_eSc_line_c503a42a">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_c503a42a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_aa6519ba" corresp="#elem_eSc_line_aa6519ba">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_aa6519ba.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_46a42203" corresp="#elem_eSc_line_46a42203">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_46a42203.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_505c4cdc" corresp="#elem_eSc_line_505c4cdc">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_505c4cdc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_82e2533e" corresp="#elem_eSc_line_82e2533e">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_82e2533e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3ad290bc" corresp="#elem_eSc_line_3ad290bc">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_3ad290bc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_449b25b2" corresp="#elem_eSc_line_449b25b2">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_449b25b2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4f4c40b6" corresp="#elem_eSc_line_4f4c40b6">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_4f4c40b6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c503a908" corresp="#elem_eSc_line_c503a908">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_c503a908.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_66730738" corresp="#elem_eSc_line_66730738">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_66730738.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_db52bb37" corresp="#elem_eSc_line_db52bb37">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_db52bb37.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4b999dac" corresp="#elem_eSc_line_4b999dac">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_4b999dac.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_09a5d36c" corresp="#elem_eSc_line_09a5d36c">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_09a5d36c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_954f9e1b" corresp="#elem_eSc_line_954f9e1b">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_954f9e1b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_49fde7b9" corresp="#elem_eSc_line_49fde7b9">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_49fde7b9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f48590bf" corresp="#elem_eSc_line_f48590bf">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_f48590bf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6bd94937" corresp="#elem_eSc_line_6bd94937">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_6bd94937.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_729a706a" corresp="#elem_eSc_line_729a706a">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_729a706a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7073d3df" corresp="#elem_eSc_line_7073d3df">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_7073d3df.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_421244a1" corresp="#elem_eSc_line_421244a1">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_421244a1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6708c14b" corresp="#elem_eSc_line_6708c14b">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_6708c14b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_97c1db31" corresp="#elem_eSc_line_97c1db31">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_97c1db31.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_74529b8a" corresp="#elem_eSc_line_74529b8a">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_74529b8a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e8ab110f" corresp="#elem_eSc_line_e8ab110f">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_e8ab110f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d86dfd23" corresp="#elem_eSc_line_d86dfd23">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_d86dfd23.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f8ce7c84" corresp="#elem_eSc_line_f8ce7c84">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_f8ce7c84.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_35ffaf74" corresp="#elem_eSc_line_35ffaf74">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_35ffaf74.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_38452bd1" corresp="#elem_eSc_line_38452bd1">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_38452bd1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c43db3f9" corresp="#elem_eSc_line_c43db3f9">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_c43db3f9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9bbb22ed" corresp="#elem_eSc_line_9bbb22ed">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_9bbb22ed.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fd8657a1" corresp="#elem_eSc_line_fd8657a1">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_fd8657a1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8c026cbe" corresp="#elem_eSc_line_8c026cbe">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_8c026cbe.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7aff638d" corresp="#elem_eSc_line_7aff638d">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_7aff638d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fbde71de" corresp="#elem_eSc_line_fbde71de">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_fbde71de.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b033834b" corresp="#elem_eSc_line_b033834b">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_b033834b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_95b5cd11" corresp="#elem_eSc_line_95b5cd11">
+      <graphic url="../lignes/manuscritBC_275275_full_eSc_line_95b5cd11.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_23e14510" corresp="#elem_eSc_line_23e14510">
+      <graphic url="../lignes/manuscritBC_275276_full_eSc_line_23e14510.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_87db765a" corresp="#elem_eSc_line_87db765a">
+      <graphic url="../lignes/manuscritBC_275276_full_eSc_line_87db765a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_89cb4bfe" corresp="#elem_eSc_line_89cb4bfe">
+      <graphic url="../lignes/manuscritBC_275276_full_eSc_line_89cb4bfe.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b45c44f1" corresp="#elem_eSc_line_b45c44f1">
+      <graphic url="../lignes/manuscritBC_275276_full_eSc_line_b45c44f1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e2e22278" corresp="#elem_eSc_line_e2e22278">
+      <graphic url="../lignes/manuscritBC_275276_full_eSc_line_e2e22278.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1c697420" corresp="#elem_eSc_line_1c697420">
+      <graphic url="../lignes/manuscritBC_275276_full_eSc_line_1c697420.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c6d31bd6" corresp="#elem_eSc_line_c6d31bd6">
+      <graphic url="../lignes/manuscritBC_275276_full_eSc_line_c6d31bd6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8c808e96" corresp="#elem_eSc_line_8c808e96">
+      <graphic url="../lignes/manuscritBC_275276_full_eSc_line_8c808e96.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6dec520f" corresp="#elem_eSc_line_6dec520f">
+      <graphic url="../lignes/manuscritBC_275276_full_eSc_line_6dec520f.png"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div n="1" type="livre">
+        <div n="1.2" type="partie">
+          <div n="1" type="chapitre">
+            <pb n="" facs="../input_files/manuscritBC_275273_full.jpg"/>
+            <head n="LzTDRrxe"><lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_97e296ac" xml:id="elem_eSc_line_97e296ac"/>Capitol. i.  en qual manera son de
+              partides les potencies dela aina e en quels potencies han esser les</head>
+            <p n="jjnPUymf"><lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_fb145f17" xml:id="elem_eSc_line_fb145f17"/>Epus que deus auidant hauem conplida
+              la primam partida da quest primer libre en lo quil es tractar del uirtuts. <lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_703c66d2" xml:id="elem_eSc_line_703c66d2"/>regiment desimatex demostrant en qͣ̈l cosa los Reys els princeps degen posar la
+              sua benauentu<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_dce71f64" xml:id="elem_eSc_line_dce71f64"/>rança.  Quar nos partany
+              dells posar la sua si en riquehes ne enpotencia ciuil/ ne en alc̾s coses<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_af1e3928" xml:id="elem_eSc_line_af1e3928"/>aytals ans de cots coses aytals segons que damunt era prouat deuem usar axi con
+              dorgues o de in<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_91f37dc9" xml:id="elem_eSc_line_91f37dc9"/>strumens
+              abenauenturanca/ Mas la sua benauenturança deuem posar en fer o en obra deprudencia o desauiea<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_b9faefc3" xml:id="elem_eSc_line_b9faefc3"/>segons que tal fer oral obra es manada per caritat/
+              Quar lauos los Reys han benauenturanca deguda e condigͤ<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_347b5c70" xml:id="elem_eSc_line_347b5c70"/>al lur estament quan ells per instigacio dela amor de deusegons sauiea o segons
+              prudenercia regitiua ese<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_8be4fec2" xml:id="elem_eSc_line_8be4fec2"/>gons ley e
+              segons raho regexem lagent quils ͤ comanada santament eiustament.  Donques principalment<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_74d5681f" xml:id="elem_eSc_line_74d5681f"/>la benauenturança dels Reys deu esser posada en
+              deu axi que per couexença e per dilectio dell lur estudi e lur<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_0f7ac8ad" xml:id="elem_eSc_line_0f7ac8ad"/>uida studien ordonar a aço que ells conexent e amant deu axi con au̾rades
+              ministres o auirtades ẜutdos seus<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_5db73746" xml:id="elem_eSc_line_5db73746"/>segons
+              orde de raho endreçen o regesquen lo poble quils comanar/ aquestes coses donques axi conplides/.  E de mo<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_d49fc1a1" xml:id="elem_eSc_line_d49fc1a1"/>strar en qual cosa los Reys deuen posar la sua si
+              segons lorde damunt posat en lo. c. iii.  Roman a demo<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_c813e5d6" xml:id="elem_eSc_line_c813e5d6"/>strar de quals uirtuts los Reys degen resplendir quar les uirtuts son algun
+              ornament e algunes perfec<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_7f31933a" xml:id="elem_eSc_line_7f31933a"/>cions dela aina
+              Pͥmerament donques coue a demostrar quantes son les potencies dela aina e en qͣls poten<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_5b33a918" xml:id="elem_eSc_line_5b33a918"/>cies han parsser les uirtuts/ Empero ap̾s sera
+              mainfestat en qͣl manera les uirtuts deuem esser departides/<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_5340a27d" xml:id="elem_eSc_line_5340a27d"/>Enapͥs nos demostrarem quantes son per nonbre aquestes uirtutsS quals da quells
+              son principals e quals<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_4c0ef224" xml:id="elem_eSc_line_4c0ef224"/>son secundaries o
+              meỹs principals E finalment sera declarat en especial quel sia quescuna daquells uirtuts<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_6fe9f227" xml:id="elem_eSc_line_6fe9f227"/>E enqͣl manas se partaỹ dels Reys e dels princeps
+              hau̾ tals uirtursLes potencies dela aina poden esser de<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_ea1f1dd7" xml:id="elem_eSc_line_ea1f1dd7"/>partides en aquesta maneraQuar algunes son nanls Algunes cogertiues o conexedores
+              sensitiues Algunons<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_1ed8f37f" xml:id="elem_eSc_line_1ed8f37f"/>appetitiues o
+              uoluntaries/ E alters entellectuals les potencies nerals son aquells en les qͣls nos partiçipam ab les co<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_231481e8" xml:id="elem_eSc_line_231481e8"/>ses qui han uida e ab les plantes axicon es
+              potencia nucͥtiua/ crescitiua e generatiua eles alters aurals qui<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_c77cd6c8" xml:id="elem_eSc_line_c77cd6c8"/>aximatex couenen als arbres Mas les potencies conexedor̃s sensitiues son la
+              uista lo gustar ol ta<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_bfe93123" xml:id="elem_eSc_line_bfe93123"/>scar lo tochar e
+              les altres ayrals en los quals nos comunament participam ab les besties brutals Mas<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_52553f54" xml:id="elem_eSc_line_52553f54"/>les potencies appetiues o uolenteroses son
+              departides/.  Quar algum appetiment o alguna uoluntat es en hon<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_9e56cf7e" xml:id="elem_eSc_line_9e56cf7e"/>en lo qͣl ell no participa ab les besties brutals/ axi con es lappetumnent o la
+              uoluntat que seguer lenteniment<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_9e207689" xml:id="elem_eSc_line_9e207689"/>Mas
+              algum alcre es en lo qual ell participa ab ells axi con es lappetiment o lauoluntat qui segueyx lo seny<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_738298c9" xml:id="elem_eSc_line_738298c9"/>corperal pot esser appellat sensualitat/ En aquell qui
+              seguex lenteniment sia appellat uoluntatSegons la qͣl<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_5d9f933a" xml:id="elem_eSc_line_5d9f933a"/>manera de parlar les besties brutals han sensualitat e appetiment sensitiu/ Mas
+              no han uoluntat co<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_2b08834c" xml:id="elem_eSc_line_2b08834c"/>es assaber
+              appetiment intellectiu Donques les uirtuts dels quals nos entenem aperlar qui son alguns<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_6fbb0e97" xml:id="elem_eSc_line_6fbb0e97"/>habits o concebimens dignes de lahor o seran en
+              les potencies nerals/ o en les potençies sensitiues/ o en<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_2ff3f3d4" xml:id="elem_eSc_line_2ff3f3d4"/>lappetiment sensitiu o en lappetiment incellectiu o en lentemment o entot̃s
+              aquestes potencies o en algu<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_c0884717" xml:id="elem_eSc_line_c0884717"/>nes
+              daquestes.  En les potencies nerals no poden esser la qual cosa entres mases es manifesta prime<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_428da7ed" xml:id="elem_eSc_line_428da7ed"/>rament per tal con per les potencies nanls no son
+              lohars ne uituperars qͣr negum hom no es dit bo per co<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_6d95c238" xml:id="elem_eSc_line_6d95c238"/>con el ha bona digestio o bona crexença En ap̾s entals potencies no han esser
+              aquestes uirtuts per tal con<pb n="" facs="../input_files/manuscritBC_275274_full.jpg"/><lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_f90b7dc2" xml:id="elem_eSc_line_f90b7dc2"/>uirtut es alguna cosa segons raho segons que pot
+              esser prouat en lo. ii.  libre de les echiques/ E les potencies nals<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_f180064b" xml:id="elem_eSc_line_f180064b"/>segons que son naturals no obehexen ala rao Quar sia que algum us deralo o
+              deuoluntar perlant per si les poten<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_074be56d" xml:id="elem_eSc_line_074be56d"/>cies
+              nacurals per aco no uariegen en les sues obres/ ans costep̃s segons la mana aells possible o segons que<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_d4da0ca0" xml:id="elem_eSc_line_d4da0ca0"/>elles poden fan les sues obres.  Encara entals
+              potencies naturals no son los habits ols concebimens iurtuosos<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_01013fc5" xml:id="elem_eSc_line_01013fc5"/>ne les uirtuts/.  QQuar los habirs ols concebimnens son per determenar les potençies
+              que façem be omal On perlos<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_94d9e7de" xml:id="elem_eSc_line_94d9e7de"/>habirs o per
+              los concebimens uiciosos es determenada la potencia/ afer mal/ E per los habics o per los concebimens<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_dae1a1f0" xml:id="elem_eSc_line_dae1a1f0"/>uirtuosos afer be donques con nacura sia determenada
+              a una cosa eles potencies nals sufficientment sien determe<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_983489ef" xml:id="elem_eSc_line_983489ef"/>nades per lur natura a obrar segons elłs nos no som uiciosos ne uirtuosos/
+              parlant en aquella manȧ que<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_dcf477ff" xml:id="elem_eSc_line_dcf477ff"/>nos perlam
+              açi de uici e deuirtut perral donques en elles no poden esser rals uirtuts per aquestes . iii.  rahons<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_e41f630c" xml:id="elem_eSc_line_e41f630c"/>donques per les quals es prouat que les uirtuts no poden
+              esser en les potençies nals pot esser puat que elles no po<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_ee94b1df" xml:id="elem_eSc_line_ee94b1df"/>den esser enla conexença sensitiua o en les potençies sensitiues/.  Quar axi con
+              nos no son leats ne uituperats<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_0d402a3e" xml:id="elem_eSc_line_0d402a3e"/>per les
+              pocencies nals e axi matex nos no som lohats ne uituperats per los seỹals corpals/ Quar axi con<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_65ecb856" xml:id="elem_eSc_line_65ecb856"/>negum no es lohat otengunr per bon hon per co con ell
+              fa be digestio o crex be/.  Aximatex no es lohar per co con ell ueu<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_96b9146f" xml:id="elem_eSc_line_96b9146f"/>agudament o hou subailment si donques per auentura aco no era per accident o
+              accidentalment axi con si algu per<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_bdf1228c" xml:id="elem_eSc_line_bdf1228c"/>massa mangyar o per massa beure aconsegia malaltia de obralumia en los ulls per que no uehes be o aconseguia<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_71a4794e" xml:id="elem_eSc_line_71a4794e"/>debilirat en lescomach per que no fahes be
+              digescio aytal seria repͥs no perral con ell fa mal digestio o per tal con ell no<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_a7eb0981" xml:id="elem_eSc_line_a7eb0981"/>ueu benclar quar clar ueure e fer be digestio parsi
+              perlant no es en so poder del honMas ell seria rep̾s de massa<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_26c5d8f8" xml:id="elem_eSc_line_26c5d8f8"/>beure o demassa mangyar per ço con seria en lo seu poder que pogues usar
+              tempradament demangyar o de beure et<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_e7f38b0e" xml:id="elem_eSc_line_e7f38b0e"/>Encara en los seỹs no deu esser posada uirtut moral/.  Quar axi con les potencies nals no obehexem ala raho
+                perso<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_f8c9f6ac" xml:id="elem_eSc_line_f8c9f6ac"/>con segons laregla dela raho
+              negum no es crescut ne ne mes ne meỹs ne fa digescio mes ne meys Axumnateix<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_0eb66e42" xml:id="elem_eSc_line_0eb66e42"/>les seỹs no obeheren ala raho/.  Quar no es en
+              lopoder del hom ueure pus clarament o meỹs clarament<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_4b00a578" xml:id="elem_eSc_line_4b00a578"/>per la q̈l cosa si uirtur moral es alguna cosa segons rah̾o/ tal uirtut no deu esser
+              posada enlos senys/ Encara<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_859bcaf1" xml:id="elem_eSc_line_859bcaf1"/>les
+              potencies sensitiues no deuesser posada uirtut moral/.  Quar axi con les potencies uals sufficientment son detine<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_8f66d44e" xml:id="elem_eSc_line_8f66d44e"/>nades per la sua natura ales sues obres/
+              aximateix los seỹs/ Car axi con lo foch rant escalfa quant escalfar<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_a84038d6" xml:id="elem_eSc_line_a84038d6"/>pot perla q̈l cosa ell es determenat enla sua obra ne es lohat ne uituperat ne es en
+              ell uirtut moral Arimatex<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_a7e4d3d6" xml:id="elem_eSc_line_a7e4d3d6"/>partal con
+              lapocencia digestuia aytant fa digescio quant digerir pot el ull tant ueu quant pot ueure en elles<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_57276474" xml:id="elem_eSc_line_57276474"/>no pot esser uirtut moral/ Quar per la uirtut moral
+              es dec̾iuenada la pocencia afer aobuir mas aquestes suffi/<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_16df6986" xml:id="elem_eSc_line_16df6986"/>cientinent son dec̾menades ales obres propͥes per lur natura/.  Donques elles no hau
+              ops uircut moral Si donques en<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_fd90b33f" xml:id="elem_eSc_line_fd90b33f"/>les
+              potencies nals ne enles sensitiues no es uirtut moral con sens les potencies nanls els seỹs corperals no sien si<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_67fc70ea" xml:id="elem_eSc_line_67fc70ea"/>no lenteniment el appetiment o la
+              uoluntat intellectual/ coue en tals potencies sien les uirtuts morals: </p>
+          </div>
+          <div n="1.2.2" type="chapitre">
+            <lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_5ccadbe2" xml:id="elem_eSc_line_5ccadbe2"/>
+            <head>¶Capitol.ii. en qual manera son de ꝑtides les uirtuts/. E en qual manera. han simatexes en<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_5ce48966" xml:id="elem_eSc_line_5ce48966"/>lenteniment̃.  E enlo appeciment o en la
+              uoluntat. </head>
+            <p><lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_0096c8ef" xml:id="elem_eSc_line_0096c8ef"/>Emostrat que en les potencies uaterals
+              ne en les sensuals no han esser les uirturs.  Roman aueure en qͣl<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_b48ed010" xml:id="elem_eSc_line_b48ed010"/>manera son departides les uirturs/ Een qual mana estan en lenteniment/ e en
+              lappetiment o enla uoluntat<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_862f4fce" xml:id="elem_eSc_line_862f4fce"/>Deu donques
+              esser donada distinccio e deperciment dels uirturs/ E daquestes porencies/ Quar de les uir<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_819796a4" xml:id="elem_eSc_line_819796a4"/>cuts algunes son intellectuals/ E algunes morals E
+              algunes migyances enter les intellecruals e les<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_47741d8f" xml:id="elem_eSc_line_47741d8f"/>morals Uirtuts intellectuals Con dices aqlłs qui son en lenceniment speculatiu
+              axicon les sciues speculatiues et<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_81a8a537" xml:id="elem_eSc_line_81a8a537"/>natural philosophia/ geometria mathemanica eles alts semblans/ Mas les nirtuts de tot morals son aquells<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_26c1cb49" xml:id="elem_eSc_line_26c1cb49"/>qui son en lauoliuitat sia que la uoluntar
+              sia sensitiua o intellectiua/ E aquestes son iusticia cenperancia/ forchelea<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_0f7d842d" xml:id="elem_eSc_line_0f7d842d"/>simplea eles alters aytals dels q̈ls singularment
+              nos hauem atractar/ Mas les uirturs migyanc̾es enter les in<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_dcff0e1a" xml:id="elem_eSc_line_dcff0e1a"/>cellectuals e les morals son aquelłs uirtuts qui estan en lenteniment pratich Axi
+              con es prudecia o saieha e<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_9b47fc1e" xml:id="elem_eSc_line_9b47fc1e"/>les alters
+              uirtuts acostades osemblans aella/.  Quar prudencia o sameha segons lo comencador sobre lo libre dełs<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_8d306fab" xml:id="elem_eSc_line_8d306fab"/>ethiques es nugyançera enter les uirtuts morals
+              eintellectuals/.  Empo ella pot esser contada ałs uirtuts morals/<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_1115e770" xml:id="elem_eSc_line_1115e770"/>Quar prudencia osauieha no es si no solament en los bons homens /.  axi con ne les
+              alters uirtuts moralsQuar los<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_ce99372a" xml:id="elem_eSc_line_ce99372a"/>homens
+              maluats e si ells poden esser scients o sabens de gr̃a ascucia e dereu̾sa pell/.  E mpo ells no poden esser<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_e5d441b7" xml:id="elem_eSc_line_e5d441b7"/>sauis o prudens segons que aço enson
+              loch sera maifestat/.  E partales ester en lo. ui.  libre deles echiques/ Que nos<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_338b1a36" xml:id="elem_eSc_line_338b1a36"/>pot fer que aquell qia saui qui no es bo MDonques
+              departides les uirtuts intellectuals/.  s departides les scies specula<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_90c8b01e" xml:id="elem_eSc_line_90c8b01e"/>tiues deu esser posa tractat deles uirtuts morals/.  Quar nos p̾nen lap̾sent obra
+              segons que molt̃s uagades ha<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_df832346" xml:id="elem_eSc_line_df832346"/>ueni dit no
+              partal que sapiam/ Mas per ral que bons siam fecs/ la q̈l bonea sens prudençia o sens sauiea nesens<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_204b4a32" xml:id="elem_eSc_line_204b4a32"/>les uirtuts morals en nos no poria esser/.  S
+              aquestes uirtuts podenesser en aquesta manera enlentenimenr en lappe-<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_36f6fcc4" xml:id="elem_eSc_line_36f6fcc4"/>. x. <lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_50bdf134" xml:id="elem_eSc_line_50bdf134"/>8<pb n="" facs="../input_files/manuscritBC_275275_full.jpg"/><lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_789b8af7" xml:id="elem_eSc_line_789b8af7"/>tanec o en la uoluntat.  Quar ia es dit que uirtut es alguam cosa segons raho/ Coue
+              donques que lapotencia en la q̈l<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_46f5f319" xml:id="elem_eSc_line_46f5f319"/>ha esser
+              la uirtut sia racional/ Mas la cosa raçional es en dues manens segons lo philosoph/ ço es assaber per<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_486b3bde" xml:id="elem_eSc_line_486b3bde"/>eencia e per participacio.  lenceniment̃ es racional
+              o rahonable per eenoncia Mas lappetiment o la uoluntat iat sia<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_472c7583" xml:id="elem_eSc_line_472c7583"/>que ell no sia enceniment orahoco eenoncialment Sinpero ell es dit participar raho per
+              talcon es apte e couinent de obeyr<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_6faa70d5" xml:id="elem_eSc_line_6faa70d5"/>ala
+              raho/.  Mas les potencies nals els seỹs no son ronnals o raonables per eenoncia per cal con no son la Raho ne participen<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_4b62a406" xml:id="elem_eSc_line_4b62a406"/>de raho per cal con parsi e segons que son
+              cals no obehexem alaraho/ Donques les uirtuts no han esser en los seỹs ne enles<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_fff85cf8" xml:id="elem_eSc_line_fff85cf8"/>potencies nals segons que damunt dehyem Mas han
+              esser solament en lenteniment/ Sii nos es doble uoluntat e deble<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_d9221784" xml:id="elem_eSc_line_d9221784"/>appetiment co es assaber.  un incellectu S altre sensitiu/.  Quar axi con
+              lappetiment nal seguex la forma nonalment<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_070ec61e" xml:id="elem_eSc_line_070ec61e"/>aconseguidam Aximatex lappetimenr conexedor oconexent seguex la forma p̃sa per couexença/ Quar axi con al<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_5892c14e" xml:id="elem_eSc_line_5892c14e"/>gunna inclinacio nal e algum appetiment
+              natural seguex les coses greus o fexugues per co con han for de cosa greu<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_daef759e" xml:id="elem_eSc_line_daef759e"/>o decosa fexugua axi que nalment elles desigen
+              esser baix/ Aximatex aquelles coses qui han conexença per cal<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_03cf78c7" xml:id="elem_eSc_line_03cf78c7"/>con han ensi forͣ p̃sa be seguex alguna inclinacio e algimn appetiment segons
+              aquella for̈per la q̈l cosa axicon es<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_0583e0b8" xml:id="elem_eSc_line_0583e0b8"/>en nos dobla conexenca/ co es assaber sensitiua e intellectiua.  Axi es en nos dobla uolunrar o dobla appeti<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_e6817d77" xml:id="elem_eSc_line_e6817d77"/>ment/ co es assaber sensitiu qui regex
+              la forma p̃sa perlo sey E incellectiu qui seguex la forͣ p̃sa per lenteniment<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_322faab2" xml:id="elem_eSc_line_322faab2"/>Mas lappetiment sensitiu es doble.  Quar con les
+              coses aina des sien sobre aquelles que no han cian/ si nac̾a ha do<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_c503a42a" xml:id="elem_eSc_line_c503a42a"/>uada dobla potencia als elamens e ales coses qui no han aina una per la qual uan
+              enlur prop repos / Ealtra per la q̈l<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_aa6519ba" xml:id="elem_eSc_line_aa6519ba"/>contrasten e obrem en les coses contrariosesMolt mes na ha donada aquesta dobla potençia ales coses ainades<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_46a42203" xml:id="elem_eSc_line_46a42203"/>qui son mes perfetes que les coses in
+              ainades Quar nos uehem quell foch nalment es calent eleuger sper leuġia ua en<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_505c4cdc" xml:id="elem_eSc_line_505c4cdc"/>son loch propri e en repos qui li es courent/.  Mas
+              percalor obra enles coses contraries/ per cal donques quel foch per que scun<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_82e2533e" xml:id="elem_eSc_line_82e2533e"/>nes coses contraries no fos emparxar que per raho dela sua leugia en son propͥ loqui
+              no reposas/ ha li donada nȧ<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_3ad290bc" xml:id="elem_eSc_line_3ad290bc"/>potencia
+              calefaciua/ o escalfatiua pertal que per ella contrastas eobras enles coses contraries corruptiues Don<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_449b25b2" xml:id="elem_eSc_line_449b25b2"/>ques si al foch e als coses qui no han aiam natura
+              ha donada dobla potencia una per la q̈l aconseguexem lur propri re<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_4f4c40b6" xml:id="elem_eSc_line_4f4c40b6"/>pos/ E altra per la q̈l obren en les coses contraries Molt mes aquesces ha
+              donades als coses ainades.  Donques ha<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_c503a908" xml:id="elem_eSc_line_c503a908"/>lus donat dobla appetiment sensitiu un per lo q̈l aconseguexem propri repos epropria delectacio S aquest es appen<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_66730738" xml:id="elem_eSc_line_66730738"/>ment cobehegyos/ E altre perlo qual
+              contrascen e uan contra les coses ꝯtrarioses e aquest appetiment es iros Axi<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_db52bb37" xml:id="elem_eSc_line_db52bb37"/>q̈l appetiment cobehegyos es per semblant condiccio
+              en les coses aiades/ con es leugia o fexuguea en les coses<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_4b999dac" xml:id="elem_eSc_line_4b999dac"/>leuges o fexugues Mas lappetiment iros es axi con lacalor ola fredor en elles/
+              Quar axi con les coses fexugues<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_09a5d36c" xml:id="elem_eSc_line_09a5d36c"/>per
+              fexuguea se partexem de loch subira/ axi con daquell qui nols es enuinent ne degut e uan al Poch bax / axi con aquell<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_954f9e1b" xml:id="elem_eSc_line_954f9e1b"/>loch quils es couinent e acordantMas
+              perfredor contrascem ales coses contraries perral que no sien corrunpudes ne destr<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_49fde7b9" xml:id="elem_eSc_line_49fde7b9"/>uydes de lur propia natura ne desemparem los seus
+              lochs propͥs ne lur propͥ repos Aximarex les coses aiandes per poten/<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_f48590bf" xml:id="elem_eSc_line_f48590bf"/>cia cobehegyosa fugen los mals crisos eseguexem los bens delirables/.  Mas per
+              potençia irosa uan ꝯtͦ les coses q̈ies<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_6bd94937" xml:id="elem_eSc_line_6bd94937"/>qui lus porien uedar ocontrascar aquest bens delirables /.  Axi con lo leo per potencia cobehegyosa ua per tal que
+                sequesta<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_729a706a" xml:id="elem_eSc_line_729a706a"/>la uianda ol mangyar axi con
+              acosa delitabla Mas per potençia irosa ua contͦ les besties qui liuolen uedar ocontra<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_7073d3df" xml:id="elem_eSc_line_7073d3df"/>star la uianda olmengyar desigyat/ E perral es ben
+              dit que la potençia cobehegyosa guarda be e mal segons si/<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_421244a1" xml:id="elem_eSc_line_421244a1"/>Mas la potencia irosa guarda be en mal en quant que be e mal han raho deconsa
+              diffincil e gram o alra Quar con lo<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_6708c14b" xml:id="elem_eSc_line_6708c14b"/>be
+              de si diga alguna cosa qui deu esser seguida o demanada/.  Emal diga alguna cosa qui deu esser fugida o esquiuada<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_97c1db31" xml:id="elem_eSc_line_97c1db31"/>la potençia cobregyosa qui desi ua en
+              repos eenbens delirables/ e fuig mals trists ha per obget o per cosa rep̃sencada<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_74529b8a" xml:id="elem_eSc_line_74529b8a"/>bens emals sensibles/ segons sipensats e
+              considerats/ Mas la potencia irosa segons la q̈l nos contrascam ales coses contrario<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_e8ab110f" xml:id="elem_eSc_line_e8ab110f"/>ses e noybles ua eentenen los bens e en los mals
+              sensibles/ no segons simarerx pensats/.  mas segons que ells han rao<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_d86dfd23" xml:id="elem_eSc_line_d86dfd23"/>de cosa alca e difficill/ Quar altea e difficulrat molt contrascen e ueden que nos
+              no pusquam aconseguir be e esquiuar<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_f8ce7c84" xml:id="elem_eSc_line_f8ce7c84"/>mal. 
+              Inperfecament haguera fet na si hagues donat ales coses ainades potencia cobehegyosa per la q̈l esquassen<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_35ffaf74" xml:id="elem_eSc_line_35ffaf74"/>mals/ e segunssen bens si nols hagues donadͦ
+              potencia irosa per la q̈l anassen contra les coses qui empatxem o destor<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_38452bd1" xml:id="elem_eSc_line_38452bd1"/>ben aquella delectaçio/ per ral donques que les coses aiades segons la manera qui
+              aelles es couinent conplidament eper fera<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_c43db3f9" xml:id="elem_eSc_line_c43db3f9"/>ment se pusqnon delicar per potencia cobeegyosa es lus donada potençia irosa per la q̈l contrascen e uagencontur
+                aquelłs<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_9bbb22ed" xml:id="elem_eSc_line_9bbb22ed"/>coses qui empatxem aquella
+              delectacio Donques doble es lappetiment sensitiu ço es asaber iros e cobeegyos Mas lap<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_fd8657a1" xml:id="elem_eSc_line_fd8657a1"/>petiment incellectui qui es appellat uollntat
+              roman in diuisit ono de partit Quar con lenteniment guart lo<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_8c026cbe" xml:id="elem_eSc_line_8c026cbe"/>seu obget ab manera pus uniunsal que no fa lo seỹ lappetiment ola uoluntat
+              intellectual qui seguex lenteniment<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_7aff638d" xml:id="elem_eSc_line_7aff638d"/>es
+              portat o ua enbe ab manera pus uniu̾sal que no fa lappetiment o la uoluntat sensual/ E per tal con quant mes al<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_fbde71de" xml:id="elem_eSc_line_fbde71de"/>guna cosa es p̾sa sotmana unuisal entant
+              ella estant una macexa se exsten ames coses /.  Iarsia quel appetiment<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_b033834b" xml:id="elem_eSc_line_b033834b"/>sensitiu sia altre e altre segons lo qual nos segui les coses delirables segons
+              sey corperal e escomarem les coses tri<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_95b5cd11" xml:id="elem_eSc_line_95b5cd11"/>bles.  Empero lappetiment incellectiu un matex ua en tot be incellectual.  No es donques altre lappetiment
+                intelleciui<pb n="" facs="../input_files/manuscritBC_275276_full.jpg"/><lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_23e14510" xml:id="elem_eSc_line_23e14510"/>segons lo q̈l per lenceniment nos segium les coses
+              bones e delirables e abriuadament comencam les coses altes e dificils<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_87db765a" xml:id="elem_eSc_line_87db765a"/>Axi con es altre lappetiment sensitui segons lo qual nos segin los bens sensibles
+              e delitables e abriuadament escomaten<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_89cb4bfe" xml:id="elem_eSc_line_89cb4bfe"/>o
+              començam les coses cribles per que sitota uirtut moral o en en lenceniment o enlappetiment/ El appetiment altre<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_b45c44f1" xml:id="elem_eSc_line_b45c44f1"/>es intellectiu/ axicon lauoluntat Altre
+              sensitiu e aquest es duble co es assaber un iros e altre cobeegyos/.  Coue per ne<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_e2e22278" xml:id="elem_eSc_line_e2e22278"/>cessitat que tota uirtut moral sia o enlenteniment
+              o enlauoluntat o en la potencia irosa o enlapotencia cobehegyosa<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_1c697420" xml:id="elem_eSc_line_1c697420"/>Donques p̃nent largament uirtut moral segons que prudencia o samlxa es dica alguna
+              uirtur moral/ podem dir que segons<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_c6d31bd6" xml:id="elem_eSc_line_c6d31bd6"/>aquesces. iiii.  potencies dela aina en les quals uirtut ha esser son p̃ses/ Quatre uircuts cardinals ço es
+                assaber/<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_8c808e96" xml:id="elem_eSc_line_8c808e96"/>prudencia iustia Forreleha/
+              e temperançia/.  Quar prudencia e saincha es enlenteniment Iusticia en la uoluntat<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BC_Ms_739/sortie_HTR/BC_Ms_739_out.replaced.xml#facs_eSc_line_6dec520f" xml:id="elem_eSc_line_6dec520f"/>ffortelea en la potencia/ irosa etenpancia en la
+              potencia cobregiosa</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

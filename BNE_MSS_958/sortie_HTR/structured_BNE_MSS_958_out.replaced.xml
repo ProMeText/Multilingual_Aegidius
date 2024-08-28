@@ -1,0 +1,1526 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BNE_MSS_958" xml:lang="la" type="transcription">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>BNE_MSS_958</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="facs_eSc_line_b57b71a8" corresp="#elem_eSc_line_b57b71a8">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_b57b71a8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bb6e6af8" corresp="#elem_eSc_line_bb6e6af8">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_bb6e6af8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9ca4ee68" corresp="#elem_eSc_line_9ca4ee68">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_9ca4ee68.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7482ef67" corresp="#elem_eSc_line_7482ef67">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_7482ef67.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a608d30e" corresp="#elem_eSc_line_a608d30e">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_a608d30e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9fc4f43d" corresp="#elem_eSc_line_9fc4f43d">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_9fc4f43d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f49c76a0" corresp="#elem_eSc_line_f49c76a0">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_f49c76a0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b1e1dff8" corresp="#elem_eSc_line_b1e1dff8">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_b1e1dff8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_faadf100" corresp="#elem_eSc_line_faadf100">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_faadf100.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_56677fdb" corresp="#elem_eSc_line_56677fdb">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_56677fdb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f3b479df" corresp="#elem_eSc_line_f3b479df">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_f3b479df.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2eedea36" corresp="#elem_eSc_line_2eedea36">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_2eedea36.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5ebabe01" corresp="#elem_eSc_line_5ebabe01">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_5ebabe01.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5117fe43" corresp="#elem_eSc_line_5117fe43">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_5117fe43.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d81b0cd4" corresp="#elem_eSc_line_d81b0cd4">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_d81b0cd4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6f104f5c" corresp="#elem_eSc_line_6f104f5c">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_6f104f5c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_96efdeb8" corresp="#elem_eSc_line_96efdeb8">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_96efdeb8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b00be5dd" corresp="#elem_eSc_line_b00be5dd">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_b00be5dd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5a4c2c9e" corresp="#elem_eSc_line_5a4c2c9e">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_5a4c2c9e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_029a41e8" corresp="#elem_eSc_line_029a41e8">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_029a41e8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d0f39c2e" corresp="#elem_eSc_line_d0f39c2e">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_d0f39c2e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e79a033a" corresp="#elem_eSc_line_e79a033a">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_e79a033a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b90208e6" corresp="#elem_eSc_line_b90208e6">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_b90208e6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_75cf981d" corresp="#elem_eSc_line_75cf981d">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_75cf981d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_19a28fce" corresp="#elem_eSc_line_19a28fce">
+      <graphic url="../lignes/0.pdf_page_1_eSc_line_19a28fce.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_64494437" corresp="#elem_eSc_line_64494437">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_64494437.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_05d666fc" corresp="#elem_eSc_line_05d666fc">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_05d666fc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2330d127" corresp="#elem_eSc_line_2330d127">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_2330d127.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fcd79e2d" corresp="#elem_eSc_line_fcd79e2d">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_fcd79e2d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1c6fecbb" corresp="#elem_eSc_line_1c6fecbb">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_1c6fecbb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_761f0a06" corresp="#elem_eSc_line_761f0a06">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_761f0a06.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a5fb366e" corresp="#elem_eSc_line_a5fb366e">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_a5fb366e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_55c7c29a" corresp="#elem_eSc_line_55c7c29a">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_55c7c29a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_060d61e1" corresp="#elem_eSc_line_060d61e1">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_060d61e1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8645a8ac" corresp="#elem_eSc_line_8645a8ac">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_8645a8ac.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a5c26670" corresp="#elem_eSc_line_a5c26670">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_a5c26670.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ce4e8f08" corresp="#elem_eSc_line_ce4e8f08">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_ce4e8f08.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_682fef56" corresp="#elem_eSc_line_682fef56">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_682fef56.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_be99d559" corresp="#elem_eSc_line_be99d559">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_be99d559.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5775bb5d" corresp="#elem_eSc_line_5775bb5d">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_5775bb5d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3c5e3316" corresp="#elem_eSc_line_3c5e3316">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_3c5e3316.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f425ef63" corresp="#elem_eSc_line_f425ef63">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_f425ef63.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_38bf4338" corresp="#elem_eSc_line_38bf4338">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_38bf4338.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5ae18b1a" corresp="#elem_eSc_line_5ae18b1a">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_5ae18b1a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e47b6da6" corresp="#elem_eSc_line_e47b6da6">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_e47b6da6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f067cbd4" corresp="#elem_eSc_line_f067cbd4">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_f067cbd4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b094e175" corresp="#elem_eSc_line_b094e175">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_b094e175.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dcd87242" corresp="#elem_eSc_line_dcd87242">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_dcd87242.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c22576ae" corresp="#elem_eSc_line_c22576ae">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_c22576ae.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_de7f8f07" corresp="#elem_eSc_line_de7f8f07">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_de7f8f07.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_aeaed7ed" corresp="#elem_eSc_line_aeaed7ed">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_aeaed7ed.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_590253e7" corresp="#elem_eSc_line_590253e7">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_590253e7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d78042e8" corresp="#elem_eSc_line_d78042e8">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_d78042e8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3f91cabd" corresp="#elem_eSc_line_3f91cabd">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_3f91cabd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_04e5e906" corresp="#elem_eSc_line_04e5e906">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_04e5e906.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bfc930fb" corresp="#elem_eSc_line_bfc930fb">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_bfc930fb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a03d8aa7" corresp="#elem_eSc_line_a03d8aa7">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_a03d8aa7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2849ca5e" corresp="#elem_eSc_line_2849ca5e">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_2849ca5e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_85487a33" corresp="#elem_eSc_line_85487a33">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_85487a33.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f4289429" corresp="#elem_eSc_line_f4289429">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_f4289429.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a42d474d" corresp="#elem_eSc_line_a42d474d">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_a42d474d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_255a8711" corresp="#elem_eSc_line_255a8711">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_255a8711.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cd185e2c" corresp="#elem_eSc_line_cd185e2c">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_cd185e2c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_761536d1" corresp="#elem_eSc_line_761536d1">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_761536d1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_51c7c915" corresp="#elem_eSc_line_51c7c915">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_51c7c915.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a304ba97" corresp="#elem_eSc_line_a304ba97">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_a304ba97.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d92fc6e7" corresp="#elem_eSc_line_d92fc6e7">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_d92fc6e7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b011068b" corresp="#elem_eSc_line_b011068b">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_b011068b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8b6173a8" corresp="#elem_eSc_line_8b6173a8">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_8b6173a8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6a4849e6" corresp="#elem_eSc_line_6a4849e6">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_6a4849e6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_462ce678" corresp="#elem_eSc_line_462ce678">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_462ce678.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a6c32e20" corresp="#elem_eSc_line_a6c32e20">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_a6c32e20.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7f41d7bb" corresp="#elem_eSc_line_7f41d7bb">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_7f41d7bb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_55b07af8" corresp="#elem_eSc_line_55b07af8">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_55b07af8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_63ba7aea" corresp="#elem_eSc_line_63ba7aea">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_63ba7aea.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1b2e2c8a" corresp="#elem_eSc_line_1b2e2c8a">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_1b2e2c8a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_80239196" corresp="#elem_eSc_line_80239196">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_80239196.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_afb933b8" corresp="#elem_eSc_line_afb933b8">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_afb933b8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a63be316" corresp="#elem_eSc_line_a63be316">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_a63be316.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_53c33c98" corresp="#elem_eSc_line_53c33c98">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_53c33c98.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9c73a073" corresp="#elem_eSc_line_9c73a073">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_9c73a073.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_20059e99" corresp="#elem_eSc_line_20059e99">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_20059e99.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b6d28bdd" corresp="#elem_eSc_line_b6d28bdd">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_b6d28bdd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_81b2624d" corresp="#elem_eSc_line_81b2624d">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_81b2624d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f3e2a188" corresp="#elem_eSc_line_f3e2a188">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_f3e2a188.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b8e6b73f" corresp="#elem_eSc_line_b8e6b73f">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_b8e6b73f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fb0e4066" corresp="#elem_eSc_line_fb0e4066">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_fb0e4066.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_15564995" corresp="#elem_eSc_line_15564995">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_15564995.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e9da9529" corresp="#elem_eSc_line_e9da9529">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_e9da9529.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_daff1f04" corresp="#elem_eSc_line_daff1f04">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_daff1f04.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4bcedebe" corresp="#elem_eSc_line_4bcedebe">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_4bcedebe.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_18d69eda" corresp="#elem_eSc_line_18d69eda">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_18d69eda.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_43c98333" corresp="#elem_eSc_line_43c98333">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_43c98333.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7949ee96" corresp="#elem_eSc_line_7949ee96">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_7949ee96.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b3c083b6" corresp="#elem_eSc_line_b3c083b6">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_b3c083b6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0a611d4d" corresp="#elem_eSc_line_0a611d4d">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_0a611d4d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_73e2a9a4" corresp="#elem_eSc_line_73e2a9a4">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_73e2a9a4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6c452a9d" corresp="#elem_eSc_line_6c452a9d">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_6c452a9d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3054e1a1" corresp="#elem_eSc_line_3054e1a1">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_3054e1a1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_70593990" corresp="#elem_eSc_line_70593990">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_70593990.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cf4fb39e" corresp="#elem_eSc_line_cf4fb39e">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_cf4fb39e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7e1760e3" corresp="#elem_eSc_line_7e1760e3">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_7e1760e3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_10d65775" corresp="#elem_eSc_line_10d65775">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_10d65775.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1c1fa6df" corresp="#elem_eSc_line_1c1fa6df">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_1c1fa6df.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7c30c579" corresp="#elem_eSc_line_7c30c579">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_7c30c579.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_71adc26c" corresp="#elem_eSc_line_71adc26c">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_71adc26c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9656530c" corresp="#elem_eSc_line_9656530c">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_9656530c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ecd06bfd" corresp="#elem_eSc_line_ecd06bfd">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_ecd06bfd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_230d4d00" corresp="#elem_eSc_line_230d4d00">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_230d4d00.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_24823282" corresp="#elem_eSc_line_24823282">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_24823282.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_addd0ac7" corresp="#elem_eSc_line_addd0ac7">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_addd0ac7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b8b4d51b" corresp="#elem_eSc_line_b8b4d51b">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_b8b4d51b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ad95cfeb" corresp="#elem_eSc_line_ad95cfeb">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_ad95cfeb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6cbb3b10" corresp="#elem_eSc_line_6cbb3b10">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_6cbb3b10.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_46de7187" corresp="#elem_eSc_line_46de7187">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_46de7187.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_007376d9" corresp="#elem_eSc_line_007376d9">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_007376d9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cf49fa52" corresp="#elem_eSc_line_cf49fa52">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_cf49fa52.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bdccd0ef" corresp="#elem_eSc_line_bdccd0ef">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_bdccd0ef.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c79472bc" corresp="#elem_eSc_line_c79472bc">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_c79472bc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a4544316" corresp="#elem_eSc_line_a4544316">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_a4544316.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fbad6578" corresp="#elem_eSc_line_fbad6578">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_fbad6578.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d64e4961" corresp="#elem_eSc_line_d64e4961">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_d64e4961.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_29e32006" corresp="#elem_eSc_line_29e32006">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_29e32006.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7ffd2fac" corresp="#elem_eSc_line_7ffd2fac">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_7ffd2fac.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fbbef4e4" corresp="#elem_eSc_line_fbbef4e4">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_fbbef4e4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a8432bc6" corresp="#elem_eSc_line_a8432bc6">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_a8432bc6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8c1064ff" corresp="#elem_eSc_line_8c1064ff">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_8c1064ff.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6edc105e" corresp="#elem_eSc_line_6edc105e">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_6edc105e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b49be1a0" corresp="#elem_eSc_line_b49be1a0">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_b49be1a0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8b8fd8c2" corresp="#elem_eSc_line_8b8fd8c2">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_8b8fd8c2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a68d0408" corresp="#elem_eSc_line_a68d0408">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_a68d0408.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fe2f75a7" corresp="#elem_eSc_line_fe2f75a7">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_fe2f75a7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c9114e9f" corresp="#elem_eSc_line_c9114e9f">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_c9114e9f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_84684f90" corresp="#elem_eSc_line_84684f90">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_84684f90.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ace4aa45" corresp="#elem_eSc_line_ace4aa45">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_ace4aa45.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_999d9265" corresp="#elem_eSc_line_999d9265">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_999d9265.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4a277919" corresp="#elem_eSc_line_4a277919">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_4a277919.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5aa24ffe" corresp="#elem_eSc_line_5aa24ffe">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_5aa24ffe.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4c755c9e" corresp="#elem_eSc_line_4c755c9e">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_4c755c9e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e800faa9" corresp="#elem_eSc_line_e800faa9">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_e800faa9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2f8f23fd" corresp="#elem_eSc_line_2f8f23fd">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_2f8f23fd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f165685c" corresp="#elem_eSc_line_f165685c">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_f165685c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c0ba1ac3" corresp="#elem_eSc_line_c0ba1ac3">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_c0ba1ac3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f857fa72" corresp="#elem_eSc_line_f857fa72">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_f857fa72.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_95d5e73d" corresp="#elem_eSc_line_95d5e73d">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_95d5e73d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c8b91631" corresp="#elem_eSc_line_c8b91631">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_c8b91631.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ed09ab76" corresp="#elem_eSc_line_ed09ab76">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_ed09ab76.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ab390d2f" corresp="#elem_eSc_line_ab390d2f">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_ab390d2f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_59e8a5b7" corresp="#elem_eSc_line_59e8a5b7">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_59e8a5b7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_37f55bdc" corresp="#elem_eSc_line_37f55bdc">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_37f55bdc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0ad17793" corresp="#elem_eSc_line_0ad17793">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_0ad17793.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e1e10ed5" corresp="#elem_eSc_line_e1e10ed5">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_e1e10ed5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8a5bca66" corresp="#elem_eSc_line_8a5bca66">
+      <graphic url="../lignes/1.pdf_page_1_eSc_line_8a5bca66.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5cfc99e4" corresp="#elem_eSc_line_5cfc99e4">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_5cfc99e4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3bb456fe" corresp="#elem_eSc_line_3bb456fe">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_3bb456fe.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3c921a1a" corresp="#elem_eSc_line_3c921a1a">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_3c921a1a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7281cc14" corresp="#elem_eSc_line_7281cc14">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_7281cc14.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_30b248ed" corresp="#elem_eSc_line_30b248ed">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_30b248ed.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0ed7ef41" corresp="#elem_eSc_line_0ed7ef41">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_0ed7ef41.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0ca753a5" corresp="#elem_eSc_line_0ca753a5">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_0ca753a5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_96cf0e0d" corresp="#elem_eSc_line_96cf0e0d">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_96cf0e0d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fb63a4bd" corresp="#elem_eSc_line_fb63a4bd">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_fb63a4bd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f40a3078" corresp="#elem_eSc_line_f40a3078">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_f40a3078.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6b685f6a" corresp="#elem_eSc_line_6b685f6a">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_6b685f6a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0346cae7" corresp="#elem_eSc_line_0346cae7">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_0346cae7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ac49a414" corresp="#elem_eSc_line_ac49a414">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_ac49a414.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_771d7810" corresp="#elem_eSc_line_771d7810">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_771d7810.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4fd8a560" corresp="#elem_eSc_line_4fd8a560">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_4fd8a560.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fb08f283" corresp="#elem_eSc_line_fb08f283">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_fb08f283.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_890edb79" corresp="#elem_eSc_line_890edb79">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_890edb79.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cbd8419f" corresp="#elem_eSc_line_cbd8419f">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_cbd8419f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8396e53b" corresp="#elem_eSc_line_8396e53b">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_8396e53b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_001e25a2" corresp="#elem_eSc_line_001e25a2">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_001e25a2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_24837b6b" corresp="#elem_eSc_line_24837b6b">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_24837b6b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_14b27c66" corresp="#elem_eSc_line_14b27c66">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_14b27c66.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_89c15172" corresp="#elem_eSc_line_89c15172">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_89c15172.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d5f5b577" corresp="#elem_eSc_line_d5f5b577">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_d5f5b577.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fac291fd" corresp="#elem_eSc_line_fac291fd">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_fac291fd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1406e84f" corresp="#elem_eSc_line_1406e84f">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_1406e84f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_97a1085e" corresp="#elem_eSc_line_97a1085e">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_97a1085e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fcbfa973" corresp="#elem_eSc_line_fcbfa973">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_fcbfa973.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d96d8cd8" corresp="#elem_eSc_line_d96d8cd8">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_d96d8cd8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_107573ac" corresp="#elem_eSc_line_107573ac">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_107573ac.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_672d3ec0" corresp="#elem_eSc_line_672d3ec0">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_672d3ec0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_95beecad" corresp="#elem_eSc_line_95beecad">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_95beecad.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6566a2a1" corresp="#elem_eSc_line_6566a2a1">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_6566a2a1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_69c34887" corresp="#elem_eSc_line_69c34887">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_69c34887.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_49929263" corresp="#elem_eSc_line_49929263">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_49929263.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cfd645cb" corresp="#elem_eSc_line_cfd645cb">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_cfd645cb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fda7cd94" corresp="#elem_eSc_line_fda7cd94">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_fda7cd94.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_17f252a8" corresp="#elem_eSc_line_17f252a8">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_17f252a8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e1ec7a84" corresp="#elem_eSc_line_e1ec7a84">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_e1ec7a84.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f292a812" corresp="#elem_eSc_line_f292a812">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_f292a812.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c943bf7b" corresp="#elem_eSc_line_c943bf7b">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_c943bf7b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_533ddc73" corresp="#elem_eSc_line_533ddc73">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_533ddc73.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_220ff18d" corresp="#elem_eSc_line_220ff18d">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_220ff18d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b8dd47de" corresp="#elem_eSc_line_b8dd47de">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_b8dd47de.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_90bef90e" corresp="#elem_eSc_line_90bef90e">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_90bef90e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f71a18d2" corresp="#elem_eSc_line_f71a18d2">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_f71a18d2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5a6ef86e" corresp="#elem_eSc_line_5a6ef86e">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_5a6ef86e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2489951d" corresp="#elem_eSc_line_2489951d">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_2489951d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_00d81fc5" corresp="#elem_eSc_line_00d81fc5">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_00d81fc5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0c2e5b76" corresp="#elem_eSc_line_0c2e5b76">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_0c2e5b76.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e39dc999" corresp="#elem_eSc_line_e39dc999">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_e39dc999.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c44cde7b" corresp="#elem_eSc_line_c44cde7b">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_c44cde7b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4250542a" corresp="#elem_eSc_line_4250542a">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_4250542a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_508fecaf" corresp="#elem_eSc_line_508fecaf">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_508fecaf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7d0384c8" corresp="#elem_eSc_line_7d0384c8">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_7d0384c8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f56be85f" corresp="#elem_eSc_line_f56be85f">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_f56be85f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e3e7e853" corresp="#elem_eSc_line_e3e7e853">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_e3e7e853.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_46fbfee6" corresp="#elem_eSc_line_46fbfee6">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_46fbfee6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3cee1f5d" corresp="#elem_eSc_line_3cee1f5d">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_3cee1f5d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c12e32bf" corresp="#elem_eSc_line_c12e32bf">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_c12e32bf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ef0fb69d" corresp="#elem_eSc_line_ef0fb69d">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_ef0fb69d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5aa9205f" corresp="#elem_eSc_line_5aa9205f">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_5aa9205f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_59fbf41b" corresp="#elem_eSc_line_59fbf41b">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_59fbf41b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_884e0351" corresp="#elem_eSc_line_884e0351">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_884e0351.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f267838e" corresp="#elem_eSc_line_f267838e">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_f267838e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f2245d71" corresp="#elem_eSc_line_f2245d71">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_f2245d71.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_12ccb8a5" corresp="#elem_eSc_line_12ccb8a5">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_12ccb8a5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5e69c41c" corresp="#elem_eSc_line_5e69c41c">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_5e69c41c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e8613313" corresp="#elem_eSc_line_e8613313">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_e8613313.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3f261c36" corresp="#elem_eSc_line_3f261c36">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_3f261c36.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6fc8df4b" corresp="#elem_eSc_line_6fc8df4b">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_6fc8df4b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1caa2b7e" corresp="#elem_eSc_line_1caa2b7e">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_1caa2b7e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4d1256ac" corresp="#elem_eSc_line_4d1256ac">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_4d1256ac.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_18a29116" corresp="#elem_eSc_line_18a29116">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_18a29116.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0dc36310" corresp="#elem_eSc_line_0dc36310">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_0dc36310.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4f9418e6" corresp="#elem_eSc_line_4f9418e6">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_4f9418e6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_82125503" corresp="#elem_eSc_line_82125503">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_82125503.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0221b637" corresp="#elem_eSc_line_0221b637">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_0221b637.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1b66099c" corresp="#elem_eSc_line_1b66099c">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_1b66099c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_daf398a0" corresp="#elem_eSc_line_daf398a0">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_daf398a0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8fd98fc5" corresp="#elem_eSc_line_8fd98fc5">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_8fd98fc5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_541086f1" corresp="#elem_eSc_line_541086f1">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_541086f1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6368b7e5" corresp="#elem_eSc_line_6368b7e5">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_6368b7e5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_15d7a901" corresp="#elem_eSc_line_15d7a901">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_15d7a901.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_92bc9540" corresp="#elem_eSc_line_92bc9540">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_92bc9540.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2e44a9bb" corresp="#elem_eSc_line_2e44a9bb">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_2e44a9bb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b7913f65" corresp="#elem_eSc_line_b7913f65">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_b7913f65.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1061dc2b" corresp="#elem_eSc_line_1061dc2b">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_1061dc2b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dc037ed8" corresp="#elem_eSc_line_dc037ed8">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_dc037ed8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8e58e6a6" corresp="#elem_eSc_line_8e58e6a6">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_8e58e6a6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9c39d5c5" corresp="#elem_eSc_line_9c39d5c5">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_9c39d5c5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0ccd00e9" corresp="#elem_eSc_line_0ccd00e9">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_0ccd00e9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8524b325" corresp="#elem_eSc_line_8524b325">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_8524b325.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7b55c46e" corresp="#elem_eSc_line_7b55c46e">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_7b55c46e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a252a812" corresp="#elem_eSc_line_a252a812">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_a252a812.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_aa6c846e" corresp="#elem_eSc_line_aa6c846e">
+      <graphic url="../lignes/2.pdf_page_1_eSc_line_aa6c846e.png"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div n="1" type="livre">
+        <div n="1.2" type="partie">
+          <div n="1" type="chapitre">
+            <pb n="" facs="../input_files/0.pdf_page_1.png"/>
+            <head n="LzTDRrxe"><lb break="?" facs="#facs_eSc_line_b57b71a8" n="xbbB3v"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_b57b71a8"
+                xml:id="elem_eSc_line_b57b71a8"/>Capͫ.<lb break="?" facs="#facs_eSc_line_bb6e6af8" n="erWp85"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_bb6e6af8"
+                xml:id="elem_eSc_line_bb6e6af8"/>.pͫ. qͦmͦ poͤ anime diuidũt ⁊ uirtuͤᷤ<lb break="?"
+                facs="#facs_eSc_line_9ca4ee68" n="tC3glP"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_9ca4ee68"
+                xml:id="elem_eSc_line_9ca4ee68"/>in quibꝰ potẽciis hñt esse.</head>
+            <p n="jjnPUymf"><lb break="?" facs="#facs_eSc_line_7482ef67" n="fEWiBF"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_7482ef67"
+                xml:id="elem_eSc_line_7482ef67"/>ostqͣ auxiliãte deo ꝯpleuiꝰ<lb break="?" facs="#facs_eSc_line_a608d30e"
+                n="sYZBWy"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_a608d30e"
+                xml:id="elem_eSc_line_a608d30e"/>pͥmã ꝑtẽ huiꝯ pͥmi libͥ in qͦ<lb break="?" facs="#facs_eSc_line_9fc4f43d"
+                n="o0J4Yy"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_9fc4f43d"
+                xml:id="elem_eSc_line_9fc4f43d"/>agit᷑ de regĩe sui oñdentes<lb break="?" facs="#facs_eSc_line_f49c76a0"
+                n="rlkTa7"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_f49c76a0"
+                xml:id="elem_eSc_line_f49c76a0"/>Inqͦ reges ⁊ pͥnçipes suã felicitatẽ<lb break="?"
+                facs="#facs_eSc_line_b1e1dff8" n="zD63rF"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_b1e1dff8"
+                xml:id="elem_eSc_line_b1e1dff8"/>pon̾e debeãt q̃r ñ decet eos suã feli<lb break="?"
+                facs="#facs_eSc_line_faadf100" n="yWmZxG"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_faadf100"
+                xml:id="elem_eSc_line_faadf100"/>cite pon̾e in dĩciis nͨ in ciuili poͣ. nͨ in<lb break="?"
+                facs="#facs_eSc_line_56677fdb" n="paiQi1"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_56677fdb"
+                xml:id="elem_eSc_line_56677fdb"/>aͥqͥbꝰ talib s õĩbꝯ hiis ut sͣ płniꝯ ꝑ<lb break="?"
+                facs="#facs_eSc_line_f3b479df" n="jMeU1R"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_f3b479df"
+                xml:id="elem_eSc_line_f3b479df"/>bit᷑ debẽt uti tanꝙͣ organis ad<lb break="?" facs="#facs_eSc_line_2eedea36"
+                n="e2Xssg"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_2eedea36"
+                xml:id="elem_eSc_line_2eedea36"/>suũ finẽ suã at̃ felicᵗᵉ pon̾e debẽt<lb break="?"
+                facs="#facs_eSc_line_5ebabe01" n="gum3gG"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_5ebabe01"
+                xml:id="elem_eSc_line_5ebabe01"/>in actu pͧdẽcie ꝓͭ tał actꝯ ẽ inꝑatꝰ<lb break="?"
+                facs="#facs_eSc_line_5117fe43" n="j5uVWM"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_5117fe43"
+                xml:id="elem_eSc_line_5117fe43"/>a caⁱᵗᵉ Nã tc̃ reges ⁊ pͥncipes hñt suã<lb break="?"
+                facs="#facs_eSc_line_d81b0cd4" n="ggglKw"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_d81b0cd4"
+                xml:id="elem_eSc_line_d81b0cd4"/>feliciͭᵗᵉ suo statui debitã ⁊ ꝯdignã<lb break="?"
+                facs="#facs_eSc_line_6f104f5c" n="qFZxKu"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_6f104f5c"
+                xml:id="elem_eSc_line_6f104f5c"/>qñ instigãte d̃i diłcoẽ ẜ pͧdenciã<lb break="?"
+                facs="#facs_eSc_line_96efdeb8" n="zuB1L9"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_96efdeb8"
+                xml:id="elem_eSc_line_96efdeb8"/>regͣtiã gentẽ sͥ ꝯmissã ẜ legẽ ⁊ rõ<lb break="?"
+                facs="#facs_eSc_line_b00be5dd" n="tkibGZ"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_b00be5dd"
+                xml:id="elem_eSc_line_b00be5dd"/>n scẽ ⁊ iuste regũt.⁊ pͥnͬ sͥ poᵈᵃ est<lb break="?"
+                facs="#facs_eSc_line_5a4c2c9e" n="szNcfX"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_5a4c2c9e"
+                xml:id="elem_eSc_line_5a4c2c9e"/>felicitas in ip̃o d̃o ⁊ ex cogͦne ⁊ dile<lb break="?"
+                facs="#facs_eSc_line_029a41e8" n="eQ7OKJ"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_029a41e8"
+                xml:id="elem_eSc_line_029a41e8"/>cõne eꝯ suũ studiũ ⁊ suã uitã ad ħ<lb break="?"
+                facs="#facs_eSc_line_d0f39c2e" n="d47Nvq"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_d0f39c2e"
+                xml:id="elem_eSc_line_d0f39c2e"/>debeat̃ ordĩare ut cogͦscẽtes ⁊ diliᵗᵉˢ<lb break="?"
+                facs="#facs_eSc_line_e79a033a" n="jS9iFc"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_e79a033a"
+                xml:id="elem_eSc_line_e79a033a"/>dm̃ tãꝙͣ u̾i mĩstͥ eꝯ pp ͫ sͥ ꝯmissũ<lb break="?"
+                facs="#facs_eSc_line_b90208e6" n="xaHgWw"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_b90208e6"
+                xml:id="elem_eSc_line_b90208e6"/>dirigãt ẜ ordĩe roĩs. hiis gͥ ita<lb break="?" facs="#facs_eSc_line_75cf981d"
+                n="h50IA8"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_75cf981d"
+                xml:id="elem_eSc_line_75cf981d"/>ꝑactis ⁊ ⟦onĩo⟧ in qͦ regos debeat̃ po<lb break="?"
+                facs="#facs_eSc_line_19a28fce" n="ewyO5P"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_19a28fce"
+                xml:id="elem_eSc_line_19a28fce"/>n̾e suũ finẽ ẜ ordiẽ srĩꝯ p̾taxatũ<pb n=""
+                facs="../input_files/1.pdf_page_1.png"/><lb break="?" facs="#facs_eSc_line_64494437" n="tjCfxC"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_64494437"
+                xml:id="elem_eSc_line_64494437"/>restat oñd̾e qͥbꝯ u̾tutibꝯ reges po¬<lb break="?" facs="#facs_eSc_line_05d666fc"
+                n="yik3aB"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_05d666fc"
+                xml:id="elem_eSc_line_05d666fc"/>lłe debeãt in hac uita u̾tutes eͥ st̃<lb break="?"
+                facs="#facs_eSc_line_2330d127" n="s4a3aN"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_2330d127"
+                xml:id="elem_eSc_line_2330d127"/>qͥdã ornatꝯ ⁊ q̃dã aĩe ꝑfecões. O<lb break="?"
+                facs="#facs_eSc_line_fcd79e2d" n="sxe80l"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_fcd79e2d"
+                xml:id="elem_eSc_line_fcd79e2d"/>gͥ pͥꝯ oñde̾ qͦt st̃ poͤ aĩe ⁊ in qͥbꝯ potẽ¬<lb break="?"
+                facs="#facs_eSc_line_1c6fecbb" n="muISEJ"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_1c6fecbb"
+                xml:id="elem_eSc_line_1c6fecbb"/>tiis uͥtutes hñt eẽ : ꝯnr̃ at̃ maĩfes¬<lb break="?"
+                facs="#facs_eSc_line_761f0a06" n="q1MIgN"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_761f0a06"
+                xml:id="elem_eSc_line_761f0a06"/>tab̃r quõ u̾tutes sũt distinguẽde. pꝰ¬<lb break="?"
+                facs="#facs_eSc_line_a5fb366e" n="yGaTYg"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_a5fb366e"
+                xml:id="elem_eSc_line_a5fb366e"/>ea qͦt st̃ nũo ⁊ q̃ illaꝵ st̃ pͥncipales.<lb break="?"
+                facs="#facs_eSc_line_55c7c29a" n="tsvZhZ"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_55c7c29a"
+                xml:id="elem_eSc_line_55c7c29a"/>⁊ q̃ ẜãrie. Deiñ sinʳ q̃ sit unaq̃ illa¬<lb break="?"
+                facs="#facs_eSc_line_060d61e1" n="q99IiF"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_060d61e1"
+                xml:id="elem_eSc_line_060d61e1"/>rũ uͥtutũ ⁊ quõ dec reges ⁊ pͥnci¬<lb break="?"
+                facs="#facs_eSc_line_8645a8ac" n="mdSeoE"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_8645a8ac"
+                xml:id="elem_eSc_line_8645a8ac"/>pes tałs u̾tutes hr̃e. poͤ at̃ aĩe sic<lb break="?"
+                facs="#facs_eSc_line_a5c26670" n="tHmfel"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_a5c26670"
+                xml:id="elem_eSc_line_a5c26670"/>distingui possũt q̃r q̃d st̃ n᷑ales q̃d<lb break="?"
+                facs="#facs_eSc_line_ce4e8f08" n="q5UfPv"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_ce4e8f08"
+                xml:id="elem_eSc_line_ce4e8f08"/>cogͥtiẽ sẜitiẽ /q̃dã appetitiẽ ⁊ haꝵ q̃d<lb break="?"
+                facs="#facs_eSc_line_682fef56" n="mbuauy"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_682fef56"
+                xml:id="elem_eSc_line_682fef56"/>apetitiẽ sensitiẽ ⁊ q̃d intlłctiẽ. Na¬<lb break="?"
+                facs="#facs_eSc_line_be99d559" n="wpuo3A"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_be99d559"
+                xml:id="elem_eSc_line_be99d559"/>t᷑ales poͤ sũt ille in qͥbꝯ cõĩcamꝯ cũ<lb break="?"
+                facs="#facs_eSc_line_5775bb5d" n="nWosbZ"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_5775bb5d"
+                xml:id="elem_eSc_line_5775bb5d"/>uegetalᵇꝰ ⁊ plãtis ut poͣ nutͥtiã aug¬<lb break="?"
+                facs="#facs_eSc_line_3c5e3316" n="uzcKrG"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_3c5e3316"
+                xml:id="elem_eSc_line_3c5e3316"/>mẽtatĩa. gn̾atĩa ⁊ talia q̃ ⁊ ip̃is ar<lb break="?"
+                facs="#facs_eSc_line_f425ef63" n="upBimI"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_f425ef63"
+                xml:id="elem_eSc_line_f425ef63"/>boͥlꝯ ꝯpetũt : poͤ u̾o ꝯgͥtiẽ sẜĩtĩe sũt<lb break="?"
+                facs="#facs_eSc_line_38bf4338" n="f3CmCI"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_38bf4338"
+                xml:id="elem_eSc_line_38bf4338"/>uisꝯ. gustꝯ. tactꝯ. ⁊ taliͣ. in qͥbꝰ coĩca¬<lb break="?"
+                facs="#facs_eSc_line_5ae18b1a" n="nq4bHW"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_5ae18b1a"
+                xml:id="elem_eSc_line_5ae18b1a"/>mꝯ cũ brutis : appetĩe u̾o distin<lb break="?" facs="#facs_eSc_line_e47b6da6"
+                n="gAPy78"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_e47b6da6"
+                xml:id="elem_eSc_line_e47b6da6"/>gũt᷑. Nã qͥd appetitꝰ ẽ in hoͥe. ĩ qͦ<lb break="?"
+                facs="#facs_eSc_line_f067cbd4" n="xmARlU"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_f067cbd4"
+                xml:id="elem_eSc_line_f067cbd4"/>nõ coĩcaꝰ cũ brutis ut appetitꝰ seꝙ̃s<lb break="?"
+                facs="#facs_eSc_line_b094e175" n="toOFWY"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_b094e175"
+                xml:id="elem_eSc_line_b094e175"/>rõe. qͥd u̾o inqͦ coĩcamꝰ cũ eis. ut<lb break="?"
+                facs="#facs_eSc_line_dcd87242" n="aWhGFq"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_dcd87242"
+                xml:id="elem_eSc_line_dcd87242"/>apetitꝰ seqñs sẜm̃ qͥ pt̃ noĩari sẜnsu¬<lb break="?"
+                facs="#facs_eSc_line_c22576ae" n="eYTH9Z"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_c22576ae"
+                xml:id="elem_eSc_line_c22576ae"/>alitas. seqñs at̃ intlłm noĩat᷑ uolũ¬<lb break="?"
+                facs="#facs_eSc_line_de7f8f07" n="oDZI8w"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_de7f8f07"
+                xml:id="elem_eSc_line_de7f8f07"/>tas ẜ q̃ mod loꝙ̃di bruta hñt sẜũ¬<lb break="?"
+                facs="#facs_eSc_line_aeaed7ed" n="sCd9IU"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_aeaed7ed"
+                xml:id="elem_eSc_line_aeaed7ed"/>alitatẽ ⁊ apetitũ sẜĩ tm̃. s nõ uolũᵗᵉ<lb break="?"
+                facs="#facs_eSc_line_590253e7" n="m6hndD"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_590253e7"
+                xml:id="elem_eSc_line_590253e7"/>.i. apetitũ intlłtm̃. U̾tutes gͦ de qͥbꝯ<lb break="?"
+                facs="#facs_eSc_line_d78042e8" n="mGuCVE"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_d78042e8"
+                xml:id="elem_eSc_line_d78042e8"/>loqͥ intendiꝯ qͥ st̃ qͥd hĩtꝯ laudabłes<lb break="?"
+                facs="#facs_eSc_line_3f91cabd" n="q0hIgX"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_3f91cabd"
+                xml:id="elem_eSc_line_3f91cabd"/>aͭ erũt in poͬ nͣalib uł in ip̃is sẽ¬<lb break="?"
+                facs="#facs_eSc_line_04e5e906" n="eQZ1Ph"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_04e5e906"
+                xml:id="elem_eSc_line_04e5e906"/>sibꝯ uł in appetitu intlłitiõ uł in ip̃o<lb break="?"
+                facs="#facs_eSc_line_bfc930fb" n="ieUGSP"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_bfc930fb"
+                xml:id="elem_eSc_line_bfc930fb"/>intlłectu uł in hiis oĩbꝯ uł in aͥqͥbꝯ<lb break="?"
+                facs="#facs_eSc_line_a03d8aa7" n="c5QlMX"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_a03d8aa7"
+                xml:id="elem_eSc_line_a03d8aa7"/>eoꝵ d. In poⁱⁱˢ ãt n᷑alibꝯ eẽ nõ pñt<cb break="?"/><cb break="?"/><lb
+                break="?" facs="#facs_eSc_line_2849ca5e" n="e7YH70"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_2849ca5e"
+                xml:id="elem_eSc_line_2849ca5e"/>ꝙ tͥpͬ p . pͦ qr ex nͣalibꝯ ⟦⟧ nͨ laudam᷑<lb break="?"
+                facs="#facs_eSc_line_85487a33" n="cWMFxF"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_85487a33"
+                xml:id="elem_eSc_line_85487a33"/>nͨ uituꝑam᷑. nlłꝯ eͥ d̃r boꝯ̃ hõ ex eo ꝙ<lb break="?"
+                facs="#facs_eSc_line_f4289429" n="ueV8mm"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_f4289429"
+                xml:id="elem_eSc_line_f4289429"/>ht̃ boͣm digestia uł augm̃tatiã. S̾o<lb break="?"
+                facs="#facs_eSc_line_a42d474d" n="gTpBRc"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_a42d474d"
+                xml:id="elem_eSc_line_a42d474d"/>qr̃ u̾tꝯ ẽ aͥd ẜ rõe ꝙ pͣ ꝓbari .ii. eth.<lb break="?"
+                facs="#facs_eSc_line_255a8711" n="d2nG9T"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_255a8711"
+                xml:id="elem_eSc_line_255a8711"/>poͤ at̃ n᷑ałs ẜ ꝙ hꝯͥ st̃ roĩ ñ obediũt. nã<lb break="?"
+                facs="#facs_eSc_line_cd185e2c" n="scNNbz"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_cd185e2c"
+                xml:id="elem_eSc_line_cd185e2c"/>siue qͥs rõciẽt᷑ siũ uelit nõ ꝑꝑ ħ ꝑ se loᵈᵒ<lb break="?"
+                facs="#facs_eSc_line_761536d1" n="z1XOb6"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_761536d1"
+                xml:id="elem_eSc_line_761536d1"/>uariãt᷑ poͤ n᷑ałs in suis actibꝯ s sñꝑ ẜmͦ<lb break="?"
+                facs="#facs_eSc_line_51c7c915" n="qhD3hI"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_51c7c915"
+                xml:id="elem_eSc_line_51c7c915"/>sͥ poˡᵉ ⁊ suas efficiut̃ actões: tͦ in talibꝯ<lb break="?"
+                facs="#facs_eSc_line_a304ba97" n="h1ReqZ"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_a304ba97"
+                xml:id="elem_eSc_line_a304ba97"/>poⁱⁱˢ ñõ st̃ hĩtꝯ seu uͥtutes. q̃r hĩtꝰ sũt<lb break="?"
+                facs="#facs_eSc_line_d92fc6e7" n="goCh8N"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_d92fc6e7"
+                xml:id="elem_eSc_line_d92fc6e7"/>ad det̾mĩand poͣs ut bñ uł male agat̃.<lb break="?"
+                facs="#facs_eSc_line_b011068b" n="rWjhLq"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_b011068b"
+                xml:id="elem_eSc_line_b011068b"/>ut ꝑ uicõsos hĩtꝯ det̾miẽt᷑ poͣ ad agẽd<lb break="?"
+                facs="#facs_eSc_line_8b6173a8" n="xSgunB"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_8b6173a8"
+                xml:id="elem_eSc_line_8b6173a8"/>male. ꝑ u̾tuosos ad agend̾ bñ. Dũ<lb break="?" facs="#facs_eSc_line_6a4849e6"
+                n="dUd2o2"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_6a4849e6"
+                xml:id="elem_eSc_line_6a4849e6"/>gͥ na᷑ sit det̾miãta ad unũ ⁊ n᷑ałs de<lb break="?"
+                facs="#facs_eSc_line_462ce678" n="dM2pwF"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_462ce678"
+                xml:id="elem_eSc_line_462ce678"/>t̾miẽnt᷑ poͤ sufficiet̾ ad agend̾ ex<lb break="?" facs="#facs_eSc_line_a6c32e20"
+                n="rZYXZG"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_a6c32e20"
+                xml:id="elem_eSc_line_a6c32e20"/>n᷑a sua. ẜm̃ eas nͨ sũꝯ u̾tuosi nͨ uicõsi<lb break="?"
+                facs="#facs_eSc_line_7f41d7bb" n="fugiG6"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_7f41d7bb"
+                xml:id="elem_eSc_line_7f41d7bb"/>ut hͥ loqͥm᷑ d̃ uicõ ⁊ u̾tutẽ./ Qͣr ĩ eis<lb break="?"
+                facs="#facs_eSc_line_55b07af8" n="m5XPAV"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_55b07af8"
+                xml:id="elem_eSc_line_55b07af8"/>hꝯͥ u̾tutes eẽ ñ pñt hiis ⁊ tͥbꝯ rõibꝯ<lb break="?"
+                facs="#facs_eSc_line_63ba7aea" n="m2FaXl"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_63ba7aea"
+                xml:id="elem_eSc_line_63ba7aea"/>ꝑ qͣs ꝓbat᷑ u̾tutes ñ eẽ in poⁱⁱˢ nͣlibꝯ<lb break="?"
+                facs="#facs_eSc_line_1b2e2c8a" n="cxLVCN"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_1b2e2c8a"
+                xml:id="elem_eSc_line_1b2e2c8a"/>ꝓbaͥ pt̃ eas ñ eẽ ⟦⟧ cogͦne sẜitiã sũ ĩ<lb break="?"
+                facs="#facs_eSc_line_80239196" n="wPy0gW"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_80239196"
+                xml:id="elem_eSc_line_80239196"/>poⁱⁱˢ sẜitãs. Nã sic̃ ñ laudam᷑ nͨ uituꝑa¬<lb break="?"
+                facs="#facs_eSc_line_afb933b8" n="hBMUUd"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_afb933b8"
+                xml:id="elem_eSc_line_afb933b8"/>m᷑ ex poⁱⁱˢ n᷑alibꝯ sit nͨ ex sẜibꝯ. Nã sic̃<lb break="?"
+                facs="#facs_eSc_line_a63be316" n="zMVRho"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_a63be316"
+                xml:id="elem_eSc_line_a63be316"/>nlłꝯ laudat᷑ tãꝙͣ bõꝯ hõ ex eo ꝙ acute<lb break="?"
+                facs="#facs_eSc_line_53c33c98" n="mQAoVd"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_53c33c98"
+                xml:id="elem_eSc_line_53c33c98"/>uid uł sb̃tiłr audit. nͥ forte ħ eẽt ꝑ<lb break="?"
+                facs="#facs_eSc_line_9c73a073" n="uW1ewF"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_9c73a073"
+                xml:id="elem_eSc_line_9c73a073"/>accñs. ut si qͥs ex sr̃flua comestioẽ uł<lb break="?"
+                facs="#facs_eSc_line_20059e99" n="yRGSiG"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_20059e99"
+                xml:id="elem_eSc_line_20059e99"/>potacoẽ inc᷑rer uł inc᷑riss ebtalmi¬<lb break="?"
+                facs="#facs_eSc_line_b6d28bdd" n="pa4gOP"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_b6d28bdd"
+                xml:id="elem_eSc_line_b6d28bdd"/>na occłoꝵ ne bñe uid̾et. uł debilitatẽ<lb break="?"
+                facs="#facs_eSc_line_81b2624d" n="x0LWoq"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_81b2624d"
+                xml:id="elem_eSc_line_81b2624d"/>stomachi ne bnẽ dig̾er. increparet᷑<lb break="?" facs="#facs_eSc_line_f3e2a188"
+                n="w2dBfC"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_f3e2a188"
+                xml:id="elem_eSc_line_f3e2a188"/>ille nõ qr male digi̾t uł qr ñ clare<lb break="?"
+                facs="#facs_eSc_line_b8e6b73f" n="jM2hFq"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_b8e6b73f"
+                xml:id="elem_eSc_line_b8e6b73f"/>uid qr ñ bñ dig̾ere ꝑ se loq̃do ñ ẽ ĩ<lb break="?"
+                facs="#facs_eSc_line_fb0e4066" n="cwe1M7"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_fb0e4066"
+                xml:id="elem_eSc_line_fb0e4066"/>poᵗᵉ hoͥs. s increꝑet᷑ ille ex nimio po¬<lb break="?"
+                facs="#facs_eSc_line_15564995" n="qqdiet"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_15564995"
+                xml:id="elem_eSc_line_15564995"/>tu. uł ex sr̃fluo cibo. Nã in poᵗᵉ sua etͣ<lb break="?"
+                facs="#facs_eSc_line_e9da9529" n="byqcV1"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_e9da9529"
+                xml:id="elem_eSc_line_e9da9529"/>ut poss uti cibo ⁊ potu mod̾ate/ S̾o<cb break="?"/><pb n="1"
+                facs="../input_files/1.pdf_page_1.png"/><lb break="?" facs="#facs_eSc_line_daff1f04" n="wVJZfm"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_daff1f04"
+                xml:id="elem_eSc_line_daff1f04"/>In sẜib nõ ẽ poᵈᵃ uͥtꝰ moralis qr sic̃ poͤ<lb break="?"
+                facs="#facs_eSc_line_4bcedebe" n="n7jRLY"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_4bcedebe"
+                xml:id="elem_eSc_line_4bcedebe"/>n᷑ales nõ obediũt roĩ. q̃r. ẜ rõĩs regła<lb break="?"
+                facs="#facs_eSc_line_18d69eda" n="z4anch"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_18d69eda"
+                xml:id="elem_eSc_line_18d69eda"/>nlłꝯ mag̾ uł mĩs auget᷑ uł dig̾it. sic<lb break="?"
+                facs="#facs_eSc_line_43c98333" n="dfhqPa"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_43c98333"
+                xml:id="elem_eSc_line_43c98333"/>nͨ sẜꝰ obediũt rõi. Nõ eͥ ẽ potãte hoͥs ui¬<lb break="?"
+                facs="#facs_eSc_line_7949ee96" n="z9OMmo"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_7949ee96"
+                xml:id="elem_eSc_line_7949ee96"/>d̾e clariꝯ uł mĩꝯ clare. Qͣre si u̾tꝰ mo<lb break="?"
+                facs="#facs_eSc_line_b3c083b6" n="iuiqRb"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_b3c083b6"
+                xml:id="elem_eSc_line_b3c083b6"/>rał ẽ ad ẜm̃ rõ in sẜiᵇꝰ poĩ ñ d ⁊ tͦ q̃r sic̃<lb break="?"
+                facs="#facs_eSc_line_0a611d4d" n="iuaeI5"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_0a611d4d"
+                xml:id="elem_eSc_line_0a611d4d"/>poͤ nͣałs sufficiẽt̾ det̾miant᷑ ad actões<lb break="?"
+                facs="#facs_eSc_line_73e2a9a4" n="ynMg8d"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_73e2a9a4"
+                xml:id="elem_eSc_line_73e2a9a4"/>suas ꝑ suã n᷑a sic ⁊ sẜꝯ.</p>
+            <p n="fooCimlZ"> Nã sic̃ igͥs tã¬<lb break="?" facs="#facs_eSc_line_6c452a9d" n="ehEoLL"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_6c452a9d"
+                xml:id="elem_eSc_line_6c452a9d"/>tũ calefac᷑ ꝙͫ pt̃ culefac̾e. ꝑp qd̾ q̃r det̾¬<lb break="?"
+                facs="#facs_eSc_line_3054e1a1" n="u3gsiN"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_3054e1a1"
+                xml:id="elem_eSc_line_3054e1a1"/>mĩat᷑ in actõe sua nõ laudat᷑ nͨ uitu<lb break="?"
+                facs="#facs_eSc_line_70593990" n="zi8ZyL"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_70593990"
+                xml:id="elem_eSc_line_70593990"/>ꝑat᷑ nͨ ẽ in eo u̾tꝯ morał. Sit q̃r poͣ di<lb break="?"
+                facs="#facs_eSc_line_cf4fb39e" n="yl4b1z"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_cf4fb39e"
+                xml:id="elem_eSc_line_cf4fb39e"/>gestĩa tm̃ dig̾it ꝙͫ dig̾ere pt̃ ⁊ occłꝯ<lb break="?"
+                facs="#facs_eSc_line_7e1760e3" n="wb1JCh"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_7e1760e3"
+                xml:id="elem_eSc_line_7e1760e3"/>tm̃ uid ꝙͫ uid̾e pt̃. In eis u̾tꝯ morał<lb break="?"
+                facs="#facs_eSc_line_10d65775" n="fV1Row"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_10d65775"
+                xml:id="elem_eSc_line_10d65775"/>eẽ ñ h. Nã ꝑ u̾tutẽ moralẽ det̾miãt᷑<lb break="?"
+                facs="#facs_eSc_line_1c1fa6df" n="uKVNS2"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_1c1fa6df"
+                xml:id="elem_eSc_line_1c1fa6df"/>poͣ ad agend̾. hec ãt sufficient̾ det̾¬<lb break="?"
+                facs="#facs_eSc_line_7c30c579" n="vzI4ze"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_7c30c579"
+                xml:id="elem_eSc_line_7c30c579"/>miãnt᷑ ad actões ꝓpͥas ꝑ n᷑a nõ gͥ indi¬<lb break="?"
+                facs="#facs_eSc_line_71adc26c" n="hMKqGW"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_71adc26c"
+                xml:id="elem_eSc_line_71adc26c"/>get᷑ uͥtite morali Si gͥ nͨ inpoͫꝰ naͣ¬<lb break="?"
+                facs="#facs_eSc_line_9656530c" n="zNilmN"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_9656530c"
+                xml:id="elem_eSc_line_9656530c"/>lib nͨ in sẜibꝯ ẽ u̾tꝯ morał cũ pt̾ na¬<lb break="?"
+                facs="#facs_eSc_line_ecd06bfd" n="kuIiXs"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_ecd06bfd"
+                xml:id="elem_eSc_line_ecd06bfd"/>t᷑ales potẽcias ⁊ sẜꝯ nõ sĩt nͥ intlłctꝰ<lb break="?"
+                facs="#facs_eSc_line_230d4d00" n="n9WaIr"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_230d4d00"
+                xml:id="elem_eSc_line_230d4d00"/>⁊ appeᵗꝰ intlłctĩꝯ ⁊ sẜitĩꝯ. o in talibꝰ<lb break="?"
+                facs="#facs_eSc_line_24823282" n="tdtuc2"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_24823282"
+                xml:id="elem_eSc_line_24823282"/>u̾tutes morales eẽ.</p>
+          </div>
+          <div n="1.2.2" type="chapitre">
+            <head>Capͫ. 2ͫ qͦmͦ<lb break="?" facs="#facs_eSc_line_addd0ac7" n="bdAtNM"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_addd0ac7"
+                xml:id="elem_eSc_line_addd0ac7"/>distingũt ᷑ uirtutes ⁊ qͣlit̾ se h̃eant<lb break="?"
+                facs="#facs_eSc_line_b8b4d51b" n="bglM9V"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_b8b4d51b"
+                xml:id="elem_eSc_line_b8b4d51b"/>in intellectu et ecct in apetitu</head>
+            <p><lb break="?" facs="#facs_eSc_line_ad95cfeb" n="mAY5WA"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_ad95cfeb"
+                xml:id="elem_eSc_line_ad95cfeb"/>stenso ꝙ nͨ ĩ poᷤ naͣlib nͨ in<lb break="?" facs="#facs_eSc_line_6cbb3b10"
+                n="s28xca"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_6cbb3b10"
+                xml:id="elem_eSc_line_6cbb3b10"/>sẜibꝰ hñt eẽ uͥtutes. Restat<lb break="?" facs="#facs_eSc_line_46de7187"
+                n="nXk22D"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_46de7187"
+                xml:id="elem_eSc_line_46de7187"/>oñde̾ quõ u̾tutes distĩgũt᷑<lb break="?" facs="#facs_eSc_line_007376d9"
+                n="ffJZx2"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_007376d9"
+                xml:id="elem_eSc_line_007376d9"/>⁊ quomͦ in intlłctu⁊ appetitu existũt<lb break="?"
+                facs="#facs_eSc_line_cf49fa52" n="ofqLdS"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_cf49fa52"
+                xml:id="elem_eSc_line_cf49fa52"/>Est at̃ distinguẽdũ de uͥtutibꝰ ⁊<lb break="?" facs="#facs_eSc_line_bdccd0ef"
+                n="tOt14r"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_bdccd0ef"
+                xml:id="elem_eSc_line_bdccd0ef"/>de hꝯͥ po Nã u̾tutũ q̃d stͣ intelle<lb break="?"
+                facs="#facs_eSc_line_c79472bc" n="jOMCPt"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_c79472bc"
+                xml:id="elem_eSc_line_c79472bc"/>ctuales. q̃d morales. qͣd medie int̃<lb break="?"
+                facs="#facs_eSc_line_a4544316" n="igM48v"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_a4544316"
+                xml:id="elem_eSc_line_a4544316"/>intlłctuales ⁊ morales. intelłctuałs<lb break="?" facs="#facs_eSc_line_fbad6578"
+                n="tS4xhF"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_fbad6578"
+                xml:id="elem_eSc_line_fbad6578"/>dñr q̃ st̃ in intiłctu specłatiuo cꝯͥ st̃<cb break="?"/><fw type="titre_courant"
+                /><fw type="titre_courant"/><cb break="?"/><lb break="?" facs="#facs_eSc_line_d64e4961" n="q1OtHP"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_d64e4961"
+                xml:id="elem_eSc_line_d64e4961"/>scĩe specłatĩe ut n᷑ał pħia geome¬<lb break="?" facs="#facs_eSc_line_29e32006"
+                n="uPmvsG"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_29e32006"
+                xml:id="elem_eSc_line_29e32006"/>tria m̃thaͣ ⁊cͣ talia. u̾tutes u̾o<lb break="?" facs="#facs_eSc_line_7ffd2fac"
+                n="yWfwFK"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_7ffd2fac"
+                xml:id="elem_eSc_line_7ffd2fac"/>simpͬ morales dñr ille q̃ st̃ in appe¬<lb break="?"
+                facs="#facs_eSc_line_fbbef4e4" n="oWXfcE"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_fbbef4e4"
+                xml:id="elem_eSc_line_fbbef4e4"/>titu siũ ille sit intlłctĩꝯ sũ sẜitĩꝯ<lb break="?"
+                facs="#facs_eSc_line_a8432bc6" n="tjfDKH"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_a8432bc6"
+                xml:id="elem_eSc_line_a8432bc6"/>cͥꝯ st̃ iustiͣ. tenꝑanͣ. fortiͦ manͦ.<lb break="?" facs="#facs_eSc_line_8c1064ff"
+                n="zcKwOu"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_8c1064ff"
+                xml:id="elem_eSc_line_8c1064ff"/>⁊ talia de qͥbꝯ sũꝯ simpͬ tractaturꝯ.<lb break="?"
+                facs="#facs_eSc_line_6edc105e" n="pCXGaY"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_6edc105e"
+                xml:id="elem_eSc_line_6edc105e"/>u̾tutes at̃ medie int̾ istas sũt<lb break="?" facs="#facs_eSc_line_b49be1a0"
+                n="bPC8i2"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_b49be1a0"
+                xml:id="elem_eSc_line_b49be1a0"/>exñtes ĩ intlłctu pͣtico ut pͧdenͣ.<lb break="?" facs="#facs_eSc_line_8b8fd8c2"
+                n="m3REXU"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_8b8fd8c2"
+                xml:id="elem_eSc_line_8b8fd8c2"/>⁊ alie uͥtutes sͥ ãnexe: pͧdenͣ. at̃<lb break="?" facs="#facs_eSc_line_a68d0408"
+                n="yTGZTT"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_a68d0408"
+                xml:id="elem_eSc_line_a68d0408"/>ẜ com̃ sr̃ liͬ etħ. media ẽ int̾ u̾tu¬<lb break="?"
+                facs="#facs_eSc_line_fe2f75a7" n="d2uNN5"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_fe2f75a7"
+                xml:id="elem_eSc_line_fe2f75a7"/>tes morales ⁊ intlłctuals. pt̃ tñ<lb break="?" facs="#facs_eSc_line_c9114e9f"
+                n="eKLi5c"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_c9114e9f"
+                xml:id="elem_eSc_line_c9114e9f"/>ꝯputaͥ cũ u̾tutib moralibꝯ.Nã pru¬<lb break="?" facs="#facs_eSc_line_84684f90"
+                n="xia2XS"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_84684f90"
+                xml:id="elem_eSc_line_84684f90"/>denͣ ñ in hoͥbꝯ boĩs sic̃ nͨ u̾tutes<lb break="?"
+                facs="#facs_eSc_line_ace4aa45" n="p3kCmC"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_ace4aa45"
+                xml:id="elem_eSc_line_ace4aa45"/>morałe̾. pͧui eͥ hoͥes ⁊ si post̃ eẽ sci¬<lb break="?"
+                facs="#facs_eSc_line_999d9265" n="ucCebC"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_999d9265"
+                xml:id="elem_eSc_line_999d9265"/>entes astuti. ⁊ u̾sipells. tñ pͧdͤtes<lb break="?"
+                facs="#facs_eSc_line_4a277919" n="eWY2qs"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_4a277919"
+                xml:id="elem_eSc_line_4a277919"/>eẽ ñ post̃ ut suo loco pareb ͭ. Iñ ẽ<lb break="?"
+                facs="#facs_eSc_line_5aa24ffe" n="dfQEo8"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_5aa24ffe"
+                xml:id="elem_eSc_line_5aa24ffe"/>gͦ ꝙ d̾ .ui. eth. ꝙ inpo ᷑ ẽ pͧdentẽ<lb break="?"
+                facs="#facs_eSc_line_4c755c9e" n="jHABb6"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_4c755c9e"
+                xml:id="elem_eSc_line_4c755c9e"/>eẽ ñ entẽ boñ. Dimissis gͥ u̾ͥtu¬<lb break="?" facs="#facs_eSc_line_e800faa9"
+                n="sFoAa6"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_e800faa9"
+                xml:id="elem_eSc_line_e800faa9"/>tibꝰ intlłctuꝰ ⁊ scĩs specłatĩs de<lb break="?" facs="#facs_eSc_line_2f8f23fd"
+                n="oSpZ4F"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_2f8f23fd"
+                xml:id="elem_eSc_line_2f8f23fd"/>pͧdenͣ ⁊ uͥtutibꝯ moraꝰ ẽ tͣtand̾.<lb break="?" facs="#facs_eSc_line_f165685c"
+                n="aBmVGC"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_f165685c"
+                xml:id="elem_eSc_line_f165685c"/>Sulcepĩꝯ eĩ pũs opꝯ in płies di¬<lb break="?" facs="#facs_eSc_line_c0ba1ac3"
+                n="qkA5mS"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_c0ba1ac3"
+                xml:id="elem_eSc_line_c0ba1ac3"/>xĩꝯ nõ ut stiamꝯ s ut boĩ fiamꝯ.<lb break="?" facs="#facs_eSc_line_f857fa72"
+                n="g7iPPv"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_f857fa72"
+                xml:id="elem_eSc_line_f857fa72"/>q̃ boĩtas sñ pͧdenͣ ⁊ u̾tuꝰ moraꝰ<lb break="?" facs="#facs_eSc_line_95d5e73d"
+                n="nA59W0"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_95d5e73d"
+                xml:id="elem_eSc_line_95d5e73d"/>nħ ĩ eẽ ñ pt̃ hiis at̃ uͥtutes eẽ ĩ<lb break="?"
+                facs="#facs_eSc_line_c8b91631" n="mdjCuk"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_c8b91631"
+                xml:id="elem_eSc_line_c8b91631"/>intlłctu ⁊ appe ͭ ͥ ͥ sic p. Dẽm ẽ eĩ<lb break="?"
+                facs="#facs_eSc_line_ed09ab76" n="sDb0Wr"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_ed09ab76"
+                xml:id="elem_eSc_line_ed09ab76"/>u̾tutẽ eẽ aͥd ẜ rõm. o gͦ eẽ rõna<lb break="?"
+                facs="#facs_eSc_line_ab390d2f" n="m9Eac3"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_ab390d2f"
+                xml:id="elem_eSc_line_ab390d2f"/>lẽ po ͫ in qͣ poiͦ eẽ u̾tꝯ roͣ ͧ at̃ du̽<lb break="?"
+                facs="#facs_eSc_line_59e8a5b7" n="ylROl3"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_59e8a5b7"
+                xml:id="elem_eSc_line_59e8a5b7"/>ẽ ẜ pħm ꝑ eeͣm ⁊ ꝑ ꝑticipacõe<lb break="?" facs="#facs_eSc_line_37f55bdc"
+                n="gL1Pd5"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_37f55bdc"
+                xml:id="elem_eSc_line_37f55bdc"/>Intlłs eͥ ẽ rõnał ꝑ eeͣm appetitꝰ<lb break="?" facs="#facs_eSc_line_0ad17793"
+                n="fiu4p3"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_0ad17793"
+                xml:id="elem_eSc_line_0ad17793"/>ilo ꝑ ꝑticipacõe. nã appetitꝰ l<lb break="?" facs="#facs_eSc_line_e1e10ed5"
+                n="fJFHvS"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_e1e10ed5"
+                xml:id="elem_eSc_line_e1e10ed5"/>ñ sit ip̃e intlłcꝰ uł ip̃a rõ eeͣłr<lb break="?" facs="#facs_eSc_line_8a5bca66"
+                n="pHFCWJ"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_8a5bca66"
+                xml:id="elem_eSc_line_8a5bca66"/>d̾r tũ ꝑticipare rõm q̃r aptꝰ nͣtꝯ<cb break="?"/><pb n=""
+                facs="../input_files/2.pdf_page_1.png"/><lb break="?" facs="#facs_eSc_line_5cfc99e4" n="kjZ7h2"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_5cfc99e4"
+                xml:id="elem_eSc_line_5cfc99e4"/>est rõi obedire: poͤ at̃ n᷑ałs ⁊ sẜꝯ nͨ<lb break="?"
+                facs="#facs_eSc_line_3bb456fe" n="s2soA7"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_3bb456fe"
+                xml:id="elem_eSc_line_3bb456fe"/>st̃ rõ nͣłs ꝑ eeͣm. q̃r ñ st̃ ip̃a rõ nͨ rõm<lb break="?"
+                facs="#facs_eSc_line_3c921a1a" n="rqHbiU"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_3c921a1a"
+                xml:id="elem_eSc_line_3c921a1a"/>ꝑticipat̃. q̃r ꝑse ⁊ ẜ ꝙ hꝯͥ nõ obediũt roĩ.<lb break="?"
+                facs="#facs_eSc_line_7281cc14" n="nQh7kW"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_7281cc14"
+                xml:id="elem_eSc_line_7281cc14"/>⟦Irit᷑⟧ in sẜibꝰ ⁊ ĩ poͥ n᷑alibꝯ ut sͣ dice¬<lb break="?"
+                facs="#facs_eSc_line_30b248ed" n="sLiMqp"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_30b248ed"
+                xml:id="elem_eSc_line_30b248ed"/>bat᷑ nõ hñt eẽ uͥtutes s soł in in¬<lb break="?"
+                facs="#facs_eSc_line_0ed7ef41" n="aFKVlm"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_0ed7ef41"
+                xml:id="elem_eSc_line_0ed7ef41"/>tellectu ⁊ appetitu. in nƀ at̃ ẽ dup᷑ a¬<lb break="?"
+                facs="#facs_eSc_line_0ca753a5" n="h1pHNG"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_0ca753a5"
+                xml:id="elem_eSc_line_0ca753a5"/>ppetitꝯ. intlłictiꝯ.⁊ sensitiꝯ. Nã sic̃ a¬<lb break="?"
+                facs="#facs_eSc_line_96cf0e0d" n="xMZQOW"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_96cf0e0d"
+                xml:id="elem_eSc_line_96cf0e0d"/>ppeꝰ n᷑ał se ͦ forã n᷑ałr adeptã. sit a¬<lb break="?"
+                facs="#facs_eSc_line_fb63a4bd" n="ya7Wm2"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_fb63a4bd"
+                xml:id="elem_eSc_line_fb63a4bd"/>ppetitꝯ cogͥtiꝯ̃ se forͣͫ ꝑ cogͦm app̾hẽ¬<lb break="?"
+                facs="#facs_eSc_line_f40a3078" n="nlav29"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_f40a3078"
+                xml:id="elem_eSc_line_f40a3078"/>sã: Sic̃ eĩ gͣuia ex eo ꝙ hñt formã<lb break="?"
+                facs="#facs_eSc_line_6b685f6a" n="sqieIg"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_6b685f6a"
+                xml:id="elem_eSc_line_6b685f6a"/>grauis seͦ ea q̃dã incliãcõ n᷑ał ⁊ qͥdã<lb break="?"
+                facs="#facs_eSc_line_0346cae7" n="u0fHy9"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_0346cae7"
+                xml:id="elem_eSc_line_0346cae7"/>n᷑ał appeͭꝰ ut n᷑ałr desiderẽt eẽ de¬<lb break="?"
+                facs="#facs_eSc_line_ac49a414" n="tQBJ54"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_ac49a414"
+                xml:id="elem_eSc_line_ac49a414"/>orsũ. sic hñcia cogͦm ꝓͭ hñt ĩ se ip̃is<lb break="?"
+                facs="#facs_eSc_line_771d7810" n="oBbHpi"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_771d7810"
+                xml:id="elem_eSc_line_771d7810"/>for app̾hensã seq᷑ q̃dã incliãcõ ⁊ qͥdã<lb break="?"
+                facs="#facs_eSc_line_4fd8a560" n="eu91pw"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_4fd8a560"
+                xml:id="elem_eSc_line_4fd8a560"/>appeͭꝯ ẜ forꝰ illã ꝑp qd̾ sit̃ ẽ in nƀ<lb break="?"
+                facs="#facs_eSc_line_fb08f283" n="do3I7v"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_fb08f283"
+                xml:id="elem_eSc_line_fb08f283"/>dup̽ cogͦ. sẜitĩa ⁊ intlłictĩa sic ẽ in<lb break="?"
+                facs="#facs_eSc_line_890edb79" n="cRyzb9"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_890edb79"
+                xml:id="elem_eSc_line_890edb79"/>nƀ dup̽ ⁊ appeꝰ .s. sẜitiꝯ̃ qͥ se ͦ forꝰ<lb break="?"
+                facs="#facs_eSc_line_cbd8419f" n="rTmTdE"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_cbd8419f"
+                xml:id="elem_eSc_line_cbd8419f"/>app̾hẽsã ꝑ sẜm. ⁊ intłctͥꝯ qͥ seͦ ap̃p¬<lb break="?"
+                facs="#facs_eSc_line_8396e53b" n="yKxQ87"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_8396e53b"
+                xml:id="elem_eSc_line_8396e53b"/>hẽsã ꝑ intlłm : appetitĩꝯ &amp; sẜꝯ dup̽<lb break="?"
+                facs="#facs_eSc_line_001e25a2" n="v3ckrn"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_001e25a2"
+                xml:id="elem_eSc_line_001e25a2"/>est. nã cũ aĩalia sit̃ supͣ ĩ aĩata si<lb break="?"
+                facs="#facs_eSc_line_24837b6b" n="k5Y8YD"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_24837b6b"
+                xml:id="elem_eSc_line_24837b6b"/>n᷑a rebꝯ ĩ aĩatis ⁊ ełis dedit dupli¬<lb break="?"
+                facs="#facs_eSc_line_14b27c66" n="ybCtxG"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_14b27c66"
+                xml:id="elem_eSc_line_14b27c66"/>cẽ poͣm. unã ꝑ quã tendũt in ꝓpͥã<lb break="?"
+                facs="#facs_eSc_line_89c15172" n="fyXQxH"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_89c15172"
+                xml:id="elem_eSc_line_89c15172"/>qͥetẽ ⁊ alia ꝑ quã resistũt ⁊ agũt ĩ<lb break="?"
+                facs="#facs_eSc_line_d5f5b577" n="rEmTSq"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_d5f5b577"
+                xml:id="elem_eSc_line_d5f5b577"/>ꝑ hibñcia ⁊ ꝯͣria. młto mag̾ hãc du ͦ<lb break="?"
+                facs="#facs_eSc_line_fac291fd" n="jXAnHz"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_fac291fd"
+                xml:id="elem_eSc_line_fac291fd"/>poͣ nͣ dedͭ ip̃is q̃ st̃ ꝑfectiora illis.ui<lb break="?"
+                facs="#facs_eSc_line_1406e84f" n="qnAUS5"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_1406e84f"
+                xml:id="elem_eSc_line_1406e84f"/>demꝯ eͥ ꝙ igͥs ẽ nͣłr calidꝯ ⁊ leuis. ꝑ<lb break="?"
+                facs="#facs_eSc_line_97a1085e" n="fAmw5M"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_97a1085e"
+                xml:id="elem_eSc_line_97a1085e"/>leuitatẽ &amp; tendit ĩ locũ ꝓꝑͥũ ũ qͥetẽ.<lb break="?"
+                facs="#facs_eSc_line_fcbfa973" n="sSkFeS"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_fcbfa973"
+                xml:id="elem_eSc_line_fcbfa973"/>ͥ sͥ ꝯͥentẽ ꝑ calidi ͭ ͤ u̾o agit ĩ ꝯͣria.Se<lb break="?"
+                facs="#facs_eSc_line_d96d8cd8" n="oQL6Mv"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_d96d8cd8"
+                xml:id="elem_eSc_line_d96d8cd8"/>gͦ igͥs ꝑ q̃uĩq ꝯͣria agẽcia ĩpediret᷑<lb break="?"
+                facs="#facs_eSc_line_107573ac" n="xdrdwH"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_107573ac"
+                xml:id="elem_eSc_line_107573ac"/>ut ꝑ leuitatẽ in ꝓpͥo loco nõ qͥesce̾t<lb break="?"
+                facs="#facs_eSc_line_672d3ec0" n="qXkPAf"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_672d3ec0"
+                xml:id="elem_eSc_line_672d3ec0"/>dedit ei n᷑a poͣ calesitia ut ꝑ eã re¬<lb break="?"
+                facs="#facs_eSc_line_95beecad" n="r1becl"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_95beecad"
+                xml:id="elem_eSc_line_95beecad"/>sist̾et ⁊ ag̾et ĩ ꝯͣria corruptĩa. Si gͥ<lb break="?"
+                facs="#facs_eSc_line_6566a2a1" n="rzytsP"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_6566a2a1"
+                xml:id="elem_eSc_line_6566a2a1"/>igͥ ⁊ rebꝯ ĩ aĩatis nͣ lic ꝑuidit młto<cb break="?"/><fw type="titre_courant"
+                /><fw type="titre_courant"/><fw type="titre_courant"/><fw type="titre_courant"/><cb break="?"/><lb break="?"
+                facs="#facs_eSc_line_69c34887" n="myl4tY"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_69c34887"
+                xml:id="elem_eSc_line_69c34887"/>mag̾ ħ dedit ałibꝰ. tͥplicẽ appeͫ tͥbuit<lb break="?"
+                facs="#facs_eSc_line_49929263" n="cJLBER"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_49929263"
+                xml:id="elem_eSc_line_49929263"/>gͦ eis. unũ ꝑ q̃ ꝓseq̃rẽt᷑ ꝑpͥã qͥetẽ ⁊ de¬<lb break="?"
+                facs="#facs_eSc_line_cfd645cb" n="qY1g9z"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_cfd645cb"
+                xml:id="elem_eSc_line_cfd645cb"/>lectacõm. ut ꝯcupisti ᷝ ͤ aliũ ꝑ quẽ re¬<lb break="?"
+                facs="#facs_eSc_line_fda7cd94" n="syjx2p"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_fda7cd94"
+                xml:id="elem_eSc_line_fda7cd94"/>sist̾ent ⁊ aggͤd̾ent᷑ ꝓhibñcia ⁊ ꝯͣria.ut<lb break="?"
+                facs="#facs_eSc_line_17f252a8" n="mIrZJC"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_17f252a8"
+                xml:id="elem_eSc_line_17f252a8"/>irastibłe. ita ꝙ ꝯcupi ht̃ se sic̃ łuitas<lb break="?"
+                facs="#facs_eSc_line_e1ec7a84" n="b8Zp0G"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_e1ec7a84"
+                xml:id="elem_eSc_line_e1ec7a84"/>ł gͣuitas ĩ gͣuibꝯ uł łuibꝯ. irasci u̾o se<lb break="?"
+                facs="#facs_eSc_line_f292a812" n="vLKNi9"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_f292a812"
+                xml:id="elem_eSc_line_f292a812"/>ht̃.q. cali ͭ ͧ. frigi ĩ eis: Nã sic̃ gͣuia<lb break="?"
+                facs="#facs_eSc_line_c943bf7b" n="eujovo"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_c943bf7b"
+                xml:id="elem_eSc_line_c943bf7b"/>ꝑ gͣuitatẽ recedũt a loco deorsũ tã¬<lb break="?"
+                facs="#facs_eSc_line_533ddc73" n="fyLw4G"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_533ddc73"
+                xml:id="elem_eSc_line_533ddc73"/>qͣ a ñ ꝯͥente ⁊ tendũt de orsũ tanqͣ<lb break="?"
+                facs="#facs_eSc_line_220ff18d" n="uKc352"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_220ff18d"
+                xml:id="elem_eSc_line_220ff18d"/>ad locũ ꝯͥentẽ ⁊ ꝯformẽ. ꝑ fr̃idi⁊ uͦ<lb break="?"
+                facs="#facs_eSc_line_b8dd47de" n="aN4v34"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_b8dd47de"
+                xml:id="elem_eSc_line_b8dd47de"/>resistũt ꝯͣriis ne corrũpãt᷑ a ꝓꝑͥa na-<lb break="?"
+                facs="#facs_eSc_line_90bef90e" n="kHMSMG"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_90bef90e"
+                xml:id="elem_eSc_line_90bef90e"/>tura ⁊ loca deat̃ ꝓꝑͥa ⁊ ꝓpͥã qͥerẽ. sic a¬<lb break="?"
+                facs="#facs_eSc_line_f71a18d2" n="rMvHrr"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_f71a18d2"
+                xml:id="elem_eSc_line_f71a18d2"/>nimalia ꝑ ꝯcupistiͥꝯ fugiũt mala tͥs¬<lb break="?"
+                facs="#facs_eSc_line_5a6ef86e" n="rnMS9T"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_5a6ef86e"
+                xml:id="elem_eSc_line_5a6ef86e"/>tia ⁊ ꝓsecũt᷑ boã delecta ᷝ ͥͣ ꝑ iinstiͥ ⁊ uͦ<lb break="?"
+                facs="#facs_eSc_line_2489951d" n="rgguaU"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_2489951d"
+                xml:id="elem_eSc_line_2489951d"/>agg̾diũt᷑ ꝯͣria q̃ posset̃ ab hꝯͥ delectatꝰ<lb break="?"
+                facs="#facs_eSc_line_00d81fc5" n="cGkFm5"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_00d81fc5"
+                xml:id="elem_eSc_line_00d81fc5"/>ꝓhib̾e: leo eͥ ꝑ ꝯcupistiͥ⁊ ꝑgit ut ꝑseqͣt᷑<lb break="?"
+                facs="#facs_eSc_line_0c2e5b76" n="zIik6o"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_0c2e5b76"
+                xml:id="elem_eSc_line_0c2e5b76"/>cibũ tanꝙͣ aͥd delecta: ꝑ irasci⁊ uͦ ag¬<lb break="?"
+                facs="#facs_eSc_line_e39dc999" n="a6he6D"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_e39dc999"
+                xml:id="elem_eSc_line_e39dc999"/>g̾dr̾ uolecia ip̃m ꝓhib̾e a cibo adepto.<lb break="?"
+                facs="#facs_eSc_line_c44cde7b" n="t7MKhx"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_c44cde7b"
+                xml:id="elem_eSc_line_c44cde7b"/>ꝑꝑ qd̾ dtm̃ ẽ bñ. ꝙ ꝯcupisci ᷑ respicit boñ<lb break="?"
+                facs="#facs_eSc_line_4250542a" n="w1pu13"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_4250542a"
+                xml:id="elem_eSc_line_4250542a"/>⁊ malũ ẜ se.s nastiͥ respicit boñ ⁊ mał<lb break="?"
+                facs="#facs_eSc_line_508fecaf" n="tU6jpJ"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_508fecaf"
+                xml:id="elem_eSc_line_508fecaf"/>in ꝙͫ hñt rõm dificił ⁊ ardui Nã cũ boñ<lb break="?"
+                facs="#facs_eSc_line_7d0384c8" n="uMrkcA"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_7d0384c8"
+                xml:id="elem_eSc_line_7d0384c8"/>ẜ se dicat ꝙͥ ꝑseꝙ̃dũ. mał u̾o ꝙͥ fugi¬<lb break="?"
+                facs="#facs_eSc_line_f56be85f" n="dSuUv1"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_f56be85f"
+                xml:id="elem_eSc_line_f56be85f"/>end̾. ꝯcupisci qͥ ẜ se tendit in qͥerẽ ⁊<lb break="?"
+                facs="#facs_eSc_line_e3e7e853" n="fFFvSr"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_e3e7e853"
+                xml:id="elem_eSc_line_e3e7e853"/>in boͣ delecta ⁊ fugit mala tͥstia ht̃ ꝓ<lb break="?"
+                facs="#facs_eSc_line_46fbfee6" n="yHKmG4"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_46fbfee6"
+                xml:id="elem_eSc_line_46fbfee6"/>ob̾o boͣ ⁊ mala sẜibli̾a ẜ se ꝯsid̾ata. Ira¬<lb break="?"
+                facs="#facs_eSc_line_3cee1f5d" n="f7TQjK"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_3cee1f5d"
+                xml:id="elem_eSc_line_3cee1f5d"/>sci uͦ ẜ qͣ aggͥdim᷑ ⁊ resistiꝯ̃ ꝓhibẽtibꝰ<lb break="?"
+                facs="#facs_eSc_line_c12e32bf" n="mpzHiD"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_c12e32bf"
+                xml:id="elem_eSc_line_c12e32bf"/>⁊ nociuis ⁊ tẽdit ĩ boͣ. sẜiliꝰ ⁊ mala<lb break="?"
+                facs="#facs_eSc_line_ef0fb69d" n="kSUtBp"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_ef0fb69d"
+                xml:id="elem_eSc_line_ef0fb69d"/>nõ ẜ se ꝯsid̾ata s ut hñt rom̃ ardui<lb break="?"
+                facs="#facs_eSc_line_5aa9205f" n="m9myPt"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_5aa9205f"
+                xml:id="elem_eSc_line_5aa9205f"/>⁊ difficił. nã ardua potissiẽ st̃ ꝓhibẽcia<lb break="?"
+                facs="#facs_eSc_line_59fbf41b" n="tE9vTh"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_59fbf41b"
+                xml:id="elem_eSc_line_59fbf41b"/>⁊ repugnãcia ne possiꝯ̃ ꝯseqͥ boñ ⁊ ui¬<lb break="?"
+                facs="#facs_eSc_line_884e0351" n="gFoPrb"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_884e0351"
+                xml:id="elem_eSc_line_884e0351"/>tare malũ. inꝑfcẽ uͦ egisset nͣ si de¬<lb break="?"
+                facs="#facs_eSc_line_f267838e" n="kKfvbS"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_f267838e"
+                xml:id="elem_eSc_line_f267838e"/>diss aĩalibꝯ ꝯcupistiͥ  ꝑ qͣ uitatẽt<lb break="?"
+                facs="#facs_eSc_line_f2245d71" n="uEGl01"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_f2245d71"
+                xml:id="elem_eSc_line_f2245d71"/>mala ⁊ ꝓseq̃rẽt᷑ boͣ nͥ dediss eis ⁊<lb break="?"
+                facs="#facs_eSc_line_12ccb8a5" n="a7OfBj"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_12ccb8a5"
+                xml:id="elem_eSc_line_12ccb8a5"/>irasł ꝑ qͣ aggde̾nt᷑ ĩpedienͣ dełcta<cb break="?"/><graphic type="initiale"
+                facs="2701 2518 2771 2526 2763 2652 2653 2708 2597 2574 2701 2518"/><graphic type="initiale"
+                facs="2701 2518 2771 2526 2763 2652 2653 2708 2597 2574 2701 2518"/><pb n="2"
+                facs="../input_files/2.pdf_page_1.png"/><lb break="?" facs="#facs_eSc_line_5e69c41c" n="qvFPq5"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_5e69c41c"
+                xml:id="elem_eSc_line_5e69c41c"/>cõe illã. ut gͥ aĩalia ẜ mod̾ sͥ ꝯͥen<lb break="?"
+                facs="#facs_eSc_line_e8613313" n="qx4lBr"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_e8613313"
+                xml:id="elem_eSc_line_e8613313"/>tẽ plene possĩt delectaͥ ꝑ ꝯcupistibꝰ<lb break="?"
+                facs="#facs_eSc_line_3f261c36" n="wdPnJY"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_3f261c36"
+                xml:id="elem_eSc_line_3f261c36"/>data ẽ eis irasci ꝑ ꝙͣ aggͤdiãt᷑ inpe¬<lb break="?"
+                facs="#facs_eSc_line_6fc8df4b" n="wWMe8A"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_6fc8df4b"
+                xml:id="elem_eSc_line_6fc8df4b"/>dienͣ ab ead̾. Du̽ ẽ gͦ appetitꝯ sẜitiꝰ<lb break="?"
+                facs="#facs_eSc_line_1caa2b7e" n="wS7db6"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_1caa2b7e"
+                xml:id="elem_eSc_line_1caa2b7e"/>irasti. uidel ⁊ ꝯcupisti appetitꝯ at̃ in¬<lb break="?"
+                facs="#facs_eSc_line_4d1256ac" n="noCTOa"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_4d1256ac"
+                xml:id="elem_eSc_line_4d1256ac"/>tlłicĩꝯ qͥ d̾r uo ͭ ͧͦ reman ĩdĩsꝰ. Nã cũ<lb break="?"
+                facs="#facs_eSc_line_18a29116" n="ifLt22"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_18a29116"
+                xml:id="elem_eSc_line_18a29116"/>intlłctꝰ ułiori mͦ respiciat suũ ob̾m<lb break="?"
+                facs="#facs_eSc_line_0dc36310" n="uYYWWs"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_0dc36310"
+                xml:id="elem_eSc_line_0dc36310"/>ꝙͣ sẜꝯ. appetita intlłttiꝯ qͥ seq᷑ intlłctũ<lb break="?"
+                facs="#facs_eSc_line_4f9418e6" n="hqco6h"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_4f9418e6"
+                xml:id="elem_eSc_line_4f9418e6"/>ułiori mͦ ft ͦ in bonũ qͣ appeͭꝰ ẜ sẜ ⁊<lb break="?"
+                facs="#facs_eSc_line_82125503" n="y9Eekf"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_82125503"
+                xml:id="elem_eSc_line_82125503"/>q̃r ꝙͣto ad sẜ ułiori mͦ accipr̾ tãto unũ<lb break="?"
+                facs="#facs_eSc_line_0221b637" n="oz5Yli"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_0221b637"
+                xml:id="elem_eSc_line_0221b637"/>⁊ id̾ exñs ad plura se extẽdit. l a¬<lb break="?"
+                facs="#facs_eSc_line_1b66099c" n="tCinpX"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_1b66099c"
+                xml:id="elem_eSc_line_1b66099c"/>ppeꝰ sẜmꝯ dĩdat᷑ ut dcm̃ ẽ. appetitꝯ<lb break="?"
+                facs="#facs_eSc_line_daf398a0" n="jaDOyC"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_daf398a0"
+                xml:id="elem_eSc_line_daf398a0"/>tñ intlłctiꝯ unꝯ ⁊ id̾ exñs ft in õe<lb break="?"
+                facs="#facs_eSc_line_8fd98fc5" n="kn5QXO"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_8fd98fc5"
+                xml:id="elem_eSc_line_8fd98fc5"/>bo ͫ ut intlłi᷑ Nc̃ gͦ ẽ aliꝯ appeͫꝰ inte¬<lb break="?"
+                facs="#facs_eSc_line_541086f1" n="pMb8al"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_541086f1"
+                xml:id="elem_eSc_line_541086f1"/>llectĩꝯ ẜ q̃ ꝑ seqͥm᷑ boͣ delecta ͥ ͣ ẜ in¬<lb break="?"
+                facs="#facs_eSc_line_6368b7e5" n="dDN10R"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_6368b7e5"
+                xml:id="elem_eSc_line_6368b7e5"/>tlłm ⁊ agg̾dim᷑ boͣ ardua sic̃ ẽ aꝰ<lb break="?" facs="#facs_eSc_line_15d7a901"
+                n="ogffCZ"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_15d7a901"
+                xml:id="elem_eSc_line_15d7a901"/>appe ͭꝰ sẜiciꝯ̃ ẜ ꝙ̃ ꝑseqͥm lõ delecta ᷝͥͣ<lb break="?"
+                facs="#facs_eSc_line_92bc9540" n="nKSdur"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_92bc9540"
+                xml:id="elem_eSc_line_92bc9540"/>sẜibłia ⁊ aggdim᷑ tribłĩa ⟦⟧<lb break="?" facs="#facs_eSc_line_2e44a9bb"
+                n="jmLQ7h"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_2e44a9bb"
+                xml:id="elem_eSc_line_2e44a9bb"/>u̾tꝯ morał uł ẽ in intlłu uł ĩ appetu<lb break="?"
+                facs="#facs_eSc_line_b7913f65" n="olF9Lk"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_b7913f65"
+                xml:id="elem_eSc_line_b7913f65"/>⁊ appeꝰ aliꝯ intlłitiꝯ ut uo ͭ ͤ aliꝯ sẜitiꝰ<lb break="?"
+                facs="#facs_eSc_line_1061dc2b" n="oQr5hT"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_1061dc2b"
+                xml:id="elem_eSc_line_1061dc2b"/>⁊ ħͥ du̽ .s. nasci ⁊ ꝯcupisti᷑. o uͥtutẽ eẽ<lb break="?"
+                facs="#facs_eSc_line_dc037ed8" n="wYEWgk"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_dc037ed8"
+                xml:id="elem_eSc_line_dc037ed8"/>moralẽ. uł eẽ in intlłctu uł in uo ͭ uł<lb break="?"
+                facs="#facs_eSc_line_8e58e6a6" n="lA9C8E"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_8e58e6a6"
+                xml:id="elem_eSc_line_8e58e6a6"/>ĩ irasciᷝ ͥ uł ĩ ꝯcupisciᷝ ͥ. acupiendo gͥ uͥ¬<lb break="?"
+                facs="#facs_eSc_line_9c39d5c5" n="rrrIbw"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_9c39d5c5"
+                xml:id="elem_eSc_line_9c39d5c5"/>tutẽ moralẽ large ꝑͭ ip̃a pͧdecia dͬ q̃dã<lb break="?"
+                facs="#facs_eSc_line_0ccd00e9" n="eZVK54"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_0ccd00e9"
+                xml:id="elem_eSc_line_0ccd00e9"/>uͥtꝯ morał dr̃e possũꝯ . ꝓ ẜ has .iiiiͦ. pos<lb break="?"
+                facs="#facs_eSc_line_8524b325" n="vcXsZ2"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_8524b325"
+                xml:id="elem_eSc_line_8524b325"/>aĩe in qͥbꝯ b eẽ uͥtꝯ sũpte st̃ u̾tutes<lb break="?"
+                facs="#facs_eSc_line_7b55c46e" n="zPbp60"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_7b55c46e"
+                xml:id="elem_eSc_line_7b55c46e"/>.iiiͦ. cardĩales .s. pͧdẽcia iustiã. fortiͦ<lb break="?"
+                facs="#facs_eSc_line_a252a812" n="i8dLzq"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_a252a812"
+                xml:id="elem_eSc_line_a252a812"/>⁊ tẽꝑãçia. Nã pͧdẽcia ẽ in intellectu. ius<lb break="?"
+                facs="#facs_eSc_line_aa6c846e" n="ggIWjZ"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNE_MSS_958/sortie_HTR/BNE_MSS_958_out.replaced.tokenized.expanded.xml#elem_eSc_line_aa6c846e"
+                xml:id="elem_eSc_line_aa6c846e"/>ticia ĩ uo ͤ forti ĩ itasci ͥ tẽꝑanͣ ĩ ⟦⟧</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

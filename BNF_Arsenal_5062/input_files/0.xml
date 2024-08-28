@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ars0.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15425" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15426" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15427" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15428" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15429" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15430" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15431" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15432" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15433" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15434" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15435" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15436" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15437" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15438" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT15439" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT6506" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6507" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6508" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6509" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6510" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4406"
+          HEIGHT="6525"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4406"
+                  HEIGHT="6525">
+        
+        <TextBlock HPOS="899"
+                   VPOS="4350"
+                   WIDTH="2259"
+                   HEIGHT="358"
+                   ID="eSc_textblock_018f176d"
+                   TAGREFS="BT15439">
+          <Shape><Polygon POINTS="1649 4350 3071 4393 3144 4437 3158 4563 3129 4679 3013 4708 942 4665 957 4451 899 4393 1649 4350"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a01bd21f"
+                    TAGREFS="LT6510"
+                    BASELINE="968 4444 3078 4455" 
+                    HPOS="964"
+                    VPOS="4360"
+                    WIDTH="2114"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="2708 4382 2672 4379 2636 4379 2600 4379 2563 4379 2538 4375 2527 4389 2520 4393 2465 4386 2346 4375 2342 4375 2125 4382 1958 4389 1943 4382 1911 4364 1907 4364 1903 4364 1773 4379 1708 4386 1678 4379 1624 4360 1620 4360 1617 4360 1465 4375 1352 4386 1149 4375 1149 4379 1113 4379 1077 4382 1040 4382 1004 4386 968 4386 968 4444 964 4498 3071 4502 3078 4455 3075 4397 2727 4397 2719 4389 2708 4382 2708 4382"/></Shape>
+	    <String CONTENT="Pres que par laide de dieu auons acompli la premiere"
+                    HPOS="964"
+                    VPOS="4360"
+                    WIDTH="2114"
+                    HEIGHT="142"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5b0ff0a"
+                    TAGREFS="LT6510"
+                    BASELINE="968 4534 3118 4553" 
+                    HPOS="964"
+                    VPOS="4473"
+                    WIDTH="2154"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="968 4534 964 4592 3111 4611 3118 4553 3115 4473 968 4473 968 4534"/></Shape>
+	    <String CONTENT="partie de ce liure ou quel traicte du regime de soy mesmeᷤ"
+                    HPOS="964"
+                    VPOS="4473"
+                    WIDTH="2154"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d3caea81"
+                    TAGREFS="LT6510"
+                    BASELINE="968 4640 3093 4661" 
+                    HPOS="964"
+                    VPOS="4567"
+                    WIDTH="2129"
+                    HEIGHT="189">
+            <Shape><Polygon POINTS="968 4640 964 4719 1033 4741 1037 4741 1040 4741 1214 4723 1243 4723 1254 4727 1301 4741 1305 4741 1309 4741 1566 4730 1671 4727 1697 4734 1751 4748 1755 4748 1758 4748 2059 4737 2197 4734 2302 4741 2473 4756 2476 4756 2480 4756 2484 4756 2498 4745 2505 4741 2513 4745 2523 4756 2527 4756 2531 4756 2534 4756 3089 4752 3093 4661 3089 4596 2237 4571 2233 4571 2081 4585 2056 4585 2052 4585 2038 4571 2038 4567 2034 4567 2030 4567 2027 4567 968 4571 968 4640"/></Shape>
+	    <String CONTENT="demonstrans en quoy les rois et princes doiuẽt mettre"
+                    HPOS="964"
+                    VPOS="4567"
+                    WIDTH="2129"
+                    HEIGHT="189"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

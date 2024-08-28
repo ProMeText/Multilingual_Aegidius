@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>manuscritBC_275276_full.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15328" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15329" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT15316" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15317" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15318" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15319" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15320" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15321" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15322" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15323" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15324" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15325" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15326" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15327" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15330" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT6460" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6461" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6462" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6463" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6464" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1643"
+          HEIGHT="2183"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1643"
+                  HEIGHT="2183">
+        
+        <TextBlock HPOS="213"
+                   VPOS="291"
+                   WIDTH="1313"
+                   HEIGHT="1483"
+                   ID="eSc_textblock_0c83bde8"
+                   TAGREFS="BT15320">
+          <Shape><Polygon POINTS="1322 291 1342 329 1327 397 1337 561 1507 562 1492 624 1526 664 1521 847 1430 867 1405 920 1348 920 1322 950 1346 1125 1332 1294 1356 1363 1327 1445 1342 1474 1327 1600 1337 1774 237 1750 228 902 242 620 213 600 232 580 232 305 554 291"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_23e14510"
+                    TAGREFS="LT6464"
+                    BASELINE="236 323 1329 314" 
+                    HPOS="235"
+                    VPOS="291"
+                    WIDTH="1094"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="1316 292 1282 291 1278 291 1266 291 1254 291 1242 291 1230 291 1218 291 1206 291 1194 291 1181 291 1173 293 1172 293 1141 291 1133 291 1121 291 1109 291 1096 291 1084 291 1072 291 1060 291 1048 291 1036 291 1032 291 970 294 964 291 963 291 951 291 939 291 927 291 914 291 902 291 890 291 878 291 867 291 860 295 856 295 814 291 805 291 793 291 781 291 769 291 760 291 748 293 644 291 635 291 623 291 611 291 599 291 587 291 586 291 569 298 566 299 504 299 499 298 486 293 478 293 469 293 462 298 459 300 414 300 410 299 399 297 393 297 381 298 368 298 356 299 344 299 332 300 320 300 308 301 296 301 283 303 271 303 259 303 247 304 235 304 236 323 236 335 914 335 914 334 1104 327 1122 327 1129 327 1191 332 1192 332 1328 325 1329 314 1326 305 1316 292"/></Shape>
+	    <String CONTENT="segons lo q̈l per lencenimẽt nos segiũ les coses bones e delirables e abriuadamẽt comencã les coses altes e dificils"
+                    HPOS="235"
+                    VPOS="291"
+                    WIDTH="1094"
+                    HEIGHT="44"
+                    WC="0.9790801286697388"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87db765a"
+                    TAGREFS="LT6464"
+                    BASELINE="234 352 1334 344" 
+                    HPOS="232"
+                    VPOS="321"
+                    WIDTH="1102"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="234 352 234 368 1333 360 1334 344 1331 321 232 327 234 352"/></Shape>
+	    <String CONTENT="Axi cõ es altre lappetimẽt sensitui segõs lo qual nos segĩ los bens sensibles e delitables e abriuadamẽt escomatẽ"
+                    HPOS="232"
+                    VPOS="321"
+                    WIDTH="1102"
+                    HEIGHT="47"
+                    WC="0.9782577958427557"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89cb4bfe"
+                    TAGREFS="LT6464"
+                    BASELINE="236 378 1294 372" 
+                    HPOS="235"
+                    VPOS="351"
+                    WIDTH="1059"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="236 378 236 391 1293 388 1294 372 1291 351 235 358 236 378"/></Shape>
+	    <String CONTENT="o comẽçam les coses cribles ¶per q̃ sitota uirtut moral o en en lencenimẽt o enlappetimẽt/ El appetimẽt altre"
+                    HPOS="235"
+                    VPOS="351"
+                    WIDTH="1059"
+                    HEIGHT="40"
+                    WC="0.9695227538284502"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b45c44f1"
+                    TAGREFS="LT6464"
+                    BASELINE="236 406 1315 399" 
+                    HPOS="235"
+                    VPOS="380"
+                    WIDTH="1080"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="236 406 236 418 1314 412 1315 399 1311 380 235 385 236 406"/></Shape>
+	    <String CONTENT="es intellectiu/ axicõ lauoluntat Altre sensitiu e aq̃st es duble co es assaber un iros e altre cobeegyos/. Coue ꝑ ne"
+                    HPOS="235"
+                    VPOS="380"
+                    WIDTH="1080"
+                    HEIGHT="38"
+                    WC="0.9788761464958518"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e2e22278"
+                    TAGREFS="LT6464"
+                    BASELINE="236 431 1305 426" 
+                    HPOS="235"
+                    VPOS="405"
+                    WIDTH="1070"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="236 431 236 442 1304 437 1305 426 1302 405 235 411 236 431"/></Shape>
+	    <String CONTENT="cessitat q̃ tota uirtut moral sia o enlentenimẽt o enlauolũtat o en la potẽcia irosa o enlapotẽcia cobehegyosa"
+                    HPOS="235"
+                    VPOS="405"
+                    WIDTH="1070"
+                    HEIGHT="37"
+                    WC="0.976084007505785"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c697420"
+                    TAGREFS="LT6464"
+                    BASELINE="234 454 1312 457" 
+                    HPOS="232"
+                    VPOS="430"
+                    WIDTH="1080"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="448 431 447 431 446 431 445 431 424 437 292 431 291 431 260 437 235 430 234 454 232 468 288 475 290 476 367 476 367 475 368 475 381 469 398 475 399 475 400 475 431 469 433 469 570 469 571 469 594 475 595 475 597 475 769 470 814 476 815 476 1311 469 1312 457 1310 432 774 439 714 432 713 432 461 437 450 431 448 431"/></Shape>
+	    <String CONTENT="Donq̃s p̃nẽt largamẽt uirtut moral segõs q̃ prudencia o samlxa es dica algũa uirtur moral/ podem dir q̃ segõs"
+                    HPOS="232"
+                    VPOS="430"
+                    WIDTH="1080"
+                    HEIGHT="46"
+                    WC="0.9747258795980822"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c6d31bd6"
+                    TAGREFS="LT6464"
+                    BASELINE="237 486 1321 481" 
+                    HPOS="236"
+                    VPOS="458"
+                    WIDTH="1085"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="237 486 237 502 1320 497 1321 481 1319 465 1061 458 1060 458 1025 466 599 466 508 460 507 460 404 466 374 462 373 462 372 462 354 468 256 462 254 462 253 462 236 468 237 486"/></Shape>
+	    <String CONTENT="aq̃sces.iiii. potẽcies dela aĩa en les quals uirtut ha eẽr son p̃ses/ Quatre uircuts cardinals ço es assaber/"
+                    HPOS="236"
+                    VPOS="458"
+                    WIDTH="1085"
+                    HEIGHT="44"
+                    WC="0.9722766137756078"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c808e96"
+                    TAGREFS="LT6464"
+                    BASELINE="237 514 1308 510" 
+                    HPOS="236"
+                    VPOS="486"
+                    WIDTH="1072"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="237 514 237 528 400 526 407 528 422 533 423 533 424 533 425 533 427 533 434 528 438 526 569 526 572 527 584 532 586 532 587 532 622 527 638 525 662 527 726 532 728 532 759 526 766 525 770 526 783 532 785 532 786 532 787 532 811 526 813 526 816 526 899 532 900 532 901 532 902 532 912 525 913 525 917 525 948 532 950 532 1168 531 1169 531 1189 525 1208 531 1209 531 1211 531 1306 522 1308 510 1305 493 1275 486 1274 486 1128 492 1117 486 1116 486 1115 486 1113 486 1112 486 1099 492 1090 486 1089 486 1088 486 1030 486 1028 486 996 492 967 486 965 486 964 486 947 493 947 494 816 494 650 494 617 487 616 487 615 487 598 493 413 488 412 488 411 488 410 488 402 494 373 488 372 488 332 494 331 494 280 488 279 488 236 494 237 514"/></Shape>
+	    <String CONTENT="prudencia iustia ¶Forreleha/ e temꝑançia/. Quar prudẽcia e saincha es enlentenimẽt Iusticia en la uolũtat"
+                    HPOS="236"
+                    VPOS="486"
+                    WIDTH="1072"
+                    HEIGHT="47"
+                    WC="0.9627548691329606"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6dec520f"
+                    TAGREFS="LT6464"
+                    BASELINE="236 543 918 543" 
+                    HPOS="236"
+                    VPOS="519"
+                    WIDTH="682"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="236 543 237 563 263 555 286 563 287 563 288 563 290 565 323 565 323 563 325 563 326 563 326 562 334 555 350 562 354 563 355 563 356 563 388 562 484 555 502 560 509 562 510 562 512 562 513 562 518 560 527 555 546 560 561 563 563 563 564 563 565 563 576 559 586 555 647 555 672 557 714 563 715 563 717 563 718 563 718 562 724 557 725 555 760 555 765 556 782 563 783 563 785 563 786 563 814 556 815 556 816 556 883 563 884 563 885 563 887 563 887 562 895 555 918 555 918 543 917 519 236 522 236 543"/></Shape>
+	    <String CONTENT="ffortelea en la potencia/ irosa etẽpancia en la potencia cobregiosa:"
+                    HPOS="236"
+                    VPOS="519"
+                    WIDTH="682"
+                    HEIGHT="46"
+                    WC="0.9737830248431883"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f92fe18e"
+                    TAGREFS="LT6464"
+                    BASELINE="270 578 280 577" 
+                    HPOS="266"
+                    VPOS="545"
+                    WIDTH="16"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="280 577 275 546 266 545 270 578 274 608 282 607 280 577"/></Shape>
+	    <String CONTENT=""
+                    HPOS="266"
+                    VPOS="545"
+                    WIDTH="16"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_854d275c"
+                    TAGREFS="LT6464"
+                    BASELINE="253 682 315 682" 
+                    HPOS="253"
+                    VPOS="662"
+                    WIDTH="62"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="253 682 253 688 314 693 315 682 315 664 253 662 253 682"/></Shape>
+	    <String CONTENT=""
+                    HPOS="253"
+                    VPOS="662"
+                    WIDTH="62"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1280"
+                   VPOS="116"
+                   WIDTH="66"
+                   HEIGHT="52"
+                   ID="eSc_textblock_5863e8d2"
+                   TAGREFS="BT15330">
+          <Shape><Polygon POINTS="1337 116 1346 144 1294 168 1280 130 1300 116"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b86748eb"
+                    TAGREFS="LT6464"
+                    BASELINE="1287 135 1345 138" 
+                    HPOS="1285"
+                    VPOS="116"
+                    WIDTH="60"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1335 120 1323 116 1311 116 1299 116 1287 124 1287 135 1285 168 1304 169 1305 169 1306 169 1308 169 1311 166 1321 158 1343 162 1345 138 1345 120 1335 116 1335 120"/></Shape>
+	    <String CONTENT=".xi."
+                    HPOS="1285"
+                    VPOS="116"
+                    WIDTH="60"
+                    HEIGHT="53"
+                    WC="0.8869108706712723"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

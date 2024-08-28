@@ -1,0 +1,1186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BNF_Lat_1234" xml:lang="la" type="transcription">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>BNF_Lat_1234</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="facs_eSc_line_2480a920" corresp="#elem_eSc_line_2480a920">
+      <graphic url="../lignes/01_eSc_line_2480a920.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b572daee" corresp="#elem_eSc_line_b572daee">
+      <graphic url="../lignes/01_eSc_line_b572daee.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2524f7d5" corresp="#elem_eSc_line_2524f7d5">
+      <graphic url="../lignes/01_eSc_line_2524f7d5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cd17e78b" corresp="#elem_eSc_line_cd17e78b">
+      <graphic url="../lignes/01_eSc_line_cd17e78b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6f94ad33" corresp="#elem_eSc_line_6f94ad33">
+      <graphic url="../lignes/01_eSc_line_6f94ad33.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_796064ea" corresp="#elem_eSc_line_796064ea">
+      <graphic url="../lignes/01_eSc_line_796064ea.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1d6d49e3" corresp="#elem_eSc_line_1d6d49e3">
+      <graphic url="../lignes/01_eSc_line_1d6d49e3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b3c4ed4e" corresp="#elem_eSc_line_b3c4ed4e">
+      <graphic url="../lignes/01_eSc_line_b3c4ed4e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2ecf16cd" corresp="#elem_eSc_line_2ecf16cd">
+      <graphic url="../lignes/01_eSc_line_2ecf16cd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6c4b5898" corresp="#elem_eSc_line_6c4b5898">
+      <graphic url="../lignes/01_eSc_line_6c4b5898.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_42292747" corresp="#elem_eSc_line_42292747">
+      <graphic url="../lignes/01_eSc_line_42292747.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c5b89268" corresp="#elem_eSc_line_c5b89268">
+      <graphic url="../lignes/01_eSc_line_c5b89268.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_89b1daaf" corresp="#elem_eSc_line_89b1daaf">
+      <graphic url="../lignes/01_eSc_line_89b1daaf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d6ff2783" corresp="#elem_eSc_line_d6ff2783">
+      <graphic url="../lignes/02_eSc_line_d6ff2783.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2359a101" corresp="#elem_eSc_line_2359a101">
+      <graphic url="../lignes/02_eSc_line_2359a101.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1a52f955" corresp="#elem_eSc_line_1a52f955">
+      <graphic url="../lignes/02_eSc_line_1a52f955.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a73260c9" corresp="#elem_eSc_line_a73260c9">
+      <graphic url="../lignes/02_eSc_line_a73260c9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_900ff9d8" corresp="#elem_eSc_line_900ff9d8">
+      <graphic url="../lignes/02_eSc_line_900ff9d8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_18d99367" corresp="#elem_eSc_line_18d99367">
+      <graphic url="../lignes/02_eSc_line_18d99367.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_505b5cd2" corresp="#elem_eSc_line_505b5cd2">
+      <graphic url="../lignes/02_eSc_line_505b5cd2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8a323abe" corresp="#elem_eSc_line_8a323abe">
+      <graphic url="../lignes/02_eSc_line_8a323abe.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c358d950" corresp="#elem_eSc_line_c358d950">
+      <graphic url="../lignes/02_eSc_line_c358d950.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_95d30ba6" corresp="#elem_eSc_line_95d30ba6">
+      <graphic url="../lignes/02_eSc_line_95d30ba6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_918fa057" corresp="#elem_eSc_line_918fa057">
+      <graphic url="../lignes/02_eSc_line_918fa057.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_87da209d" corresp="#elem_eSc_line_87da209d">
+      <graphic url="../lignes/02_eSc_line_87da209d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_78a9e44e" corresp="#elem_eSc_line_78a9e44e">
+      <graphic url="../lignes/02_eSc_line_78a9e44e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f85f4cee" corresp="#elem_eSc_line_f85f4cee">
+      <graphic url="../lignes/02_eSc_line_f85f4cee.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b9de15cc" corresp="#elem_eSc_line_b9de15cc">
+      <graphic url="../lignes/02_eSc_line_b9de15cc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_99df54f6" corresp="#elem_eSc_line_99df54f6">
+      <graphic url="../lignes/02_eSc_line_99df54f6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_70d0f7ea" corresp="#elem_eSc_line_70d0f7ea">
+      <graphic url="../lignes/02_eSc_line_70d0f7ea.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cf911c5e" corresp="#elem_eSc_line_cf911c5e">
+      <graphic url="../lignes/02_eSc_line_cf911c5e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0d01686f" corresp="#elem_eSc_line_0d01686f">
+      <graphic url="../lignes/02_eSc_line_0d01686f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d07d3e63" corresp="#elem_eSc_line_d07d3e63">
+      <graphic url="../lignes/02_eSc_line_d07d3e63.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8a87eb6d" corresp="#elem_eSc_line_8a87eb6d">
+      <graphic url="../lignes/02_eSc_line_8a87eb6d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b812de57" corresp="#elem_eSc_line_b812de57">
+      <graphic url="../lignes/02_eSc_line_b812de57.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_24828cfc" corresp="#elem_eSc_line_24828cfc">
+      <graphic url="../lignes/02_eSc_line_24828cfc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2a532937" corresp="#elem_eSc_line_2a532937">
+      <graphic url="../lignes/02_eSc_line_2a532937.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8c95a8b0" corresp="#elem_eSc_line_8c95a8b0">
+      <graphic url="../lignes/02_eSc_line_8c95a8b0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3753a1a2" corresp="#elem_eSc_line_3753a1a2">
+      <graphic url="../lignes/02_eSc_line_3753a1a2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_59b758ee" corresp="#elem_eSc_line_59b758ee">
+      <graphic url="../lignes/02_eSc_line_59b758ee.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_75ba5f9c" corresp="#elem_eSc_line_75ba5f9c">
+      <graphic url="../lignes/02_eSc_line_75ba5f9c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_27bafc22" corresp="#elem_eSc_line_27bafc22">
+      <graphic url="../lignes/02_eSc_line_27bafc22.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_967f94a3" corresp="#elem_eSc_line_967f94a3">
+      <graphic url="../lignes/02_eSc_line_967f94a3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8e56bbc1" corresp="#elem_eSc_line_8e56bbc1">
+      <graphic url="../lignes/02_eSc_line_8e56bbc1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8bc43a85" corresp="#elem_eSc_line_8bc43a85">
+      <graphic url="../lignes/02_eSc_line_8bc43a85.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_be24dd08" corresp="#elem_eSc_line_be24dd08">
+      <graphic url="../lignes/02_eSc_line_be24dd08.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7572fe91" corresp="#elem_eSc_line_7572fe91">
+      <graphic url="../lignes/02_eSc_line_7572fe91.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_20623bd9" corresp="#elem_eSc_line_20623bd9">
+      <graphic url="../lignes/02_eSc_line_20623bd9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_05c828cb" corresp="#elem_eSc_line_05c828cb">
+      <graphic url="../lignes/02_eSc_line_05c828cb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dea97bff" corresp="#elem_eSc_line_dea97bff">
+      <graphic url="../lignes/02_eSc_line_dea97bff.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6ddedd66" corresp="#elem_eSc_line_6ddedd66">
+      <graphic url="../lignes/02_eSc_line_6ddedd66.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_73fd32aa" corresp="#elem_eSc_line_73fd32aa">
+      <graphic url="../lignes/02_eSc_line_73fd32aa.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7574d8fa" corresp="#elem_eSc_line_7574d8fa">
+      <graphic url="../lignes/02_eSc_line_7574d8fa.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1700490c" corresp="#elem_eSc_line_1700490c">
+      <graphic url="../lignes/02_eSc_line_1700490c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_38e8416b" corresp="#elem_eSc_line_38e8416b">
+      <graphic url="../lignes/02_eSc_line_38e8416b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d45e2112" corresp="#elem_eSc_line_d45e2112">
+      <graphic url="../lignes/02_eSc_line_d45e2112.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_625add00" corresp="#elem_eSc_line_625add00">
+      <graphic url="../lignes/02_eSc_line_625add00.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_26fcfbae" corresp="#elem_eSc_line_26fcfbae">
+      <graphic url="../lignes/02_eSc_line_26fcfbae.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_78950815" corresp="#elem_eSc_line_78950815">
+      <graphic url="../lignes/02_eSc_line_78950815.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ecc71b1c" corresp="#elem_eSc_line_ecc71b1c">
+      <graphic url="../lignes/02_eSc_line_ecc71b1c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_aafce90b" corresp="#elem_eSc_line_aafce90b">
+      <graphic url="../lignes/02_eSc_line_aafce90b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6acb84c3" corresp="#elem_eSc_line_6acb84c3">
+      <graphic url="../lignes/02_eSc_line_6acb84c3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_18fc2ac8" corresp="#elem_eSc_line_18fc2ac8">
+      <graphic url="../lignes/02_eSc_line_18fc2ac8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_81859b6e" corresp="#elem_eSc_line_81859b6e">
+      <graphic url="../lignes/02_eSc_line_81859b6e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e68d116c" corresp="#elem_eSc_line_e68d116c">
+      <graphic url="../lignes/02_eSc_line_e68d116c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cd985afd" corresp="#elem_eSc_line_cd985afd">
+      <graphic url="../lignes/02_eSc_line_cd985afd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_456d1636" corresp="#elem_eSc_line_456d1636">
+      <graphic url="../lignes/02_eSc_line_456d1636.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_58f5693b" corresp="#elem_eSc_line_58f5693b">
+      <graphic url="../lignes/02_eSc_line_58f5693b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9fb02a48" corresp="#elem_eSc_line_9fb02a48">
+      <graphic url="../lignes/02_eSc_line_9fb02a48.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_eccde56b" corresp="#elem_eSc_line_eccde56b">
+      <graphic url="../lignes/02_eSc_line_eccde56b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_54f9a9ea" corresp="#elem_eSc_line_54f9a9ea">
+      <graphic url="../lignes/02_eSc_line_54f9a9ea.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_40a1c97c" corresp="#elem_eSc_line_40a1c97c">
+      <graphic url="../lignes/02_eSc_line_40a1c97c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d90017cf" corresp="#elem_eSc_line_d90017cf">
+      <graphic url="../lignes/02_eSc_line_d90017cf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_23d85198" corresp="#elem_eSc_line_23d85198">
+      <graphic url="../lignes/02_eSc_line_23d85198.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_18d8ee36" corresp="#elem_eSc_line_18d8ee36">
+      <graphic url="../lignes/02_eSc_line_18d8ee36.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c765e441" corresp="#elem_eSc_line_c765e441">
+      <graphic url="../lignes/02_eSc_line_c765e441.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a5f812ae" corresp="#elem_eSc_line_a5f812ae">
+      <graphic url="../lignes/02_eSc_line_a5f812ae.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_965d6bb1" corresp="#elem_eSc_line_965d6bb1">
+      <graphic url="../lignes/02_eSc_line_965d6bb1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_71d2833a" corresp="#elem_eSc_line_71d2833a">
+      <graphic url="../lignes/02_eSc_line_71d2833a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_48a42c10" corresp="#elem_eSc_line_48a42c10">
+      <graphic url="../lignes/02_eSc_line_48a42c10.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_65484330" corresp="#elem_eSc_line_65484330">
+      <graphic url="../lignes/02_eSc_line_65484330.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fb607d73" corresp="#elem_eSc_line_fb607d73">
+      <graphic url="../lignes/02_eSc_line_fb607d73.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_972fa92b" corresp="#elem_eSc_line_972fa92b">
+      <graphic url="../lignes/02_eSc_line_972fa92b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dc8adc73" corresp="#elem_eSc_line_dc8adc73">
+      <graphic url="../lignes/02_eSc_line_dc8adc73.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dc9dc4a1" corresp="#elem_eSc_line_dc9dc4a1">
+      <graphic url="../lignes/02_eSc_line_dc9dc4a1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_70e8bad5" corresp="#elem_eSc_line_70e8bad5">
+      <graphic url="../lignes/02_eSc_line_70e8bad5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6369db9b" corresp="#elem_eSc_line_6369db9b">
+      <graphic url="../lignes/02_eSc_line_6369db9b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_565b5ee1" corresp="#elem_eSc_line_565b5ee1">
+      <graphic url="../lignes/03_eSc_line_565b5ee1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1f6c3701" corresp="#elem_eSc_line_1f6c3701">
+      <graphic url="../lignes/03_eSc_line_1f6c3701.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b6b6b29b" corresp="#elem_eSc_line_b6b6b29b">
+      <graphic url="../lignes/03_eSc_line_b6b6b29b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e9d32741" corresp="#elem_eSc_line_e9d32741">
+      <graphic url="../lignes/03_eSc_line_e9d32741.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d450a628" corresp="#elem_eSc_line_d450a628">
+      <graphic url="../lignes/03_eSc_line_d450a628.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a46830dc" corresp="#elem_eSc_line_a46830dc">
+      <graphic url="../lignes/03_eSc_line_a46830dc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_433889a0" corresp="#elem_eSc_line_433889a0">
+      <graphic url="../lignes/03_eSc_line_433889a0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1256ba9a" corresp="#elem_eSc_line_1256ba9a">
+      <graphic url="../lignes/03_eSc_line_1256ba9a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f4881e87" corresp="#elem_eSc_line_f4881e87">
+      <graphic url="../lignes/03_eSc_line_f4881e87.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a1b03e90" corresp="#elem_eSc_line_a1b03e90">
+      <graphic url="../lignes/03_eSc_line_a1b03e90.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c3cdbc40" corresp="#elem_eSc_line_c3cdbc40">
+      <graphic url="../lignes/03_eSc_line_c3cdbc40.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f0390121" corresp="#elem_eSc_line_f0390121">
+      <graphic url="../lignes/03_eSc_line_f0390121.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_65398f15" corresp="#elem_eSc_line_65398f15">
+      <graphic url="../lignes/03_eSc_line_65398f15.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0c4191a2" corresp="#elem_eSc_line_0c4191a2">
+      <graphic url="../lignes/03_eSc_line_0c4191a2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_04cb8f4f" corresp="#elem_eSc_line_04cb8f4f">
+      <graphic url="../lignes/03_eSc_line_04cb8f4f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_32e6dea6" corresp="#elem_eSc_line_32e6dea6">
+      <graphic url="../lignes/03_eSc_line_32e6dea6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dbdcf8f8" corresp="#elem_eSc_line_dbdcf8f8">
+      <graphic url="../lignes/03_eSc_line_dbdcf8f8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f41f7479" corresp="#elem_eSc_line_f41f7479">
+      <graphic url="../lignes/03_eSc_line_f41f7479.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3c093414" corresp="#elem_eSc_line_3c093414">
+      <graphic url="../lignes/03_eSc_line_3c093414.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9e047019" corresp="#elem_eSc_line_9e047019">
+      <graphic url="../lignes/03_eSc_line_9e047019.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_66adc37a" corresp="#elem_eSc_line_66adc37a">
+      <graphic url="../lignes/03_eSc_line_66adc37a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f05cb328" corresp="#elem_eSc_line_f05cb328">
+      <graphic url="../lignes/03_eSc_line_f05cb328.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_91537ea1" corresp="#elem_eSc_line_91537ea1">
+      <graphic url="../lignes/03_eSc_line_91537ea1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cb40788d" corresp="#elem_eSc_line_cb40788d">
+      <graphic url="../lignes/03_eSc_line_cb40788d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d11a88a5" corresp="#elem_eSc_line_d11a88a5">
+      <graphic url="../lignes/03_eSc_line_d11a88a5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3801cd0c" corresp="#elem_eSc_line_3801cd0c">
+      <graphic url="../lignes/03_eSc_line_3801cd0c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ef28193f" corresp="#elem_eSc_line_ef28193f">
+      <graphic url="../lignes/03_eSc_line_ef28193f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_44a8f917" corresp="#elem_eSc_line_44a8f917">
+      <graphic url="../lignes/03_eSc_line_44a8f917.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_da37fc2e" corresp="#elem_eSc_line_da37fc2e">
+      <graphic url="../lignes/03_eSc_line_da37fc2e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b88689c6" corresp="#elem_eSc_line_b88689c6">
+      <graphic url="../lignes/03_eSc_line_b88689c6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f08a9203" corresp="#elem_eSc_line_f08a9203">
+      <graphic url="../lignes/03_eSc_line_f08a9203.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_89774892" corresp="#elem_eSc_line_89774892">
+      <graphic url="../lignes/03_eSc_line_89774892.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6fa1f873" corresp="#elem_eSc_line_6fa1f873">
+      <graphic url="../lignes/03_eSc_line_6fa1f873.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_36207f5b" corresp="#elem_eSc_line_36207f5b">
+      <graphic url="../lignes/03_eSc_line_36207f5b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b22048b3" corresp="#elem_eSc_line_b22048b3">
+      <graphic url="../lignes/03_eSc_line_b22048b3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e80b8ff6" corresp="#elem_eSc_line_e80b8ff6">
+      <graphic url="../lignes/03_eSc_line_e80b8ff6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a8e0d33c" corresp="#elem_eSc_line_a8e0d33c">
+      <graphic url="../lignes/03_eSc_line_a8e0d33c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f592ce59" corresp="#elem_eSc_line_f592ce59">
+      <graphic url="../lignes/03_eSc_line_f592ce59.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a082b812" corresp="#elem_eSc_line_a082b812">
+      <graphic url="../lignes/03_eSc_line_a082b812.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_eed08d34" corresp="#elem_eSc_line_eed08d34">
+      <graphic url="../lignes/03_eSc_line_eed08d34.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4beb8aab" corresp="#elem_eSc_line_4beb8aab">
+      <graphic url="../lignes/03_eSc_line_4beb8aab.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_939703aa" corresp="#elem_eSc_line_939703aa">
+      <graphic url="../lignes/03_eSc_line_939703aa.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cad88714" corresp="#elem_eSc_line_cad88714">
+      <graphic url="../lignes/03_eSc_line_cad88714.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f26b1ed2" corresp="#elem_eSc_line_f26b1ed2">
+      <graphic url="../lignes/03_eSc_line_f26b1ed2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9cc28c8f" corresp="#elem_eSc_line_9cc28c8f">
+      <graphic url="../lignes/03_eSc_line_9cc28c8f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9c7c755d" corresp="#elem_eSc_line_9c7c755d">
+      <graphic url="../lignes/03_eSc_line_9c7c755d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6839f198" corresp="#elem_eSc_line_6839f198">
+      <graphic url="../lignes/03_eSc_line_6839f198.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_87e9f1dd" corresp="#elem_eSc_line_87e9f1dd">
+      <graphic url="../lignes/03_eSc_line_87e9f1dd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_97e78978" corresp="#elem_eSc_line_97e78978">
+      <graphic url="../lignes/03_eSc_line_97e78978.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_270753db" corresp="#elem_eSc_line_270753db">
+      <graphic url="../lignes/03_eSc_line_270753db.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_05400edd" corresp="#elem_eSc_line_05400edd">
+      <graphic url="../lignes/03_eSc_line_05400edd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a4bec6f2" corresp="#elem_eSc_line_a4bec6f2">
+      <graphic url="../lignes/03_eSc_line_a4bec6f2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4f381dba" corresp="#elem_eSc_line_4f381dba">
+      <graphic url="../lignes/03_eSc_line_4f381dba.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_58b6ff2c" corresp="#elem_eSc_line_58b6ff2c">
+      <graphic url="../lignes/03_eSc_line_58b6ff2c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ce467219" corresp="#elem_eSc_line_ce467219">
+      <graphic url="../lignes/03_eSc_line_ce467219.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_37f7cafd" corresp="#elem_eSc_line_37f7cafd">
+      <graphic url="../lignes/03_eSc_line_37f7cafd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_40757e80" corresp="#elem_eSc_line_40757e80">
+      <graphic url="../lignes/03_eSc_line_40757e80.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a0583ae7" corresp="#elem_eSc_line_a0583ae7">
+      <graphic url="../lignes/03_eSc_line_a0583ae7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4bb03eb7" corresp="#elem_eSc_line_4bb03eb7">
+      <graphic url="../lignes/03_eSc_line_4bb03eb7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b462f834" corresp="#elem_eSc_line_b462f834">
+      <graphic url="../lignes/03_eSc_line_b462f834.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_90a50084" corresp="#elem_eSc_line_90a50084">
+      <graphic url="../lignes/03_eSc_line_90a50084.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1dd5ec22" corresp="#elem_eSc_line_1dd5ec22">
+      <graphic url="../lignes/03_eSc_line_1dd5ec22.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bdce91a1" corresp="#elem_eSc_line_bdce91a1">
+      <graphic url="../lignes/03_eSc_line_bdce91a1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2de423e6" corresp="#elem_eSc_line_2de423e6">
+      <graphic url="../lignes/03_eSc_line_2de423e6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5fe8351a" corresp="#elem_eSc_line_5fe8351a">
+      <graphic url="../lignes/03_eSc_line_5fe8351a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dc4aa08a" corresp="#elem_eSc_line_dc4aa08a">
+      <graphic url="../lignes/03_eSc_line_dc4aa08a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0252ba51" corresp="#elem_eSc_line_0252ba51">
+      <graphic url="../lignes/03_eSc_line_0252ba51.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dcc67ca9" corresp="#elem_eSc_line_dcc67ca9">
+      <graphic url="../lignes/03_eSc_line_dcc67ca9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e163d8fb" corresp="#elem_eSc_line_e163d8fb">
+      <graphic url="../lignes/03_eSc_line_e163d8fb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d70c0b15" corresp="#elem_eSc_line_d70c0b15">
+      <graphic url="../lignes/03_eSc_line_d70c0b15.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b62cfe99" corresp="#elem_eSc_line_b62cfe99">
+      <graphic url="../lignes/03_eSc_line_b62cfe99.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_43a81f15" corresp="#elem_eSc_line_43a81f15">
+      <graphic url="../lignes/03_eSc_line_43a81f15.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ece23910" corresp="#elem_eSc_line_ece23910">
+      <graphic url="../lignes/03_eSc_line_ece23910.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1bbc6269" corresp="#elem_eSc_line_1bbc6269">
+      <graphic url="../lignes/03_eSc_line_1bbc6269.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9894e940" corresp="#elem_eSc_line_9894e940">
+      <graphic url="../lignes/03_eSc_line_9894e940.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8a85a57a" corresp="#elem_eSc_line_8a85a57a">
+      <graphic url="../lignes/04_eSc_line_8a85a57a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3fcff2a2" corresp="#elem_eSc_line_3fcff2a2">
+      <graphic url="../lignes/04_eSc_line_3fcff2a2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a6406c20" corresp="#elem_eSc_line_a6406c20">
+      <graphic url="../lignes/04_eSc_line_a6406c20.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ef51be8e" corresp="#elem_eSc_line_ef51be8e">
+      <graphic url="../lignes/04_eSc_line_ef51be8e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_76fb548c" corresp="#elem_eSc_line_76fb548c">
+      <graphic url="../lignes/04_eSc_line_76fb548c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8b0fb3ab" corresp="#elem_eSc_line_8b0fb3ab">
+      <graphic url="../lignes/04_eSc_line_8b0fb3ab.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ce9b4cad" corresp="#elem_eSc_line_ce9b4cad">
+      <graphic url="../lignes/04_eSc_line_ce9b4cad.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_56e627b0" corresp="#elem_eSc_line_56e627b0">
+      <graphic url="../lignes/04_eSc_line_56e627b0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_021a7d37" corresp="#elem_eSc_line_021a7d37">
+      <graphic url="../lignes/04_eSc_line_021a7d37.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_963360b7" corresp="#elem_eSc_line_963360b7">
+      <graphic url="../lignes/04_eSc_line_963360b7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2367abe4" corresp="#elem_eSc_line_2367abe4">
+      <graphic url="../lignes/04_eSc_line_2367abe4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_23e26589" corresp="#elem_eSc_line_23e26589">
+      <graphic url="../lignes/04_eSc_line_23e26589.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f03d1205" corresp="#elem_eSc_line_f03d1205">
+      <graphic url="../lignes/04_eSc_line_f03d1205.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7af2ae33" corresp="#elem_eSc_line_7af2ae33">
+      <graphic url="../lignes/04_eSc_line_7af2ae33.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_40550f7a" corresp="#elem_eSc_line_40550f7a">
+      <graphic url="../lignes/04_eSc_line_40550f7a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cb27b993" corresp="#elem_eSc_line_cb27b993">
+      <graphic url="../lignes/04_eSc_line_cb27b993.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_487b5e25" corresp="#elem_eSc_line_487b5e25">
+      <graphic url="../lignes/04_eSc_line_487b5e25.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_96b8c53d" corresp="#elem_eSc_line_96b8c53d">
+      <graphic url="../lignes/04_eSc_line_96b8c53d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cd386df5" corresp="#elem_eSc_line_cd386df5">
+      <graphic url="../lignes/04_eSc_line_cd386df5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8fa27ae3" corresp="#elem_eSc_line_8fa27ae3">
+      <graphic url="../lignes/04_eSc_line_8fa27ae3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8af63c1d" corresp="#elem_eSc_line_8af63c1d">
+      <graphic url="../lignes/04_eSc_line_8af63c1d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_35e2b033" corresp="#elem_eSc_line_35e2b033">
+      <graphic url="../lignes/04_eSc_line_35e2b033.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_95c70183" corresp="#elem_eSc_line_95c70183">
+      <graphic url="../lignes/04_eSc_line_95c70183.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_81296d96" corresp="#elem_eSc_line_81296d96">
+      <graphic url="../lignes/04_eSc_line_81296d96.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_254a7135" corresp="#elem_eSc_line_254a7135">
+      <graphic url="../lignes/04_eSc_line_254a7135.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c03925c6" corresp="#elem_eSc_line_c03925c6">
+      <graphic url="../lignes/04_eSc_line_c03925c6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_de951536" corresp="#elem_eSc_line_de951536">
+      <graphic url="../lignes/04_eSc_line_de951536.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a155fb61" corresp="#elem_eSc_line_a155fb61">
+      <graphic url="../lignes/04_eSc_line_a155fb61.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d8c057cc" corresp="#elem_eSc_line_d8c057cc">
+      <graphic url="../lignes/04_eSc_line_d8c057cc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2301c0d6" corresp="#elem_eSc_line_2301c0d6">
+      <graphic url="../lignes/04_eSc_line_2301c0d6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fecf75a5" corresp="#elem_eSc_line_fecf75a5">
+      <graphic url="../lignes/04_eSc_line_fecf75a5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fc3a8253" corresp="#elem_eSc_line_fc3a8253">
+      <graphic url="../lignes/04_eSc_line_fc3a8253.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_305e5a50" corresp="#elem_eSc_line_305e5a50">
+      <graphic url="../lignes/04_eSc_line_305e5a50.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_73555e7b" corresp="#elem_eSc_line_73555e7b">
+      <graphic url="../lignes/04_eSc_line_73555e7b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2eeceff8" corresp="#elem_eSc_line_2eeceff8">
+      <graphic url="../lignes/04_eSc_line_2eeceff8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f48baebd" corresp="#elem_eSc_line_f48baebd">
+      <graphic url="../lignes/04_eSc_line_f48baebd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e2acd865" corresp="#elem_eSc_line_e2acd865">
+      <graphic url="../lignes/04_eSc_line_e2acd865.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_04c03a13" corresp="#elem_eSc_line_04c03a13">
+      <graphic url="../lignes/04_eSc_line_04c03a13.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6307965f" corresp="#elem_eSc_line_6307965f">
+      <graphic url="../lignes/04_eSc_line_6307965f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_68ecf248" corresp="#elem_eSc_line_68ecf248">
+      <graphic url="../lignes/04_eSc_line_68ecf248.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_35ed3ed6" corresp="#elem_eSc_line_35ed3ed6">
+      <graphic url="../lignes/04_eSc_line_35ed3ed6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dd70af0d" corresp="#elem_eSc_line_dd70af0d">
+      <graphic url="../lignes/04_eSc_line_dd70af0d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_58fea8df" corresp="#elem_eSc_line_58fea8df">
+      <graphic url="../lignes/04_eSc_line_58fea8df.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4b714e69" corresp="#elem_eSc_line_4b714e69">
+      <graphic url="../lignes/04_eSc_line_4b714e69.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_475f3e41" corresp="#elem_eSc_line_475f3e41">
+      <graphic url="../lignes/04_eSc_line_475f3e41.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1503d4f3" corresp="#elem_eSc_line_1503d4f3">
+      <graphic url="../lignes/04_eSc_line_1503d4f3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_61b1ac33" corresp="#elem_eSc_line_61b1ac33">
+      <graphic url="../lignes/04_eSc_line_61b1ac33.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9ee651e4" corresp="#elem_eSc_line_9ee651e4">
+      <graphic url="../lignes/04_eSc_line_9ee651e4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6fb67f41" corresp="#elem_eSc_line_6fb67f41">
+      <graphic url="../lignes/04_eSc_line_6fb67f41.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b7e87d0d" corresp="#elem_eSc_line_b7e87d0d">
+      <graphic url="../lignes/04_eSc_line_b7e87d0d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b0731b32" corresp="#elem_eSc_line_b0731b32">
+      <graphic url="../lignes/04_eSc_line_b0731b32.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d6a795d0" corresp="#elem_eSc_line_d6a795d0">
+      <graphic url="../lignes/04_eSc_line_d6a795d0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ddd857be" corresp="#elem_eSc_line_ddd857be">
+      <graphic url="../lignes/04_eSc_line_ddd857be.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_228e8fe9" corresp="#elem_eSc_line_228e8fe9">
+      <graphic url="../lignes/04_eSc_line_228e8fe9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b300b987" corresp="#elem_eSc_line_b300b987">
+      <graphic url="../lignes/04_eSc_line_b300b987.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_be1c796f" corresp="#elem_eSc_line_be1c796f">
+      <graphic url="../lignes/04_eSc_line_be1c796f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e7217ce5" corresp="#elem_eSc_line_e7217ce5">
+      <graphic url="../lignes/04_eSc_line_e7217ce5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2d4cc14d" corresp="#elem_eSc_line_2d4cc14d">
+      <graphic url="../lignes/04_eSc_line_2d4cc14d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6374dc56" corresp="#elem_eSc_line_6374dc56">
+      <graphic url="../lignes/04_eSc_line_6374dc56.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6959de3c" corresp="#elem_eSc_line_6959de3c">
+      <graphic url="../lignes/04_eSc_line_6959de3c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2bfc672c" corresp="#elem_eSc_line_2bfc672c">
+      <graphic url="../lignes/04_eSc_line_2bfc672c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6aed2315" corresp="#elem_eSc_line_6aed2315">
+      <graphic url="../lignes/04_eSc_line_6aed2315.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_13af19c6" corresp="#elem_eSc_line_13af19c6">
+      <graphic url="../lignes/04_eSc_line_13af19c6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2a398ade" corresp="#elem_eSc_line_2a398ade">
+      <graphic url="../lignes/04_eSc_line_2a398ade.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6fa68e5c" corresp="#elem_eSc_line_6fa68e5c">
+      <graphic url="../lignes/04_eSc_line_6fa68e5c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9554f573" corresp="#elem_eSc_line_9554f573">
+      <graphic url="../lignes/04_eSc_line_9554f573.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c2397c47" corresp="#elem_eSc_line_c2397c47">
+      <graphic url="../lignes/04_eSc_line_c2397c47.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a351629d" corresp="#elem_eSc_line_a351629d">
+      <graphic url="../lignes/04_eSc_line_a351629d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e040da3c" corresp="#elem_eSc_line_e040da3c">
+      <graphic url="../lignes/04_eSc_line_e040da3c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_60a7c667" corresp="#elem_eSc_line_60a7c667">
+      <graphic url="../lignes/04_eSc_line_60a7c667.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a672e68d" corresp="#elem_eSc_line_a672e68d">
+      <graphic url="../lignes/04_eSc_line_a672e68d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_71652bea" corresp="#elem_eSc_line_71652bea">
+      <graphic url="../lignes/04_eSc_line_71652bea.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_36631604" corresp="#elem_eSc_line_36631604">
+      <graphic url="../lignes/04_eSc_line_36631604.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_16e1598c" corresp="#elem_eSc_line_16e1598c">
+      <graphic url="../lignes/04_eSc_line_16e1598c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1eea196a" corresp="#elem_eSc_line_1eea196a">
+      <graphic url="../lignes/05_eSc_line_1eea196a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9e01ddd1" corresp="#elem_eSc_line_9e01ddd1">
+      <graphic url="../lignes/05_eSc_line_9e01ddd1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4855fc4f" corresp="#elem_eSc_line_4855fc4f">
+      <graphic url="../lignes/05_eSc_line_4855fc4f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_087fb7fc" corresp="#elem_eSc_line_087fb7fc">
+      <graphic url="../lignes/05_eSc_line_087fb7fc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_62fcf7ba" corresp="#elem_eSc_line_62fcf7ba">
+      <graphic url="../lignes/05_eSc_line_62fcf7ba.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_67461937" corresp="#elem_eSc_line_67461937">
+      <graphic url="../lignes/05_eSc_line_67461937.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7de632f8" corresp="#elem_eSc_line_7de632f8">
+      <graphic url="../lignes/05_eSc_line_7de632f8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6a9637ca" corresp="#elem_eSc_line_6a9637ca">
+      <graphic url="../lignes/05_eSc_line_6a9637ca.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_93c321e5" corresp="#elem_eSc_line_93c321e5">
+      <graphic url="../lignes/05_eSc_line_93c321e5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5e2e8b9f" corresp="#elem_eSc_line_5e2e8b9f">
+      <graphic url="../lignes/05_eSc_line_5e2e8b9f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_87d22437" corresp="#elem_eSc_line_87d22437">
+      <graphic url="../lignes/05_eSc_line_87d22437.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8a5d2e2c" corresp="#elem_eSc_line_8a5d2e2c">
+      <graphic url="../lignes/05_eSc_line_8a5d2e2c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bb49dde3" corresp="#elem_eSc_line_bb49dde3">
+      <graphic url="../lignes/05_eSc_line_bb49dde3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fc395fc3" corresp="#elem_eSc_line_fc395fc3">
+      <graphic url="../lignes/05_eSc_line_fc395fc3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_143a3704" corresp="#elem_eSc_line_143a3704">
+      <graphic url="../lignes/05_eSc_line_143a3704.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f31358b3" corresp="#elem_eSc_line_f31358b3">
+      <graphic url="../lignes/05_eSc_line_f31358b3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d41fbc42" corresp="#elem_eSc_line_d41fbc42">
+      <graphic url="../lignes/05_eSc_line_d41fbc42.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fe4281a6" corresp="#elem_eSc_line_fe4281a6">
+      <graphic url="../lignes/05_eSc_line_fe4281a6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f71264cc" corresp="#elem_eSc_line_f71264cc">
+      <graphic url="../lignes/05_eSc_line_f71264cc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f5f6f1e7" corresp="#elem_eSc_line_f5f6f1e7">
+      <graphic url="../lignes/05_eSc_line_f5f6f1e7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_25917b70" corresp="#elem_eSc_line_25917b70">
+      <graphic url="../lignes/05_eSc_line_25917b70.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_68fe673e" corresp="#elem_eSc_line_68fe673e">
+      <graphic url="../lignes/05_eSc_line_68fe673e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9140cea2" corresp="#elem_eSc_line_9140cea2">
+      <graphic url="../lignes/05_eSc_line_9140cea2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8b75a3a0" corresp="#elem_eSc_line_8b75a3a0">
+      <graphic url="../lignes/05_eSc_line_8b75a3a0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_80d4ec1e" corresp="#elem_eSc_line_80d4ec1e">
+      <graphic url="../lignes/05_eSc_line_80d4ec1e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5b72e458" corresp="#elem_eSc_line_5b72e458">
+      <graphic url="../lignes/05_eSc_line_5b72e458.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d853fd93" corresp="#elem_eSc_line_d853fd93">
+      <graphic url="../lignes/05_eSc_line_d853fd93.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ddc56cad" corresp="#elem_eSc_line_ddc56cad">
+      <graphic url="../lignes/05_eSc_line_ddc56cad.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d072744d" corresp="#elem_eSc_line_d072744d">
+      <graphic url="../lignes/05_eSc_line_d072744d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4ecad237" corresp="#elem_eSc_line_4ecad237">
+      <graphic url="../lignes/05_eSc_line_4ecad237.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_863f4c4a" corresp="#elem_eSc_line_863f4c4a">
+      <graphic url="../lignes/05_eSc_line_863f4c4a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6f1e73ac" corresp="#elem_eSc_line_6f1e73ac">
+      <graphic url="../lignes/05_eSc_line_6f1e73ac.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b0a1af0b" corresp="#elem_eSc_line_b0a1af0b">
+      <graphic url="../lignes/05_eSc_line_b0a1af0b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_044585be" corresp="#elem_eSc_line_044585be">
+      <graphic url="../lignes/05_eSc_line_044585be.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c5f83431" corresp="#elem_eSc_line_c5f83431">
+      <graphic url="../lignes/05_eSc_line_c5f83431.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e44978a2" corresp="#elem_eSc_line_e44978a2">
+      <graphic url="../lignes/05_eSc_line_e44978a2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e8a9e784" corresp="#elem_eSc_line_e8a9e784">
+      <graphic url="../lignes/05_eSc_line_e8a9e784.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_44929494" corresp="#elem_eSc_line_44929494">
+      <graphic url="../lignes/05_eSc_line_44929494.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ca7add05" corresp="#elem_eSc_line_ca7add05">
+      <graphic url="../lignes/05_eSc_line_ca7add05.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f0699ad4" corresp="#elem_eSc_line_f0699ad4">
+      <graphic url="../lignes/05_eSc_line_f0699ad4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_658200f9" corresp="#elem_eSc_line_658200f9">
+      <graphic url="../lignes/05_eSc_line_658200f9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1a0720bb" corresp="#elem_eSc_line_1a0720bb">
+      <graphic url="../lignes/05_eSc_line_1a0720bb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b32b2b29" corresp="#elem_eSc_line_b32b2b29">
+      <graphic url="../lignes/05_eSc_line_b32b2b29.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7ea48f4b" corresp="#elem_eSc_line_7ea48f4b">
+      <graphic url="../lignes/05_eSc_line_7ea48f4b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cd9b8ee4" corresp="#elem_eSc_line_cd9b8ee4">
+      <graphic url="../lignes/05_eSc_line_cd9b8ee4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4f20fbf7" corresp="#elem_eSc_line_4f20fbf7">
+      <graphic url="../lignes/05_eSc_line_4f20fbf7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c52a6d8e" corresp="#elem_eSc_line_c52a6d8e">
+      <graphic url="../lignes/05_eSc_line_c52a6d8e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e769e9d9" corresp="#elem_eSc_line_e769e9d9">
+      <graphic url="../lignes/05_eSc_line_e769e9d9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ad823a9f" corresp="#elem_eSc_line_ad823a9f">
+      <graphic url="../lignes/05_eSc_line_ad823a9f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4c4951d0" corresp="#elem_eSc_line_4c4951d0">
+      <graphic url="../lignes/05_eSc_line_4c4951d0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_301d5671" corresp="#elem_eSc_line_301d5671">
+      <graphic url="../lignes/05_eSc_line_301d5671.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6e69971d" corresp="#elem_eSc_line_6e69971d">
+      <graphic url="../lignes/05_eSc_line_6e69971d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ee14ecf5" corresp="#elem_eSc_line_ee14ecf5">
+      <graphic url="../lignes/05_eSc_line_ee14ecf5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0105d3af" corresp="#elem_eSc_line_0105d3af">
+      <graphic url="../lignes/05_eSc_line_0105d3af.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_141dbd58" corresp="#elem_eSc_line_141dbd58">
+      <graphic url="../lignes/05_eSc_line_141dbd58.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_60fa2944" corresp="#elem_eSc_line_60fa2944">
+      <graphic url="../lignes/05_eSc_line_60fa2944.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ac98890d" corresp="#elem_eSc_line_ac98890d">
+      <graphic url="../lignes/05_eSc_line_ac98890d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f0614ed2" corresp="#elem_eSc_line_f0614ed2">
+      <graphic url="../lignes/05_eSc_line_f0614ed2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7d7fb4a4" corresp="#elem_eSc_line_7d7fb4a4">
+      <graphic url="../lignes/05_eSc_line_7d7fb4a4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_230f6a93" corresp="#elem_eSc_line_230f6a93">
+      <graphic url="../lignes/05_eSc_line_230f6a93.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_630c9707" corresp="#elem_eSc_line_630c9707">
+      <graphic url="../lignes/05_eSc_line_630c9707.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_33b3bd48" corresp="#elem_eSc_line_33b3bd48">
+      <graphic url="../lignes/05_eSc_line_33b3bd48.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e2dd3c23" corresp="#elem_eSc_line_e2dd3c23">
+      <graphic url="../lignes/05_eSc_line_e2dd3c23.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_049e4c33" corresp="#elem_eSc_line_049e4c33">
+      <graphic url="../lignes/05_eSc_line_049e4c33.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f08b545a" corresp="#elem_eSc_line_f08b545a">
+      <graphic url="../lignes/05_eSc_line_f08b545a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d45d74a5" corresp="#elem_eSc_line_d45d74a5">
+      <graphic url="../lignes/05_eSc_line_d45d74a5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_796dec87" corresp="#elem_eSc_line_796dec87">
+      <graphic url="../lignes/05_eSc_line_796dec87.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_314cdbd9" corresp="#elem_eSc_line_314cdbd9">
+      <graphic url="../lignes/05_eSc_line_314cdbd9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a6c18481" corresp="#elem_eSc_line_a6c18481">
+      <graphic url="../lignes/05_eSc_line_a6c18481.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d7d64182" corresp="#elem_eSc_line_d7d64182">
+      <graphic url="../lignes/05_eSc_line_d7d64182.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3ce6e8c9" corresp="#elem_eSc_line_3ce6e8c9">
+      <graphic url="../lignes/05_eSc_line_3ce6e8c9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fb16d6d5" corresp="#elem_eSc_line_fb16d6d5">
+      <graphic url="../lignes/05_eSc_line_fb16d6d5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3a7acab8" corresp="#elem_eSc_line_3a7acab8">
+      <graphic url="../lignes/05_eSc_line_3a7acab8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_715083ae" corresp="#elem_eSc_line_715083ae">
+      <graphic url="../lignes/05_eSc_line_715083ae.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3a5cc2f0" corresp="#elem_eSc_line_3a5cc2f0">
+      <graphic url="../lignes/06_eSc_line_3a5cc2f0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_28c1b882" corresp="#elem_eSc_line_28c1b882">
+      <graphic url="../lignes/06_eSc_line_28c1b882.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8d44d027" corresp="#elem_eSc_line_8d44d027">
+      <graphic url="../lignes/06_eSc_line_8d44d027.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e6564b07" corresp="#elem_eSc_line_e6564b07">
+      <graphic url="../lignes/06_eSc_line_e6564b07.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bee13e86" corresp="#elem_eSc_line_bee13e86">
+      <graphic url="../lignes/06_eSc_line_bee13e86.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cf36a60b" corresp="#elem_eSc_line_cf36a60b">
+      <graphic url="../lignes/06_eSc_line_cf36a60b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b61c64b8" corresp="#elem_eSc_line_b61c64b8">
+      <graphic url="../lignes/06_eSc_line_b61c64b8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1c68e0d7" corresp="#elem_eSc_line_1c68e0d7">
+      <graphic url="../lignes/06_eSc_line_1c68e0d7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f3e96f83" corresp="#elem_eSc_line_f3e96f83">
+      <graphic url="../lignes/06_eSc_line_f3e96f83.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6a4fbf3a" corresp="#elem_eSc_line_6a4fbf3a">
+      <graphic url="../lignes/06_eSc_line_6a4fbf3a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_40c9bc59" corresp="#elem_eSc_line_40c9bc59">
+      <graphic url="../lignes/06_eSc_line_40c9bc59.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cf42ec29" corresp="#elem_eSc_line_cf42ec29">
+      <graphic url="../lignes/06_eSc_line_cf42ec29.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ffbcabc1" corresp="#elem_eSc_line_ffbcabc1">
+      <graphic url="../lignes/06_eSc_line_ffbcabc1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bcee548f" corresp="#elem_eSc_line_bcee548f">
+      <graphic url="../lignes/06_eSc_line_bcee548f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a460406d" corresp="#elem_eSc_line_a460406d">
+      <graphic url="../lignes/06_eSc_line_a460406d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_38349540" corresp="#elem_eSc_line_38349540">
+      <graphic url="../lignes/06_eSc_line_38349540.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_282b94b7" corresp="#elem_eSc_line_282b94b7">
+      <graphic url="../lignes/06_eSc_line_282b94b7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_13652b43" corresp="#elem_eSc_line_13652b43">
+      <graphic url="../lignes/06_eSc_line_13652b43.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b4e2086a" corresp="#elem_eSc_line_b4e2086a">
+      <graphic url="../lignes/06_eSc_line_b4e2086a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c68f743e" corresp="#elem_eSc_line_c68f743e">
+      <graphic url="../lignes/06_eSc_line_c68f743e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ba454028" corresp="#elem_eSc_line_ba454028">
+      <graphic url="../lignes/06_eSc_line_ba454028.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_469984c2" corresp="#elem_eSc_line_469984c2">
+      <graphic url="../lignes/06_eSc_line_469984c2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_48edea1c" corresp="#elem_eSc_line_48edea1c">
+      <graphic url="../lignes/06_eSc_line_48edea1c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_38e288da" corresp="#elem_eSc_line_38e288da">
+      <graphic url="../lignes/06_eSc_line_38e288da.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_53dc93c9" corresp="#elem_eSc_line_53dc93c9">
+      <graphic url="../lignes/06_eSc_line_53dc93c9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c2e97919" corresp="#elem_eSc_line_c2e97919">
+      <graphic url="../lignes/06_eSc_line_c2e97919.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_42acb50e" corresp="#elem_eSc_line_42acb50e">
+      <graphic url="../lignes/06_eSc_line_42acb50e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f294cd47" corresp="#elem_eSc_line_f294cd47">
+      <graphic url="../lignes/06_eSc_line_f294cd47.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_087e8f6d" corresp="#elem_eSc_line_087e8f6d">
+      <graphic url="../lignes/06_eSc_line_087e8f6d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8ef48fad" corresp="#elem_eSc_line_8ef48fad">
+      <graphic url="../lignes/06_eSc_line_8ef48fad.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_80f6a0a8" corresp="#elem_eSc_line_80f6a0a8">
+      <graphic url="../lignes/06_eSc_line_80f6a0a8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b177b302" corresp="#elem_eSc_line_b177b302">
+      <graphic url="../lignes/06_eSc_line_b177b302.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_644b03ee" corresp="#elem_eSc_line_644b03ee">
+      <graphic url="../lignes/06_eSc_line_644b03ee.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_21eea3a4" corresp="#elem_eSc_line_21eea3a4">
+      <graphic url="../lignes/06_eSc_line_21eea3a4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1017f331" corresp="#elem_eSc_line_1017f331">
+      <graphic url="../lignes/06_eSc_line_1017f331.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f8c9fc4f" corresp="#elem_eSc_line_f8c9fc4f">
+      <graphic url="../lignes/06_eSc_line_f8c9fc4f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_968c0c75" corresp="#elem_eSc_line_968c0c75">
+      <graphic url="../lignes/06_eSc_line_968c0c75.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_51ad1bf3" corresp="#elem_eSc_line_51ad1bf3">
+      <graphic url="../lignes/06_eSc_line_51ad1bf3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1114b31a" corresp="#elem_eSc_line_1114b31a">
+      <graphic url="../lignes/06_eSc_line_1114b31a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e1878957" corresp="#elem_eSc_line_e1878957">
+      <graphic url="../lignes/06_eSc_line_e1878957.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f6941e41" corresp="#elem_eSc_line_f6941e41">
+      <graphic url="../lignes/06_eSc_line_f6941e41.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1c9f7cb2" corresp="#elem_eSc_line_1c9f7cb2">
+      <graphic url="../lignes/06_eSc_line_1c9f7cb2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_100d3313" corresp="#elem_eSc_line_100d3313">
+      <graphic url="../lignes/06_eSc_line_100d3313.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2941ddf2" corresp="#elem_eSc_line_2941ddf2">
+      <graphic url="../lignes/06_eSc_line_2941ddf2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_185a9d12" corresp="#elem_eSc_line_185a9d12">
+      <graphic url="../lignes/06_eSc_line_185a9d12.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_33f79839" corresp="#elem_eSc_line_33f79839">
+      <graphic url="../lignes/06_eSc_line_33f79839.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6daf9100" corresp="#elem_eSc_line_6daf9100">
+      <graphic url="../lignes/06_eSc_line_6daf9100.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b6966c6b" corresp="#elem_eSc_line_b6966c6b">
+      <graphic url="../lignes/06_eSc_line_b6966c6b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c6a180e5" corresp="#elem_eSc_line_c6a180e5">
+      <graphic url="../lignes/06_eSc_line_c6a180e5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_624648a4" corresp="#elem_eSc_line_624648a4">
+      <graphic url="../lignes/06_eSc_line_624648a4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fe4e6fa0" corresp="#elem_eSc_line_fe4e6fa0">
+      <graphic url="../lignes/06_eSc_line_fe4e6fa0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ac301f5d" corresp="#elem_eSc_line_ac301f5d">
+      <graphic url="../lignes/06_eSc_line_ac301f5d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_da3faa85" corresp="#elem_eSc_line_da3faa85">
+      <graphic url="../lignes/06_eSc_line_da3faa85.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d01c0670" corresp="#elem_eSc_line_d01c0670">
+      <graphic url="../lignes/06_eSc_line_d01c0670.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5ccffea2" corresp="#elem_eSc_line_5ccffea2">
+      <graphic url="../lignes/06_eSc_line_5ccffea2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_73481a57" corresp="#elem_eSc_line_73481a57">
+      <graphic url="../lignes/06_eSc_line_73481a57.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ddd7a18e" corresp="#elem_eSc_line_ddd7a18e">
+      <graphic url="../lignes/06_eSc_line_ddd7a18e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b7343821" corresp="#elem_eSc_line_b7343821">
+      <graphic url="../lignes/06_eSc_line_b7343821.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b5cace7c" corresp="#elem_eSc_line_b5cace7c">
+      <graphic url="../lignes/06_eSc_line_b5cace7c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1c29dbd0" corresp="#elem_eSc_line_1c29dbd0">
+      <graphic url="../lignes/06_eSc_line_1c29dbd0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3351048c" corresp="#elem_eSc_line_3351048c">
+      <graphic url="../lignes/06_eSc_line_3351048c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4f9c80c7" corresp="#elem_eSc_line_4f9c80c7">
+      <graphic url="../lignes/06_eSc_line_4f9c80c7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6da55470" corresp="#elem_eSc_line_6da55470">
+      <graphic url="../lignes/06_eSc_line_6da55470.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3057e8f9" corresp="#elem_eSc_line_3057e8f9">
+      <graphic url="../lignes/06_eSc_line_3057e8f9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_81732314" corresp="#elem_eSc_line_81732314">
+      <graphic url="../lignes/06_eSc_line_81732314.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5f6ad3b1" corresp="#elem_eSc_line_5f6ad3b1">
+      <graphic url="../lignes/06_eSc_line_5f6ad3b1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_75c9cfc2" corresp="#elem_eSc_line_75c9cfc2">
+      <graphic url="../lignes/06_eSc_line_75c9cfc2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9a0ed11b" corresp="#elem_eSc_line_9a0ed11b">
+      <graphic url="../lignes/06_eSc_line_9a0ed11b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8e07ab86" corresp="#elem_eSc_line_8e07ab86">
+      <graphic url="../lignes/06_eSc_line_8e07ab86.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fb09f30b" corresp="#elem_eSc_line_fb09f30b">
+      <graphic url="../lignes/06_eSc_line_fb09f30b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4f2eb24b" corresp="#elem_eSc_line_4f2eb24b">
+      <graphic url="../lignes/06_eSc_line_4f2eb24b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0a4b7e3d" corresp="#elem_eSc_line_0a4b7e3d">
+      <graphic url="../lignes/06_eSc_line_0a4b7e3d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b8630de5" corresp="#elem_eSc_line_b8630de5">
+      <graphic url="../lignes/06_eSc_line_b8630de5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2eb550ea" corresp="#elem_eSc_line_2eb550ea">
+      <graphic url="../lignes/06_eSc_line_2eb550ea.png"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div n="1" type="livre">
+        <div n="1.2" type="partie">
+          <div n="1" type="chapitre">
+            <pb n="" facs="../input_files/01.jpg"/>
+            <head n="LzTDRrxe"><lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_2480a920" xml:id="elem_eSc_line_2480a920"/>. caplum primum quomodo<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b572daee" xml:id="elem_eSc_line_b572daee"/>diuiduntur aniem et inquibus po<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_2524f7d5" xml:id="elem_eSc_line_2524f7d5"/>tenciis habent esse uirtutes</head>
+            <p n="jjnPUymf"><lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_cd17e78b" xml:id="elem_eSc_line_cd17e78b"/>ostquam auxiliantem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6f94ad33" xml:id="elem_eSc_line_6f94ad33"/>deo conpleuimus primame partem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_796064ea" xml:id="elem_eSc_line_796064ea"/>huius pri mi libri in quo agitur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_1d6d49e3" xml:id="elem_eSc_line_1d6d49e3"/>de regimine sui ostendentes inquo<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b3c4ed4e" xml:id="elem_eSc_line_b3c4ed4e"/>reges . principes suam felicitatem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_2ecf16cd" xml:id="elem_eSc_line_2ecf16cd"/>pone debeant quare non debet eos<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6c4b5898" xml:id="elem_eSc_line_6c4b5898"/>suum finem ponere in diciis nec in<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_42292747" xml:id="elem_eSc_line_42292747"/>ciuili potentia nec in aliquibus<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_c5b89268" xml:id="elem_eSc_line_c5b89268"/>talibus sed in omnibus hiis ut supra<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_89b1daaf" xml:id="elem_eSc_line_89b1daaf"/>plenius probabatur debent uti<pb n="" facs="../input_files/02.jpg"/><lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_d6ff2783" xml:id="elem_eSc_line_d6ff2783"/>tanquam organis ad felicitatem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_2359a101" xml:id="elem_eSc_line_2359a101"/>suam autem felicitatem ponere debent<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_1a52f955" xml:id="elem_eSc_line_1a52f955"/>in actu prudencie prout talis<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_a73260c9" xml:id="elem_eSc_line_a73260c9"/>actus est inperatus a caritatem nam<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_900ff9d8" xml:id="elem_eSc_line_900ff9d8"/>tunc reges habent felicitature suo<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_18d99367" xml:id="elem_eSc_line_18d99367"/>statu debitam . condignam quando in<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_505b5cd2" xml:id="elem_eSc_line_505b5cd2"/>stigante dei delicatione secundum pro<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_8a323abe" xml:id="elem_eSc_line_8a323abe"/>denciam regnatiuam gentem sibi<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_c358d950" xml:id="elem_eSc_line_c358d950"/>commissam secundum legem . rationem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_95d30ba6" xml:id="elem_eSc_line_95d30ba6"/>scem . iuste regunt principaliter<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_918fa057" xml:id="elem_eSc_line_918fa057"/>igitur regum felicitas ponenda est<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_87da209d" xml:id="elem_eSc_line_87da209d"/>inipso deo uut cognitione et<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_78a9e44e" xml:id="elem_eSc_line_78a9e44e"/>dilectione eius suum studium . suam<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f85f4cee" xml:id="elem_eSc_line_f85f4cee"/>uitam ad hoc ordinare debeant<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b9de15cc" xml:id="elem_eSc_line_b9de15cc"/>. cognoscentes . diligentes dum<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_99df54f6" xml:id="elem_eSc_line_99df54f6"/>tanquam ueri ministri eius secundum<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_70d0f7ea" xml:id="elem_eSc_line_70d0f7ea"/>ordinem connis dirigant pplum<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_cf911c5e" xml:id="elem_eSc_line_cf911c5e"/>sibi commissum hiis igitur ita peractis<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_0d01686f" xml:id="elem_eSc_line_0d01686f"/>. ostenso in quo reges debenant<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_d07d3e63" xml:id="elem_eSc_line_d07d3e63"/>ponere suum finem scdundum ordinem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_8a87eb6d" xml:id="elem_eSc_line_8a87eb6d"/>superius potexatum restat ostendere quibus<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b812de57" xml:id="elem_eSc_line_b812de57"/>uirtutibus reges pollere debeant<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_24828cfc" xml:id="elem_eSc_line_24828cfc"/>uirtutes autem sunt quidam orna<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_2a532937" xml:id="elem_eSc_line_2a532937"/>tus quedam perfecones aniem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_8c95a8b0" xml:id="elem_eSc_line_8c95a8b0"/>oportet igitur prius ostendere quiuot sunt poten<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_3753a1a2" xml:id="elem_eSc_line_3753a1a2"/>tie anime . inquibus potenciis<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_59b758ee" xml:id="elem_eSc_line_59b758ee"/>habent esse uirtutes conmunter autem ma<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_75ba5f9c" xml:id="elem_eSc_line_75ba5f9c"/>nifestabitur quo uirtutes st dis<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_27bafc22" xml:id="elem_eSc_line_27bafc22"/>teingende postea uero ostendemus<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_967f94a3" xml:id="elem_eSc_line_967f94a3"/>quot sunt numero huius uirtutes .<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_8e56bbc1" xml:id="elem_eSc_line_8e56bbc1"/>que illarum sunt principales . que<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_8bc43a85" xml:id="elem_eSc_line_8bc43a85"/>secundiemdentie autem declababitur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_be24dd08" xml:id="elem_eSc_line_be24dd08"/>singulariter que sit una quem illarum<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_7572fe91" xml:id="elem_eSc_line_7572fe91"/>uirtutum . quomodo decet reges et<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_20623bd9" xml:id="elem_eSc_line_20623bd9"/>principes tales uirtutes habere po<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_05c828cb" xml:id="elem_eSc_line_05c828cb"/>tencie autem anime sic distingui<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_dea97bff" xml:id="elem_eSc_line_dea97bff"/>possunt quare quedam sunt naturale ss<cb break="?"/><lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6ddedd66" xml:id="elem_eSc_line_6ddedd66"/>quedam cognitiue sensitiue que<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_73fd32aa" xml:id="elem_eSc_line_73fd32aa"/>dam appetitiue . quedam intel<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_7574d8fa" xml:id="elem_eSc_line_7574d8fa"/>lectiue nales potencie sunt ille<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_1700490c" xml:id="elem_eSc_line_1700490c"/>. inquibus communnicamus cum uegeta<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_38e8416b" xml:id="elem_eSc_line_38e8416b"/>bilibus . plantis ut potentia nutriti<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_d45e2112" xml:id="elem_eSc_line_d45e2112"/>ua augmentatiua generatiua . ta<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_625add00" xml:id="elem_eSc_line_625add00"/>lia que uer ipsis ardoribus conpetunt<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_26fcfbae" xml:id="elem_eSc_line_26fcfbae"/>spotentie uero cognitiue sensiti<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_78950815" xml:id="elem_eSc_line_78950815"/>ue sunt uisus gustus tactus et<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_ecc71b1c" xml:id="elem_eSc_line_ecc71b1c"/>talia in quibus commuicamus cunbru<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_aafce90b" xml:id="elem_eSc_line_aafce90b"/>tis appetitiue uero distinguntur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6acb84c3" xml:id="elem_eSc_line_6acb84c3"/>nam quidam appetitus est in homine<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_18fc2ac8" xml:id="elem_eSc_line_18fc2ac8"/>inquo non communicat cum brutis ut<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_81859b6e" xml:id="elem_eSc_line_81859b6e"/>appetitus seques intellectiu quidam<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_e68d116c" xml:id="elem_eSc_line_e68d116c"/>uero inquo communicat cum eis ut appe<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_cd985afd" xml:id="elem_eSc_line_cd985afd"/>titus sequens sensum appetitus<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_456d1636" xml:id="elem_eSc_line_456d1636"/>autem sequens sensum potest nominari<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_58f5693b" xml:id="elem_eSc_line_58f5693b"/>senfualitas sequens intellectum no<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_9fb02a48" xml:id="elem_eSc_line_9fb02a48"/>minent uoluntas secundum quem sensum<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_eccde56b" xml:id="elem_eSc_line_eccde56b"/>modum loquendi bruta habent sen<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_54f9a9ea" xml:id="elem_eSc_line_54f9a9ea"/>sualitatem . appetitum sensiti<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_40a1c97c" xml:id="elem_eSc_line_40a1c97c"/>uum sed non habent uoluntatem oi appe<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_d90017cf" xml:id="elem_eSc_line_d90017cf"/>titum intellectiuum uirtutes ergo de<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_23d85198" xml:id="elem_eSc_line_23d85198"/>quibus loqui intendimus que sunt<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_18d8ee36" xml:id="elem_eSc_line_18d8ee36"/>quidam habitus laudabiles uele<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_c765e441" xml:id="elem_eSc_line_c765e441"/>runt in potenciis naturalibus uel in ipsis<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_a5f812ae" xml:id="elem_eSc_line_a5f812ae"/>sensibus uel in appetitu sensiti<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_965d6bb1" xml:id="elem_eSc_line_965d6bb1"/>uo uel in appetitu intellectiuo uel<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_71d2833a" xml:id="elem_eSc_line_71d2833a"/>in ipso intellectu uel in hiis omnibibus<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_48a42c10" xml:id="elem_eSc_line_48a42c10"/>uel in aliquibus horum in poten<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_65484330" xml:id="elem_eSc_line_65484330"/>ciis aut necalibus esse non possunt<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_fb607d73" xml:id="elem_eSc_line_fb607d73"/>quod triplicer patet primo quare ex naturalibus<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_972fa92b" xml:id="elem_eSc_line_972fa92b"/>nec laudamur nec uitupera<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_dc8adc73" xml:id="elem_eSc_line_dc8adc73"/>mur nullus non dr bonus homo<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_dc9dc4a1" xml:id="elem_eSc_line_dc9dc4a1"/>ex eo quod henat bonona digestuina<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_70e8bad5" xml:id="elem_eSc_line_70e8bad5"/>uel bonam augmentatiuam<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6369db9b" xml:id="elem_eSc_line_6369db9b"/>. secundo in talibus non habent esse<pb n="" facs="../input_files/03.jpg"/><lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_565b5ee1" xml:id="elem_eSc_line_565b5ee1"/>huius uirtutos quare uirtus est aliquid secundum<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_1f6c3701" xml:id="elem_eSc_line_1f6c3701"/>ronum ut potest probari secundo ethos po<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b6b6b29b" xml:id="elem_eSc_line_b6b6b29b"/>autem naturales secundum quod huius sunt<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_e9d32741" xml:id="elem_eSc_line_e9d32741"/>ronni non obediunt nam siue quis<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_d450a628" xml:id="elem_eSc_line_d450a628"/>roncinetur siue uelit non prophoc<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_a46830dc" xml:id="elem_eSc_line_a46830dc"/>per seloquendo po etie nales uariantur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_433889a0" xml:id="elem_eSc_line_433889a0"/>in actibus suis sed semper secundum modum<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_1256ba9a" xml:id="elem_eSc_line_1256ba9a"/>sibi possibile suas actiones efficiunt<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f4881e87" xml:id="elem_eSc_line_f4881e87"/>tercio in talibus potenciis non<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_a1b03e90" xml:id="elem_eSc_line_a1b03e90"/>sunt hitus . uirtutes quare hin<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_c3cdbc40" xml:id="elem_eSc_line_c3cdbc40"/>tus sunt ad determinadum potenci<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f0390121" xml:id="elem_eSc_line_f0390121"/>as ut bene uel male agant ut<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_65398f15" xml:id="elem_eSc_line_65398f15"/>perhibus uitiosos determinetur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_0c4191a2" xml:id="elem_eSc_line_0c4191a2"/>potencia ad agnondum male per<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_04cb8f4f" xml:id="elem_eSc_line_04cb8f4f"/>uirtuosos ad agendum bene cum igitur<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_32e6dea6" xml:id="elem_eSc_line_32e6dea6"/>natura sit determinata ad u<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_dbdcf8f8" xml:id="elem_eSc_line_dbdcf8f8"/>num . po etie non ales sufficienter de<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f41f7479" xml:id="elem_eSc_line_f41f7479"/>terminentur ad agendum ex natura<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_3c093414" xml:id="elem_eSc_line_3c093414"/>sua secundum eas nec sumus iutio<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_9e047019" xml:id="elem_eSc_line_9e047019"/>si nec uirtuosi ut hoc deuitio .<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_66adc37a" xml:id="elem_eSc_line_66adc37a"/>uirtute loqumur quare ineis huius<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f05cb328" xml:id="elem_eSc_line_f05cb328"/>uirtutes esse non possunt . hiis<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_91537ea1" xml:id="elem_eSc_line_91537ea1"/>igitur tribus romibus per quas probatum est<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_cb40788d" xml:id="elem_eSc_line_cb40788d"/>huius uirtutes non esse in potenciis<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_d11a88a5" xml:id="elem_eSc_line_d11a88a5"/>nalibus probari potest eas non esse<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_3801cd0c" xml:id="elem_eSc_line_3801cd0c"/>incognitione sensitiua siue<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_ef28193f" xml:id="elem_eSc_line_ef28193f"/>inpotenciis sensitiuis nam sicut<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_44a8f917" xml:id="elem_eSc_line_44a8f917"/>non laudamur nec uituperamur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_da37fc2e" xml:id="elem_eSc_line_da37fc2e"/>ex potenciis naturalibus sic non<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b88689c6" xml:id="elem_eSc_line_b88689c6"/>laudamur nec uituperamur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f08a9203" xml:id="elem_eSc_line_f08a9203"/>ex sensibus nam sicut mls lauda<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_89774892" xml:id="elem_eSc_line_89774892"/>tur tanquod bomus homo ex eo quem<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6fa1f873" xml:id="elem_eSc_line_6fa1f873"/>bene digerit uel bene crescit sic non<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_36207f5b" xml:id="elem_eSc_line_36207f5b"/>laudatur ex eo quod acute ui<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b22048b3" xml:id="elem_eSc_line_b22048b3"/>det subtiliter audit nisi forte hoc<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_e80b8ff6" xml:id="elem_eSc_line_e80b8ff6"/>esset per accuns uel si quis ex super<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_a8e0d33c" xml:id="elem_eSc_line_a8e0d33c"/>flua commestione uel ex nimia<cb break="?"/><lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f592ce59" xml:id="elem_eSc_line_f592ce59"/>potatione incurrisset obtalimam<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_a082b812" xml:id="elem_eSc_line_a082b812"/>oclorum ne bene uideret uel debili<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_eed08d34" xml:id="elem_eSc_line_eed08d34"/>tatem stomachi ne bene digere<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_4beb8aab" xml:id="elem_eSc_line_4beb8aab"/>ret increparetur ille non quare ma<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_939703aa" xml:id="elem_eSc_line_939703aa"/>le digerit uel quare non clare uidet<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_cad88714" xml:id="elem_eSc_line_cad88714"/>. bene digere per se loquendo non est<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f26b1ed2" xml:id="elem_eSc_line_f26b1ed2"/>in potestate homines sed increparetur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_9cc28c8f" xml:id="elem_eSc_line_9cc28c8f"/>ex nimio potum uel ex super fluo<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_9c7c755d" xml:id="elem_eSc_line_9c7c755d"/>cibo nam erat in potestate suaut<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6839f198" xml:id="elem_eSc_line_6839f198"/>posset uti potu . cibo moderate<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_87e9f1dd" xml:id="elem_eSc_line_87e9f1dd"/>bo insensibus non est ponenda uirtus<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_97e78978" xml:id="elem_eSc_line_97e78978"/>moralis quare sit poteste etie naturales<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_270753db" xml:id="elem_eSc_line_270753db"/>non obediunt ronniu quare secundum regu<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_05400edd" xml:id="elem_eSc_line_05400edd"/>lam ronnis nalles magis aut mi<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_a4bec6f2" xml:id="elem_eSc_line_a4bec6f2"/>nus augetur uel magis aut mi<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_4f381dba" xml:id="elem_eSc_line_4f381dba"/>mis digint sic nec sensus obediunt<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_58b6ff2c" xml:id="elem_eSc_line_58b6ff2c"/>ronniu non onim est in potestate hominis<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_ce467219" xml:id="elem_eSc_line_ce467219"/>uidere clarius uel minus clare quare<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_37f7cafd" xml:id="elem_eSc_line_37f7cafd"/>si uirtus moralis est aliquid secundum<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_40757e80" xml:id="elem_eSc_line_40757e80"/>ronum huius uirtus insensibus poni<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_a0583ae7" xml:id="elem_eSc_line_a0583ae7"/>non debet . ttercio in talibus non est<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_4bb03eb7" xml:id="elem_eSc_line_4bb03eb7"/>moralis uirtus quare sicut po etie naturales<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b462f834" xml:id="elem_eSc_line_b462f834"/>sufficienter determinantur ad<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_90a50084" xml:id="elem_eSc_line_90a50084"/>actiones suas per suam naturam sic<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_1dd5ec22" xml:id="elem_eSc_line_1dd5ec22"/>. sensus nam sicut ignis tam ca<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_bdce91a1" xml:id="elem_eSc_line_bdce91a1"/>lefacit quantum potest calefatere proptue<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_2de423e6" xml:id="elem_eSc_line_2de423e6"/>quare determinatus in actione sua<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_5fe8351a" xml:id="elem_eSc_line_5fe8351a"/>nec laudatur nec uituperatur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_dc4aa08a" xml:id="elem_eSc_line_dc4aa08a"/>nec est ineo utus moralis sec<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_0252ba51" xml:id="elem_eSc_line_0252ba51"/>quare pous digestiua tm digerit<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_dcc67ca9" xml:id="elem_eSc_line_dcc67ca9"/>quantarum potest digere . ocules tm<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_e163d8fb" xml:id="elem_eSc_line_e163d8fb"/>uidet quantarum potest uidere in eis<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_d70c0b15" xml:id="elem_eSc_line_d70c0b15"/>uirtus moralis esse non potest nam<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b62cfe99" xml:id="elem_eSc_line_b62cfe99"/>peruitutem moralem determinatur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_43a81f15" xml:id="elem_eSc_line_43a81f15"/>po aetura ad agendum hoc autem suffi<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_ece23910" xml:id="elem_eSc_line_ece23910"/>cienter determinatur ad ac<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_1bbc6269" xml:id="elem_eSc_line_1bbc6269"/>tiones proprias per nmne non igitur in<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_9894e940" xml:id="elem_eSc_line_9894e940"/>digent uirtute morali si igitur nec<pb n="" facs="../input_files/04.jpg"/><add type="ajout" place="?" facs="72 229 121 229 200 317 121 394 88 394 52 332 72 229"/><graphic type="initiale" facs="114 1084 306 1198 288 1275 130 1346 79 1302 79 1128 114 1084 81 1264 81 1291 94 1291 94 1264 94 1227 81 1225 81 1264 107 1297 107 1326 123 1328 125 1297 123 1264 107 1266 107 1297"/><lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_8a85a57a" xml:id="elem_eSc_line_8a85a57a"/>in potenciis nalibus nec insensi<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_3fcff2a2" xml:id="elem_eSc_line_3fcff2a2"/>beb est uirtus moralis cum preter<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_a6406c20" xml:id="elem_eSc_line_a6406c20"/>po naturales . sensus non sit nisi<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_ef51be8e" xml:id="elem_eSc_line_ef51be8e"/>intellectus . appetitus intellecti<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_76fb548c" xml:id="elem_eSc_line_76fb548c"/>uus . sensitiuus oportet in talibus<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_8b0fb3ab" xml:id="elem_eSc_line_8b0fb3ab"/>esse uirtutes morales<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_ce9b4cad" xml:id="elem_eSc_line_ce9b4cad"/>iium quomodo distinguntur uirtutes . quomodo</p>
+          </div>
+          <div n="1.2.2" type="chapitre">
+            <head>¶Capłm<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_56e627b0" xml:id="elem_eSc_line_56e627b0"/>se habent inintellectu et appe<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_021a7d37" xml:id="elem_eSc_line_021a7d37"/>stenso quod nec titum</head>
+            <p><lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_963360b7" xml:id="elem_eSc_line_963360b7"/>in potenciis nanilibus nec in<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_2367abe4" xml:id="elem_eSc_line_2367abe4"/>sensibus habent esse uirtutes restat<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_23e26589" xml:id="elem_eSc_line_23e26589"/>ostendere quomodo distinguntur uirtutes<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f03d1205" xml:id="elem_eSc_line_f03d1205"/>. quomodo in intellectu . appetitu exi<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_7af2ae33" xml:id="elem_eSc_line_7af2ae33"/>stunt distinguendum est ergo de uir<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_40550f7a" xml:id="elem_eSc_line_40550f7a"/>tutibus . de huius potenciis nam uir<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_cb27b993" xml:id="elem_eSc_line_cb27b993"/>tutum quedam sunt intellentuales que<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_487b5e25" xml:id="elem_eSc_line_487b5e25"/>dam morales quedam medie inter<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_96b8c53d" xml:id="elem_eSc_line_96b8c53d"/>intellectuales . moralessuitu<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_cd386df5" xml:id="elem_eSc_line_cd386df5"/>tes intellectuales dicuntur inlle que<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_8fa27ae3" xml:id="elem_eSc_line_8fa27ae3"/>sunt inintellectu speculatiuo cuius<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_8af63c1d" xml:id="elem_eSc_line_8af63c1d"/>modi sunt scine speculatiue uut na<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_35e2b033" xml:id="elem_eSc_line_35e2b033"/>turalis pobentia geometria mecha<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_95c70183" xml:id="elem_eSc_line_95c70183"/>phicapio . cetera talia uirtutes uero<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_81296d96" xml:id="elem_eSc_line_81296d96"/>simplicer morales sunt ille que s<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_254a7135" xml:id="elem_eSc_line_254a7135"/>in appetitu siue appetitus ille<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_c03925c6" xml:id="elem_eSc_line_c03925c6"/>sit sensitiuus siue intellecti<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_de951536" xml:id="elem_eSc_line_de951536"/>uus cuiusmodi autem sunt uisticia<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_a155fb61" xml:id="elem_eSc_line_a155fb61"/>tenperantia fortiqeu o mansue ae o et<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_d8c057cc" xml:id="elem_eSc_line_d8c057cc"/>ceta talia de quibus sumus singula<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_2301c0d6" xml:id="elem_eSc_line_2301c0d6"/>riter tractaturs ututes autem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_fecf75a5" xml:id="elem_eSc_line_fecf75a5"/>medie inter intenllectuales .<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_fc3a8253" xml:id="elem_eSc_line_fc3a8253"/>morales sunt ututes exintes in<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_305e5a50" xml:id="elem_eSc_line_305e5a50"/>intellectu ut pratencia . alie<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_73555e7b" xml:id="elem_eSc_line_73555e7b"/>uirtutes sibri amuxtem predencia an<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_2eeceff8" xml:id="elem_eSc_line_2eeceff8"/>secundum conuicatorem super librum echocus<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f48baebd" xml:id="elem_eSc_line_f48baebd"/>media est inter uirtutes mo<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_e2acd865" xml:id="elem_eSc_line_e2acd865"/>rales . intellectuales compu<cb break="?"/><lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_04c03a13" xml:id="elem_eSc_line_04c03a13"/>tari tamen potest cum ututibus mora<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6307965f" xml:id="elem_eSc_line_6307965f"/>libet nam prudencia non mest<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_68ecf248" xml:id="elem_eSc_line_68ecf248"/>non hominibus bonis sicut nec uirtutes<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_35ed3ed6" xml:id="elem_eSc_line_35ed3ed6"/>morales praui eii homines et si<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_dd70af0d" xml:id="elem_eSc_line_dd70af0d"/>possent esse scientes astuti cem scientes astuti i scipelles<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_58fea8df" xml:id="elem_eSc_line_58fea8df"/>uersi pelles prudentes tamen<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_4b714e69" xml:id="elem_eSc_line_4b714e69"/>esse non possunt ut suo locopate<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_475f3e41" xml:id="elem_eSc_line_475f3e41"/>bite inde est ergo quod dicitur eui echocus quod<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_1503d4f3" xml:id="elem_eSc_line_1503d4f3"/>inpol etie est prudentem esse non entem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_61b1ac33" xml:id="elem_eSc_line_61b1ac33"/>dem bonum . dimissis igitur mnatura<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_9ee651e4" xml:id="elem_eSc_line_9ee651e4"/>tutibus intellectualibus . dimis<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6fb67f41" xml:id="elem_eSc_line_6fb67f41"/>sis sciis speculatiuis de prenden<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b7e87d0d" xml:id="elem_eSc_line_b7e87d0d"/>cia . deuertutibus moralibus<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b0731b32" xml:id="elem_eSc_line_b0731b32"/>est tractandum suscepimus nut<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_d6a795d0" xml:id="elem_eSc_line_d6a795d0"/>pluries diximus prosens opus ut<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_ddd857be" xml:id="elem_eSc_line_ddd857be"/>non sciamus sed ut boni fiamus<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_228e8fe9" xml:id="elem_eSc_line_228e8fe9"/>que bonitas sine prudencia<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b300b987" xml:id="elem_eSc_line_b300b987"/>. uirtutibus moralibus nobis in<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_be1c796f" xml:id="elem_eSc_line_be1c796f"/>esse non potestas autem uirtutes<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_e7217ce5" xml:id="elem_eSc_line_e7217ce5"/>inintellectu . appetitu sic esse<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_2d4cc14d" xml:id="elem_eSc_line_2d4cc14d"/>contingit dccum est non uirtutem esse<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6374dc56" xml:id="elem_eSc_line_6374dc56"/>a did sensi ronum oportet ergo esse rannalem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6959de3c" xml:id="elem_eSc_line_6959de3c"/>potentiam in qua ponitur esse uirtus<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_2bfc672c" xml:id="elem_eSc_line_2bfc672c"/>ronnale autem duplex est secundum<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6aed2315" xml:id="elem_eSc_line_6aed2315"/>philos perentenapiua . per participa<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_13af19c6" xml:id="elem_eSc_line_13af19c6"/>tion intellectus autem est rona<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_2a398ade" xml:id="elem_eSc_line_2a398ade"/>lis per essenciam appetitus uero<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6fa68e5c" xml:id="elem_eSc_line_6fa68e5c"/>per participationem nam appeti<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_9554f573" xml:id="elem_eSc_line_9554f573"/>tus licet non sit ipse intelletus uel<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_c2397c47" xml:id="elem_eSc_line_c2397c47"/>ipsa ratio estentaliter dr tamen participa<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_a351629d" xml:id="elem_eSc_line_a351629d"/>re rone quare est aptus nantus romi<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_e040da3c" xml:id="elem_eSc_line_e040da3c"/>obedire po etie autem nec ales et<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_60a7c667" xml:id="elem_eSc_line_60a7c667"/>sensus fi sunt rannales per eenonci<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_a672e68d" xml:id="elem_eSc_line_a672e68d"/>am quare non ipsa ratio sunt nec rone<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_71652bea" xml:id="elem_eSc_line_71652bea"/>participant quare per se . secundet quod<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_36631604" xml:id="elem_eSc_line_36631604"/>huius non obediunt ronniu igitur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_16e1598c" xml:id="elem_eSc_line_16e1598c"/>insensibus . inpotenciis nali<add type="ajout" place="?" facs="2241 722 2562 757 2606 819 2598 958 2483 1028 2177 1020 2141 854 2177 757 2241 722"/><pb n="" facs="../input_files/05.jpg"/><lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_1eea196a" xml:id="elem_eSc_line_1eea196a"/>bus ut supra dicebatur non habent ene<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_9e01ddd1" xml:id="elem_eSc_line_9e01ddd1"/>uirtutes sed solum esse habent in intel<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_4855fc4f" xml:id="elem_eSc_line_4855fc4f"/>lectu nappetitum in nonb autem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_087fb7fc" xml:id="elem_eSc_line_087fb7fc"/>duplex est appetitus intellect<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_62fcf7ba" xml:id="elem_eSc_line_62fcf7ba"/>tiuus . sensitiuus nam sicut<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_67461937" xml:id="elem_eSc_line_67461937"/>appetitus naturalis sequitur form<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_7de632f8" xml:id="elem_eSc_line_7de632f8"/>naturaliter adeptam sic appetitus cogni<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6a9637ca" xml:id="elem_eSc_line_6a9637ca"/>tiuus sequo formamum per cognitionem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_93c321e5" xml:id="elem_eSc_line_93c321e5"/>apphensam sicunt onim grauia<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_5e2e8b9f" xml:id="elem_eSc_line_5e2e8b9f"/>ex eo quod habent formam grauis sequa<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_87d22437" xml:id="elem_eSc_line_87d22437"/>ea quedam nalis inclinatio<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_8a5d2e2c" xml:id="elem_eSc_line_8a5d2e2c"/>. quidam appetitus nalis ut<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_bb49dde3" xml:id="elem_eSc_line_bb49dde3"/>naliter desiderant esse deorsum sich<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_fc395fc3" xml:id="elem_eSc_line_fc395fc3"/>habencia cognitione prout habent iner<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_143a3704" xml:id="elem_eSc_line_143a3704"/>se ipsis form apprehensam sequo que<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f31358b3" xml:id="elem_eSc_line_f31358b3"/>dam indin atio . quidam appetitus<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_d41fbc42" xml:id="elem_eSc_line_d41fbc42"/>secundum formam illam propter quem sic est in no<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_fe4281a6" xml:id="elem_eSc_line_fe4281a6"/>bis duplex cognitio sensitiua<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f71264cc" xml:id="elem_eSc_line_f71264cc"/>. intellectiua sic est in nobis dupur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f5f6f1e7" xml:id="elem_eSc_line_f5f6f1e7"/>appetitus uidelicet sensitiuus<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_25917b70" xml:id="elem_eSc_line_25917b70"/>qui sequa formam apphensam persensum<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_68fe673e" xml:id="elem_eSc_line_68fe673e"/>. intellectiuus qui sequ formam apper<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_9140cea2" xml:id="elem_eSc_line_9140cea2"/>hensam per intellectum appetitur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_8b75a3a0" xml:id="elem_eSc_line_8b75a3a0"/>autem sensitimis duplex en nam<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_80d4ec1e" xml:id="elem_eSc_line_80d4ec1e"/>cum animalia sint supra in animatam si<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_5b72e458" xml:id="elem_eSc_line_5b72e458"/>natura elis . rebus in animatis de<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_d853fd93" xml:id="elem_eSc_line_d853fd93"/>dit duplicem potentiam unam per<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_ddc56cad" xml:id="elem_eSc_line_ddc56cad"/>quam tendum in propriam quietem . ali<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_d072744d" xml:id="elem_eSc_line_d072744d"/>am per quam resistunt . agunt<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_4ecad237" xml:id="elem_eSc_line_4ecad237"/>in prohibencia . in contraria multo<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_863f4c4a" xml:id="elem_eSc_line_863f4c4a"/>magis hanc duplicem potentiam<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6f1e73ac" xml:id="elem_eSc_line_6f1e73ac"/>na dedit ipsis animalibus que sunt<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b0a1af0b" xml:id="elem_eSc_line_b0a1af0b"/>perfectora illice uideus onim quod ignis est<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_044585be" xml:id="elem_eSc_line_044585be"/>naturaliter calidus . leuis per le<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_c5f83431" xml:id="elem_eSc_line_c5f83431"/>uitatem autem tendit in locum<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_e44978a2" xml:id="elem_eSc_line_e44978a2"/>aprium . inquietem sibi conuenientem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_e8a9e784" xml:id="elem_eSc_line_e8a9e784"/>percaliditatem uero agit inquaria<cb break="?"/><lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_44929494" xml:id="elem_eSc_line_44929494"/>ne ergo ignis per quecunque contraria agen<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_ca7add05" xml:id="elem_eSc_line_ca7add05"/>cia inpediretur ne per leuitature<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f0699ad4" xml:id="elem_eSc_line_f0699ad4"/>in proprio loco quiescere posset dedit ei<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_658200f9" xml:id="elem_eSc_line_658200f9"/>nata pom calestuiam ut per<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_1a0720bb" xml:id="elem_eSc_line_1a0720bb"/>eam resistereret naget in quaria cor<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b32b2b29" xml:id="elem_eSc_line_b32b2b29"/>ruptiua si igitur igni . rebus in anima<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_7ea48f4b" xml:id="elem_eSc_line_7ea48f4b"/>tis nata dedit duplicem pom<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_cd9b8ee4" xml:id="elem_eSc_line_cd9b8ee4"/>unam per quam adipiscuntur propriam<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_4f20fbf7" xml:id="elem_eSc_line_4f20fbf7"/>quietem . aliam per quam agunt in pro<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_c52a6d8e" xml:id="elem_eSc_line_c52a6d8e"/>hibencia . contraria multo magis<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_e769e9d9" xml:id="elem_eSc_line_e769e9d9"/>hoc dedit animalibus tribuit ergo eis dupli<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_ad823a9f" xml:id="elem_eSc_line_ad823a9f"/>cem appetitum sensitiuum unum per<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_4c4951d0" xml:id="elem_eSc_line_4c4951d0"/>quem prosequuntur propriam quietem . propriam<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_301d5671" xml:id="elem_eSc_line_301d5671"/>delctatiom ut concupiscibilem et<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6e69971d" xml:id="elem_eSc_line_6e69971d"/>alium per que resistunt et aggredi<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_ee14ecf5" xml:id="elem_eSc_line_ee14ecf5"/>untur prohibitiua . contraria ut irasci<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_0105d3af" xml:id="elem_eSc_line_0105d3af"/>bilem ita quod contupisci . se habent sicut<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_141dbd58" xml:id="elem_eSc_line_141dbd58"/>leuitas uel grauitas in leuibus .<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_60fa2944" xml:id="elem_eSc_line_60fa2944"/>grauibebus irascibilis uerose habent qua<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_ac98890d" xml:id="elem_eSc_line_ac98890d"/>caliditas . frigiditas ineis nam<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f0614ed2" xml:id="elem_eSc_line_f0614ed2"/>sicut grauia per grauitatem recedunt<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_7d7fb4a4" xml:id="elem_eSc_line_7d7fb4a4"/>aloco sursum tanquam a non conueni<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_230f6a93" xml:id="elem_eSc_line_230f6a93"/>ente . tendunt inlocum deorsum<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_630c9707" xml:id="elem_eSc_line_630c9707"/>tanquam ad locum conuenientem . con<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_33b3bd48" xml:id="elem_eSc_line_33b3bd48"/>formen per frigiditatem uero resis<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_e2dd3c23" xml:id="elem_eSc_line_e2dd3c23"/>tunt contrariis ne corrunpantur a propria<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_049e4c33" xml:id="elem_eSc_line_049e4c33"/>natura . deserant propria loca . propriam<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f08b545a" xml:id="elem_eSc_line_f08b545a"/>quietem sic alia per concupisci entem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_d45d74a5" xml:id="elem_eSc_line_d45d74a5"/>fugiunt mala tristicia . persequentur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_796dec87" xml:id="elem_eSc_line_796dec87"/>bona delectabilia per irascibilem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_314cdbd9" xml:id="elem_eSc_line_314cdbd9"/>uero agrediuntur contraria que possent<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_a6c18481" xml:id="elem_eSc_line_a6c18481"/>ea abhius delectationibus prohibereut<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_d7d64182" xml:id="elem_eSc_line_d7d64182"/>leo per concupistibilem pergit ut pro<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_3ce6e8c9" xml:id="elem_eSc_line_3ce6e8c9"/>sequatur cibum tanquam aliquid<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_fb16d6d5" xml:id="elem_eSc_line_fb16d6d5"/>delectabile per irascibilem uero ag<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_3a7acab8" xml:id="elem_eSc_line_3a7acab8"/>greditur animalia uolencia ipsum<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_715083ae" xml:id="elem_eSc_line_715083ae"/>prohibe in cibo adepto propter quem bene<pb n="" facs="../input_files/06.jpg"/><lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_3a5cc2f0" xml:id="elem_eSc_line_3a5cc2f0"/>dictum est quod concupiscibilis respi<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_28c1b882" xml:id="elem_eSc_line_28c1b882"/>cit bonum . malum sconum se i<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_8d44d027" xml:id="elem_eSc_line_8d44d027"/>rascibilis uero respicit bonum . ma<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_e6564b07" xml:id="elem_eSc_line_e6564b07"/>lum in quam habent ronnem difficilis . ar<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_bee13e86" xml:id="elem_eSc_line_bee13e86"/>dui nam cum bonum secundum se dicat<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_cf36a60b" xml:id="elem_eSc_line_cf36a60b"/>quod persequendum malum uero quod fugi<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b61c64b8" xml:id="elem_eSc_line_b61c64b8"/>endum concupisci ue que secundum se tend<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_1c68e0d7" xml:id="elem_eSc_line_1c68e0d7"/>in quietem . inbonadelectabtia .<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f3e96f83" xml:id="elem_eSc_line_f3e96f83"/>fugit mala tristia pro obiectohec<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6a4fbf3a" xml:id="elem_eSc_line_6a4fbf3a"/>bona . mala sensibilia secundet se<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_40c9bc59" xml:id="elem_eSc_line_40c9bc59"/>considerata irascibilis suo scdum quam<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_cf42ec29" xml:id="elem_eSc_line_cf42ec29"/>aggredimur . resistimus prohibem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_ffbcabc1" xml:id="elem_eSc_line_ffbcabc1"/>tibus . nociuis . tendit in bona .<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_bcee548f" xml:id="elem_eSc_line_bcee548f"/>mala sensibilia non secundum se consi<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_a460406d" xml:id="elem_eSc_line_a460406d"/>derata sed ut habent ronum ardui .<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_38349540" xml:id="elem_eSc_line_38349540"/>difficiliter nam arduitas . diuen<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_282b94b7" xml:id="elem_eSc_line_282b94b7"/>ficilitas potissime sunt repungnam<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_13652b43" xml:id="elem_eSc_line_13652b43"/>cia . prohibencia ne possimus conse<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b4e2086a" xml:id="elem_eSc_line_b4e2086a"/>qui bonum . uitare malsi imper<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_c68f743e" xml:id="elem_eSc_line_c68f743e"/>fcem ergo regisset natura si dedisset<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_ba454028" xml:id="elem_eSc_line_ba454028"/>animalibus concupiscibilem per quam ui<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_469984c2" xml:id="elem_eSc_line_469984c2"/>tarent mala . persequerentur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_48edea1c" xml:id="elem_eSc_line_48edea1c"/>bona nisi dedisset eis irascibilem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_38e288da" xml:id="elem_eSc_line_38e288da"/>perquam aggredirentur inpedien<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_53dc93c9" xml:id="elem_eSc_line_53dc93c9"/>cia delectatiom illam ut igitur animalia<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_c2e97919" xml:id="elem_eSc_line_c2e97919"/>secundum modum sibi conueniente ple<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_42acb50e" xml:id="elem_eSc_line_42acb50e"/>ne possunt delectari per concu<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f294cd47" xml:id="elem_eSc_line_f294cd47"/>piscibilem data est eis irascibilis<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_087e8f6d" xml:id="elem_eSc_line_087e8f6d"/>perquam resistant . aggridianter impe<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_8ef48fad" xml:id="elem_eSc_line_8ef48fad"/>diencia delectatiom illam du<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_80f6a0a8" xml:id="elem_eSc_line_80f6a0a8"/>plex est ergo appetitus sensitiuus<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b177b302" xml:id="elem_eSc_line_b177b302"/>irascibilis . concupiscibilis appe<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_644b03ee" xml:id="elem_eSc_line_644b03ee"/>titus autem intellectiuus qui dicitur uo<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_21eea3a4" xml:id="elem_eSc_line_21eea3a4"/>luntas remanm indiuisus nam<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_1017f331" xml:id="elem_eSc_line_1017f331"/>cum in tlectus ueliori modo respici<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f8c9fc4f" xml:id="elem_eSc_line_f8c9fc4f"/>at suum obiectum quam sensus appe<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_968c0c75" xml:id="elem_eSc_line_968c0c75"/>titiuus intellectiuus qui sequitur<cb break="?"/><lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_51ad1bf3" xml:id="elem_eSc_line_51ad1bf3"/>intellectum ueliori modo fertur inbonum<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_1114b31a" xml:id="elem_eSc_line_1114b31a"/>quam appetitus secundum sensum . quare<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_e1878957" xml:id="elem_eSc_line_e1878957"/>quantaro aliquid sibi ueliori modo accipitur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_f6941e41" xml:id="elem_eSc_line_f6941e41"/>tanto unum . idem existens ad plurase<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_1c9f7cb2" xml:id="elem_eSc_line_1c9f7cb2"/>extendit licet appetitus sensitiuiis<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_100d3313" xml:id="elem_eSc_line_100d3313"/>sit alius . aluus secundet quod persequimur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_2941ddf2" xml:id="elem_eSc_line_2941ddf2"/>delactabilia secundum sensum . ag<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_185a9d12" xml:id="elem_eSc_line_185a9d12"/>gredimur terribiliam appetitus tamen<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_33f79839" xml:id="elem_eSc_line_33f79839"/>intellectiuus unus . idem exinonis scitua<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6daf9100" xml:id="elem_eSc_line_6daf9100"/>in omne bonum . in talligibile non<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b6966c6b" xml:id="elem_eSc_line_b6966c6b"/>ergo est alius appetitus intellectiuus<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_c6a180e5" xml:id="elem_eSc_line_c6a180e5"/>secundum quem prosequim bona delecta<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_624648a4" xml:id="elem_eSc_line_624648a4"/>bilia per intellectum . aggerdimur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_fe4e6fa0" xml:id="elem_eSc_line_fe4e6fa0"/>bona ardua sicut est alius appetitus<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_ac301f5d" xml:id="elem_eSc_line_ac301f5d"/>sensitiuus secundet quod persequimur<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_da3faa85" xml:id="elem_eSc_line_da3faa85"/>delectabilia bona sensibilia<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_d01c0670" xml:id="elem_eSc_line_d01c0670"/>. aggredimur terribilia quare si omenis<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_5ccffea2" xml:id="elem_eSc_line_5ccffea2"/>uirtus moralis uel est inintellectu<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_73481a57" xml:id="elem_eSc_line_73481a57"/>uel inappetitu . appetitus<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_ddd7a18e" xml:id="elem_eSc_line_ddd7a18e"/>alius est intellectiuus uel uo<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b7343821" xml:id="elem_eSc_line_b7343821"/>luntas alius sensitiuus . hoc dupra<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b5cace7c" xml:id="elem_eSc_line_b5cace7c"/>irasci lecens concupiscibilis oportet omnem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_1c29dbd0" xml:id="elem_eSc_line_1c29dbd0"/>uirtutem moralem uel esse inintel<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_3351048c" xml:id="elem_eSc_line_3351048c"/>lectu uel inuoluntate uel in<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_4f9c80c7" xml:id="elem_eSc_line_4f9c80c7"/>irascibili uel inconcupistibili ac<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_6da55470" xml:id="elem_eSc_line_6da55470"/>cipiendo igitur uirtutem moralem<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_3057e8f9" xml:id="elem_eSc_line_3057e8f9"/>large prout ipsa prudencia<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_81732314" xml:id="elem_eSc_line_81732314"/>deritur moralis uirtus quedam dicere<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_5f6ad3b1" xml:id="elem_eSc_line_5f6ad3b1"/>possumus quod secundum has omiiion potenas<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_75c9cfc2" xml:id="elem_eSc_line_75c9cfc2"/>anime inquibus habet esse uirtus sunpte<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_9a0ed11b" xml:id="elem_eSc_line_9a0ed11b"/>sunt omiioniono ututes cardinales sos poter<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_8e07ab86" xml:id="elem_eSc_line_8e07ab86"/>dencia iustiua fortitudo . fe<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_fb09f30b" xml:id="elem_eSc_line_fb09f30b"/>perancia nam prudentia est in in<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_4f2eb24b" xml:id="elem_eSc_line_4f2eb24b"/>tellectu iusticia inuoluntate<lb break="yes" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_0a4b7e3d" xml:id="elem_eSc_line_0a4b7e3d"/>fortitudo in irascibili tempe<lb break="no" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_b8630de5" xml:id="elem_eSc_line_b8630de5"/>rancia incontu ipiscibili .<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Lat_1234/sortie_HTR/BNF_Lat_1234_out.replaced.xml#facs_eSc_line_2eb550ea" xml:id="elem_eSc_line_2eb550ea"/>rancia incontu ipiscibili .</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

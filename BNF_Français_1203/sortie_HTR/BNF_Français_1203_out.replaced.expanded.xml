@@ -1,0 +1,577 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BNF_Français_1203" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>BNF_Français_1203</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="facs_eSc_line_3afc1275" corresp="#elem_eSc_line_3afc1275">
+      <graphic url="../lignes/fr0_eSc_line_3afc1275.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a85e48c0" corresp="#elem_eSc_line_a85e48c0">
+      <graphic url="../lignes/fr0_eSc_line_a85e48c0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dc953f6b" corresp="#elem_eSc_line_dc953f6b">
+      <graphic url="../lignes/fr0_eSc_line_dc953f6b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4a570c96" corresp="#elem_eSc_line_4a570c96">
+      <graphic url="../lignes/fr0_eSc_line_4a570c96.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f057bc09" corresp="#elem_eSc_line_f057bc09">
+      <graphic url="../lignes/fr0_eSc_line_f057bc09.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_07b3684e" corresp="#elem_eSc_line_07b3684e">
+      <graphic url="../lignes/fr0_eSc_line_07b3684e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b7f0ef00" corresp="#elem_eSc_line_b7f0ef00">
+      <graphic url="../lignes/fr0_eSc_line_b7f0ef00.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8809e13d" corresp="#elem_eSc_line_8809e13d">
+      <graphic url="../lignes/fr0_eSc_line_8809e13d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_14ef1301" corresp="#elem_eSc_line_14ef1301">
+      <graphic url="../lignes/fr0_eSc_line_14ef1301.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_35791e24" corresp="#elem_eSc_line_35791e24">
+      <graphic url="../lignes/fr0_eSc_line_35791e24.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a89e72cd" corresp="#elem_eSc_line_a89e72cd">
+      <graphic url="../lignes/fr0_eSc_line_a89e72cd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f00516d7" corresp="#elem_eSc_line_f00516d7">
+      <graphic url="../lignes/fr0_eSc_line_f00516d7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d99b59e1" corresp="#elem_eSc_line_d99b59e1">
+      <graphic url="../lignes/fr0_eSc_line_d99b59e1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8497d24d" corresp="#elem_eSc_line_8497d24d">
+      <graphic url="../lignes/fr0_eSc_line_8497d24d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4dad35cf" corresp="#elem_eSc_line_4dad35cf">
+      <graphic url="../lignes/fr0_eSc_line_4dad35cf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2fbb09d0" corresp="#elem_eSc_line_2fbb09d0">
+      <graphic url="../lignes/fr0_eSc_line_2fbb09d0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_36afc10b" corresp="#elem_eSc_line_36afc10b">
+      <graphic url="../lignes/fr0_eSc_line_36afc10b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8fad8883" corresp="#elem_eSc_line_8fad8883">
+      <graphic url="../lignes/fr0_eSc_line_8fad8883.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0eef5f70" corresp="#elem_eSc_line_0eef5f70">
+      <graphic url="../lignes/fr0_eSc_line_0eef5f70.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6d956841" corresp="#elem_eSc_line_6d956841">
+      <graphic url="../lignes/fr0_eSc_line_6d956841.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_361cedea" corresp="#elem_eSc_line_361cedea">
+      <graphic url="../lignes/fr0_eSc_line_361cedea.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a5221e24" corresp="#elem_eSc_line_a5221e24">
+      <graphic url="../lignes/fr0_eSc_line_a5221e24.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_492b2d82" corresp="#elem_eSc_line_492b2d82">
+      <graphic url="../lignes/fr0_eSc_line_492b2d82.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e06da0a8" corresp="#elem_eSc_line_e06da0a8">
+      <graphic url="../lignes/fr0_eSc_line_e06da0a8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b41207df" corresp="#elem_eSc_line_b41207df">
+      <graphic url="../lignes/fr0_eSc_line_b41207df.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1405a00f" corresp="#elem_eSc_line_1405a00f">
+      <graphic url="../lignes/fr0_eSc_line_1405a00f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_aee8c09d" corresp="#elem_eSc_line_aee8c09d">
+      <graphic url="../lignes/fr0_eSc_line_aee8c09d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_949772d0" corresp="#elem_eSc_line_949772d0">
+      <graphic url="../lignes/fr0_eSc_line_949772d0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5687d439" corresp="#elem_eSc_line_5687d439">
+      <graphic url="../lignes/fr0_eSc_line_5687d439.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1671b582" corresp="#elem_eSc_line_1671b582">
+      <graphic url="../lignes/fr0_eSc_line_1671b582.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8941a4cc" corresp="#elem_eSc_line_8941a4cc">
+      <graphic url="../lignes/fr0_eSc_line_8941a4cc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_faf7b7d2" corresp="#elem_eSc_line_faf7b7d2">
+      <graphic url="../lignes/fr0_eSc_line_faf7b7d2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d2b2f8e1" corresp="#elem_eSc_line_d2b2f8e1">
+      <graphic url="../lignes/fr0_eSc_line_d2b2f8e1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_adcb4d3a" corresp="#elem_eSc_line_adcb4d3a">
+      <graphic url="../lignes/fr0_eSc_line_adcb4d3a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b1031676" corresp="#elem_eSc_line_b1031676">
+      <graphic url="../lignes/fr0_eSc_line_b1031676.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e7147c6c" corresp="#elem_eSc_line_e7147c6c">
+      <graphic url="../lignes/fr0_eSc_line_e7147c6c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bda72e32" corresp="#elem_eSc_line_bda72e32">
+      <graphic url="../lignes/fr0_eSc_line_bda72e32.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6a2b74ce" corresp="#elem_eSc_line_6a2b74ce">
+      <graphic url="../lignes/fr0_eSc_line_6a2b74ce.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f0d27b73" corresp="#elem_eSc_line_f0d27b73">
+      <graphic url="../lignes/fr0_eSc_line_f0d27b73.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2827ab99" corresp="#elem_eSc_line_2827ab99">
+      <graphic url="../lignes/fr0_eSc_line_2827ab99.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b825c6c8" corresp="#elem_eSc_line_b825c6c8">
+      <graphic url="../lignes/fr0_eSc_line_b825c6c8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_48ae4803" corresp="#elem_eSc_line_48ae4803">
+      <graphic url="../lignes/fr0_eSc_line_48ae4803.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_335201f1" corresp="#elem_eSc_line_335201f1">
+      <graphic url="../lignes/fr0_eSc_line_335201f1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3d03ecb0" corresp="#elem_eSc_line_3d03ecb0">
+      <graphic url="../lignes/fr0_eSc_line_3d03ecb0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c3ef867b" corresp="#elem_eSc_line_c3ef867b">
+      <graphic url="../lignes/fr0_eSc_line_c3ef867b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_07aa7feb" corresp="#elem_eSc_line_07aa7feb">
+      <graphic url="../lignes/fr0_eSc_line_07aa7feb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_08078ee4" corresp="#elem_eSc_line_08078ee4">
+      <graphic url="../lignes/fr0_eSc_line_08078ee4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9a935db6" corresp="#elem_eSc_line_9a935db6">
+      <graphic url="../lignes/fr0_eSc_line_9a935db6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8f3a4ed5" corresp="#elem_eSc_line_8f3a4ed5">
+      <graphic url="../lignes/fr0_eSc_line_8f3a4ed5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e0112861" corresp="#elem_eSc_line_e0112861">
+      <graphic url="../lignes/fr0_eSc_line_e0112861.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f4e092d3" corresp="#elem_eSc_line_f4e092d3">
+      <graphic url="../lignes/fr0_eSc_line_f4e092d3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a4e7b766" corresp="#elem_eSc_line_a4e7b766">
+      <graphic url="../lignes/fr0_eSc_line_a4e7b766.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_da30af37" corresp="#elem_eSc_line_da30af37">
+      <graphic url="../lignes/fr0_eSc_line_da30af37.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_33773448" corresp="#elem_eSc_line_33773448">
+      <graphic url="../lignes/fr1_eSc_line_33773448.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a2c39cf2" corresp="#elem_eSc_line_a2c39cf2">
+      <graphic url="../lignes/fr1_eSc_line_a2c39cf2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e3a56b8c" corresp="#elem_eSc_line_e3a56b8c">
+      <graphic url="../lignes/fr1_eSc_line_e3a56b8c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ce2a7cf4" corresp="#elem_eSc_line_ce2a7cf4">
+      <graphic url="../lignes/fr1_eSc_line_ce2a7cf4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bd423277" corresp="#elem_eSc_line_bd423277">
+      <graphic url="../lignes/fr1_eSc_line_bd423277.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9899cb59" corresp="#elem_eSc_line_9899cb59">
+      <graphic url="../lignes/fr1_eSc_line_9899cb59.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1820916a" corresp="#elem_eSc_line_1820916a">
+      <graphic url="../lignes/fr1_eSc_line_1820916a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_260e83a5" corresp="#elem_eSc_line_260e83a5">
+      <graphic url="../lignes/fr1_eSc_line_260e83a5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_afc2b31b" corresp="#elem_eSc_line_afc2b31b">
+      <graphic url="../lignes/fr1_eSc_line_afc2b31b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bf3111e3" corresp="#elem_eSc_line_bf3111e3">
+      <graphic url="../lignes/fr1_eSc_line_bf3111e3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3ba1a60e" corresp="#elem_eSc_line_3ba1a60e">
+      <graphic url="../lignes/fr1_eSc_line_3ba1a60e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c24bcfa2" corresp="#elem_eSc_line_c24bcfa2">
+      <graphic url="../lignes/fr1_eSc_line_c24bcfa2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e679e7bc" corresp="#elem_eSc_line_e679e7bc">
+      <graphic url="../lignes/fr1_eSc_line_e679e7bc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_613d1aa1" corresp="#elem_eSc_line_613d1aa1">
+      <graphic url="../lignes/fr1_eSc_line_613d1aa1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a9ac5d07" corresp="#elem_eSc_line_a9ac5d07">
+      <graphic url="../lignes/fr1_eSc_line_a9ac5d07.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c3e7ffa5" corresp="#elem_eSc_line_c3e7ffa5">
+      <graphic url="../lignes/fr1_eSc_line_c3e7ffa5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c7160f6e" corresp="#elem_eSc_line_c7160f6e">
+      <graphic url="../lignes/fr1_eSc_line_c7160f6e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7bba81b7" corresp="#elem_eSc_line_7bba81b7">
+      <graphic url="../lignes/fr1_eSc_line_7bba81b7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c59555d4" corresp="#elem_eSc_line_c59555d4">
+      <graphic url="../lignes/fr1_eSc_line_c59555d4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_29a79bfd" corresp="#elem_eSc_line_29a79bfd">
+      <graphic url="../lignes/fr1_eSc_line_29a79bfd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4182dc53" corresp="#elem_eSc_line_4182dc53">
+      <graphic url="../lignes/fr1_eSc_line_4182dc53.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a5af6275" corresp="#elem_eSc_line_a5af6275">
+      <graphic url="../lignes/fr1_eSc_line_a5af6275.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_27ce14c7" corresp="#elem_eSc_line_27ce14c7">
+      <graphic url="../lignes/fr1_eSc_line_27ce14c7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6b694311" corresp="#elem_eSc_line_6b694311">
+      <graphic url="../lignes/fr1_eSc_line_6b694311.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_60906e97" corresp="#elem_eSc_line_60906e97">
+      <graphic url="../lignes/fr1_eSc_line_60906e97.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_91f17a84" corresp="#elem_eSc_line_91f17a84">
+      <graphic url="../lignes/fr1_eSc_line_91f17a84.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6d50c0f0" corresp="#elem_eSc_line_6d50c0f0">
+      <graphic url="../lignes/fr1_eSc_line_6d50c0f0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1e0e5c78" corresp="#elem_eSc_line_1e0e5c78">
+      <graphic url="../lignes/fr1_eSc_line_1e0e5c78.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bbec3688" corresp="#elem_eSc_line_bbec3688">
+      <graphic url="../lignes/fr1_eSc_line_bbec3688.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a46a4108" corresp="#elem_eSc_line_a46a4108">
+      <graphic url="../lignes/fr1_eSc_line_a46a4108.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0b130ab2" corresp="#elem_eSc_line_0b130ab2">
+      <graphic url="../lignes/fr1_eSc_line_0b130ab2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f5558f4e" corresp="#elem_eSc_line_f5558f4e">
+      <graphic url="../lignes/fr1_eSc_line_f5558f4e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c02780d6" corresp="#elem_eSc_line_c02780d6">
+      <graphic url="../lignes/fr1_eSc_line_c02780d6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c349f5fa" corresp="#elem_eSc_line_c349f5fa">
+      <graphic url="../lignes/fr1_eSc_line_c349f5fa.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a37ece16" corresp="#elem_eSc_line_a37ece16">
+      <graphic url="../lignes/fr1_eSc_line_a37ece16.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_af2f3d99" corresp="#elem_eSc_line_af2f3d99">
+      <graphic url="../lignes/fr1_eSc_line_af2f3d99.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fa0ea76b" corresp="#elem_eSc_line_fa0ea76b">
+      <graphic url="../lignes/fr1_eSc_line_fa0ea76b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1795579f" corresp="#elem_eSc_line_1795579f">
+      <graphic url="../lignes/fr1_eSc_line_1795579f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_144d8e18" corresp="#elem_eSc_line_144d8e18">
+      <graphic url="../lignes/fr1_eSc_line_144d8e18.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_20631f4a" corresp="#elem_eSc_line_20631f4a">
+      <graphic url="../lignes/fr1_eSc_line_20631f4a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3f9af4ad" corresp="#elem_eSc_line_3f9af4ad">
+      <graphic url="../lignes/fr1_eSc_line_3f9af4ad.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7e0b1add" corresp="#elem_eSc_line_7e0b1add">
+      <graphic url="../lignes/fr1_eSc_line_7e0b1add.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cf4e1840" corresp="#elem_eSc_line_cf4e1840">
+      <graphic url="../lignes/fr1_eSc_line_cf4e1840.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1aee0c17" corresp="#elem_eSc_line_1aee0c17">
+      <graphic url="../lignes/fr1_eSc_line_1aee0c17.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_388e3019" corresp="#elem_eSc_line_388e3019">
+      <graphic url="../lignes/fr1_eSc_line_388e3019.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2d9c2ded" corresp="#elem_eSc_line_2d9c2ded">
+      <graphic url="../lignes/fr1_eSc_line_2d9c2ded.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_81d25aec" corresp="#elem_eSc_line_81d25aec">
+      <graphic url="../lignes/fr1_eSc_line_81d25aec.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9afb86a9" corresp="#elem_eSc_line_9afb86a9">
+      <graphic url="../lignes/fr1_eSc_line_9afb86a9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_85b9ebe1" corresp="#elem_eSc_line_85b9ebe1">
+      <graphic url="../lignes/fr1_eSc_line_85b9ebe1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_61be92d4" corresp="#elem_eSc_line_61be92d4">
+      <graphic url="../lignes/fr1_eSc_line_61be92d4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_45e652bb" corresp="#elem_eSc_line_45e652bb">
+      <graphic url="../lignes/fr1_eSc_line_45e652bb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d7160fd5" corresp="#elem_eSc_line_d7160fd5">
+      <graphic url="../lignes/fr1_eSc_line_d7160fd5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0a7fac22" corresp="#elem_eSc_line_0a7fac22">
+      <graphic url="../lignes/fr1_eSc_line_0a7fac22.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cc7e1504" corresp="#elem_eSc_line_cc7e1504">
+      <graphic url="../lignes/fr1_eSc_line_cc7e1504.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7eb799c6" corresp="#elem_eSc_line_7eb799c6">
+      <graphic url="../lignes/fr1_eSc_line_7eb799c6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_569fc20e" corresp="#elem_eSc_line_569fc20e">
+      <graphic url="../lignes/fr1_eSc_line_569fc20e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2276701b" corresp="#elem_eSc_line_2276701b">
+      <graphic url="../lignes/fr1_eSc_line_2276701b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_05529b31" corresp="#elem_eSc_line_05529b31">
+      <graphic url="../lignes/fr1_eSc_line_05529b31.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fe2a263c" corresp="#elem_eSc_line_fe2a263c">
+      <graphic url="../lignes/fr1_eSc_line_fe2a263c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d324bf4e" corresp="#elem_eSc_line_d324bf4e">
+      <graphic url="../lignes/fr1_eSc_line_d324bf4e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_86a866d4" corresp="#elem_eSc_line_86a866d4">
+      <graphic url="../lignes/fr1_eSc_line_86a866d4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9f722965" corresp="#elem_eSc_line_9f722965">
+      <graphic url="../lignes/fr1_eSc_line_9f722965.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_500ce4f2" corresp="#elem_eSc_line_500ce4f2">
+      <graphic url="../lignes/fr1_eSc_line_500ce4f2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_26313a0a" corresp="#elem_eSc_line_26313a0a">
+      <graphic url="../lignes/fr1_eSc_line_26313a0a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9816b646" corresp="#elem_eSc_line_9816b646">
+      <graphic url="../lignes/fr1_eSc_line_9816b646.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_89e86bb4" corresp="#elem_eSc_line_89e86bb4">
+      <graphic url="../lignes/fr1_eSc_line_89e86bb4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_180f516b" corresp="#elem_eSc_line_180f516b">
+      <graphic url="../lignes/fr1_eSc_line_180f516b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_08bb1606" corresp="#elem_eSc_line_08bb1606">
+      <graphic url="../lignes/fr1_eSc_line_08bb1606.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b8b8dec2" corresp="#elem_eSc_line_b8b8dec2">
+      <graphic url="../lignes/fr1_eSc_line_b8b8dec2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fe295054" corresp="#elem_eSc_line_fe295054">
+      <graphic url="../lignes/fr1_eSc_line_fe295054.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_687e0bd5" corresp="#elem_eSc_line_687e0bd5">
+      <graphic url="../lignes/fr1_eSc_line_687e0bd5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f2594dae" corresp="#elem_eSc_line_f2594dae">
+      <graphic url="../lignes/fr1_eSc_line_f2594dae.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1e7556d9" corresp="#elem_eSc_line_1e7556d9">
+      <graphic url="../lignes/fr1_eSc_line_1e7556d9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7086102f" corresp="#elem_eSc_line_7086102f">
+      <graphic url="../lignes/fr1_eSc_line_7086102f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6f910047" corresp="#elem_eSc_line_6f910047">
+      <graphic url="../lignes/fr2_eSc_line_6f910047.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9ddeb6ec" corresp="#elem_eSc_line_9ddeb6ec">
+      <graphic url="../lignes/fr2_eSc_line_9ddeb6ec.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4b65bf3e" corresp="#elem_eSc_line_4b65bf3e">
+      <graphic url="../lignes/fr2_eSc_line_4b65bf3e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_929b9be4" corresp="#elem_eSc_line_929b9be4">
+      <graphic url="../lignes/fr2_eSc_line_929b9be4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e6b388a0" corresp="#elem_eSc_line_e6b388a0">
+      <graphic url="../lignes/fr2_eSc_line_e6b388a0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_74d93ff9" corresp="#elem_eSc_line_74d93ff9">
+      <graphic url="../lignes/fr2_eSc_line_74d93ff9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_db24887f" corresp="#elem_eSc_line_db24887f">
+      <graphic url="../lignes/fr2_eSc_line_db24887f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_701c9e66" corresp="#elem_eSc_line_701c9e66">
+      <graphic url="../lignes/fr2_eSc_line_701c9e66.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_760d583d" corresp="#elem_eSc_line_760d583d">
+      <graphic url="../lignes/fr2_eSc_line_760d583d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_61b2e1be" corresp="#elem_eSc_line_61b2e1be">
+      <graphic url="../lignes/fr2_eSc_line_61b2e1be.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_99b09f4f" corresp="#elem_eSc_line_99b09f4f">
+      <graphic url="../lignes/fr2_eSc_line_99b09f4f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_94188305" corresp="#elem_eSc_line_94188305">
+      <graphic url="../lignes/fr2_eSc_line_94188305.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_747afd9a" corresp="#elem_eSc_line_747afd9a">
+      <graphic url="../lignes/fr2_eSc_line_747afd9a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7c42a487" corresp="#elem_eSc_line_7c42a487">
+      <graphic url="../lignes/fr2_eSc_line_7c42a487.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9f11fa46" corresp="#elem_eSc_line_9f11fa46">
+      <graphic url="../lignes/fr2_eSc_line_9f11fa46.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5641e1a1" corresp="#elem_eSc_line_5641e1a1">
+      <graphic url="../lignes/fr2_eSc_line_5641e1a1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9bb543c0" corresp="#elem_eSc_line_9bb543c0">
+      <graphic url="../lignes/fr2_eSc_line_9bb543c0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e87ed3c1" corresp="#elem_eSc_line_e87ed3c1">
+      <graphic url="../lignes/fr2_eSc_line_e87ed3c1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c5d3d378" corresp="#elem_eSc_line_c5d3d378">
+      <graphic url="../lignes/fr2_eSc_line_c5d3d378.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_243c5bdf" corresp="#elem_eSc_line_243c5bdf">
+      <graphic url="../lignes/fr2_eSc_line_243c5bdf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9a64d921" corresp="#elem_eSc_line_9a64d921">
+      <graphic url="../lignes/fr2_eSc_line_9a64d921.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b5204cec" corresp="#elem_eSc_line_b5204cec">
+      <graphic url="../lignes/fr2_eSc_line_b5204cec.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a5e834ef" corresp="#elem_eSc_line_a5e834ef">
+      <graphic url="../lignes/fr2_eSc_line_a5e834ef.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_050d00e8" corresp="#elem_eSc_line_050d00e8">
+      <graphic url="../lignes/fr2_eSc_line_050d00e8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0340c21f" corresp="#elem_eSc_line_0340c21f">
+      <graphic url="../lignes/fr2_eSc_line_0340c21f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_089e6b16" corresp="#elem_eSc_line_089e6b16">
+      <graphic url="../lignes/fr2_eSc_line_089e6b16.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_69e8d570" corresp="#elem_eSc_line_69e8d570">
+      <graphic url="../lignes/fr2_eSc_line_69e8d570.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_08b9818f" corresp="#elem_eSc_line_08b9818f">
+      <graphic url="../lignes/fr2_eSc_line_08b9818f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c3d586ad" corresp="#elem_eSc_line_c3d586ad">
+      <graphic url="../lignes/fr2_eSc_line_c3d586ad.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e4ba8c02" corresp="#elem_eSc_line_e4ba8c02">
+      <graphic url="../lignes/fr2_eSc_line_e4ba8c02.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_084ab16e" corresp="#elem_eSc_line_084ab16e">
+      <graphic url="../lignes/fr2_eSc_line_084ab16e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_945e2ec8" corresp="#elem_eSc_line_945e2ec8">
+      <graphic url="../lignes/fr2_eSc_line_945e2ec8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_58347e1a" corresp="#elem_eSc_line_58347e1a">
+      <graphic url="../lignes/fr2_eSc_line_58347e1a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_45e2034e" corresp="#elem_eSc_line_45e2034e">
+      <graphic url="../lignes/fr2_eSc_line_45e2034e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b0c0f3f3" corresp="#elem_eSc_line_b0c0f3f3">
+      <graphic url="../lignes/fr2_eSc_line_b0c0f3f3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_668eeefb" corresp="#elem_eSc_line_668eeefb">
+      <graphic url="../lignes/fr2_eSc_line_668eeefb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_07f7d0e0" corresp="#elem_eSc_line_07f7d0e0">
+      <graphic url="../lignes/fr2_eSc_line_07f7d0e0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b1831459" corresp="#elem_eSc_line_b1831459">
+      <graphic url="../lignes/fr2_eSc_line_b1831459.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5e5ef46f" corresp="#elem_eSc_line_5e5ef46f">
+      <graphic url="../lignes/fr2_eSc_line_5e5ef46f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_caad3513" corresp="#elem_eSc_line_caad3513">
+      <graphic url="../lignes/fr2_eSc_line_caad3513.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_785b9689" corresp="#elem_eSc_line_785b9689">
+      <graphic url="../lignes/fr2_eSc_line_785b9689.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_96b61a65" corresp="#elem_eSc_line_96b61a65">
+      <graphic url="../lignes/fr2_eSc_line_96b61a65.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e5f61c9f" corresp="#elem_eSc_line_e5f61c9f">
+      <graphic url="../lignes/fr2_eSc_line_e5f61c9f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0c2a3202" corresp="#elem_eSc_line_0c2a3202">
+      <graphic url="../lignes/fr2_eSc_line_0c2a3202.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_58b28c81" corresp="#elem_eSc_line_58b28c81">
+      <graphic url="../lignes/fr2_eSc_line_58b28c81.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9f228c10" corresp="#elem_eSc_line_9f228c10">
+      <graphic url="../lignes/fr2_eSc_line_9f228c10.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_41a89714" corresp="#elem_eSc_line_41a89714">
+      <graphic url="../lignes/fr2_eSc_line_41a89714.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f406a365" corresp="#elem_eSc_line_f406a365">
+      <graphic url="../lignes/fr2_eSc_line_f406a365.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bede4838" corresp="#elem_eSc_line_bede4838">
+      <graphic url="../lignes/fr2_eSc_line_bede4838.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_077dec8a" corresp="#elem_eSc_line_077dec8a">
+      <graphic url="../lignes/fr2_eSc_line_077dec8a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c428ddc5" corresp="#elem_eSc_line_c428ddc5">
+      <graphic url="../lignes/fr2_eSc_line_c428ddc5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7dc77a51" corresp="#elem_eSc_line_7dc77a51">
+      <graphic url="../lignes/fr2_eSc_line_7dc77a51.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ea2678cd" corresp="#elem_eSc_line_ea2678cd">
+      <graphic url="../lignes/fr2_eSc_line_ea2678cd.png"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div n="1" type="livre">
+        <div n="1.2" type="partie">
+          <div n="1" type="chapitre">
+            <pb n="" facs="../input_files/fr0.jpg"/>
+            <head n="LzTDRrxe"><lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_3afc1275" n="eVX9Cx" xml:id="elem_eSc_line_3afc1275"/>Ce p̾mier chapistre de la seconde<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_a85e48c0" n="uFUJBY" xml:id="elem_eSc_line_a85e48c0"/>partie du p̾mier liure du gouu̾e<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_dc953f6b" n="a41l0b" xml:id="elem_eSc_line_dc953f6b"/>ment des rois enseigne qnͣtes<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_4a570c96" n="dzaoa5" xml:id="elem_eSc_line_4a570c96"/>poissances lame a.  et enquiex pois<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_f057bc09" n="qHuJkU" xml:id="elem_eSc_line_f057bc09"/>sances les uirtuz des bones euures</head>
+            <p n="jjnPUymf"><lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_07b3684e" n="jDhhJi" xml:id="elem_eSc_line_07b3684e"/>uis sunt.  cocco<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_b7f0ef00" n="bNtWQX" xml:id="elem_eSc_line_b7f0ef00"/>que nous coco. <lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_8809e13d" n="dm6XTH" xml:id="elem_eSc_line_8809e13d"/>auons enseignie<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_14ef1301" n="hmdPFs" xml:id="elem_eSc_line_14ef1301"/>a laide de
+                dieu<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_35791e24" n="fZyRr2" xml:id="elem_eSc_line_35791e24"/>en la p̾miere par<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_a89e72cd" n="ebqV0y" xml:id="elem_eSc_line_a89e72cd"/>tie de ce liure que<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_f00516d7" n="q6azNN" xml:id="elem_eSc_line_f00516d7"/>les rois et les prin<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_d99b59e1" n="hGJMzf" xml:id="elem_eSc_line_d99b59e1"/>ces sunt beneurez quant il aiment<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_8497d24d" n="kFTDoM" xml:id="elem_eSc_line_8497d24d"/>dieu.  et pour la mor de dieu.  si conme<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_4dad35cf" n="vWkWuk" xml:id="elem_eSc_line_4dad35cf"/>bons serganz et leaus etl entendent<cb break="?"/><lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_2fbb09d0" n="jqzBTW" xml:id="elem_eSc_line_2fbb09d0"/>agouu̾ner sagement le pueple se<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_36afc10b" n="tdw7Bc" xml:id="elem_eSc_line_36afc10b"/>lonc loy et raison.  Nous dirons que<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_8fad8883" n="g9fJmx" xml:id="elem_eSc_line_8fad8883"/>les uertuz les rois et les princes doi<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_0eef5f70" n="b31f8f" xml:id="elem_eSc_line_0eef5f70"/>uent auoir.  Et pour ce que les nertuz<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_6d956841" n="rGUGJ9" xml:id="elem_eSc_line_6d956841"/>font la me perfaite.  Il couient p̾<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_361cedea" n="zgBwlF" xml:id="elem_eSc_line_361cedea"/>mierement sauoir qnͣtes poissan<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_a5221e24" n="kPIZOJ" xml:id="elem_eSc_line_a5221e24"/>ces la me a.  etesqueles les uirtus de<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_492b2d82" n="ulJpwJ" xml:id="elem_eSc_line_492b2d82"/>bones euures domient estre et ap̾s<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_e06da0a8" n="a7CGsy" xml:id="elem_eSc_line_e06da0a8"/>nous dirons coment len doit deuiter<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_b41207df" n="swvWKt" xml:id="elem_eSc_line_b41207df"/>les uirtuz de bones euures.  et qnͣtes<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_1405a00f" n="u29jaF" xml:id="elem_eSc_line_1405a00f"/>il en sont.  et qpͥs nous dirons de<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_aee8c09d" n="jMPgCF" xml:id="elem_eSc_line_aee8c09d"/>chaucune que le ele est.  Et coment<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_949772d0" n="iYMMpX" xml:id="elem_eSc_line_949772d0"/>li roi et li prince douient auoir teles<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_5687d439" n="mCveBm" xml:id="elem_eSc_line_5687d439"/>uirtus .  et dirons les queles sunt plꝰ<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_1671b582" n="rS9BS3" xml:id="elem_eSc_line_1671b582"/>principaus des autres.   Dont len<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_8941a4cc" n="tgSgnf" xml:id="elem_eSc_line_8941a4cc"/>doit sauoir que lame.  a . iii.  manie<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_faf7b7d2" n="n5kM2O" xml:id="elem_eSc_line_faf7b7d2"/>res de puissances.  Les mies sont<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_d2b2f8e1" n="cIKsOF" xml:id="elem_eSc_line_d2b2f8e1"/>nature les.  Si conme la uirtu qui acro<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_adcb4d3a" n="lN8Qeu" xml:id="elem_eSc_line_adcb4d3a"/>ist.  et la uirtu qui engendre.  Les<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_b1031676" n="ils7dX" xml:id="elem_eSc_line_b1031676"/>autres poissances de lame.  sunt co<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_e7147c6c" n="ojCnUA" xml:id="elem_eSc_line_e7147c6c"/>noissanz.  Si conme la ueue.  Lez<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_bda72e32" n="oCxFEd" xml:id="elem_eSc_line_bda72e32"/>goust.  et la touchement.  et les autͤs<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_6a2b74ce" n="dvE7Xp" xml:id="elem_eSc_line_6a2b74ce"/>sens del home.   Une autre poissan<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_f0d27b73" n="xibvEx" xml:id="elem_eSc_line_f0d27b73"/>ce de lame Si est quen apele lenten<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_2827ab99" n="gfoGYu" xml:id="elem_eSc_line_2827ab99"/>dement.  Les autres poissances<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_b825c6c8" n="jCbHhq" xml:id="elem_eSc_line_b825c6c8"/>de la me sont dites poissances qui<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_48ae4803" n="sKnQS0" xml:id="elem_eSc_line_48ae4803"/>desirrent.  Dont lune si est nonmee<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_335201f1" n="ah8Baq" xml:id="elem_eSc_line_335201f1"/>uolente qui est desir del entendem̃t<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_3d03ecb0" n="wviJza" xml:id="elem_eSc_line_3d03ecb0"/>et lautre est dite desir des. u.  sens<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_c3ef867b" n="lMzm3C" xml:id="elem_eSc_line_c3ef867b"/>de lome.  Et poons prouuer par<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_07aa7feb" n="tX8Ue8" xml:id="elem_eSc_line_07aa7feb"/>trois raisdns que les uirtus des bo<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_08078ee4" n="eJXllH" xml:id="elem_eSc_line_08078ee4"/>nes euures que nons aquerons<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_9a935db6" n="yVIE9q" xml:id="elem_eSc_line_9a935db6"/>per acoustumance de bien fere.  ne<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_8f3a4ed5" n="dRV6wE" xml:id="elem_eSc_line_8f3a4ed5"/>sunt pas es poissances de lame<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_e0112861" n="p5cR2z" xml:id="elem_eSc_line_e0112861"/>nature les.  ne es . u.  sens de l home<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_f4e092d3" n="wA38c4" xml:id="elem_eSc_line_f4e092d3"/>La p̾miere raison si est.  car pour<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_a4e7b766" n="sJR6Fm" xml:id="elem_eSc_line_a4e7b766"/>les uirtuz des bones euures len<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_da30af37" n="rZIoXM" xml:id="elem_eSc_line_da30af37"/>11<pb n="" facs="../input_files/fr1.jpg"/><lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_33773448" n="pzJeIS" xml:id="elem_eSc_line_33773448"/>doit loer lome quantil lesa.  et bla<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_a2c39cf2" n="wdK0Av" xml:id="elem_eSc_line_a2c39cf2"/>mer qnͣt ila le contraire.  Mes pour<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_e3a56b8c" n="eCwHhz" xml:id="elem_eSc_line_e3a56b8c"/>bien norrir.  ne pour bien estre a creu<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_ce2a7cf4" n="qvEcdg" xml:id="elem_eSc_line_ce2a7cf4"/>ne pour bien ueoir ne pour bien sen<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_bd423277" n="b5UkR9" xml:id="elem_eSc_line_bd423277"/>tir.  nul ne doit estre principaument<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_9899cb59" n="gQHCS6" xml:id="elem_eSc_line_9899cb59"/>ne blame.  ne loe.  Sil nest auis que<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_1820916a" n="q732dR" xml:id="elem_eSc_line_1820916a"/>partrop boire.  et trop mengier il a<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_260e83a5" n="qO1H8d" xml:id="elem_eSc_line_260e83a5"/>aquis maladie.  par coy teles uirtuz<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_afc2b31b" n="b08aKB" xml:id="elem_eSc_line_afc2b31b"/>sont empeeschiees en leur euures<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_bf3111e3" n="y504LP" xml:id="elem_eSc_line_bf3111e3"/>Dont en celes poissances len ne<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_3ba1a60e" n="eAUJ8G" xml:id="elem_eSc_line_3ba1a60e"/>doitpas metre les uirtuz de bones<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_c24bcfa2" n="cCDOIP" xml:id="elem_eSc_line_c24bcfa2"/>enures.  La seconde raison si est<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_e679e7bc" n="q1aAxR" xml:id="elem_eSc_line_e679e7bc"/>Car les utuz des bonnes euures<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_613d1aa1" n="ibdyek" xml:id="elem_eSc_line_613d1aa1"/>sont chose selonc raison.  et doiuent<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_a9ac5d07" n="gcn4rO" xml:id="elem_eSc_line_a9ac5d07"/>estre espoissances de lame qui ob<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_c3e7ffa5" n="uzY7eu" xml:id="elem_eSc_line_c3e7ffa5"/>eissent a raison.  Mes les poissan<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_c7160f6e" n="fdwrNk" xml:id="elem_eSc_line_c7160f6e"/>ces natureles.  ne les . u.  sens de la<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_7bba81b7" n="sJb4q4" xml:id="elem_eSc_line_7bba81b7"/>me nobeissent mie aiuison.  Car cler<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_c59555d4" n="am0TJk" xml:id="elem_eSc_line_c59555d4"/>ueoir.  on mauuaisement ueoir nest<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_29a79bfd" n="q3DlMk" xml:id="elem_eSc_line_29a79bfd"/>pas principaument en la poece del<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_4182dc53" n="cbSP4a" xml:id="elem_eSc_line_4182dc53"/>home Carse li hons a mengie<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_a5af6275" n="zuxUJB" xml:id="elem_eSc_line_a5af6275"/>et ne uousist pas estre notri.  ni acreu<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_27ce14c7" n="o56HOp" xml:id="elem_eSc_line_27ce14c7"/>si le norriroient et a croistroient les<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_6b694311" n="rCv66L" xml:id="elem_eSc_line_6b694311"/>uirtuz qui en lui sunt.  Dont en ces<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_60906e97" n="eg34MW" xml:id="elem_eSc_line_60906e97"/>poissances len ne doit pas metre<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_91f17a84" n="ljloue" xml:id="elem_eSc_line_91f17a84"/>les uirtus de bones euutes.  La tie<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_6d50c0f0" n="enqIU6" xml:id="elem_eSc_line_6d50c0f0"/>rce tuison si est quar les poissancesᷤ<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_1e0e5c78" n="nZkRZi" xml:id="elem_eSc_line_1e0e5c78"/>natureles.  et les. u.  sens del home<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_bbec3688" n="pRP7kD" xml:id="elem_eSc_line_bbec3688"/>sont encline souffis aument par<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_a46a4108" n="zzOxE0" xml:id="elem_eSc_line_a46a4108"/>leui nature a faite leur enures.  Ne<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_0b130ab2" n="ce2Cn4" xml:id="elem_eSc_line_0b130ab2"/>par eles nous ne somes ne bons<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_f5558f4e" n="hfkhX0" xml:id="elem_eSc_line_f5558f4e"/>ne maunes.  Mes les uirtus des bo<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_c02780d6" n="zaMJBE" xml:id="elem_eSc_line_c02780d6"/>nes euures enclinent les poissancesᷤ<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_c349f5fa" n="s8vfZj" xml:id="elem_eSc_line_c349f5fa"/>de lame ou eles sont a bien faire<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_a37ece16" n="bQ2KgI" xml:id="elem_eSc_line_a37ece16"/>et les uices les enclinent a mal fere<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_af2f3d99" n="zgSp3m" xml:id="elem_eSc_line_af2f3d99"/>Dont les uirtuz des bones enu̾s<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_fa0ea76b" n="jq0rTP" xml:id="elem_eSc_line_fa0ea76b"/>ne douient pas estre espoissances<cb break="?"/><lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_1795579f" n="fsCqIg" xml:id="elem_eSc_line_1795579f"/>de lome naturele.  ni es . u.  sens de<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_144d8e18" n="uG25kL" xml:id="elem_eSc_line_144d8e18"/>lome.  qui par leur nature sunt en<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_20631f4a" n="tCFORb" xml:id="elem_eSc_line_20631f4a"/>cline souffisaument a faire leur<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_3f9af4ad" n="jPULNP" xml:id="elem_eSc_line_3f9af4ad"/>euures</p>
+          </div>
+          <div n="1.2.2" type="chapitre">
+            <head>Ce secont chapistre de<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_7e0b1add" n="uD1iHi" xml:id="elem_eSc_line_7e0b1add"/>la seconde partie du
+              p̾mier liure<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_cf4e1840" n="gJO0Ug" xml:id="elem_eSc_line_cf4e1840"/>enseigne coment les uirtuz de bo<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_1aee0c17" n="qnyYrM" xml:id="elem_eSc_line_1aee0c17"/>nes enures sont deuisees et commt<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_388e3019" n="gZnb3P" xml:id="elem_eSc_line_388e3019"/>eles sut ou desir. et en lentende-</head>
+            <p><lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_2d9c2ded" n="lsdc3T" xml:id="elem_eSc_line_2d9c2ded"/>uis que nous ment del<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_81d25aec" n="scQ2g0" xml:id="elem_eSc_line_81d25aec"/>auons mo nstre home. <lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_9afb86a9" n="rQzv9f" xml:id="elem_eSc_line_9afb86a9"/>que les uertus des bo<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_85b9ebe1" n="nDX8iL" xml:id="elem_eSc_line_85b9ebe1"/>nes euures ne sont<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_61be92d4" n="qxlqbB" xml:id="elem_eSc_line_61be92d4"/>pas es
+              pousançes del<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_45e652bb" n="uIif2e" xml:id="elem_eSc_line_45e652bb"/>home nature les.  ni es. u.  sens<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_d7160fd5" n="wYz5L1" xml:id="elem_eSc_line_d7160fd5"/>del home.  Pous dirons.  que<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_0a7fac22" n="muZ4K1" xml:id="elem_eSc_line_0a7fac22"/>. ii.  manieres de uertus sont les<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_cc7e1504" n="uLdae2" xml:id="elem_eSc_line_cc7e1504"/>unes qui tendent principaument<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_7eb799c6" n="dk5c4F" xml:id="elem_eSc_line_7eb799c6"/>aconoissance de uerite.  Si conme<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_569fc20e" n="ztDNQu" xml:id="elem_eSc_line_569fc20e"/>la science de natures et astrenomie<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_2276701b" n="wRUKwQ" xml:id="elem_eSc_line_2276701b"/>et les autres sciences.  Les autͤs<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_05529b31" n="lJJF6o" xml:id="elem_eSc_line_05529b31"/>uirtus sont per qui nous faisons bones<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_fe2a263c" n="iaSN3Y" xml:id="elem_eSc_line_fe2a263c"/>euures.  et les aquerons per acoustu<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_d324bf4e" n="xzqcuz" xml:id="elem_eSc_line_d324bf4e"/>mance de biem faire.  et sont ou desir<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_86a866d4" n="vUHMDn" xml:id="elem_eSc_line_86a866d4"/>del home.  si conme iustice.  atempran<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_9f722965" n="zyu49r" xml:id="elem_eSc_line_9f722965"/>ce.  force et debonairete.  et les autres<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_500ce4f2" n="uYXUb0" xml:id="elem_eSc_line_500ce4f2"/>des queles nous dirons ci ap̾s<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_26313a0a" n="mhrQWq" xml:id="elem_eSc_line_26313a0a"/> Et leirons les uirtus.  qui tendent<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_9816b646" n="w4VRAZ" xml:id="elem_eSc_line_9816b646"/>principaument a conoissance deue<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_89e86bb4" n="a2tJWh" xml:id="elem_eSc_line_89e86bb4"/>rite.  et dirons des uirtus per qui nos fai<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_180f516b" n="snm7MK" xml:id="elem_eSc_line_180f516b"/>sons bones enures.  Car nous<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_08bb1606" n="pE7Wh9" xml:id="elem_eSc_line_08bb1606"/>entendons principaument par ces<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_b8b8dec2" n="zCWpqV" xml:id="elem_eSc_line_b8b8dec2"/>te science que nos soions bons et di<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_fe295054" n="tnLNCb" xml:id="elem_eSc_line_fe295054"/>rons que por ce que le desir del home<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_687e0bd5" n="a9DMAr" xml:id="elem_eSc_line_687e0bd5"/>obeist araison. et les uirtus des bo<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_f2594dae" n="u0Zmzg" xml:id="elem_eSc_line_f2594dae"/>nes enures sunt chose se lonc rai<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_1e7556d9" n="hGh6zP" xml:id="elem_eSc_line_1e7556d9"/>son.  eles sont en lentendement<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_7086102f" n="zBKxWF" xml:id="elem_eSc_line_7086102f"/>de lhome et ou desir.  Mes nous<pb n="" facs="../input_files/fr2.jpg"/><lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_6f910047" n="qpXXWo" xml:id="elem_eSc_line_6f910047"/>MDe nous sauoir.  que desir nest au<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_9ddeb6ec" n="wgnwl7" xml:id="elem_eSc_line_9ddeb6ec"/>tre chose que une enclinance abien<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_4b65bf3e" n="p4xgC7" xml:id="elem_eSc_line_4b65bf3e"/>auoir.  ou amal fuir.  qui meut de<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_929b9be4" n="geFgAS" xml:id="elem_eSc_line_929b9be4"/>ce que lome connoist bien et mal.  et<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_e6b388a0" n="aw3jTJ" xml:id="elem_eSc_line_e6b388a0"/>pour ce que li bons a . ii.  couoissan<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_74d93ff9" n="pamnHg" xml:id="elem_eSc_line_74d93ff9"/>ces.  Lune si est conoissance del<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_db24887f" n="whnWBK" xml:id="elem_eSc_line_db24887f"/>entendement.  Lautre si est couois<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_701c9e66" n="t8jkzt" xml:id="elem_eSc_line_701c9e66"/>sance des. u.  sens.  Ia ensoi . ii. <lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_760d583d" n="qDi6Nl" xml:id="elem_eSc_line_760d583d"/>desirs.  Car qnͣt lentendement<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_61b2e1be" n="cXX1bB" xml:id="elem_eSc_line_61b2e1be"/>conoist aucun bien .  ou aucun mal<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_99b09f4f" n="qDiaK8" xml:id="elem_eSc_line_99b09f4f"/>il desire aporsiure le bien.  et a foir<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_94188305" n="jI9aQ0" xml:id="elem_eSc_line_94188305"/>le mal.  et tel desir on apele uolente. <lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_747afd9a" n="dSxNsp" xml:id="elem_eSc_line_747afd9a"/>Et qnͣt li hons par les . u.  sens que<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_7c42a487" n="rWIlIk" xml:id="elem_eSc_line_7c42a487"/>il a connoist aucun bien singuler<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_9f11fa46" n="rpHptW" xml:id="elem_eSc_line_9f11fa46"/>ou aucun mal.  lome le desire.  et sen<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_5641e1a1" n="rF0v5a" xml:id="elem_eSc_line_5641e1a1"/>cline aporsuire le bien et afoir le<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_9bb543c0" n="pFUNjc" xml:id="elem_eSc_line_9bb543c0"/>mal.  et cel desir on apele desir des. u. <lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_e87ed3c1" n="wNgU1Q" xml:id="elem_eSc_line_e87ed3c1"/>sens de lome.  Et est asauoir que<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_c5d3d378" n="lbrefw" xml:id="elem_eSc_line_c5d3d378"/>li desirs que li hons a.  per la conois<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_243c5bdf" n="nakxbv" xml:id="elem_eSc_line_243c5bdf"/>sance de ses sens est deuise.  enr . ii.  de<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_9a64d921" n="piuG1g" xml:id="elem_eSc_line_9a64d921"/>sirs.  Car tout ausi come nous ue<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_b5204cec" n="qlxCdE" xml:id="elem_eSc_line_b5204cec"/>ons.  que nature donna . ii.  poissan<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_a5e834ef" n="mMcgly" xml:id="elem_eSc_line_a5e834ef"/>ces a feu.  si come chaleur et legie<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_050d00e8" n="guE23X" xml:id="elem_eSc_line_050d00e8"/>rece.  pour ce que par legierece le feu<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_0340c21f" n="hgdOQq" xml:id="elem_eSc_line_0340c21f"/>puisse aler en son propre leu naturel<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_089e6b16" n="xxhERE" xml:id="elem_eSc_line_089e6b16"/>qui est la sus.  uers la lune.  et per le<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_69e8d570" n="gZkRbb" xml:id="elem_eSc_line_69e8d570"/>chaleur que il a il peust contrest<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_08b9818f" n="oLXfFQ" xml:id="elem_eSc_line_08b9818f"/>aus choses qui poissent en peeschoc̾<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_c3d586ad" n="l9KGbT" xml:id="elem_eSc_line_c3d586ad"/>son delit en son propre leu natu<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_e4ba8c02" n="quGKMg" xml:id="elem_eSc_line_e4ba8c02"/>rel .  et ensi est il des autres elemenz<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_084ab16e" n="sUv3uX" xml:id="elem_eSc_line_084ab16e"/>Tout ausi deuons nous dire<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_945e2ec8" n="gxOAIH" xml:id="elem_eSc_line_945e2ec8"/>quil est en nature de bestes.  Car<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_58347e1a" n="kx86hQ" xml:id="elem_eSc_line_58347e1a"/>puis que nature de beste est plus<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_45e2034e" n="iuC8Ea" xml:id="elem_eSc_line_45e2034e"/>france et plus noble que nacure de<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_b0c0f3f3" n="wdUmfX" xml:id="elem_eSc_line_b0c0f3f3"/>lemenz.   Et nature donna as ele<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_668eeefb" n="qpHbis" xml:id="elem_eSc_line_668eeefb"/>menz . ii.  poissances.  pour ce que<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_07f7d0e0" n="eaZXvG" xml:id="elem_eSc_line_07f7d0e0"/>par lune les homes et les autres<cb break="?"/><lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_b1831459" n="u3bF6K" xml:id="elem_eSc_line_b1831459"/>bestes peussent tendre achose con<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_5e5ef46f" n="zUYqhJ" xml:id="elem_eSc_line_5e5ef46f"/>uenable et auoir leur propre delit<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_caad3513" n="eOydlp" xml:id="elem_eSc_line_caad3513"/>Et cele poissance si est apelee de<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_785b9689" n="k9tBTV" xml:id="elem_eSc_line_785b9689"/>sir de bien delitable.  Et par lau<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_96b61a65" n="vJt1s0" xml:id="elem_eSc_line_96b61a65"/>tre poissance il peussent contrester<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_e5f61c9f" n="yoQ1RF" xml:id="elem_eSc_line_e5f61c9f"/>qui son delit poissent empeeschier<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_0c2a3202" n="pmCuNu" xml:id="elem_eSc_line_0c2a3202"/>et cele poissance on apele desir de con<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_58b28c81" n="m3BX4w" xml:id="elem_eSc_line_58b28c81"/>trester a ce qui son propre delit poist enpe<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_9f228c10" n="b9ieGl" xml:id="elem_eSc_line_9f228c10"/>eschier.  Dont nous poons dire que<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_41a89714" n="u09Qfd" xml:id="elem_eSc_line_41a89714"/>des uirtuz de bones euures.  sagece si<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_f406a365" n="myEsKs" xml:id="elem_eSc_line_f406a365"/>est en lentendement.  Iustice est enla<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_bede4838" n="kmkmTD" xml:id="elem_eSc_line_bede4838"/>uolente.  Force de courage est ou<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_077dec8a" n="nQuyky" xml:id="elem_eSc_line_077dec8a"/>desir de contrester a ce que empeesce<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_c428ddc5" n="h4kxQ9" xml:id="elem_eSc_line_c428ddc5"/>le propre delit de lome:  Atemprance<lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_7dc77a51" n="aOsn46" xml:id="elem_eSc_line_7dc77a51"/>si est ou desir dauoir de lit: <lb break="?" facs="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/BNF_Français_1203/sortie_HTR/BNF_Français_1203_out.replaced.xml#facs_eSc_line_ea2678cd" n="enfXDf" xml:id="elem_eSc_line_ea2678cd"/>17</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

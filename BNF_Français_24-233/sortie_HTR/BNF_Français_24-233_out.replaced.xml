@@ -1,0 +1,484 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BNF_Français_24-233" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>BNF_Français_24-233</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="facs_eSc_line_f00266e5" corresp="#elem_eSc_line_f00266e5">
+      <graphic url="../lignes/gauch0_eSc_line_f00266e5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3b8dc7c9" corresp="#elem_eSc_line_3b8dc7c9">
+      <graphic url="../lignes/gauch0_eSc_line_3b8dc7c9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4032607c" corresp="#elem_eSc_line_4032607c">
+      <graphic url="../lignes/gauch0_eSc_line_4032607c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_542dc503" corresp="#elem_eSc_line_542dc503">
+      <graphic url="../lignes/gauch0_eSc_line_542dc503.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_13c75b58" corresp="#elem_eSc_line_13c75b58">
+      <graphic url="../lignes/gauch0_eSc_line_13c75b58.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_68703bd3" corresp="#elem_eSc_line_68703bd3">
+      <graphic url="../lignes/gauch0_eSc_line_68703bd3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cb1dbe3e" corresp="#elem_eSc_line_cb1dbe3e">
+      <graphic url="../lignes/gauch0_eSc_line_cb1dbe3e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a599ab10" corresp="#elem_eSc_line_a599ab10">
+      <graphic url="../lignes/gauch0_eSc_line_a599ab10.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4800e05d" corresp="#elem_eSc_line_4800e05d">
+      <graphic url="../lignes/gauch0_eSc_line_4800e05d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0be35fc1" corresp="#elem_eSc_line_0be35fc1">
+      <graphic url="../lignes/gauch0_eSc_line_0be35fc1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0e10b8af" corresp="#elem_eSc_line_0e10b8af">
+      <graphic url="../lignes/gauch0_eSc_line_0e10b8af.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_187f62f1" corresp="#elem_eSc_line_187f62f1">
+      <graphic url="../lignes/gauch0_eSc_line_187f62f1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e2bd253c" corresp="#elem_eSc_line_e2bd253c">
+      <graphic url="../lignes/gauch0_eSc_line_e2bd253c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fe605836" corresp="#elem_eSc_line_fe605836">
+      <graphic url="../lignes/gauch0_eSc_line_fe605836.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_70e572e0" corresp="#elem_eSc_line_70e572e0">
+      <graphic url="../lignes/gauch0_eSc_line_70e572e0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e682d6ee" corresp="#elem_eSc_line_e682d6ee">
+      <graphic url="../lignes/gauch0_eSc_line_e682d6ee.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c3fdce8b" corresp="#elem_eSc_line_c3fdce8b">
+      <graphic url="../lignes/gauch0_eSc_line_c3fdce8b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f6eef51e" corresp="#elem_eSc_line_f6eef51e">
+      <graphic url="../lignes/gauch0_eSc_line_f6eef51e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_19d5b5e5" corresp="#elem_eSc_line_19d5b5e5">
+      <graphic url="../lignes/gauch0_eSc_line_19d5b5e5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a9a24ef6" corresp="#elem_eSc_line_a9a24ef6">
+      <graphic url="../lignes/gauch0_eSc_line_a9a24ef6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e0db06ee" corresp="#elem_eSc_line_e0db06ee">
+      <graphic url="../lignes/gauch0_eSc_line_e0db06ee.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a735e145" corresp="#elem_eSc_line_a735e145">
+      <graphic url="../lignes/gauch0_eSc_line_a735e145.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ed54d389" corresp="#elem_eSc_line_ed54d389">
+      <graphic url="../lignes/gauch0_eSc_line_ed54d389.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_102dc3b0" corresp="#elem_eSc_line_102dc3b0">
+      <graphic url="../lignes/gauch0_eSc_line_102dc3b0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bd1658a3" corresp="#elem_eSc_line_bd1658a3">
+      <graphic url="../lignes/gauch0_eSc_line_bd1658a3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ccb399f8" corresp="#elem_eSc_line_ccb399f8">
+      <graphic url="../lignes/gauch0_eSc_line_ccb399f8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4b1b91e4" corresp="#elem_eSc_line_4b1b91e4">
+      <graphic url="../lignes/gauch0_eSc_line_4b1b91e4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1b6475ee" corresp="#elem_eSc_line_1b6475ee">
+      <graphic url="../lignes/gauch0_eSc_line_1b6475ee.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_caf8e52c" corresp="#elem_eSc_line_caf8e52c">
+      <graphic url="../lignes/gauch0_eSc_line_caf8e52c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_36d70cec" corresp="#elem_eSc_line_36d70cec">
+      <graphic url="../lignes/gauch0_eSc_line_36d70cec.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1e1c006b" corresp="#elem_eSc_line_1e1c006b">
+      <graphic url="../lignes/gauch0_eSc_line_1e1c006b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fa047a9e" corresp="#elem_eSc_line_fa047a9e">
+      <graphic url="../lignes/gauch0_eSc_line_fa047a9e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_02209a08" corresp="#elem_eSc_line_02209a08">
+      <graphic url="../lignes/gauch0_eSc_line_02209a08.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_17c01729" corresp="#elem_eSc_line_17c01729">
+      <graphic url="../lignes/gauch0_eSc_line_17c01729.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_576d22c7" corresp="#elem_eSc_line_576d22c7">
+      <graphic url="../lignes/gauch0_eSc_line_576d22c7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8cd30dd0" corresp="#elem_eSc_line_8cd30dd0">
+      <graphic url="../lignes/gauch0_eSc_line_8cd30dd0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a84f6203" corresp="#elem_eSc_line_a84f6203">
+      <graphic url="../lignes/gauch0_eSc_line_a84f6203.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_db035b4f" corresp="#elem_eSc_line_db035b4f">
+      <graphic url="../lignes/gauch0_eSc_line_db035b4f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b0e1f7d1" corresp="#elem_eSc_line_b0e1f7d1">
+      <graphic url="../lignes/gauch0_eSc_line_b0e1f7d1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_adc38528" corresp="#elem_eSc_line_adc38528">
+      <graphic url="../lignes/gauch0_eSc_line_adc38528.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f6627f70" corresp="#elem_eSc_line_f6627f70">
+      <graphic url="../lignes/gauch0_eSc_line_f6627f70.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_65125ff2" corresp="#elem_eSc_line_65125ff2">
+      <graphic url="../lignes/gauch0_eSc_line_65125ff2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b23a5d09" corresp="#elem_eSc_line_b23a5d09">
+      <graphic url="../lignes/gauch0_eSc_line_b23a5d09.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bf5e1b6b" corresp="#elem_eSc_line_bf5e1b6b">
+      <graphic url="../lignes/gauch0_eSc_line_bf5e1b6b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_53f5ac73" corresp="#elem_eSc_line_53f5ac73">
+      <graphic url="../lignes/gauch0_eSc_line_53f5ac73.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e1f62ef4" corresp="#elem_eSc_line_e1f62ef4">
+      <graphic url="../lignes/gauch0_eSc_line_e1f62ef4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0a3b8f15" corresp="#elem_eSc_line_0a3b8f15">
+      <graphic url="../lignes/gauch0_eSc_line_0a3b8f15.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e72cb761" corresp="#elem_eSc_line_e72cb761">
+      <graphic url="../lignes/gauch0_eSc_line_e72cb761.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_93703d3a" corresp="#elem_eSc_line_93703d3a">
+      <graphic url="../lignes/gauch0_eSc_line_93703d3a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ae883f0b" corresp="#elem_eSc_line_ae883f0b">
+      <graphic url="../lignes/gauch0_eSc_line_ae883f0b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2a47e268" corresp="#elem_eSc_line_2a47e268">
+      <graphic url="../lignes/gauch0_eSc_line_2a47e268.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b1603cd9" corresp="#elem_eSc_line_b1603cd9">
+      <graphic url="../lignes/gauch0_eSc_line_b1603cd9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a798a89f" corresp="#elem_eSc_line_a798a89f">
+      <graphic url="../lignes/gauch0_eSc_line_a798a89f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e81f41f3" corresp="#elem_eSc_line_e81f41f3">
+      <graphic url="../lignes/gauch0_eSc_line_e81f41f3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_db3e9d04" corresp="#elem_eSc_line_db3e9d04">
+      <graphic url="../lignes/gauch0_eSc_line_db3e9d04.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c8fdfc9a" corresp="#elem_eSc_line_c8fdfc9a">
+      <graphic url="../lignes/gauch0_eSc_line_c8fdfc9a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_33aac18c" corresp="#elem_eSc_line_33aac18c">
+      <graphic url="../lignes/gauch0_eSc_line_33aac18c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f427c848" corresp="#elem_eSc_line_f427c848">
+      <graphic url="../lignes/gauch0_eSc_line_f427c848.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d9480bcd" corresp="#elem_eSc_line_d9480bcd">
+      <graphic url="../lignes/gauch0_eSc_line_d9480bcd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4282a42d" corresp="#elem_eSc_line_4282a42d">
+      <graphic url="../lignes/gauch0_eSc_line_4282a42d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_904f8c3c" corresp="#elem_eSc_line_904f8c3c">
+      <graphic url="../lignes/gauch0_eSc_line_904f8c3c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_07d63a9e" corresp="#elem_eSc_line_07d63a9e">
+      <graphic url="../lignes/gauch0_eSc_line_07d63a9e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7f77c803" corresp="#elem_eSc_line_7f77c803">
+      <graphic url="../lignes/gauch0_eSc_line_7f77c803.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4092c743" corresp="#elem_eSc_line_4092c743">
+      <graphic url="../lignes/gauch0_eSc_line_4092c743.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5ab2bf0d" corresp="#elem_eSc_line_5ab2bf0d">
+      <graphic url="../lignes/gauch0_eSc_line_5ab2bf0d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d45f10fd" corresp="#elem_eSc_line_d45f10fd">
+      <graphic url="../lignes/gauch0_eSc_line_d45f10fd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3c46952e" corresp="#elem_eSc_line_3c46952e">
+      <graphic url="../lignes/gauch0_eSc_line_3c46952e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bbb45b06" corresp="#elem_eSc_line_bbb45b06">
+      <graphic url="../lignes/gauch0_eSc_line_bbb45b06.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ef543147" corresp="#elem_eSc_line_ef543147">
+      <graphic url="../lignes/gauch0_eSc_line_ef543147.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f4b74ec7" corresp="#elem_eSc_line_f4b74ec7">
+      <graphic url="../lignes/gauch0_eSc_line_f4b74ec7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7ec9a2d5" corresp="#elem_eSc_line_7ec9a2d5">
+      <graphic url="../lignes/gauch0_eSc_line_7ec9a2d5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_22deab06" corresp="#elem_eSc_line_22deab06">
+      <graphic url="../lignes/gauch0_eSc_line_22deab06.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8056622c" corresp="#elem_eSc_line_8056622c">
+      <graphic url="../lignes/gauch0_eSc_line_8056622c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2282366d" corresp="#elem_eSc_line_2282366d">
+      <graphic url="../lignes/gauch0_eSc_line_2282366d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2079a38b" corresp="#elem_eSc_line_2079a38b">
+      <graphic url="../lignes/gauch0_eSc_line_2079a38b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_501a296d" corresp="#elem_eSc_line_501a296d">
+      <graphic url="../lignes/gauch0_eSc_line_501a296d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d6a09149" corresp="#elem_eSc_line_d6a09149">
+      <graphic url="../lignes/gauch0_eSc_line_d6a09149.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_76f94960" corresp="#elem_eSc_line_76f94960">
+      <graphic url="../lignes/gauch0_eSc_line_76f94960.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_acca34cd" corresp="#elem_eSc_line_acca34cd">
+      <graphic url="../lignes/gauch0_eSc_line_acca34cd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_214099c8" corresp="#elem_eSc_line_214099c8">
+      <graphic url="../lignes/gauch0_eSc_line_214099c8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_33ad0a6d" corresp="#elem_eSc_line_33ad0a6d">
+      <graphic url="../lignes/gauch0_eSc_line_33ad0a6d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f3710ab8" corresp="#elem_eSc_line_f3710ab8">
+      <graphic url="../lignes/gauch0_eSc_line_f3710ab8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_006acc44" corresp="#elem_eSc_line_006acc44">
+      <graphic url="../lignes/gauch0_eSc_line_006acc44.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e2ba3387" corresp="#elem_eSc_line_e2ba3387">
+      <graphic url="../lignes/gauch0_eSc_line_e2ba3387.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_add937e4" corresp="#elem_eSc_line_add937e4">
+      <graphic url="../lignes/gauch0_eSc_line_add937e4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_42855a21" corresp="#elem_eSc_line_42855a21">
+      <graphic url="../lignes/gauch1_eSc_line_42855a21.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_adf8db3b" corresp="#elem_eSc_line_adf8db3b">
+      <graphic url="../lignes/gauch1_eSc_line_adf8db3b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_684c2635" corresp="#elem_eSc_line_684c2635">
+      <graphic url="../lignes/gauch1_eSc_line_684c2635.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fefa5eb5" corresp="#elem_eSc_line_fefa5eb5">
+      <graphic url="../lignes/gauch1_eSc_line_fefa5eb5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d23ca59a" corresp="#elem_eSc_line_d23ca59a">
+      <graphic url="../lignes/gauch1_eSc_line_d23ca59a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_767c8365" corresp="#elem_eSc_line_767c8365">
+      <graphic url="../lignes/gauch1_eSc_line_767c8365.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f2cb7d69" corresp="#elem_eSc_line_f2cb7d69">
+      <graphic url="../lignes/gauch1_eSc_line_f2cb7d69.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_573b8406" corresp="#elem_eSc_line_573b8406">
+      <graphic url="../lignes/gauch1_eSc_line_573b8406.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d82478e5" corresp="#elem_eSc_line_d82478e5">
+      <graphic url="../lignes/gauch1_eSc_line_d82478e5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_763ee2bf" corresp="#elem_eSc_line_763ee2bf">
+      <graphic url="../lignes/gauch1_eSc_line_763ee2bf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3c45dffc" corresp="#elem_eSc_line_3c45dffc">
+      <graphic url="../lignes/gauch1_eSc_line_3c45dffc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ac835ce4" corresp="#elem_eSc_line_ac835ce4">
+      <graphic url="../lignes/gauch1_eSc_line_ac835ce4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_872ebf8b" corresp="#elem_eSc_line_872ebf8b">
+      <graphic url="../lignes/gauch1_eSc_line_872ebf8b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_09e54804" corresp="#elem_eSc_line_09e54804">
+      <graphic url="../lignes/gauch1_eSc_line_09e54804.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1c596a67" corresp="#elem_eSc_line_1c596a67">
+      <graphic url="../lignes/gauch1_eSc_line_1c596a67.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_18e7ef64" corresp="#elem_eSc_line_18e7ef64">
+      <graphic url="../lignes/gauch1_eSc_line_18e7ef64.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_efa70654" corresp="#elem_eSc_line_efa70654">
+      <graphic url="../lignes/gauch1_eSc_line_efa70654.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dadf49d0" corresp="#elem_eSc_line_dadf49d0">
+      <graphic url="../lignes/gauch1_eSc_line_dadf49d0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1deef1f6" corresp="#elem_eSc_line_1deef1f6">
+      <graphic url="../lignes/gauch1_eSc_line_1deef1f6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f251f6a0" corresp="#elem_eSc_line_f251f6a0">
+      <graphic url="../lignes/gauch1_eSc_line_f251f6a0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_687df675" corresp="#elem_eSc_line_687df675">
+      <graphic url="../lignes/gauch1_eSc_line_687df675.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_caa35c73" corresp="#elem_eSc_line_caa35c73">
+      <graphic url="../lignes/gauch1_eSc_line_caa35c73.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ff64a273" corresp="#elem_eSc_line_ff64a273">
+      <graphic url="../lignes/gauch1_eSc_line_ff64a273.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_60916f6d" corresp="#elem_eSc_line_60916f6d">
+      <graphic url="../lignes/gauch1_eSc_line_60916f6d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_64b4e929" corresp="#elem_eSc_line_64b4e929">
+      <graphic url="../lignes/gauch1_eSc_line_64b4e929.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ad75c111" corresp="#elem_eSc_line_ad75c111">
+      <graphic url="../lignes/gauch1_eSc_line_ad75c111.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_97ffee2b" corresp="#elem_eSc_line_97ffee2b">
+      <graphic url="../lignes/gauch1_eSc_line_97ffee2b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f644f0b8" corresp="#elem_eSc_line_f644f0b8">
+      <graphic url="../lignes/gauch1_eSc_line_f644f0b8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e4238900" corresp="#elem_eSc_line_e4238900">
+      <graphic url="../lignes/gauch1_eSc_line_e4238900.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f9977378" corresp="#elem_eSc_line_f9977378">
+      <graphic url="../lignes/gauch1_eSc_line_f9977378.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b8da6f89" corresp="#elem_eSc_line_b8da6f89">
+      <graphic url="../lignes/gauch1_eSc_line_b8da6f89.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2e74fe34" corresp="#elem_eSc_line_2e74fe34">
+      <graphic url="../lignes/gauch1_eSc_line_2e74fe34.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a43684b9" corresp="#elem_eSc_line_a43684b9">
+      <graphic url="../lignes/gauch1_eSc_line_a43684b9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4c4ba04a" corresp="#elem_eSc_line_4c4ba04a">
+      <graphic url="../lignes/gauch1_eSc_line_4c4ba04a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_74fdcd69" corresp="#elem_eSc_line_74fdcd69">
+      <graphic url="../lignes/gauch1_eSc_line_74fdcd69.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4dba927e" corresp="#elem_eSc_line_4dba927e">
+      <graphic url="../lignes/gauch1_eSc_line_4dba927e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_76226d28" corresp="#elem_eSc_line_76226d28">
+      <graphic url="../lignes/gauch1_eSc_line_76226d28.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fa37e600" corresp="#elem_eSc_line_fa37e600">
+      <graphic url="../lignes/gauch1_eSc_line_fa37e600.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6fe5fae1" corresp="#elem_eSc_line_6fe5fae1">
+      <graphic url="../lignes/gauch1_eSc_line_6fe5fae1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9bbfe665" corresp="#elem_eSc_line_9bbfe665">
+      <graphic url="../lignes/gauch1_eSc_line_9bbfe665.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b242a7d7" corresp="#elem_eSc_line_b242a7d7">
+      <graphic url="../lignes/gauch1_eSc_line_b242a7d7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_28ab57c1" corresp="#elem_eSc_line_28ab57c1">
+      <graphic url="../lignes/gauch1_eSc_line_28ab57c1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9ca7d4a6" corresp="#elem_eSc_line_9ca7d4a6">
+      <graphic url="../lignes/gauch1_eSc_line_9ca7d4a6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_70aec0e5" corresp="#elem_eSc_line_70aec0e5">
+      <graphic url="../lignes/gauch1_eSc_line_70aec0e5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_00ecbad7" corresp="#elem_eSc_line_00ecbad7">
+      <graphic url="../lignes/gauch1_eSc_line_00ecbad7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2b1d2ac4" corresp="#elem_eSc_line_2b1d2ac4">
+      <graphic url="../lignes/gauch1_eSc_line_2b1d2ac4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7c38864e" corresp="#elem_eSc_line_7c38864e">
+      <graphic url="../lignes/gauch1_eSc_line_7c38864e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_daa69636" corresp="#elem_eSc_line_daa69636">
+      <graphic url="../lignes/gauch1_eSc_line_daa69636.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f5581030" corresp="#elem_eSc_line_f5581030">
+      <graphic url="../lignes/gauch1_eSc_line_f5581030.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5cea063f" corresp="#elem_eSc_line_5cea063f">
+      <graphic url="../lignes/gauch1_eSc_line_5cea063f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5ce52896" corresp="#elem_eSc_line_5ce52896">
+      <graphic url="../lignes/gauch1_eSc_line_5ce52896.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_13b62eba" corresp="#elem_eSc_line_13b62eba">
+      <graphic url="../lignes/gauch1_eSc_line_13b62eba.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9a54d3e1" corresp="#elem_eSc_line_9a54d3e1">
+      <graphic url="../lignes/gauch1_eSc_line_9a54d3e1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a3963c3b" corresp="#elem_eSc_line_a3963c3b">
+      <graphic url="../lignes/gauch1_eSc_line_a3963c3b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9f9332e6" corresp="#elem_eSc_line_9f9332e6">
+      <graphic url="../lignes/gauch1_eSc_line_9f9332e6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9a9f75ec" corresp="#elem_eSc_line_9a9f75ec">
+      <graphic url="../lignes/gauch1_eSc_line_9a9f75ec.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b9d73d2a" corresp="#elem_eSc_line_b9d73d2a">
+      <graphic url="../lignes/gauch1_eSc_line_b9d73d2a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_217ff989" corresp="#elem_eSc_line_217ff989">
+      <graphic url="../lignes/gauch1_eSc_line_217ff989.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e662cbe2" corresp="#elem_eSc_line_e662cbe2">
+      <graphic url="../lignes/gauch1_eSc_line_e662cbe2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cb1c5c5e" corresp="#elem_eSc_line_cb1c5c5e">
+      <graphic url="../lignes/gauch1_eSc_line_cb1c5c5e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f9d1bea9" corresp="#elem_eSc_line_f9d1bea9">
+      <graphic url="../lignes/gauch1_eSc_line_f9d1bea9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ef870ebb" corresp="#elem_eSc_line_ef870ebb">
+      <graphic url="../lignes/gauch1_eSc_line_ef870ebb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f55de9f4" corresp="#elem_eSc_line_f55de9f4">
+      <graphic url="../lignes/gauch1_eSc_line_f55de9f4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5e88146a" corresp="#elem_eSc_line_5e88146a">
+      <graphic url="../lignes/gauch1_eSc_line_5e88146a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e2687ce5" corresp="#elem_eSc_line_e2687ce5">
+      <graphic url="../lignes/gauch1_eSc_line_e2687ce5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4931810a" corresp="#elem_eSc_line_4931810a">
+      <graphic url="../lignes/gauch1_eSc_line_4931810a.png"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div n="1" type="livre">
+        <div n="1.2" type="partie">
+          <div n="1" type="chapitre"><pb n="" facs="../input_files/gauch0.jpg"/><head n="LzTDRrxe"><lb break="?" facs="#facs_eSc_line_f00266e5" n="xiojds" xml:id="elem_eSc_line_f00266e5"/>Ce. pͥmier .c. de la secũde pãtie du pͥmier<lb break="?" facs="#facs_eSc_line_3b8dc7c9" n="ut932c" xml:id="elem_eSc_line_3b8dc7c9"/>liure. du gou̾nam̃t des rois enseigͤ.<lb break="?" facs="#facs_eSc_line_4032607c" n="xUds0I" xml:id="elem_eSc_line_4032607c"/>qnͣtes possãces lame ⁊ enꝗex poissis<lb break="?" facs="#facs_eSc_line_542dc503" n="t6s8QT" xml:id="elem_eSc_line_542dc503"/>ces les u̾tuz des bounes euures sũt.</head><pb n="1" facs="../input_files/gauch0.jpg"/><lb break="?" facs="#facs_eSc_line_13c75b58" n="w6K6Bv" xml:id="elem_eSc_line_13c75b58"/>Uis qe nous auõs enseigne alaide<lb break="?" facs="#facs_eSc_line_68703bd3" n="choIpY" xml:id="elem_eSc_line_68703bd3"/>d̃ dieu enla primiere partie d̃ ce u<lb break="?" facs="#facs_eSc_line_cb1dbe3e" n="tCsVH8" xml:id="elem_eSc_line_cb1dbe3e"/>ure q̃les Rois ⁊ les prĩces sont bene<lb break="?" facs="#facs_eSc_line_a599ab10" n="kfndCC" xml:id="elem_eSc_line_a599ab10"/>uurez qãt il aimẽt dieu. ⁊ pour lamoͬr<lb break="?" facs="#facs_eSc_line_4800e05d" n="oWR1HN" xml:id="elem_eSc_line_4800e05d"/>d̃dieu. sicome bons serganz ⁊ leaus<lb break="?" facs="#facs_eSc_line_0be35fc1" n="xzrXHW" xml:id="elem_eSc_line_0be35fc1"/>il tendent agouu̾nez sagem̃t le pu<lb break="?" facs="#facs_eSc_line_0e10b8af" n="xvXtHq" xml:id="elem_eSc_line_0e10b8af"/>eple selonc loy ⁊ raison. Nous di<lb break="?" facs="#facs_eSc_line_187f62f1" n="ghwUrm" xml:id="elem_eSc_line_187f62f1"/>rons qeles u̾tuz les Rois ales prĩceᷤᷤ<lb break="?" facs="#facs_eSc_line_e2bd253c" n="gNj6rJ" xml:id="elem_eSc_line_e2bd253c"/>douuẽt auoir. Et porce q̃ les u̾tuc:<lb break="?" facs="#facs_eSc_line_fe605836" n="kj9NJM" xml:id="elem_eSc_line_fe605836"/>font laimue perfaite. ¶Il conuẽt.<lb break="?" facs="#facs_eSc_line_70e572e0" n="bowkMH" xml:id="elem_eSc_line_70e572e0"/>pͥmieremẽ sauoir qantes puissãces<lb break="?" facs="#facs_eSc_line_e682d6ee" n="fFnDh7" xml:id="elem_eSc_line_e682d6ee"/>lame.a. q es q̃les les u̾tu d̃bounes<lb break="?" facs="#facs_eSc_line_c3fdce8b" n="zYFjz2" xml:id="elem_eSc_line_c3fdce8b"/>euures doiuent estre. ⁊ ap̃s nous di<lb break="?" facs="#facs_eSc_line_f6eef51e" n="wvQuse" xml:id="elem_eSc_line_f6eef51e"/>rons cõmẽt ⟦len⟧ len doit deuu̾it les<lb break="?" facs="#facs_eSc_line_19d5b5e5" n="to32G8" xml:id="elem_eSc_line_19d5b5e5"/>u̾ruz de bounes euures ⁊ qñtes il<lb break="?" facs="#facs_eSc_line_a9a24ef6" n="sdmq5M" xml:id="elem_eSc_line_a9a24ef6"/>en soit. ⟦Et⟧ Et ap̃s nous. dirons de<lb break="?" facs="#facs_eSc_line_e0db06ee" n="yWRFeA" xml:id="elem_eSc_line_e0db06ee"/>chascune q̃le.ẽ. Et comẽt les Rois ⁊<lb break="?" facs="#facs_eSc_line_a735e145" n="sWnbop" xml:id="elem_eSc_line_a735e145"/>li prĩce doiuẽt auoir teles u̾tu. ⁊ dirõs<lb break="?" facs="#facs_eSc_line_ed54d389" n="fQQh2J" xml:id="elem_eSc_line_ed54d389"/>les qeles sũt plus principaus des a<lb break="?" facs="#facs_eSc_line_102dc3b0" n="j2ScKe" xml:id="elem_eSc_line_102dc3b0"/>utres. ¶Dont len doit sauoir qe la<lb break="?" facs="#facs_eSc_line_bd1658a3" n="rDCnUU" xml:id="elem_eSc_line_bd1658a3"/>uinc.a.iii. maineres d̾ poissance. Leᷤ<lb break="?" facs="#facs_eSc_line_ccb399f8" n="fmgzmQ" xml:id="elem_eSc_line_ccb399f8"/>unes sũt natureles si come lau̾tu q̃<lb break="?" facs="#facs_eSc_line_4b1b91e4" n="ympw4o" xml:id="elem_eSc_line_4b1b91e4"/>acroist. ⁊ la u̾tu qiengendre. ¶Les<lb break="?" facs="#facs_eSc_line_1b6475ee" n="wtBf3P" xml:id="elem_eSc_line_1b6475ee"/>autres puissances d̾ lame sũt conu<lb break="?" facs="#facs_eSc_line_caf8e52c" n="hCd5wM" xml:id="elem_eSc_line_caf8e52c"/>issans si come laueue. ¶Le goust<lb break="?" facs="#facs_eSc_line_36d70cec" n="jHgfOT" xml:id="elem_eSc_line_36d70cec"/>⁊ latochemãt ales autres sens del<lb break="?" facs="#facs_eSc_line_1e1c006b" n="gSxe7M" xml:id="elem_eSc_line_1e1c006b"/>home. ¶Une autre poissãce d̾ lau<lb break="?" facs="#facs_eSc_line_fa047a9e" n="pL2CRe" xml:id="elem_eSc_line_fa047a9e"/>me. Si ẽ qen apelle lentendim̃t.<lb break="?" facs="#facs_eSc_line_02209a08" n="xWpUV1" xml:id="elem_eSc_line_02209a08"/>¶Les autres possances d̾lame sõt. di<lb break="?" facs="#facs_eSc_line_17c01729" n="eKVenq" xml:id="elem_eSc_line_17c01729"/>tes poissances qi d̾sirẽt. Dont luns<lb break="?" facs="#facs_eSc_line_576d22c7" n="hHxGiZ" xml:id="elem_eSc_line_576d22c7"/>si est nomee uolente qi est desir de<lb break="?" facs="#facs_eSc_line_8cd30dd0" n="tp3SCA" xml:id="elem_eSc_line_8cd30dd0"/>lentendimẽt. ⁊ lautͣeͣ.ẽ. dite desir.v.<lb break="?" facs="#facs_eSc_line_a84f6203" n="d1Yoym" xml:id="elem_eSc_line_a84f6203"/>sens delhome. ¶Et poons ꝓuer pai<lb break="?" facs="#facs_eSc_line_db035b4f" n="wAhfAM" xml:id="elem_eSc_line_db035b4f"/>.iii.raisons q̃ les uertus d̾ bounes eu<lb break="?" facs="#facs_eSc_line_b0e1f7d1" n="zMAG6S" xml:id="elem_eSc_line_b0e1f7d1"/>ures qe nous aqerons per acostomã<lb break="?" facs="#facs_eSc_line_adc38528" n="l312CT" xml:id="elem_eSc_line_adc38528"/>ces d̾biẽ faire ne sont pas es poissã<lb break="?" facs="#facs_eSc_line_f6627f70" n="zU8QCB" xml:id="elem_eSc_line_f6627f70"/>ces d̾ lame natureles ne es.v. sens<lb break="?" facs="#facs_eSc_line_65125ff2" n="in7TbK" xml:id="elem_eSc_line_65125ff2"/>del home. ¶Lapͣmiere raisõ si . ẽ.<lb break="?" facs="#facs_eSc_line_b23a5d09" n="dvHePj" xml:id="elem_eSc_line_b23a5d09"/>qar pour les u̾tuz des bounes euuͬeᷤ<lb break="?" facs="#facs_eSc_line_bf5e1b6b" n="lgVaDo" xml:id="elem_eSc_line_bf5e1b6b"/>lendoit loer lome quãt ille sa ⁊ bla<lb break="?" facs="#facs_eSc_line_53f5ac73" n="pLQOw8" xml:id="elem_eSc_line_53f5ac73"/>umez quant il .a. le contraire. ¶Mes.<cb/><lb break="?" facs="#facs_eSc_line_e1f62ef4" n="d6Gk0y" xml:id="elem_eSc_line_e1f62ef4"/>por bien norir. ne por biẽ estre acreu.<lb break="?" facs="#facs_eSc_line_0a3b8f15" n="hsm3oY" xml:id="elem_eSc_line_0a3b8f15"/>ne porbiẽ ueoir. ne por biẽ sentir nul<lb break="?" facs="#facs_eSc_line_e72cb761" n="dKilAw" xml:id="elem_eSc_line_e72cb761"/>ne doit est̾e̾ pͥncipaum̃t ne blaumes<lb break="?" facs="#facs_eSc_line_93703d3a" n="lGojMm" xml:id="elem_eSc_line_93703d3a"/>ne loeᷤ. sil nest auis q̃ par trop bouire<lb break="?" facs="#facs_eSc_line_ae883f0b" n="uiE3te" xml:id="elem_eSc_line_ae883f0b"/>⁊ trop mengier il .a. aqis maladie par<lb break="?" facs="#facs_eSc_line_2a47e268" n="zsw1k3" xml:id="elem_eSc_line_2a47e268"/>qoi teles u̾tuz sunt enpeschees en leur<lb break="?" facs="#facs_eSc_line_b1603cd9" n="nhPGUc" xml:id="elem_eSc_line_b1603cd9"/>euures. ¶Dont en celes puissances<lb break="?" facs="#facs_eSc_line_a798a89f" n="d2nuuu" xml:id="elem_eSc_line_a798a89f"/>len ne doit pas metre les u̾tuz d̾ bou<lb break="?" facs="#facs_eSc_line_e81f41f3" n="i745ho" xml:id="elem_eSc_line_e81f41f3"/>nes cuures sont chose selonc. raison<lb break="?" facs="#facs_eSc_line_db3e9d04" n="bQ85eZ" xml:id="elem_eSc_line_db3e9d04"/>qͥ doiuent estre es/ poissances d̾lame<lb break="?" facs="#facs_eSc_line_c8fdfc9a" n="tvYnOq" xml:id="elem_eSc_line_c8fdfc9a"/>qͥ obeissẽt araison. ¶Mes les poissã<lb break="?" facs="#facs_eSc_line_33aac18c" n="ky2BCm" xml:id="elem_eSc_line_33aac18c"/>ces natureles. ne le .v. sens d̾ lame no<lb break="?" facs="#facs_eSc_line_f427c848" n="dHwy5e" xml:id="elem_eSc_line_f427c848"/>beissent mie araison. Qar cler ueoir oyr<lb break="?" facs="#facs_eSc_line_d9480bcd" n="nYe6Fn" xml:id="elem_eSc_line_d9480bcd"/>mauuasemẽt ueoir nest pas prĩcipa<lb break="?" facs="#facs_eSc_line_4282a42d" n="l0sv9k" xml:id="elem_eSc_line_4282a42d"/>umẽt en la poere de home. ¶Qar se li<lb break="?" facs="#facs_eSc_line_904f8c3c" n="g0ozZY" xml:id="elem_eSc_line_904f8c3c"/>hons amengie ⁊ ne uousist pas esteͬ<lb break="?" facs="#facs_eSc_line_07d63a9e" n="lcnzQ4" xml:id="elem_eSc_line_07d63a9e"/>ne acreu si le norrim̃t.⁊ araistroiẽt les<lb break="?" facs="#facs_eSc_line_7f77c803" n="u0g8ft" xml:id="elem_eSc_line_7f77c803"/>u̾tu qi.ẽ. en lui sũt. ¶Dout en ces ⁊<lb break="?" facs="#facs_eSc_line_4092c743" n="tK2l7y" xml:id="elem_eSc_line_4092c743"/>poissances lenne doit pas metͬe les<lb break="?" facs="#facs_eSc_line_5ab2bf0d" n="j4GUEL" xml:id="elem_eSc_line_5ab2bf0d"/>uertuz d̾bounes euures. ¶La tierce<lb break="?" facs="#facs_eSc_line_d45f10fd" n="hma8dt" xml:id="elem_eSc_line_d45f10fd"/>Raison si est qar les poissances nature<lb break="?" facs="#facs_eSc_line_3c46952e" n="zmw18X" xml:id="elem_eSc_line_3c46952e"/>les qles .v. sens d̾lome sõt encline ⁊<lb break="?" facs="#facs_eSc_line_bbb45b06" n="os0iXw" xml:id="elem_eSc_line_bbb45b06"/>soufissam̃t par leur nature a fere ⁊<lb break="?" facs="#facs_eSc_line_ef543147" n="sjpyOA" xml:id="elem_eSc_line_ef543147"/>leur euures: Ne par els. nous ne so<lb break="?" facs="#facs_eSc_line_f4b74ec7" n="qpmWir" xml:id="elem_eSc_line_f4b74ec7"/>mes ne bons ne mauues. Mes les<lb break="?" facs="#facs_eSc_line_7ec9a2d5" n="m8tvTq" xml:id="elem_eSc_line_7ec9a2d5"/>uertus des bounes euures enclinẽt<lb break="?" facs="#facs_eSc_line_22deab06" n="heDS5N" xml:id="elem_eSc_line_22deab06"/>les poissances de lame ou elles sont<lb break="?" facs="#facs_eSc_line_8056622c" n="gkAXun" xml:id="elem_eSc_line_8056622c"/>abiẽ ⁊ faire. ⁊ les uices les enclinẽt.<lb break="?" facs="#facs_eSc_line_2282366d" n="qhpGFn" xml:id="elem_eSc_line_2282366d"/>amal faire. ¶Dont les uertuz d̾bo<lb break="?" facs="#facs_eSc_line_2079a38b" n="p9FkSE" xml:id="elem_eSc_line_2079a38b"/>unes euures ne douuent pas estrez<lb break="?" facs="#facs_eSc_line_501a296d" n="m9UAsi" xml:id="elem_eSc_line_501a296d"/>espoisances d̾ lame natureles ni es<lb break="?" facs="#facs_eSc_line_d6a09149" n="ehCB9s" xml:id="elem_eSc_line_d6a09149"/>.v. sens de lome qi par leur nature ⁊<lb break="?" facs="#facs_eSc_line_76f94960" n="wl0Nyn" xml:id="elem_eSc_line_76f94960"/>sunt encline suffissament afaire le<lb break="?" facs="#facs_eSc_line_acca34cd" n="yNDAv7" xml:id="elem_eSc_line_acca34cd"/>ur euures: Ce secũt chap̃. d̾lasecũte paͬ<lb break="?" facs="#facs_eSc_line_214099c8" n="mMGu2h" xml:id="elem_eSc_line_214099c8"/>tie.dũprimier liure. enseigne com̃t les<lb break="?" facs="#facs_eSc_line_33ad0a6d" n="pm5JUy" xml:id="elem_eSc_line_33ad0a6d"/>uͥtuz des bonnes euures sũt diuissces<lb break="?" facs="#facs_eSc_line_f3710ab8" n="uFq4lM" xml:id="elem_eSc_line_f3710ab8"/>⁊com̃t eles sũt ou desir ⁊ en lenten<lb break="?" facs="#facs_eSc_line_006acc44" n="p5M6zE" xml:id="elem_eSc_line_006acc44"/>dim̃t del homo<lb break="?" facs="#facs_eSc_line_e2ba3387" n="sUlxdj" xml:id="elem_eSc_line_e2ba3387"/>uis qe nous
+            auons moustre qeles<lb break="?" facs="#facs_eSc_line_add937e4" n="o2mlqL" xml:id="elem_eSc_line_add937e4"/>utus des bounes : eures ne sũt
+              pas.<pb n="" facs="../input_files/gauch1.jpg"/><lb break="?" facs="#facs_eSc_line_42855a21" n="ynLXs4" xml:id="elem_eSc_line_42855a21"/>es
+            poisances del home natureles mes<lb break="?" facs="#facs_eSc_line_adf8db3b" n="sRit04" xml:id="elem_eSc_line_adf8db3b"/>u. sens del home.
+            ¶Nous dirons qe<lb break="?" facs="#facs_eSc_line_684c2635" n="rIl3Ah" xml:id="elem_eSc_line_684c2635"/>ii. maineres d̾ uertus sunt les
+              unes⁊<lb break="?" facs="#facs_eSc_line_fefa5eb5" n="uZajgt" xml:id="elem_eSc_line_fefa5eb5"/>qitendent prĩcipaum̃t aconoissance<lb break="?" facs="#facs_eSc_line_d23ca59a" n="qeRryO" xml:id="elem_eSc_line_d23ca59a"/>d̾ uerite. Si come la scienec des natu<lb break="?" facs="#facs_eSc_line_767c8365" n="rK0J48" xml:id="elem_eSc_line_767c8365"/>res ⁊ astrononue. ⁊ les autoͣs sciences.<lb break="?" facs="#facs_eSc_line_f2cb7d69" n="idl2XI" xml:id="elem_eSc_line_f2cb7d69"/>¶Les autres uertus sunt per quous<lb break="?" facs="#facs_eSc_line_573b8406" n="izUr6X" xml:id="elem_eSc_line_573b8406"/>feissons bounes euures. lles acquir<lb break="?" facs="#facs_eSc_line_d82478e5" n="gTB39L" xml:id="elem_eSc_line_d82478e5"/>rons par acustumance d̾ bien faire.<lb break="?" facs="#facs_eSc_line_763ee2bf" n="nuRCfV" xml:id="elem_eSc_line_763ee2bf"/>⁊ sũt audsir d̾l home. Si come iusti<lb break="?" facs="#facs_eSc_line_3c45dffc" n="yZPAbt" xml:id="elem_eSc_line_3c45dffc"/>ce. atenprance force ⁊ d̾ bonerite ⁊les<lb break="?" facs="#facs_eSc_line_ac835ce4" n="v9LS4S" xml:id="elem_eSc_line_ac835ce4"/>autres des q̃les nous dirons ci apres.<lb break="?" facs="#facs_eSc_line_872ebf8b" n="rRDQOT" xml:id="elem_eSc_line_872ebf8b"/>Et leirons les u̾tus qͥrendẽt prĩcipau<lb break="?" facs="#facs_eSc_line_09e54804" n="izNdpj" xml:id="elem_eSc_line_09e54804"/>m̃t aconoissance. d̾ uerite ⁊ dirons ⁊<lb break="?" facs="#facs_eSc_line_1c596a67" n="zqkS3o" xml:id="elem_eSc_line_1c596a67"/>des u̾tus per qinous faissons bouneᷤ<lb break="?" facs="#facs_eSc_line_18e7ef64" n="vrWjVV" xml:id="elem_eSc_line_18e7ef64"/>euures. Qar nous entendons prĩci<lb break="?" facs="#facs_eSc_line_efa70654" n="t4zyFg" xml:id="elem_eSc_line_efa70654"/>paum̃t par ceste science q̃ nous soios<lb break="?" facs="#facs_eSc_line_dadf49d0" n="ypMhit" xml:id="elem_eSc_line_dadf49d0"/>bons. Et dirons q̃ porce qe le desir<lb break="?" facs="#facs_eSc_line_1deef1f6" n="xdvSGl" xml:id="elem_eSc_line_1deef1f6"/>del home obeist araison ciles uertu<lb break="?" facs="#facs_eSc_line_f251f6a0" n="nU5ZmJ" xml:id="elem_eSc_line_f251f6a0"/>d̾ bounes eiuires sũt chose selonc rai<lb break="?" facs="#facs_eSc_line_687df675" n="gHei79" xml:id="elem_eSc_line_687df675"/>son. eles sũt el entenduñt d̾l home<lb break="?" facs="#facs_eSc_line_caa35c73" n="vzez32" xml:id="elem_eSc_line_caa35c73"/>i endesir. ¶Mes nous d̾uõs sauoir.<lb break="?" facs="#facs_eSc_line_ff64a273" n="pL5V4f" xml:id="elem_eSc_line_ff64a273"/>q̃ d̾sir nest autre chose q̃ une enclinã<lb break="?" facs="#facs_eSc_line_60916f6d" n="gTpK1P" xml:id="elem_eSc_line_60916f6d"/>ce abiẽ auoir ou amal fair qi uient<lb break="?" facs="#facs_eSc_line_64b4e929" n="zmJkmb" xml:id="elem_eSc_line_64b4e929"/>d̾ce q̃ lome conoist biẽ ⁊ mal. ⁊ poͣr<lb break="?" facs="#facs_eSc_line_ad75c111" n="uVpOl4" xml:id="elem_eSc_line_ad75c111"/>ce q̃ li hons. a .ii. conoissances. ¶Lu<lb break="?" facs="#facs_eSc_line_97ffee2b" n="dqlJXS" xml:id="elem_eSc_line_97ffee2b"/>ne si est conoissance d̾lentẽdim̃t. ¶La<lb break="?" facs="#facs_eSc_line_f644f0b8" n="wZdAHr" xml:id="elem_eSc_line_f644f0b8"/>utre si .ẽ. conoissãce. d̾ .u. sẽs.Il.a.<lb break="?" facs="#facs_eSc_line_e4238900" n="mzrPXa" xml:id="elem_eSc_line_e4238900"/>en soi .ii. d̾sir. ¶Qar qñt lentẽduñt<lb break="?" facs="#facs_eSc_line_f9977378" n="bOz5a5" xml:id="elem_eSc_line_f9977378"/>conoist aucũ biẽ ou aucũmal il d̾si<lb break="?" facs="#facs_eSc_line_b8da6f89" n="rIrhlu" xml:id="elem_eSc_line_b8da6f89"/>re aporsiure le biẽ ⁊ a fuir le mal.⁊<lb break="?" facs="#facs_eSc_line_2e74fe34" n="uLEFsE" xml:id="elem_eSc_line_2e74fe34"/>⁊ tel d̾sir on apelle uolũte. Et qnͣt<lb break="?" facs="#facs_eSc_line_a43684b9" n="r0IYMj" xml:id="elem_eSc_line_a43684b9"/>par le .u. sens q̃ il. a couoist aucũbiẽ<lb break="?" facs="#facs_eSc_line_4c4ba04a" n="wyLvOZ" xml:id="elem_eSc_line_4c4ba04a"/>singuler o aucũmal lome le d̾sire et<lb break="?" facs="#facs_eSc_line_74fdcd69" n="bXdacl" xml:id="elem_eSc_line_74fdcd69"/>sencline aporsiure le biẽ. ⁊ fuir lemal<lb break="?" facs="#facs_eSc_line_4dba927e" n="mQTSsW" xml:id="elem_eSc_line_4dba927e"/>⁊ tel d̾sir on apele d̾sir d̾.u. sẽs d̾lome.<lb break="?" facs="#facs_eSc_line_76226d28" n="hZpjfr" xml:id="elem_eSc_line_76226d28"/>Et .ẽ. asauoir qe lid̾sir qc li hons. a. per<lb break="?" facs="#facs_eSc_line_fa37e600" n="kdbMVR" xml:id="elem_eSc_line_fa37e600"/>la per la conoissance d̾ ses sẽs. ẽ. duuis<lb break="?" facs="#facs_eSc_line_6fe5fae1" n="lnawnX" xml:id="elem_eSc_line_6fe5fae1"/>se en .ii. deũrs. Qar tout ausi come no<lb break="?" facs="#facs_eSc_line_9bbfe665" n="pFkN2S" xml:id="elem_eSc_line_9bbfe665"/>us ueons q̃ nature doune.ii. poissan<lb break="?" facs="#facs_eSc_line_b242a7d7" n="mGnRPO" xml:id="elem_eSc_line_b242a7d7"/>ces afeu sicõme chaleui. ⁊ legirece le feu<cb break="?"/><lb break="?" facs="#facs_eSc_line_28ab57c1" n="li2kHC" xml:id="elem_eSc_line_28ab57c1"/>puisse aler en son proprie leu natu<lb break="?" facs="#facs_eSc_line_9ca7d4a6" n="nh6pia" xml:id="elem_eSc_line_9ca7d4a6"/>rel qi.ẽ. lasus u̾s la lune. ⁊per iar<lb break="?" facs="#facs_eSc_line_70aec0e5" n="fvVM6i" xml:id="elem_eSc_line_70aec0e5"/>chaleur. qil .a. il peust cõtrester as ⁊<lb break="?" facs="#facs_eSc_line_00ecbad7" n="fnxVOz" xml:id="elem_eSc_line_00ecbad7"/>chouse q̃ poissent enpesch son d̾lit ⁊<lb break="?" facs="#facs_eSc_line_2b1d2ac4" n="lqvkG7" xml:id="elem_eSc_line_2b1d2ac4"/>en son propric leu naturel ⁊ ensi est<lb break="?" facs="#facs_eSc_line_7c38864e" n="xFC3g6" xml:id="elem_eSc_line_7c38864e"/>il d̾ autres elemẽs. ¶Tout ausi d̾ũoᷤ<lb break="?" facs="#facs_eSc_line_daa69636" n="iUHrdj" xml:id="elem_eSc_line_daa69636"/>nous dire qil.ẽ. en nature d̾ beste. ⁊<lb break="?" facs="#facs_eSc_line_f5581030" n="jHEcfD" xml:id="elem_eSc_line_f5581030"/>¶Qar pius q̃ nature d̾ beste. ẽ plus ⁊<lb break="?" facs="#facs_eSc_line_5cea063f" n="s6D8f6" xml:id="elem_eSc_line_5cea063f"/>franche ⁊ plus noble q̃ nature d̾ lenĩez.<lb break="?" facs="#facs_eSc_line_5ce52896" n="wTAcsG" xml:id="elem_eSc_line_5ce52896"/>Et nature donna as alamenz .ii. pois<lb break="?" facs="#facs_eSc_line_13b62eba" n="t2LAAL" xml:id="elem_eSc_line_13b62eba"/>sances. porce q̃ par lune les homes<lb break="?" facs="#facs_eSc_line_9a54d3e1" n="g7LmHf" xml:id="elem_eSc_line_9a54d3e1"/>autres bestes peussẽt tendre achose<lb break="?" facs="#facs_eSc_line_a3963c3b" n="vYFdy6" xml:id="elem_eSc_line_a3963c3b"/>ꝯuenable ⁊ auoir leur poopre d̾lit<lb break="?" facs="#facs_eSc_line_9f9332e6" n="fYr4VX" xml:id="elem_eSc_line_9f9332e6"/>¶Et celle poissãce si .ẽ. appellee desir d̾<lb break="?" facs="#facs_eSc_line_9a9f75ec" n="yyi9wl" xml:id="elem_eSc_line_9a9f75ec"/>biẽ d̾litable. ¶Et par lautre poissã<lb break="?" facs="#facs_eSc_line_b9d73d2a" n="pyB2zU" xml:id="elem_eSc_line_b9d73d2a"/>ce il poissent cõtrester qi son d̾lit po<lb break="?" facs="#facs_eSc_line_217ff989" n="kIdyBm" xml:id="elem_eSc_line_217ff989"/>issent enpescher. ⁊ celle poissance on<lb break="?" facs="#facs_eSc_line_e662cbe2" n="dCuIRZ" xml:id="elem_eSc_line_e662cbe2"/>apelle d̾sir. d̾ cõtrester. ace q̃ son ꝓpre<lb break="?" facs="#facs_eSc_line_cb1c5c5e" n="uYpZus" xml:id="elem_eSc_line_cb1c5c5e"/>delit peust enpeschier. ¶Dont no<lb break="?" facs="#facs_eSc_line_f9d1bea9" n="qvk5wf" xml:id="elem_eSc_line_f9d1bea9"/>us poons dire q̃ des u̾tu d̾ bounes ⁊<lb break="?" facs="#facs_eSc_line_ef870ebb" n="cvkNXo" xml:id="elem_eSc_line_ef870ebb"/>euures. sagece. si.ẽ. en leutendimẽt.<lb break="?" facs="#facs_eSc_line_f55de9f4" n="giZ3ix" xml:id="elem_eSc_line_f55de9f4"/>Iustice. ẽ en la uolũte. ¶Force d̾ cora<lb break="?" facs="#facs_eSc_line_5e88146a" n="fx3GVE" xml:id="elem_eSc_line_5e88146a"/>ge.ẽ. aud̾sir d̾ ꝯtrester ace q̃enpesche<lb break="?" facs="#facs_eSc_line_e2687ce5" n="bUZmTM" xml:id="elem_eSc_line_e2687ce5"/>le propre d̾lit d̾ lome. ¶Atẽplance<lb break="?" facs="#facs_eSc_line_4931810a" n="ny6rLX" xml:id="elem_eSc_line_4931810a"/>si .ẽ. au d̾sir. dauoir d̾lit:</div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
