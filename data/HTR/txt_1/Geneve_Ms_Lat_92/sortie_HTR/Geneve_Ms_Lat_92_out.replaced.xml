@@ -1,0 +1,2083 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Geneve_Ms_Lat_92" xml:lang="la" type="transcription">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Geneve_Ms_Lat_92</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="facs_eSc_line_1f469150" corresp="#elem_eSc_line_1f469150">
+      <graphic url="../lignes/e-codices_bge-lat0092_012v_max_eSc_line_1f469150.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_145a001e" corresp="#elem_eSc_line_145a001e">
+      <graphic url="../lignes/e-codices_bge-lat0092_012v_max_eSc_line_145a001e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_af7441c3" corresp="#elem_eSc_line_af7441c3">
+      <graphic url="../lignes/e-codices_bge-lat0092_012v_max_eSc_line_af7441c3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1290c34c" corresp="#elem_eSc_line_1290c34c">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_1290c34c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bdd836ad" corresp="#elem_eSc_line_bdd836ad">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_bdd836ad.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f8695b58" corresp="#elem_eSc_line_f8695b58">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_f8695b58.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_31fb6024" corresp="#elem_eSc_line_31fb6024">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_31fb6024.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5ac2502c" corresp="#elem_eSc_line_5ac2502c">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_5ac2502c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fa983fbe" corresp="#elem_eSc_line_fa983fbe">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_fa983fbe.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ae13c7ef" corresp="#elem_eSc_line_ae13c7ef">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_ae13c7ef.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c515cfb3" corresp="#elem_eSc_line_c515cfb3">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_c515cfb3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2e5ac603" corresp="#elem_eSc_line_2e5ac603">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_2e5ac603.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b7939b86" corresp="#elem_eSc_line_b7939b86">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_b7939b86.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_81ce7823" corresp="#elem_eSc_line_81ce7823">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_81ce7823.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8b3a4064" corresp="#elem_eSc_line_8b3a4064">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_8b3a4064.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bd491358" corresp="#elem_eSc_line_bd491358">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_bd491358.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_03d1926b" corresp="#elem_eSc_line_03d1926b">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_03d1926b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c5c29225" corresp="#elem_eSc_line_c5c29225">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_c5c29225.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_da5d1657" corresp="#elem_eSc_line_da5d1657">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_da5d1657.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d5cffd71" corresp="#elem_eSc_line_d5cffd71">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_d5cffd71.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7bd3459c" corresp="#elem_eSc_line_7bd3459c">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_7bd3459c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d15a99d3" corresp="#elem_eSc_line_d15a99d3">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_d15a99d3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fb5a91f9" corresp="#elem_eSc_line_fb5a91f9">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_fb5a91f9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8fc63fa9" corresp="#elem_eSc_line_8fc63fa9">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_8fc63fa9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_55491fda" corresp="#elem_eSc_line_55491fda">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_55491fda.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_30bbe546" corresp="#elem_eSc_line_30bbe546">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_30bbe546.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_94fb98c5" corresp="#elem_eSc_line_94fb98c5">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_94fb98c5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_70442915" corresp="#elem_eSc_line_70442915">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_70442915.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1f2e3c11" corresp="#elem_eSc_line_1f2e3c11">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_1f2e3c11.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_101255de" corresp="#elem_eSc_line_101255de">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_101255de.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cbb5dd7c" corresp="#elem_eSc_line_cbb5dd7c">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_cbb5dd7c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_19768a8d" corresp="#elem_eSc_line_19768a8d">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_19768a8d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_782c7956" corresp="#elem_eSc_line_782c7956">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_782c7956.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_44a88eb1" corresp="#elem_eSc_line_44a88eb1">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_44a88eb1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_abcedd0c" corresp="#elem_eSc_line_abcedd0c">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_abcedd0c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e36fc93d" corresp="#elem_eSc_line_e36fc93d">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_e36fc93d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d2082455" corresp="#elem_eSc_line_d2082455">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_d2082455.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_78f52203" corresp="#elem_eSc_line_78f52203">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_78f52203.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_96994340" corresp="#elem_eSc_line_96994340">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_96994340.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a877da4f" corresp="#elem_eSc_line_a877da4f">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_a877da4f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4ae80537" corresp="#elem_eSc_line_4ae80537">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_4ae80537.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_beb2fe24" corresp="#elem_eSc_line_beb2fe24">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_beb2fe24.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_47052d53" corresp="#elem_eSc_line_47052d53">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_47052d53.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fa8ec9d8" corresp="#elem_eSc_line_fa8ec9d8">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_fa8ec9d8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c55fc5a9" corresp="#elem_eSc_line_c55fc5a9">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_c55fc5a9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d57c5046" corresp="#elem_eSc_line_d57c5046">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_d57c5046.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a1846856" corresp="#elem_eSc_line_a1846856">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_a1846856.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1a5117f6" corresp="#elem_eSc_line_1a5117f6">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_1a5117f6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b9d1ec7d" corresp="#elem_eSc_line_b9d1ec7d">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_b9d1ec7d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_67706607" corresp="#elem_eSc_line_67706607">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_67706607.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_91baebb9" corresp="#elem_eSc_line_91baebb9">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_91baebb9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c3e3fa77" corresp="#elem_eSc_line_c3e3fa77">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_c3e3fa77.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c66331a1" corresp="#elem_eSc_line_c66331a1">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_c66331a1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_daa4dda8" corresp="#elem_eSc_line_daa4dda8">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_daa4dda8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a1d4241d" corresp="#elem_eSc_line_a1d4241d">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_a1d4241d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6b2db7fc" corresp="#elem_eSc_line_6b2db7fc">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_6b2db7fc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_01131ce3" corresp="#elem_eSc_line_01131ce3">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_01131ce3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f0719f05" corresp="#elem_eSc_line_f0719f05">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_f0719f05.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8d46add4" corresp="#elem_eSc_line_8d46add4">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_8d46add4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9fd1bdc3" corresp="#elem_eSc_line_9fd1bdc3">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_9fd1bdc3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3aad1337" corresp="#elem_eSc_line_3aad1337">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_3aad1337.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b58ae13e" corresp="#elem_eSc_line_b58ae13e">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_b58ae13e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b49ef724" corresp="#elem_eSc_line_b49ef724">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_b49ef724.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fbc0330e" corresp="#elem_eSc_line_fbc0330e">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_fbc0330e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d6b25b41" corresp="#elem_eSc_line_d6b25b41">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_d6b25b41.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_06dd069b" corresp="#elem_eSc_line_06dd069b">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_06dd069b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_700f7d1f" corresp="#elem_eSc_line_700f7d1f">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_700f7d1f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_11f28a89" corresp="#elem_eSc_line_11f28a89">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_11f28a89.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_997bb3db" corresp="#elem_eSc_line_997bb3db">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_997bb3db.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2c88a14f" corresp="#elem_eSc_line_2c88a14f">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_2c88a14f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0859ddb3" corresp="#elem_eSc_line_0859ddb3">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_0859ddb3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1fc73343" corresp="#elem_eSc_line_1fc73343">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_1fc73343.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9ada1cd4" corresp="#elem_eSc_line_9ada1cd4">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_9ada1cd4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2a3221ac" corresp="#elem_eSc_line_2a3221ac">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_2a3221ac.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3ffebc5a" corresp="#elem_eSc_line_3ffebc5a">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_3ffebc5a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b5b38b37" corresp="#elem_eSc_line_b5b38b37">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_b5b38b37.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e8cf4961" corresp="#elem_eSc_line_e8cf4961">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_e8cf4961.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b287516b" corresp="#elem_eSc_line_b287516b">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_b287516b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fa2cc6ab" corresp="#elem_eSc_line_fa2cc6ab">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_fa2cc6ab.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dce3bf74" corresp="#elem_eSc_line_dce3bf74">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_dce3bf74.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2d7e5939" corresp="#elem_eSc_line_2d7e5939">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_2d7e5939.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ba7fffe9" corresp="#elem_eSc_line_ba7fffe9">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_ba7fffe9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c74e203a" corresp="#elem_eSc_line_c74e203a">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_c74e203a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a33316e2" corresp="#elem_eSc_line_a33316e2">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_a33316e2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f1367efd" corresp="#elem_eSc_line_f1367efd">
+      <graphic url="../lignes/e-codices_bge-lat0092_013r_large_eSc_line_f1367efd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b3e78e70" corresp="#elem_eSc_line_b3e78e70">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_b3e78e70.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6d0f4ac0" corresp="#elem_eSc_line_6d0f4ac0">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_6d0f4ac0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5333e779" corresp="#elem_eSc_line_5333e779">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_5333e779.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3c440f83" corresp="#elem_eSc_line_3c440f83">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_3c440f83.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6950065c" corresp="#elem_eSc_line_6950065c">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_6950065c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7752d59d" corresp="#elem_eSc_line_7752d59d">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_7752d59d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6e126362" corresp="#elem_eSc_line_6e126362">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_6e126362.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_79b3997b" corresp="#elem_eSc_line_79b3997b">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_79b3997b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1c9ded75" corresp="#elem_eSc_line_1c9ded75">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_1c9ded75.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_821e2042" corresp="#elem_eSc_line_821e2042">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_821e2042.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_df147445" corresp="#elem_eSc_line_df147445">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_df147445.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ce99dd2f" corresp="#elem_eSc_line_ce99dd2f">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_ce99dd2f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_39959253" corresp="#elem_eSc_line_39959253">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_39959253.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ae94b398" corresp="#elem_eSc_line_ae94b398">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_ae94b398.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_830eafaf" corresp="#elem_eSc_line_830eafaf">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_830eafaf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_54fbee43" corresp="#elem_eSc_line_54fbee43">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_54fbee43.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4847a1e9" corresp="#elem_eSc_line_4847a1e9">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_4847a1e9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3601ab73" corresp="#elem_eSc_line_3601ab73">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_3601ab73.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_52b0f1e3" corresp="#elem_eSc_line_52b0f1e3">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_52b0f1e3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8d07f8dd" corresp="#elem_eSc_line_8d07f8dd">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_8d07f8dd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_78d0d3d9" corresp="#elem_eSc_line_78d0d3d9">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_78d0d3d9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_53adc85f" corresp="#elem_eSc_line_53adc85f">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_53adc85f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b12b2d0b" corresp="#elem_eSc_line_b12b2d0b">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_b12b2d0b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c25d1fd4" corresp="#elem_eSc_line_c25d1fd4">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_c25d1fd4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fc9881d4" corresp="#elem_eSc_line_fc9881d4">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_fc9881d4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dba0365f" corresp="#elem_eSc_line_dba0365f">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_dba0365f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_88db14c8" corresp="#elem_eSc_line_88db14c8">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_88db14c8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_53ef7653" corresp="#elem_eSc_line_53ef7653">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_53ef7653.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8e0aa5f2" corresp="#elem_eSc_line_8e0aa5f2">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_8e0aa5f2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_107e79d5" corresp="#elem_eSc_line_107e79d5">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_107e79d5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c53b189a" corresp="#elem_eSc_line_c53b189a">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_c53b189a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cb577c87" corresp="#elem_eSc_line_cb577c87">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_cb577c87.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9e58f9df" corresp="#elem_eSc_line_9e58f9df">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_9e58f9df.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ff93ba7f" corresp="#elem_eSc_line_ff93ba7f">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_ff93ba7f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_585ead1b" corresp="#elem_eSc_line_585ead1b">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_585ead1b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c9426bac" corresp="#elem_eSc_line_c9426bac">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_c9426bac.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d5207018" corresp="#elem_eSc_line_d5207018">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_d5207018.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6f2f9c41" corresp="#elem_eSc_line_6f2f9c41">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_6f2f9c41.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2fadee56" corresp="#elem_eSc_line_2fadee56">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_2fadee56.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_91f5795d" corresp="#elem_eSc_line_91f5795d">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_91f5795d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_355e0872" corresp="#elem_eSc_line_355e0872">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_355e0872.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_444adef3" corresp="#elem_eSc_line_444adef3">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_444adef3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6b7e18a0" corresp="#elem_eSc_line_6b7e18a0">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_6b7e18a0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a18e7ea4" corresp="#elem_eSc_line_a18e7ea4">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_a18e7ea4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7e2e9241" corresp="#elem_eSc_line_7e2e9241">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_7e2e9241.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_25d92368" corresp="#elem_eSc_line_25d92368">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_25d92368.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_296c5d4d" corresp="#elem_eSc_line_296c5d4d">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_296c5d4d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1b880da6" corresp="#elem_eSc_line_1b880da6">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_1b880da6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_454dbc7e" corresp="#elem_eSc_line_454dbc7e">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_454dbc7e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fa48b53f" corresp="#elem_eSc_line_fa48b53f">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_fa48b53f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8deb14de" corresp="#elem_eSc_line_8deb14de">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_8deb14de.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a8c98e6d" corresp="#elem_eSc_line_a8c98e6d">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_a8c98e6d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_557b0dca" corresp="#elem_eSc_line_557b0dca">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_557b0dca.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_954a6984" corresp="#elem_eSc_line_954a6984">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_954a6984.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b024750e" corresp="#elem_eSc_line_b024750e">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_b024750e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d3b62e72" corresp="#elem_eSc_line_d3b62e72">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_d3b62e72.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f0861731" corresp="#elem_eSc_line_f0861731">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_f0861731.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cc721fc9" corresp="#elem_eSc_line_cc721fc9">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_cc721fc9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_44d23a5f" corresp="#elem_eSc_line_44d23a5f">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_44d23a5f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f225641a" corresp="#elem_eSc_line_f225641a">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_f225641a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_da2fc340" corresp="#elem_eSc_line_da2fc340">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_da2fc340.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_06e7f838" corresp="#elem_eSc_line_06e7f838">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_06e7f838.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c1700376" corresp="#elem_eSc_line_c1700376">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_c1700376.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c69cf3a5" corresp="#elem_eSc_line_c69cf3a5">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_c69cf3a5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c9b6d2c9" corresp="#elem_eSc_line_c9b6d2c9">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_c9b6d2c9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e8f8507a" corresp="#elem_eSc_line_e8f8507a">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_e8f8507a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_93dba7bb" corresp="#elem_eSc_line_93dba7bb">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_93dba7bb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6724c2bc" corresp="#elem_eSc_line_6724c2bc">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_6724c2bc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6fbc871a" corresp="#elem_eSc_line_6fbc871a">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_6fbc871a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9e4fe121" corresp="#elem_eSc_line_9e4fe121">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_9e4fe121.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_95d82873" corresp="#elem_eSc_line_95d82873">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_95d82873.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_79850d13" corresp="#elem_eSc_line_79850d13">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_79850d13.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0bc58a84" corresp="#elem_eSc_line_0bc58a84">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_0bc58a84.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b8c8ed7d" corresp="#elem_eSc_line_b8c8ed7d">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_b8c8ed7d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_46af364d" corresp="#elem_eSc_line_46af364d">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_46af364d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_59a1f4c2" corresp="#elem_eSc_line_59a1f4c2">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_59a1f4c2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fb236a13" corresp="#elem_eSc_line_fb236a13">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_fb236a13.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0e40547a" corresp="#elem_eSc_line_0e40547a">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_0e40547a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_42da7f73" corresp="#elem_eSc_line_42da7f73">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_42da7f73.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_01425c2c" corresp="#elem_eSc_line_01425c2c">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_01425c2c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1056fc79" corresp="#elem_eSc_line_1056fc79">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_1056fc79.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1303a6b8" corresp="#elem_eSc_line_1303a6b8">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_1303a6b8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_484e1af3" corresp="#elem_eSc_line_484e1af3">
+      <graphic url="../lignes/e-codices_bge-lat0092_013v_large_eSc_line_484e1af3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7add1ba9" corresp="#elem_eSc_line_7add1ba9">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_7add1ba9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_773c0cd2" corresp="#elem_eSc_line_773c0cd2">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_773c0cd2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e5b56d09" corresp="#elem_eSc_line_e5b56d09">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_e5b56d09.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_428367da" corresp="#elem_eSc_line_428367da">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_428367da.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f2c27a77" corresp="#elem_eSc_line_f2c27a77">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_f2c27a77.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_28c0cd53" corresp="#elem_eSc_line_28c0cd53">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_28c0cd53.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4e3547fe" corresp="#elem_eSc_line_4e3547fe">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_4e3547fe.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cbd7f347" corresp="#elem_eSc_line_cbd7f347">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_cbd7f347.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cf207c38" corresp="#elem_eSc_line_cf207c38">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_cf207c38.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_858d89a4" corresp="#elem_eSc_line_858d89a4">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_858d89a4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a435c8bd" corresp="#elem_eSc_line_a435c8bd">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_a435c8bd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c1ba5dea" corresp="#elem_eSc_line_c1ba5dea">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_c1ba5dea.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_676fafec" corresp="#elem_eSc_line_676fafec">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_676fafec.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4a44781e" corresp="#elem_eSc_line_4a44781e">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_4a44781e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6fca44e0" corresp="#elem_eSc_line_6fca44e0">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_6fca44e0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3a7bb166" corresp="#elem_eSc_line_3a7bb166">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_3a7bb166.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_858f3669" corresp="#elem_eSc_line_858f3669">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_858f3669.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3972ab28" corresp="#elem_eSc_line_3972ab28">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_3972ab28.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5b3a4f86" corresp="#elem_eSc_line_5b3a4f86">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_5b3a4f86.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_532c805b" corresp="#elem_eSc_line_532c805b">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_532c805b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9934b252" corresp="#elem_eSc_line_9934b252">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_9934b252.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0071058f" corresp="#elem_eSc_line_0071058f">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_0071058f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_50c33dfb" corresp="#elem_eSc_line_50c33dfb">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_50c33dfb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a1aca294" corresp="#elem_eSc_line_a1aca294">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_a1aca294.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0159006e" corresp="#elem_eSc_line_0159006e">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_0159006e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c40f8279" corresp="#elem_eSc_line_c40f8279">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_c40f8279.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9be32a7b" corresp="#elem_eSc_line_9be32a7b">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_9be32a7b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_43c18b56" corresp="#elem_eSc_line_43c18b56">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_43c18b56.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d11614bf" corresp="#elem_eSc_line_d11614bf">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_d11614bf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_30626988" corresp="#elem_eSc_line_30626988">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_30626988.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_12a11c29" corresp="#elem_eSc_line_12a11c29">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_12a11c29.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1ea3313b" corresp="#elem_eSc_line_1ea3313b">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_1ea3313b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_678ceba1" corresp="#elem_eSc_line_678ceba1">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_678ceba1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_862e9d03" corresp="#elem_eSc_line_862e9d03">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_862e9d03.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2af96fd5" corresp="#elem_eSc_line_2af96fd5">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_2af96fd5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_11e5c1ab" corresp="#elem_eSc_line_11e5c1ab">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_11e5c1ab.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_894fa59c" corresp="#elem_eSc_line_894fa59c">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_894fa59c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_98126072" corresp="#elem_eSc_line_98126072">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_98126072.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e925203e" corresp="#elem_eSc_line_e925203e">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_e925203e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_23111382" corresp="#elem_eSc_line_23111382">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_23111382.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1218d3fc" corresp="#elem_eSc_line_1218d3fc">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_1218d3fc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4b9a3a14" corresp="#elem_eSc_line_4b9a3a14">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_4b9a3a14.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d0422530" corresp="#elem_eSc_line_d0422530">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_d0422530.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1be07878" corresp="#elem_eSc_line_1be07878">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_1be07878.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c9793b58" corresp="#elem_eSc_line_c9793b58">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_c9793b58.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5e071684" corresp="#elem_eSc_line_5e071684">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_5e071684.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d869a293" corresp="#elem_eSc_line_d869a293">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_d869a293.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_98d0877b" corresp="#elem_eSc_line_98d0877b">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_98d0877b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2f8bb089" corresp="#elem_eSc_line_2f8bb089">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_2f8bb089.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7a1142e6" corresp="#elem_eSc_line_7a1142e6">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_7a1142e6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e6c154eb" corresp="#elem_eSc_line_e6c154eb">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_e6c154eb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c8d1ecc9" corresp="#elem_eSc_line_c8d1ecc9">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_c8d1ecc9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2e495490" corresp="#elem_eSc_line_2e495490">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_2e495490.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_09cfff65" corresp="#elem_eSc_line_09cfff65">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_09cfff65.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8559cdaa" corresp="#elem_eSc_line_8559cdaa">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_8559cdaa.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8d5555c5" corresp="#elem_eSc_line_8d5555c5">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_8d5555c5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_aa793882" corresp="#elem_eSc_line_aa793882">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_aa793882.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5066d58f" corresp="#elem_eSc_line_5066d58f">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_5066d58f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0ae1a209" corresp="#elem_eSc_line_0ae1a209">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_0ae1a209.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_48f6a847" corresp="#elem_eSc_line_48f6a847">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_48f6a847.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7e9d4724" corresp="#elem_eSc_line_7e9d4724">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_7e9d4724.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_64584cf1" corresp="#elem_eSc_line_64584cf1">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_64584cf1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_78b63626" corresp="#elem_eSc_line_78b63626">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_78b63626.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_35199f50" corresp="#elem_eSc_line_35199f50">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_35199f50.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4bc079f4" corresp="#elem_eSc_line_4bc079f4">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_4bc079f4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a849c2a5" corresp="#elem_eSc_line_a849c2a5">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_a849c2a5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e13d9daa" corresp="#elem_eSc_line_e13d9daa">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_e13d9daa.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7bb844e4" corresp="#elem_eSc_line_7bb844e4">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_7bb844e4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2a2a2e2c" corresp="#elem_eSc_line_2a2a2e2c">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_2a2a2e2c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b77aa183" corresp="#elem_eSc_line_b77aa183">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_b77aa183.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3c7ee987" corresp="#elem_eSc_line_3c7ee987">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_3c7ee987.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_849df655" corresp="#elem_eSc_line_849df655">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_849df655.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e6d98eef" corresp="#elem_eSc_line_e6d98eef">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_e6d98eef.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e7db5d6b" corresp="#elem_eSc_line_e7db5d6b">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_e7db5d6b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5635f056" corresp="#elem_eSc_line_5635f056">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_5635f056.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_53921307" corresp="#elem_eSc_line_53921307">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_53921307.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7ed5724c" corresp="#elem_eSc_line_7ed5724c">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_7ed5724c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_35179105" corresp="#elem_eSc_line_35179105">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_35179105.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f603dcd9" corresp="#elem_eSc_line_f603dcd9">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_f603dcd9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b112a6f1" corresp="#elem_eSc_line_b112a6f1">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_b112a6f1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0f526091" corresp="#elem_eSc_line_0f526091">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_0f526091.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dbbf77d9" corresp="#elem_eSc_line_dbbf77d9">
+      <graphic url="../lignes/e-codices_bge-lat0092_014r_large_eSc_line_dbbf77d9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9c189ab2" corresp="#elem_eSc_line_9c189ab2">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_9c189ab2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_49dc3ff0" corresp="#elem_eSc_line_49dc3ff0">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_49dc3ff0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_385cedfc" corresp="#elem_eSc_line_385cedfc">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_385cedfc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a46f418e" corresp="#elem_eSc_line_a46f418e">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_a46f418e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9e68fa56" corresp="#elem_eSc_line_9e68fa56">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_9e68fa56.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0574570c" corresp="#elem_eSc_line_0574570c">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_0574570c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5ddd079d" corresp="#elem_eSc_line_5ddd079d">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_5ddd079d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_af8ef72e" corresp="#elem_eSc_line_af8ef72e">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_af8ef72e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fa1f29e0" corresp="#elem_eSc_line_fa1f29e0">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_fa1f29e0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2cee8148" corresp="#elem_eSc_line_2cee8148">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_2cee8148.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cda112ef" corresp="#elem_eSc_line_cda112ef">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_cda112ef.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_af8eac0f" corresp="#elem_eSc_line_af8eac0f">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_af8eac0f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_681a4163" corresp="#elem_eSc_line_681a4163">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_681a4163.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c9b81fa7" corresp="#elem_eSc_line_c9b81fa7">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_c9b81fa7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_79149c74" corresp="#elem_eSc_line_79149c74">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_79149c74.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_98caf74f" corresp="#elem_eSc_line_98caf74f">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_98caf74f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2f730b87" corresp="#elem_eSc_line_2f730b87">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_2f730b87.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_26ac6c15" corresp="#elem_eSc_line_26ac6c15">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_26ac6c15.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5dfa89b9" corresp="#elem_eSc_line_5dfa89b9">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_5dfa89b9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6208120d" corresp="#elem_eSc_line_6208120d">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_6208120d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ade55aed" corresp="#elem_eSc_line_ade55aed">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_ade55aed.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e4be628f" corresp="#elem_eSc_line_e4be628f">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_e4be628f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f47c426d" corresp="#elem_eSc_line_f47c426d">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_f47c426d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5dbc0032" corresp="#elem_eSc_line_5dbc0032">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_5dbc0032.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0921c8b8" corresp="#elem_eSc_line_0921c8b8">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_0921c8b8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3c26e3cf" corresp="#elem_eSc_line_3c26e3cf">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_3c26e3cf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_abf2fa1c" corresp="#elem_eSc_line_abf2fa1c">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_abf2fa1c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1aba296d" corresp="#elem_eSc_line_1aba296d">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_1aba296d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0848a8a2" corresp="#elem_eSc_line_0848a8a2">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_0848a8a2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7611292f" corresp="#elem_eSc_line_7611292f">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_7611292f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bddfb5fb" corresp="#elem_eSc_line_bddfb5fb">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_bddfb5fb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_70e21908" corresp="#elem_eSc_line_70e21908">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_70e21908.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4cde2747" corresp="#elem_eSc_line_4cde2747">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_4cde2747.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7e0c24a2" corresp="#elem_eSc_line_7e0c24a2">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_7e0c24a2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a27209ed" corresp="#elem_eSc_line_a27209ed">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_a27209ed.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_64303375" corresp="#elem_eSc_line_64303375">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_64303375.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_58349368" corresp="#elem_eSc_line_58349368">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_58349368.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a7d0f38b" corresp="#elem_eSc_line_a7d0f38b">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_a7d0f38b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9d2bbef4" corresp="#elem_eSc_line_9d2bbef4">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_9d2bbef4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0e5eec44" corresp="#elem_eSc_line_0e5eec44">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_0e5eec44.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8205f6bc" corresp="#elem_eSc_line_8205f6bc">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_8205f6bc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ddc66eaf" corresp="#elem_eSc_line_ddc66eaf">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_ddc66eaf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a951efe3" corresp="#elem_eSc_line_a951efe3">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_a951efe3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f4d146c9" corresp="#elem_eSc_line_f4d146c9">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_f4d146c9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e0fdb5d8" corresp="#elem_eSc_line_e0fdb5d8">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_e0fdb5d8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_187c6155" corresp="#elem_eSc_line_187c6155">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_187c6155.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_879edcdc" corresp="#elem_eSc_line_879edcdc">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_879edcdc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_014fae24" corresp="#elem_eSc_line_014fae24">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_014fae24.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_271ccca6" corresp="#elem_eSc_line_271ccca6">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_271ccca6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_90442d4b" corresp="#elem_eSc_line_90442d4b">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_90442d4b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8ff5121e" corresp="#elem_eSc_line_8ff5121e">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_8ff5121e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a3307983" corresp="#elem_eSc_line_a3307983">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_a3307983.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7e926111" corresp="#elem_eSc_line_7e926111">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_7e926111.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9db05dab" corresp="#elem_eSc_line_9db05dab">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_9db05dab.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_59bbbe31" corresp="#elem_eSc_line_59bbbe31">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_59bbbe31.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e508d6bd" corresp="#elem_eSc_line_e508d6bd">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_e508d6bd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ac80a67c" corresp="#elem_eSc_line_ac80a67c">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_ac80a67c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_02d0a3cb" corresp="#elem_eSc_line_02d0a3cb">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_02d0a3cb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_23af390d" corresp="#elem_eSc_line_23af390d">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_23af390d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_be0f1523" corresp="#elem_eSc_line_be0f1523">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_be0f1523.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_69361a01" corresp="#elem_eSc_line_69361a01">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_69361a01.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f717b0e2" corresp="#elem_eSc_line_f717b0e2">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_f717b0e2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b69c2cea" corresp="#elem_eSc_line_b69c2cea">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_b69c2cea.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8537d9e8" corresp="#elem_eSc_line_8537d9e8">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_8537d9e8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_334c1c4a" corresp="#elem_eSc_line_334c1c4a">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_334c1c4a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b17945d2" corresp="#elem_eSc_line_b17945d2">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_b17945d2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a282160c" corresp="#elem_eSc_line_a282160c">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_a282160c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c5b168ef" corresp="#elem_eSc_line_c5b168ef">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_c5b168ef.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b67b556b" corresp="#elem_eSc_line_b67b556b">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_b67b556b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_90d74ab0" corresp="#elem_eSc_line_90d74ab0">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_90d74ab0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5120c62b" corresp="#elem_eSc_line_5120c62b">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_5120c62b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_197fc636" corresp="#elem_eSc_line_197fc636">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_197fc636.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c6318956" corresp="#elem_eSc_line_c6318956">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_c6318956.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_010d8b14" corresp="#elem_eSc_line_010d8b14">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_010d8b14.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_012da411" corresp="#elem_eSc_line_012da411">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_012da411.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d6d8a224" corresp="#elem_eSc_line_d6d8a224">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_d6d8a224.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ad75972d" corresp="#elem_eSc_line_ad75972d">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_ad75972d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4d7f7894" corresp="#elem_eSc_line_4d7f7894">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_4d7f7894.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2b917f4b" corresp="#elem_eSc_line_2b917f4b">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_2b917f4b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ebfc150a" corresp="#elem_eSc_line_ebfc150a">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_ebfc150a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c07d0d43" corresp="#elem_eSc_line_c07d0d43">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_c07d0d43.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_81dc6e52" corresp="#elem_eSc_line_81dc6e52">
+      <graphic url="../lignes/e-codices_bge-lat0092_014v_large_eSc_line_81dc6e52.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a59d1cca" corresp="#elem_eSc_line_a59d1cca">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_eSc_line_a59d1cca.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a97b763f" corresp="#elem_eSc_line_a97b763f">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_eSc_line_a97b763f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_99098fdd" corresp="#elem_eSc_line_99098fdd">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_eSc_line_99098fdd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_be420a70" corresp="#elem_eSc_line_be420a70">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_eSc_line_be420a70.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0c5eb16a" corresp="#elem_eSc_line_0c5eb16a">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_eSc_line_0c5eb16a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_50c636fc" corresp="#elem_eSc_line_50c636fc">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_eSc_line_50c636fc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_01492664" corresp="#elem_eSc_line_01492664">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_eSc_line_01492664.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ba76ee64" corresp="#elem_eSc_line_ba76ee64">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_eSc_line_ba76ee64.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d0d193a8" corresp="#elem_eSc_line_d0d193a8">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_eSc_line_d0d193a8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_27bc4c6b" corresp="#elem_eSc_line_27bc4c6b">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_eSc_line_27bc4c6b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3896bb97" corresp="#elem_eSc_line_3896bb97">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_eSc_line_3896bb97.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_deadf56f" corresp="#elem_eSc_line_deadf56f">
+      <graphic url="../lignes/e-codices_bge-lat0092_015r_large_eSc_line_deadf56f.png"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div n="1" type="livre">
+        <div n="1.2" type="partie">
+          <div n="1" type="chapitre">
+            <pb n="" facs="../input_files/e-codices_bge-lat0092_012v_max.jpg"/>
+            <head n="DGpHjgEb"><lb break="?" facs="#facs_eSc_line_1f469150" n="cf0mTM"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_1f469150"
+                xml:id="elem_eSc_line_1f469150"/>Caplm̃ primum<lb break="?" facs="#facs_eSc_line_145a001e" n="n74rBM"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_145a001e"
+                xml:id="elem_eSc_line_145a001e"/>quomodo diuiduntur potencie aĩe et in<lb break="?"
+                facs="#facs_eSc_line_af7441c3" n="bWaiPH"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_af7441c3"
+                xml:id="elem_eSc_line_af7441c3"/>quib potenciis habet esse uirtus.</head><pb n=""
+              facs="../input_files/e-codices_bge-lat0092_013r_large.jpg"/>
+            <lb break="?" facs="#facs_eSc_line_1290c34c" n="yfMa0P"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_1290c34c"
+              xml:id="elem_eSc_line_1290c34c"/>Ostꝙͣ auxiliante deo com¬<lb break="?" facs="#facs_eSc_line_bdd836ad" n="yqeILV"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_bdd836ad"
+              xml:id="elem_eSc_line_bdd836ad"/>pleuimus primam partẽ<lb break="?" facs="#facs_eSc_line_f8695b58" n="tric5S"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_f8695b58"
+              xml:id="elem_eSc_line_f8695b58"/>huius primi libri in quo<lb break="?" facs="#facs_eSc_line_31fb6024" n="cFuIDP"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_31fb6024"
+              xml:id="elem_eSc_line_31fb6024"/>agitur de regimẽ sin ostẽ¬<lb break="?" facs="#facs_eSc_line_5ac2502c" n="c6qECZ"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_5ac2502c"
+              xml:id="elem_eSc_line_5ac2502c"/>dentes in quo reges et prin¬<lb break="?" facs="#facs_eSc_line_fa983fbe" n="gZAIty"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_fa983fbe"
+              xml:id="elem_eSc_line_fa983fbe"/>cipes suam felicitatẽ pon̾e debeant quia<lb break="?"
+              facs="#facs_eSc_line_ae13c7ef" n="opf5I2"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_ae13c7ef"
+              xml:id="elem_eSc_line_ae13c7ef"/>non decet eos suam finem pone̾ in diui¬<lb break="?" facs="#facs_eSc_line_c515cfb3"
+              n="fJxr8t"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c515cfb3"
+              xml:id="elem_eSc_line_c515cfb3"/>ciis nec in ciuili potencia nec in aliqui¬<lb break="?"
+              facs="#facs_eSc_line_2e5ac603" n="prgULZ"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_2e5ac603"
+              xml:id="elem_eSc_line_2e5ac603"/>bus talibus s om̃ibus hiis ut supra<lb break="?" facs="#facs_eSc_line_b7939b86"
+              n="fEb0ot"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_b7939b86"
+              xml:id="elem_eSc_line_b7939b86"/>plenius probatur debent uti tamꝙͣ or¬<lb break="?" facs="#facs_eSc_line_81ce7823"
+              n="hG2iVP"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_81ce7823"
+              xml:id="elem_eSc_line_81ce7823"/>ganis ad felicitatẽ. Suam autem felici¬<lb break="?"
+              facs="#facs_eSc_line_8b3a4064" n="unXRhx"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_8b3a4064"
+              xml:id="elem_eSc_line_8b3a4064"/>tatem ponere in actu prudencie debent<lb break="?" facs="#facs_eSc_line_bd491358"
+              n="hbSXor"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_bd491358"
+              xml:id="elem_eSc_line_bd491358"/>prout talis actus imperatus est a ⟦uirti⟧ ca¬<lb break="?"
+              facs="#facs_eSc_line_03d1926b" n="daAtZ6"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_03d1926b"
+              xml:id="elem_eSc_line_03d1926b"/>ritate. Nam tunc rege⟦sis⟧ hñt suam fe¬<lb break="?"
+              facs="#facs_eSc_line_c5c29225" n="gfrEVZ"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c5c29225"
+              xml:id="elem_eSc_line_c5c29225"/>licitatem suo statui condignam et debitã<lb break="yes"
+              facs="#facs_eSc_line_da5d1657" n="zj9zmd"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_da5d1657"
+              xml:id="elem_eSc_line_da5d1657"/>qñ instigante dei dilectione ẜ pruden¬<lb break="no"
+              facs="#facs_eSc_line_d5cffd71" n="j046dq"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_d5cffd71"
+              xml:id="elem_eSc_line_d5cffd71"/>tiam regnatiuam gentem sibi cõmissã<lb break="yes" facs="#facs_eSc_line_7bd3459c"
+              n="xby39n"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_7bd3459c"
+              xml:id="elem_eSc_line_7bd3459c"/>ẜ legem et rõnem sancte et iuste regunt<lb break="?"
+              facs="#facs_eSc_line_d15a99d3" n="kayMmC"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_d15a99d3"
+              xml:id="elem_eSc_line_d15a99d3"/>¶ Principaliter igitur regum felicitas<lb break="?" facs="#facs_eSc_line_fb5a91f9"
+              n="oEGYpV"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_fb5a91f9"
+              xml:id="elem_eSc_line_fb5a91f9"/>ponenda est in ip̃o deo et ex cognicione<lb break="?"
+              facs="#facs_eSc_line_8fc63fa9" n="c4xtIq"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_8fc63fa9"
+              xml:id="elem_eSc_line_8fc63fa9"/>et dilectione eius suum studium et suam<lb break="?" facs="#facs_eSc_line_55491fda"
+              n="qSRQYS"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_55491fda"
+              xml:id="elem_eSc_line_55491fda"/>uitam ad hoc ordinare debent ut cogno¬<lb break="?" facs="#facs_eSc_line_30bbe546"
+              n="yig4O9"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_30bbe546"
+              xml:id="elem_eSc_line_30bbe546"/>scentes et diligentes deum ip̃i tamꝙͣ<lb break="?" facs="#facs_eSc_line_94fb98c5"
+              n="hIwI3Y"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_94fb98c5"
+              xml:id="elem_eSc_line_94fb98c5"/>ueri ministri eius ẜ ordinem rõnis<lb break="yes" facs="#facs_eSc_line_70442915"
+              n="ad4iVL"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_70442915"
+              xml:id="elem_eSc_line_70442915"/>dirigant ppłm sibi comissum. hiis igr̃<lb break="yes"
+              facs="#facs_eSc_line_1f2e3c11" n="lqCOPr"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_1f2e3c11"
+              xml:id="elem_eSc_line_1f2e3c11"/>ita peractis et ostenso in quo reges de¬<lb break="?"
+              facs="#facs_eSc_line_101255de" n="eqDShm"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_101255de"
+              xml:id="elem_eSc_line_101255de"/>beant ponere suam finem ẜ ordinẽ rõnis<lb break="?"
+              facs="#facs_eSc_line_cbb5dd7c" n="rMTRjK"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_cbb5dd7c"
+              xml:id="elem_eSc_line_cbb5dd7c"/>suꝑius pretaxatum. Restat ostende̾ qͥb<lb break="?" facs="#facs_eSc_line_19768a8d"
+              n="ywkulh"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_19768a8d"
+              xml:id="elem_eSc_line_19768a8d"/>uirtutibz reges pollere debent. uirtutes<lb break="?"
+              facs="#facs_eSc_line_782c7956" n="nO77Qy"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_782c7956"
+              xml:id="elem_eSc_line_782c7956"/>autem sunt quid̃ ornatus et qued̃ perfe¬<lb break="?"
+              facs="#facs_eSc_line_44a88eb1" n="dcsYab"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_44a88eb1"
+              xml:id="elem_eSc_line_44a88eb1"/>ctiones aĩe. Oportet igitur prius ostẽ¬<lb break="?"
+              facs="#facs_eSc_line_abcedd0c" n="qqoPLK"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_abcedd0c"
+              xml:id="elem_eSc_line_abcedd0c"/>dere quot sunt potencie aĩe et in quib<lb break="?"
+              facs="#facs_eSc_line_e36fc93d" n="iEWvRD"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_e36fc93d"
+              xml:id="elem_eSc_line_e36fc93d"/>potenciis habent ẽe uirtutes Conseq̃n¬<lb break="?" facs="#facs_eSc_line_d2082455"
+              n="gQPwU3"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_d2082455"
+              xml:id="elem_eSc_line_d2082455"/>ter autem maĩfestabit᷑ quomodo uir¬<lb break="?" facs="#facs_eSc_line_78f52203"
+              n="qCy8cw"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_78f52203"
+              xml:id="elem_eSc_line_78f52203"/>tutes sunt distinguende. postea uero o¬<lb break="?" facs="#facs_eSc_line_96994340"
+              n="j6AMK2"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_96994340"
+              xml:id="elem_eSc_line_96994340"/>stendemus quot sunt in num̾o huiõi¬<lb break="?" facs="#facs_eSc_line_a877da4f"
+              n="qEQg2H"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_a877da4f"
+              xml:id="elem_eSc_line_a877da4f"/>virtutes et que illarum sunt pͥncipales<lb break="?" facs="#facs_eSc_line_4ae80537"
+              n="tWRMcB"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_4ae80537"
+              xml:id="elem_eSc_line_4ae80537"/>et que sunt secundarie. Deiñ autem de¬<lb break="?" facs="#facs_eSc_line_beb2fe24"
+              n="x4nOzO"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_beb2fe24"
+              xml:id="elem_eSc_line_beb2fe24"/>clarabit᷑ singłariter que sit unaqueqz<lb break="?" facs="#facs_eSc_line_47052d53"
+              n="cjxxhD"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_47052d53"
+              xml:id="elem_eSc_line_47052d53"/>illaꝵ uirtutum et quomodo decet reges<lb break="?" facs="#facs_eSc_line_fa8ec9d8"
+              n="ffmcnW"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_fa8ec9d8"
+              xml:id="elem_eSc_line_fa8ec9d8"/>et principes tales uirtutes hĩe. ¶ Po<cb break="?"/><lb break="?"
+              facs="#facs_eSc_line_c55fc5a9" n="voLNJH"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c55fc5a9"
+              xml:id="elem_eSc_line_c55fc5a9"/>tencie autem etiam sic distingui possut̾<lb break="?"
+              facs="#facs_eSc_line_d57c5046" n="xNCoIO"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_d57c5046"
+              xml:id="elem_eSc_line_d57c5046"/>Quia qued̃ sunt naturales qued co¬<lb break="?" facs="#facs_eSc_line_a1846856"
+              n="wzPUpG"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_a1846856"
+              xml:id="elem_eSc_line_a1846856"/>gnitiue sensitiue, qued̃ appetitiue et q̃d<lb break="?"
+              facs="#facs_eSc_line_1a5117f6" n="htg2Lw"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_1a5117f6"
+              xml:id="elem_eSc_line_1a5117f6"/>intellectiue. ¶ Naturales potencie sũt<lb break="?" facs="#facs_eSc_line_b9d1ec7d"
+              n="tfLHW5"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_b9d1ec7d"
+              xml:id="elem_eSc_line_b9d1ec7d"/>ille quibz cõĩtamus cum uegetabłib<lb break="?" facs="#facs_eSc_line_67706607"
+              n="xgbRq1"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_67706607"
+              xml:id="elem_eSc_line_67706607"/>et plantis ut potentia nuitritiua aug<lb break="?" facs="#facs_eSc_line_91baebb9"
+              n="jK31Gy"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_91baebb9"
+              xml:id="elem_eSc_line_91baebb9"/>mentatiua gn̾atina et talia etiam q̃<lb break="?" facs="#facs_eSc_line_c3e3fa77"
+              n="ayPpwN"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c3e3fa77"
+              xml:id="elem_eSc_line_c3e3fa77"/>ip̃is arboribus competunt. ¶ Potencie<lb break="?" facs="#facs_eSc_line_c66331a1"
+              n="gpI4UD"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c66331a1"
+              xml:id="elem_eSc_line_c66331a1"/>uero cognitiue sensitiue sunt uisus au¬<lb break="?" facs="#facs_eSc_line_daa4dda8"
+              n="i31Aln"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_daa4dda8"
+              xml:id="elem_eSc_line_daa4dda8"/>ditus gustus et talia quibz coĩcamus<lb break="?" facs="#facs_eSc_line_a1d4241d"
+              n="hfVBaa"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_a1d4241d"
+              xml:id="elem_eSc_line_a1d4241d"/>cum brutis. ¶ Appetitiue uero distingũ¬<lb break="?"
+              facs="#facs_eSc_line_6b2db7fc" n="mMUY9I"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_6b2db7fc"
+              xml:id="elem_eSc_line_6b2db7fc"/>tur. Nam quid̃ est appetitus in homĩe ĩ<lb break="?"
+              facs="#facs_eSc_line_01131ce3" n="el6itz"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_01131ce3"
+              xml:id="elem_eSc_line_01131ce3"/>quo non coitat cum brutis ut appetitus<lb break="?" facs="#facs_eSc_line_f0719f05"
+              n="lpfF2V"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_f0719f05"
+              xml:id="elem_eSc_line_f0719f05"/>sequens intellettum Quid̃ autem ut<lb break="?" facs="#facs_eSc_line_8d46add4"
+              n="mOTp2C"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_8d46add4"
+              xml:id="elem_eSc_line_8d46add4"/>coĩcat cum eis ut appetitus sequens<lb break="?" facs="#facs_eSc_line_9fd1bdc3"
+              n="xctzlj"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_9fd1bdc3"
+              xml:id="elem_eSc_line_9fd1bdc3"/>sensum. qui quid̃ p̃t nonnãri sensuali/<lb break="?"
+              facs="#facs_eSc_line_3aad1337" n="eYf6GL"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_3aad1337"
+              xml:id="elem_eSc_line_3aad1337"/>tas. Sequens uero intellectum uocatur<lb break="?" facs="#facs_eSc_line_b58ae13e"
+              n="rpTA5g"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_b58ae13e"
+              xml:id="elem_eSc_line_b58ae13e"/>uoluntas ẜ quem modum loquendi bru¬<lb break="?" facs="#facs_eSc_line_b49ef724"
+              n="bpzLhA"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_b49ef724"
+              xml:id="elem_eSc_line_b49ef724"/>ta habent sensualitatẽ et appetitũ sen<lb break="?"
+              facs="#facs_eSc_line_fbc0330e" n="kCKAqa"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_fbc0330e"
+              xml:id="elem_eSc_line_fbc0330e"/>sitiuum ẜ non habent uoluntatẽ idest<lb break="?" facs="#facs_eSc_line_d6b25b41"
+              n="ahks8O"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_d6b25b41"
+              xml:id="elem_eSc_line_d6b25b41"/>appetitum intellectiuũ. Uirtutes ergo<lb break="?" facs="#facs_eSc_line_06dd069b"
+              n="cfoYEU"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_06dd069b"
+              xml:id="elem_eSc_line_06dd069b"/>de quibus loqui intendim᷒ que sunt<lb break="?" facs="#facs_eSc_line_700f7d1f"
+              n="crb1ia"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_700f7d1f"
+              xml:id="elem_eSc_line_700f7d1f"/>qued laudabiles uel erunt in potenciis<lb break="?" facs="#facs_eSc_line_11f28a89"
+              n="sM85OE"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_11f28a89"
+              xml:id="elem_eSc_line_11f28a89"/>naturalibz uel in appetitu sensitiuo<lb break="?" facs="#facs_eSc_line_997bb3db"
+              n="o9M7s6"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_997bb3db"
+              xml:id="elem_eSc_line_997bb3db"/>uel in appetitu intellettiuo uel in ip̃o in¬<lb break="?"
+              facs="#facs_eSc_line_2c88a14f" n="krY5yR"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_2c88a14f"
+              xml:id="elem_eSc_line_2c88a14f"/>tellectu uel in hiis omĩbus uel in aliqͥb<lb break="?"
+              facs="#facs_eSc_line_0859ddb3" n="eZaBKg"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_0859ddb3"
+              xml:id="elem_eSc_line_0859ddb3"/>eorum ¶ In potenciis autem naturalibz<lb break="?" facs="#facs_eSc_line_1fc73343"
+              n="fn12D9"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_1fc73343"
+              xml:id="elem_eSc_line_1fc73343"/>esse non possunt quod trippliciter patet<lb break="?"
+              facs="#facs_eSc_line_9ada1cd4" n="bQWQOg"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_9ada1cd4"
+              xml:id="elem_eSc_line_9ada1cd4"/>¶Primo qr ex naturalibz non laudamͬ<lb break="yes" facs="#facs_eSc_line_2a3221ac"
+              n="uXi6Gj"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_2a3221ac"
+              xml:id="elem_eSc_line_2a3221ac"/>neqz uituperamur. nullus enĩ dr̃ bonus<lb break="?" facs="#facs_eSc_line_3ffebc5a"
+              n="vArApk"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_3ffebc5a"
+              xml:id="elem_eSc_line_3ffebc5a"/>ex eo ꝙ hẽat bonam augmẽtatiuam uel<lb break="?" facs="#facs_eSc_line_b5b38b37"
+              n="escEdx"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_b5b38b37"
+              xml:id="elem_eSc_line_b5b38b37"/>nutritiuam ¶ Secundo in talibus non<lb break="?" facs="#facs_eSc_line_e8cf4961"
+              n="rdtc9C"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_e8cf4961"
+              xml:id="elem_eSc_line_e8cf4961"/>habent esse huioĩ uirtutes quia uirtus<lb break="?" facs="#facs_eSc_line_b287516b"
+              n="tKPe9c"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_b287516b"
+              xml:id="elem_eSc_line_b287516b"/>est aliquid ss̃ rõnem ut p̃t ꝓbari 2 ͦ eth.<lb break="?"
+              facs="#facs_eSc_line_fa2cc6ab" n="gXuggT"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_fa2cc6ab"
+              xml:id="elem_eSc_line_fa2cc6ab"/>Potencie autem naturales ẜ ꝙ huioi<lb break="?" facs="#facs_eSc_line_dce3bf74"
+              n="py9faH"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_dce3bf74"
+              xml:id="elem_eSc_line_dce3bf74"/>sunt rõm non obediunt. Nam siue quis<lb break="yes" facs="#facs_eSc_line_2d7e5939"
+              n="jVzGB3"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_2d7e5939"
+              xml:id="elem_eSc_line_2d7e5939"/>rõcinetur siue uelit non pp̃ hoc per se lo¬<lb break="?"
+              facs="#facs_eSc_line_ba7fffe9" n="lImRRv"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_ba7fffe9"
+              xml:id="elem_eSc_line_ba7fffe9"/>quendo potencie naturales uariantur<lb break="?" facs="#facs_eSc_line_c74e203a"
+              n="oFptgR"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c74e203a"
+              xml:id="elem_eSc_line_c74e203a"/>in actibus suis s semper ẜ modũ sibi<lb break="?" facs="#facs_eSc_line_a33316e2"
+              n="qTBMin"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_a33316e2"
+              xml:id="elem_eSc_line_a33316e2"/>possibilem suas actiones efficiunt.<lb break="?" facs="#facs_eSc_line_f1367efd"
+              n="mHu4tm"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_f1367efd"
+              xml:id="elem_eSc_line_f1367efd"/>¶ Tercio In talibus potenciis non sunt<pb n=""
+              facs="../input_files/e-codices_bge-lat0092_013v_large.jpg"/><lb break="?" facs="#facs_eSc_line_b3e78e70" n="sXh2kC"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_b3e78e70"
+              xml:id="elem_eSc_line_b3e78e70"/>habitus et uirtutes quia hĩtus sunt ad de<lb break="?"
+              facs="#facs_eSc_line_6d0f4ac0" n="gTK21p"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_6d0f4ac0"
+              xml:id="elem_eSc_line_6d0f4ac0"/>terminãd̃ potencias ut bene uel male a<lb break="?" facs="#facs_eSc_line_5333e779"
+              n="kMxzKZ"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_5333e779"
+              xml:id="elem_eSc_line_5333e779"/>gant ut per hĩtus uiciosos det̾minatur<lb break="?" facs="#facs_eSc_line_3c440f83"
+              n="yDGUXK"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_3c440f83"
+              xml:id="elem_eSc_line_3c440f83"/>potencia ad agendum male et per uir<lb break="?" facs="#facs_eSc_line_6950065c"
+              n="dd2AwM"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_6950065c"
+              xml:id="elem_eSc_line_6950065c"/>tuosos et ad agendum bene. Cum igit᷑<lb break="?" facs="#facs_eSc_line_7752d59d"
+              n="l954k5"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_7752d59d"
+              xml:id="elem_eSc_line_7752d59d"/>natura sit det̾miãta ad unum et potẽ<lb break="?" facs="#facs_eSc_line_6e126362"
+              n="iUHW8E"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_6e126362"
+              xml:id="elem_eSc_line_6e126362"/>cie naturales sufficienter det̾minẽtur<lb break="?" facs="#facs_eSc_line_79b3997b"
+              n="g8y4mG"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_79b3997b"
+              xml:id="elem_eSc_line_79b3997b"/>ad agendum ex natura sua ẜ eas nec su<lb break="?" facs="#facs_eSc_line_1c9ded75"
+              n="wKTnEs"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_1c9ded75"
+              xml:id="elem_eSc_line_1c9ded75"/>imus uirtuosi nec uiciosi ut hic de uicio<lb break="?"
+              facs="#facs_eSc_line_821e2042" n="qWVml0"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_821e2042"
+              xml:id="elem_eSc_line_821e2042"/>et uirtute loqui uidemͬ quare in poten<lb break="?" facs="#facs_eSc_line_df147445"
+              n="qnpWoK"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_df147445"
+              xml:id="elem_eSc_line_df147445"/>ciis naturalib huiusmodi uirtutes eẽ<lb break="?" facs="#facs_eSc_line_ce99dd2f"
+              n="ujf2pI"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_ce99dd2f"
+              xml:id="elem_eSc_line_ce99dd2f"/>non possunt. ¶ Ex hiis igitur trib rõi<lb break="?"
+              facs="#facs_eSc_line_39959253" n="njZYW6"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_39959253"
+              xml:id="elem_eSc_line_39959253"/>bus per quas probatum est uirtutes non<lb break="yes"
+              facs="#facs_eSc_line_ae94b398" n="vrMOMT"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_ae94b398"
+              xml:id="elem_eSc_line_ae94b398"/>ẽẽ in potenciis naturalib probari p̃t<lb break="?"
+              facs="#facs_eSc_line_830eafaf" n="tkdASk"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_830eafaf"
+              xml:id="elem_eSc_line_830eafaf"/>eas non ẽẽ in cognitione sensitiua siue<lb break="?"
+              facs="#facs_eSc_line_54fbee43" n="miZWOl"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_54fbee43"
+              xml:id="elem_eSc_line_54fbee43"/>in potenciis sensituus Nam sicut non<lb break="?" facs="#facs_eSc_line_4847a1e9"
+              n="p8FCos"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_4847a1e9"
+              xml:id="elem_eSc_line_4847a1e9"/>laudamur nec uituperam᷑ ex potẽtiis<lb break="?" facs="#facs_eSc_line_3601ab73"
+              n="iXKGBT"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_3601ab73"
+              xml:id="elem_eSc_line_3601ab73"/>naturalib probari p̃t eas non ẽẽ in co¬<lb break="?"
+              facs="#facs_eSc_line_52b0f1e3" n="cKcoMn"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_52b0f1e3"
+              xml:id="elem_eSc_line_52b0f1e3"/>gincione sensitia siue in potenciis sen<lb break="?" facs="#facs_eSc_line_8d07f8dd"
+              n="emA1i1"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_8d07f8dd"
+              xml:id="elem_eSc_line_8d07f8dd"/>situus. Nam sicut non laudamur nec ui¬<lb break="?" facs="#facs_eSc_line_78d0d3d9"
+              n="m8VJW9"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_78d0d3d9"
+              xml:id="elem_eSc_line_78d0d3d9"/>tuperamur ex potenciis naturalibz bic<lb break="?" facs="#facs_eSc_line_53adc85f"
+              n="nHdcD4"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_53adc85f"
+              xml:id="elem_eSc_line_53adc85f"/>non laudatur quis nec uitupera tur ex<lb break="?" facs="#facs_eSc_line_b12b2d0b"
+              n="aZpl5r"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_b12b2d0b"
+              xml:id="elem_eSc_line_b12b2d0b"/>sensibus Nam sicut nullus laudat᷑ tãꝙͣ<lb break="?" facs="#facs_eSc_line_c25d1fd4"
+              n="hgDj3L"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c25d1fd4"
+              xml:id="elem_eSc_line_c25d1fd4"/>bonus ex eo ꝙ bene digerit uel bñ crescit<lb break="?"
+              facs="#facs_eSc_line_fc9881d4" n="cY6kyZ"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_fc9881d4"
+              xml:id="elem_eSc_line_fc9881d4"/>Sic non laudatur ex eo ꝙ atute uidet uel<lb break="?"
+              facs="#facs_eSc_line_dba0365f" n="djoki5"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_dba0365f"
+              xml:id="elem_eSc_line_dba0365f"/>subtiliter audit insi forte hoc esset per<lb break="?"
+              facs="#facs_eSc_line_88db14c8" n="hf3EVx"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_88db14c8"
+              xml:id="elem_eSc_line_88db14c8"/>accidens. Uef si quis ex suꝑflua comestio<lb break="?"
+              facs="#facs_eSc_line_53ef7653" n="yReeSX"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_53ef7653"
+              xml:id="elem_eSc_line_53ef7653"/>ne uel ex nimia potatione inturisset<lb break="?" facs="#facs_eSc_line_8e0aa5f2"
+              n="fD6m5j"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_8e0aa5f2"
+              xml:id="elem_eSc_line_8e0aa5f2"/>obtalimam oculorum ne bene uideret uł<lb break="?" facs="#facs_eSc_line_107e79d5"
+              n="ljX2am"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_107e79d5"
+              xml:id="elem_eSc_line_107e79d5"/>deblitatem stomaci ne bene digereret in<lb break="?" facs="#facs_eSc_line_c53b189a"
+              n="f9wL9S"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c53b189a"
+              xml:id="elem_eSc_line_c53b189a"/>treparetur ille non qr male digerit ul<lb break="?" facs="#facs_eSc_line_cb577c87"
+              n="tCrZr3"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_cb577c87"
+              xml:id="elem_eSc_line_cb577c87"/>qr clare non uidet qr clare uidere et bene<lb break="?"
+              facs="#facs_eSc_line_9e58f9df" n="uFcR3d"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_9e58f9df"
+              xml:id="elem_eSc_line_9e58f9df"/>digerere per se loquendo non est in ptãte<lb break="?"
+              facs="#facs_eSc_line_ff93ba7f" n="jczSCl"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_ff93ba7f"
+              xml:id="elem_eSc_line_ff93ba7f"/>homis ded intreparet᷑ ex fuperfluo potu<lb break="?" facs="#facs_eSc_line_585ead1b"
+              n="eICupL"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_585ead1b"
+              xml:id="elem_eSc_line_585ead1b"/>uel superfluo cibo. Nam erat in potestate<lb break="?"
+              facs="#facs_eSc_line_c9426bac" n="kzSx75"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c9426bac"
+              xml:id="elem_eSc_line_c9426bac"/>sua ut posset uti cibo et potu moderate:<lb break="?"
+              facs="#facs_eSc_line_d5207018" n="b37t2l"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_d5207018"
+              xml:id="elem_eSc_line_d5207018"/>¶ decimdo in sensibus non est ponenda<lb break="?" facs="#facs_eSc_line_6f2f9c41"
+              n="zJ4bEB"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_6f2f9c41"
+              xml:id="elem_eSc_line_6f2f9c41"/>uirtus moralis quia sicut potencie na/<lb break="?" facs="#facs_eSc_line_2fadee56"
+              n="uKS9Pa"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_2fadee56"
+              xml:id="elem_eSc_line_2fadee56"/>turales non obediunt rõm qr sẜ rlãm<lb break="yes"
+              facs="#facs_eSc_line_91f5795d" n="aRFPsW"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_91f5795d"
+              xml:id="elem_eSc_line_91f5795d"/>rõnis nullus magis uel minꝰ auget᷑<lb break="?" facs="#facs_eSc_line_355e0872"
+              n="whUtil"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_355e0872"
+              xml:id="elem_eSc_line_355e0872"/>uel magis et minus digerit sic nec sen<cb break="?"/><lb break="?"
+              facs="#facs_eSc_line_444adef3" n="ytkiEd"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_444adef3"
+              xml:id="elem_eSc_line_444adef3"/>sus obediunt racioni Non enim est in po¬<lb break="?"
+              facs="#facs_eSc_line_6b7e18a0" n="o0UE3a"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_6b7e18a0"
+              xml:id="elem_eSc_line_6b7e18a0"/>testate homĩs uidere clarius uel minus<lb break="?" facs="#facs_eSc_line_a18e7ea4"
+              n="rAQ636"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_a18e7ea4"
+              xml:id="elem_eSc_line_a18e7ea4"/>clare quare si uirtus moralis est aquid<lb break="?" facs="#facs_eSc_line_7e2e9241"
+              n="c97VLM"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_7e2e9241"
+              xml:id="elem_eSc_line_7e2e9241"/>s rõnem himusmodi uirtus in sensibus<lb break="?" facs="#facs_eSc_line_25d92368"
+              n="gpCUgb"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_25d92368"
+              xml:id="elem_eSc_line_25d92368"/>poni non debet. ¶ Tercio in talib non<lb break="?" facs="#facs_eSc_line_296c5d4d"
+              n="rq1Naa"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_296c5d4d"
+              xml:id="elem_eSc_line_296c5d4d"/>est uirtus moralis qr sic potentie natu¬<lb break="?"
+              facs="#facs_eSc_line_1b880da6" n="jk4Ybt"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_1b880da6"
+              xml:id="elem_eSc_line_1b880da6"/>rales sufficienter det̾minãtur ad actio¬<lb break="?"
+              facs="#facs_eSc_line_454dbc7e" n="r3RyBt"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_454dbc7e"
+              xml:id="elem_eSc_line_454dbc7e"/>nes suas per suam naturam. sic et sensus <lb break="?"
+              facs="#facs_eSc_line_fa48b53f" n="ypMCh1"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_fa48b53f"
+              xml:id="elem_eSc_line_fa48b53f"/>Nam sicut ignis tantum calefacit quãtũ<lb break="?"
+              facs="#facs_eSc_line_8deb14de" n="pzG8Oo"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_8deb14de"
+              xml:id="elem_eSc_line_8deb14de"/>p̃t calefatere pp̃ quod quia det̾miãtus in<lb break="?"
+              facs="#facs_eSc_line_a8c98e6d" n="nQwrc1"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_a8c98e6d"
+              xml:id="elem_eSc_line_a8c98e6d"/>accione sua nec laudatur nec uituperat<lb break="?" facs="#facs_eSc_line_557b0dca"
+              n="ucDbzp"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_557b0dca"
+              xml:id="elem_eSc_line_557b0dca"/>nec est in eo uirtus moralis. Sic quia po<lb break="?"
+              facs="#facs_eSc_line_954a6984" n="jKfmQj"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_954a6984"
+              xml:id="elem_eSc_line_954a6984"/>tentia digestiua tantum digerit quãtũ<lb break="?" facs="#facs_eSc_line_b024750e"
+              n="zWJv0n"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_b024750e"
+              xml:id="elem_eSc_line_b024750e"/>p̃t digerere et oculus uidet ꝙ̃tum potest<lb break="?"
+              facs="#facs_eSc_line_d3b62e72" n="gVKcZl"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_d3b62e72"
+              xml:id="elem_eSc_line_d3b62e72"/>uidere mneis uirtus moralis ẽẽ non ꝑt<lb break="?" facs="#facs_eSc_line_f0861731"
+              n="ahNOQP"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_f0861731"
+              xml:id="elem_eSc_line_f0861731"/>Nam per uirtutem moralem non deter<lb break="?" facs="#facs_eSc_line_cc721fc9"
+              n="y2CUPG"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_cc721fc9"
+              xml:id="elem_eSc_line_cc721fc9"/>miãtur potencia ad agendum. hec autẽ<lb break="?" facs="#facs_eSc_line_44d23a5f"
+              n="l7Hkrw"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_44d23a5f"
+              xml:id="elem_eSc_line_44d23a5f"/>sufficienter det̾mĩantur ad actiones<lb break="?" facs="#facs_eSc_line_f225641a"
+              n="zeqm5p"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_f225641a"
+              xml:id="elem_eSc_line_f225641a"/>suas per naturam. non igitur indi<lb break="?" facs="#facs_eSc_line_da2fc340"
+              n="l0zPvi"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_da2fc340"
+              xml:id="elem_eSc_line_da2fc340"/>gent uirtute morali. ¶ Si igitur nec<lb break="?" facs="#facs_eSc_line_06e7f838"
+              n="j3VJRD"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_06e7f838"
+              xml:id="elem_eSc_line_06e7f838"/>in potericiis naturalibz nec in sensib<lb break="?" facs="#facs_eSc_line_c1700376"
+              n="wOXkbi"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c1700376"
+              xml:id="elem_eSc_line_c1700376"/>est uirtus moralis cum preter potencias<lb break="?" facs="#facs_eSc_line_c69cf3a5"
+              n="oNNOno"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c69cf3a5"
+              xml:id="elem_eSc_line_c69cf3a5"/>et sensus non sit insi intellectus et fen<lb break="?"
+              facs="#facs_eSc_line_c9b6d2c9" n="j8fBTh"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c9b6d2c9"
+              xml:id="elem_eSc_line_c9b6d2c9"/>s appetitus sensitiuus et intellectiuus<lb break="?" facs="#facs_eSc_line_e8f8507a"
+              n="nrL3qh"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_e8f8507a"
+              xml:id="elem_eSc_line_e8f8507a"/>oportet in talibus ẽe uirtutes morales </div>
+          <div n="1.2.2" type="chapitre">
+            <head n="jeEKuroR"><lb break="?" facs="#facs_eSc_line_93dba7bb" n="j7ssYM"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_93dba7bb"
+                xml:id="elem_eSc_line_93dba7bb"/>Capluĩ secundum quomodo distinguntur<lb break="?" facs="#facs_eSc_line_6724c2bc"
+                n="qc8OAm"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_6724c2bc"
+                xml:id="elem_eSc_line_6724c2bc"/>uirtutes et quo modo se habent in intel<lb break="?"
+                facs="#facs_eSc_line_6fbc871a" n="aHfCbJ"
+                corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_6fbc871a"
+                xml:id="elem_eSc_line_6fbc871a"/>lectu et appetitu.</head>
+            <lb break="?" facs="#facs_eSc_line_9e4fe121" n="vaMtWV"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_9e4fe121"
+              xml:id="elem_eSc_line_9e4fe121"/>o<lb break="?" facs="#facs_eSc_line_95d82873" n="uvSm5r"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_95d82873"
+              xml:id="elem_eSc_line_95d82873"/>dtenso ꝙ nec in potenciis<lb break="?" facs="#facs_eSc_line_79850d13" n="ev0lxS"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_79850d13"
+              xml:id="elem_eSc_line_79850d13"/>naturalibus nec in sensibz<lb break="?" facs="#facs_eSc_line_0bc58a84" n="yNN9q9"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_0bc58a84"
+              xml:id="elem_eSc_line_0bc58a84"/>habent esse uirtutes. Restat<lb break="?" facs="#facs_eSc_line_b8c8ed7d" n="z1tFGX"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_b8c8ed7d"
+              xml:id="elem_eSc_line_b8c8ed7d"/>ostendere quo modo distĩgũt᷑<lb break="?" facs="#facs_eSc_line_46af364d"
+              n="jPwzDR"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_46af364d"
+              xml:id="elem_eSc_line_46af364d"/>uirtutes et quomodo in intellectu et<lb break="?" facs="#facs_eSc_line_59a1f4c2"
+              n="eg6Noz"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_59a1f4c2"
+              xml:id="elem_eSc_line_59a1f4c2"/>appetitu sexistunt. ¶ Distinguendũ<lb break="?" facs="#facs_eSc_line_fb236a13"
+              n="ksj6eZ"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_fb236a13"
+              xml:id="elem_eSc_line_fb236a13"/>est de uirtutib et hiis potenciis Nam<lb break="?" facs="#facs_eSc_line_0e40547a"
+              n="wdEIGY"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_0e40547a"
+              xml:id="elem_eSc_line_0e40547a"/>uirtutum qued sunt intellectuales q̃d<lb break="?" facs="#facs_eSc_line_42da7f73"
+              n="kRvn6G"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_42da7f73"
+              xml:id="elem_eSc_line_42da7f73"/>morales et qued̾ medie inter morales<lb break="?" facs="#facs_eSc_line_01425c2c"
+              n="vEU1XW"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_01425c2c"
+              xml:id="elem_eSc_line_01425c2c"/>et intellectuales. Intellectuales dicũt᷑<lb break="?"
+              facs="#facs_eSc_line_1056fc79" n="g55KdU"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_1056fc79"
+              xml:id="elem_eSc_line_1056fc79"/>ille que sunt in intellectu speculatiuo<lb break="?" facs="#facs_eSc_line_1303a6b8"
+              n="v60sX6"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_1303a6b8"
+              xml:id="elem_eSc_line_1303a6b8"/>cinusmodi sunt scĩe speculatiue ut na¬<lb break="?" facs="#facs_eSc_line_484e1af3"
+              n="oh1qCM"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_484e1af3"
+              xml:id="elem_eSc_line_484e1af3"/>turalis phĩa arismetica geometria<pb n=""
+              facs="../input_files/e-codices_bge-lat0092_014r_large.jpg"/><lb break="?" facs="#facs_eSc_line_7add1ba9" n="cQn4Nx"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_7add1ba9"
+              xml:id="elem_eSc_line_7add1ba9"/>et talia uir tutes uero simp liiter morales<lb break="?"
+              facs="#facs_eSc_line_773c0cd2" n="taZ5fu"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_773c0cd2"
+              xml:id="elem_eSc_line_773c0cd2"/>sunt ille que sunt in appetitu siue appe<lb break="?"
+              facs="#facs_eSc_line_e5b56d09" n="j35Ggd"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_e5b56d09"
+              xml:id="elem_eSc_line_e5b56d09"/>titus ille fit sensitimis siue intellecti<lb break="?"
+              facs="#facs_eSc_line_428367da" n="qcpRyF"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_428367da"
+              xml:id="elem_eSc_line_428367da"/>uus Cimismodi iustida temperantia<lb break="?" facs="#facs_eSc_line_f2c27a77"
+              n="rRMroX"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_f2c27a77"
+              xml:id="elem_eSc_line_f2c27a77"/>fortitudo mansuetudo et cettera talia<lb break="?" facs="#facs_eSc_line_28c0cd53"
+              n="nY9Ytp"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_28c0cd53"
+              xml:id="elem_eSc_line_28c0cd53"/>de quibus sumus singulariter tratta<lb break="?" facs="#facs_eSc_line_4e3547fe"
+              n="fTkB3X"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_4e3547fe"
+              xml:id="elem_eSc_line_4e3547fe"/>turi. Uirtutes uero medie inter intel<lb break="?" facs="#facs_eSc_line_cbd7f347"
+              n="mjjauK"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_cbd7f347"
+              xml:id="elem_eSc_line_cbd7f347"/>lectuales et morales sunt uirtutes exi¬<lb break="?" facs="#facs_eSc_line_cf207c38"
+              n="ceAdm5"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_cf207c38"
+              xml:id="elem_eSc_line_cf207c38"/>stentes in intellectu practicout pru<lb break="?" facs="#facs_eSc_line_858d89a4"
+              n="bghUXL"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_858d89a4"
+              xml:id="elem_eSc_line_858d89a4"/>dentia et alie uirtutes sibi amnex e<lb break="?" facs="#facs_eSc_line_a435c8bd"
+              n="jqIjF6"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_a435c8bd"
+              xml:id="elem_eSc_line_a435c8bd"/>Prudencia emm ss cõmentatorẽ super<lb break="?" facs="#facs_eSc_line_c1ba5dea"
+              n="zgSHdy"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c1ba5dea"
+              xml:id="elem_eSc_line_c1ba5dea"/>librum ethitorum est media inter uirtu¬<lb break="?" facs="#facs_eSc_line_676fafec"
+              n="t6RzQe"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_676fafec"
+              xml:id="elem_eSc_line_676fafec"/>tes morales et intellettuales tamen<lb break="?" facs="#facs_eSc_line_4a44781e"
+              n="kLcfof"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_4a44781e"
+              xml:id="elem_eSc_line_4a44781e"/>potest comparari cum uirtutib mora<lb break="?" facs="#facs_eSc_line_6fca44e0"
+              n="b6ZA2f"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_6fca44e0"
+              xml:id="elem_eSc_line_6fca44e0"/>libus Nam prudencia non dnest nisi<lb break="?" facs="#facs_eSc_line_3a7bb166"
+              n="f6bjQ7"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_3a7bb166"
+              xml:id="elem_eSc_line_3a7bb166"/>homibus boms sicut nec uirtutes<lb break="?" facs="#facs_eSc_line_858f3669"
+              n="jAKiod"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_858f3669"
+              xml:id="elem_eSc_line_858f3669"/>mora les sdram enimi honnẽs et si possit<lb break="?"
+              facs="#facs_eSc_line_3972ab28" n="giYGwo"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_3972ab28"
+              xml:id="elem_eSc_line_3972ab28"/>ee scientes astuti et uersipelles prudẽtes<lb break="?"
+              facs="#facs_eSc_line_5b3a4f86" n="iM5NMd"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_5b3a4f86"
+              xml:id="elem_eSc_line_5b3a4f86"/>tamen ẽẽ non possunt ut suo loco pate<lb break="?" facs="#facs_eSc_line_532c805b"
+              n="tGJArd"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_532c805b"
+              xml:id="elem_eSc_line_532c805b"/>bit. Inde est ergo ꝙ dr̃ sexto ethiz ꝙ im<lb break="?"
+              facs="#facs_eSc_line_9934b252" n="rc3WTu"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_9934b252"
+              xml:id="elem_eSc_line_9934b252"/>possibile est prudentem non entem homuĩ<lb break="?"
+              facs="#facs_eSc_line_0071058f" n="mSBZRW"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_0071058f"
+              xml:id="elem_eSc_line_0071058f"/>¶ Dimisfis igitur uirtutes intellectua<lb break="?" facs="#facs_eSc_line_50c33dfb"
+              n="kTHwxK"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_50c33dfb"
+              xml:id="elem_eSc_line_50c33dfb"/>les et saienciis speculatiuis De prudencia<lb break="?"
+              facs="#facs_eSc_line_a1aca294" n="slh4ad"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_a1aca294"
+              xml:id="elem_eSc_line_a1aca294"/>et de uirtutib inoralib est trattandum<lb break="?"
+              facs="#facs_eSc_line_0159006e" n="aY7HpP"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_0159006e"
+              xml:id="elem_eSc_line_0159006e"/>Suscepmiꝰ enm ut pluries diximus<lb break="?" facs="#facs_eSc_line_c40f8279"
+              n="zlVWAd"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c40f8279"
+              xml:id="elem_eSc_line_c40f8279"/>presens opus non ut sciamus szut boĩ<lb break="?" facs="#facs_eSc_line_9be32a7b"
+              n="unhSsR"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_9be32a7b"
+              xml:id="elem_eSc_line_9be32a7b"/>fiamus que honitas sineprudentia<lb break="?" facs="#facs_eSc_line_43c18b56"
+              n="dTgHP9"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_43c18b56"
+              xml:id="elem_eSc_line_43c18b56"/>et sine uirtutibz moralib nobis Iuesse<lb break="?" facs="#facs_eSc_line_d11614bf"
+              n="phB5d7"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_d11614bf"
+              xml:id="elem_eSc_line_d11614bf"/>non potest. has autem uirtates intel<lb break="?" facs="#facs_eSc_line_30626988"
+              n="cfwL36"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_30626988"
+              xml:id="elem_eSc_line_30626988"/>lectu et appetitu sicesse contingit dictũ<lb break="?"
+              facs="#facs_eSc_line_12a11c29" n="soSRzG"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_12a11c29"
+              xml:id="elem_eSc_line_12a11c29"/>est enm uirtutem esse aliquid̃ sgz rõnẽ<lb break="?"
+              facs="#facs_eSc_line_1ea3313b" n="lmSc8z"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_1ea3313b"
+              xml:id="elem_eSc_line_1ea3313b"/>oportet ergo rõnalem potenciam in qua<lb break="?" facs="#facs_eSc_line_678ceba1"
+              n="yn89Qj"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_678ceba1"
+              xml:id="elem_eSc_line_678ceba1"/>pomitur esse uirtus. Lacionale autem<lb break="?" facs="#facs_eSc_line_862e9d03"
+              n="a1VFh3"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_862e9d03"
+              xml:id="elem_eSc_line_862e9d03"/>dupplex est ss phm̃ per essentiam et per<lb break="?"
+              facs="#facs_eSc_line_2af96fd5" n="kNX3Vm"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_2af96fd5"
+              xml:id="elem_eSc_line_2af96fd5"/>participationẽ Intellectus auten rõnal<lb break="?"
+              facs="#facs_eSc_line_11e5c1ab" n="lINrvY"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_11e5c1ab"
+              xml:id="elem_eSc_line_11e5c1ab"/>est per essentiam Ꝙz appetitucz est rõnalis<lb break="?"
+              facs="#facs_eSc_line_894fa59c" n="cwXtDP"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_894fa59c"
+              xml:id="elem_eSc_line_894fa59c"/>per participationẽ. Nam apetitus licet<lb break="?" facs="#facs_eSc_line_98126072"
+              n="ur28G7"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_98126072"
+              xml:id="elem_eSc_line_98126072"/>non sit intellectus siue ipã rõ essencialit<lb break="?"
+              facs="#facs_eSc_line_e925203e" n="qRmJwk"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_e925203e"
+              xml:id="elem_eSc_line_e925203e"/>dicitur tñ participare rõnem qr est aytusz<lb break="?"
+              facs="#facs_eSc_line_23111382" n="dtWIBS"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_23111382"
+              xml:id="elem_eSc_line_23111382"/>natus racioni obedire. Idotentie autem<lb break="?" facs="#facs_eSc_line_1218d3fc"
+              n="dC7JPA"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_1218d3fc"
+              xml:id="elem_eSc_line_1218d3fc"/>nales et sensus nec sintt rõnales per esse<cb break="?"/><lb break="?"
+              facs="#facs_eSc_line_4b9a3a14" n="aoTc8X"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_4b9a3a14"
+              xml:id="elem_eSc_line_4b9a3a14"/>tiam qr non sunt ipã racio nec rõnem<lb break="?" facs="#facs_eSc_line_d0422530"
+              n="yy8kFl"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_d0422530"
+              xml:id="elem_eSc_line_d0422530"/>participant qr per se nec ssz ꝙ himusmoĩ<lb break="?"
+              facs="#facs_eSc_line_1be07878" n="oiM4gQ"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_1be07878"
+              xml:id="elem_eSc_line_1be07878"/>non obediunt rõm Igitur in sensibz et<lb break="?" facs="#facs_eSc_line_c9793b58"
+              n="gUFZBu"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c9793b58"
+              xml:id="elem_eSc_line_c9793b58"/>in potenciis naturalib ut supra dictum<lb break="?" facs="#facs_eSc_line_5e071684"
+              n="rgSZka"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_5e071684"
+              xml:id="elem_eSc_line_5e071684"/>est non habent esseuirtutes ẜ solum ha<lb break="?" facs="#facs_eSc_line_d869a293"
+              n="htV9Fy"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_d869a293"
+              xml:id="elem_eSc_line_d869a293"/>bent esse in appetitu et intellectu. In no¬<lb break="?"
+              facs="#facs_eSc_line_98d0877b" n="nUdujw"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_98d0877b"
+              xml:id="elem_eSc_line_98d0877b"/>bis autem dupplex est appetitus scilicet<lb break="?"
+              facs="#facs_eSc_line_2f8bb089" n="awemJl"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_2f8bb089"
+              xml:id="elem_eSc_line_2f8bb089"/>intellectiuus et sensituius. nam sicut appe<lb break="?"
+              facs="#facs_eSc_line_7a1142e6" n="cFpWQh"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_7a1142e6"
+              xml:id="elem_eSc_line_7a1142e6"/>titus naturalis sequitur formam appre¬<lb break="?" facs="#facs_eSc_line_e6c154eb"
+              n="bPCiCb"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_e6c154eb"
+              xml:id="elem_eSc_line_e6c154eb"/>hensam per cognicionẽ sicut em̃ grama<lb break="?" facs="#facs_eSc_line_c8d1ecc9"
+              n="dnD5H7"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c8d1ecc9"
+              xml:id="elem_eSc_line_c8d1ecc9"/>ex eo ꝙ habent formam grauem seguitur<lb break="?" facs="#facs_eSc_line_2e495490"
+              n="ttl0kD"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_2e495490"
+              xml:id="elem_eSc_line_2e495490"/>ea qued̃ naturalis inclinacio et quid appe¬<lb break="?"
+              facs="#facs_eSc_line_09cfff65" n="rMuHEw"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_09cfff65"
+              xml:id="elem_eSc_line_09cfff65"/>titus naturalis ut naturalit̾ desiderent<lb break="?"
+              facs="#facs_eSc_line_8559cdaa" n="mB46OS"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_8559cdaa"
+              xml:id="elem_eSc_line_8559cdaa"/>esse deorsum sic humana cognoscentia pro<lb break="?"
+              facs="#facs_eSc_line_8d5555c5" n="bBitog"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_8d5555c5"
+              xml:id="elem_eSc_line_8d5555c5"/>ut habent in se ip̃is formam apprehensam<lb break="?"
+              facs="#facs_eSc_line_aa793882" n="urHGLO"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_aa793882"
+              xml:id="elem_eSc_line_aa793882"/>sequitur qued inclinacio quid appetitus sẜᷤ<lb break="?"
+              facs="#facs_eSc_line_5066d58f" n="fKmOtg"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_5066d58f"
+              xml:id="elem_eSc_line_5066d58f"/>formam illam pp̃ quod sicut est in nobis<lb break="?"
+              facs="#facs_eSc_line_0ae1a209" n="jL4QH8"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_0ae1a209"
+              xml:id="elem_eSc_line_0ae1a209"/>dupplex cognicio sensitiua et intellectiua<lb break="?"
+              facs="#facs_eSc_line_48f6a847" n="sryGcZ"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_48f6a847"
+              xml:id="elem_eSc_line_48f6a847"/>Sic est in nobis dupplex appetitus sensituus<lb break="?"
+              facs="#facs_eSc_line_7e9d4724" n="aXKE6A"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_7e9d4724"
+              xml:id="elem_eSc_line_7e9d4724"/>et intellectiuus Sensitiuus qui sequitur<lb break="?"
+              facs="#facs_eSc_line_64584cf1" n="bmNQlS"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_64584cf1"
+              xml:id="elem_eSc_line_64584cf1"/>formam apprehensam per sensum et intel<lb break="?" facs="#facs_eSc_line_78b63626"
+              n="iE2MO5"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_78b63626"
+              xml:id="elem_eSc_line_78b63626"/>lectiuus qui sequitur formam apprehen<lb break="?" facs="#facs_eSc_line_35199f50"
+              n="fn4V31"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_35199f50"
+              xml:id="elem_eSc_line_35199f50"/>sam per intellectum ¶ Appetitus autem sẽ<lb break="?"
+              facs="#facs_eSc_line_4bc079f4" n="iqYJCA"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_4bc079f4"
+              xml:id="elem_eSc_line_4bc079f4"/>situius dupplex est. nam cum aĩalia sint<lb break="?"
+              facs="#facs_eSc_line_a849c2a5" n="pym6wH"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_a849c2a5"
+              xml:id="elem_eSc_line_a849c2a5"/>supra aiãta sic natura calidis et rebus<lb break="?"
+              facs="#facs_eSc_line_e13d9daa" n="aBpt2c"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_e13d9daa"
+              xml:id="elem_eSc_line_e13d9daa"/>inaiãtis dedit dupplicem potenciã unam<lb break="?"
+              facs="#facs_eSc_line_7bb844e4" n="zaxvjf"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_7bb844e4"
+              xml:id="elem_eSc_line_7bb844e4"/>per quam tendunt in propriam quietem<lb break="?" facs="#facs_eSc_line_2a2a2e2c"
+              n="qWbQ4b"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_2a2a2e2c"
+              xml:id="elem_eSc_line_2a2a2e2c"/>et aliam per quam resistunt et agunt in<lb break="?" facs="#facs_eSc_line_b77aa183"
+              n="dFNXvh"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_b77aa183"
+              xml:id="elem_eSc_line_b77aa183"/>prohibencia et in contraria. multo magis<lb break="?"
+              facs="#facs_eSc_line_3c7ee987" n="dIgOPW"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_3c7ee987"
+              xml:id="elem_eSc_line_3c7ee987"/>hanc dupplitem potenciã natura dedit i<lb break="?" facs="#facs_eSc_line_849df655"
+              n="jwrxEV"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_849df655"
+              xml:id="elem_eSc_line_849df655"/>ꝑsis aiãlibz que sunt perfectiora illis. Ui<lb break="?"
+              facs="#facs_eSc_line_e6d98eef" n="grP3Ak"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_e6d98eef"
+              xml:id="elem_eSc_line_e6d98eef"/>demus emĩ ꝙ ignis qui est naturaliter ca<lb break="?"
+              facs="#facs_eSc_line_e7db5d6b" n="dKbQW1"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_e7db5d6b"
+              xml:id="elem_eSc_line_e7db5d6b"/>lidus et leuis per leuitatem em̃ tendit in<lb break="?"
+              facs="#facs_eSc_line_5635f056" n="lZ47hW"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_5635f056"
+              xml:id="elem_eSc_line_5635f056"/>locum propium et in quietem sibi cõueĩ<lb break="?"
+              facs="#facs_eSc_line_53921307" n="ldxnry"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_53921307"
+              xml:id="elem_eSc_line_53921307"/>entem per caliditatem uero agit in con<lb break="?" facs="#facs_eSc_line_7ed5724c"
+              n="wvqlmR"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_7ed5724c"
+              xml:id="elem_eSc_line_7ed5724c"/>traria. Ne ergo ignis per quecumqz a<lb break="?" facs="#facs_eSc_line_35179105"
+              n="qPvrOI"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_35179105"
+              xml:id="elem_eSc_line_35179105"/>gencia contraria impediat᷑ qum per<lb break="?" facs="#facs_eSc_line_f603dcd9"
+              n="d3xV97"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_f603dcd9"
+              xml:id="elem_eSc_line_f603dcd9"/>leuitatem in proprio loco quiescere posset<lb break="?"
+              facs="#facs_eSc_line_b112a6f1" n="jdTkSR"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_b112a6f1"
+              xml:id="elem_eSc_line_b112a6f1"/>dedit ei natura potenciã calefactiuam<lb break="?" facs="#facs_eSc_line_0f526091"
+              n="ip1IO0"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_0f526091"
+              xml:id="elem_eSc_line_0f526091"/>ut per eam resisteret et ageret in cõtraria<lb break="?"
+              facs="#facs_eSc_line_dbbf77d9" n="cmZjUq"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_dbbf77d9"
+              xml:id="elem_eSc_line_dbbf77d9"/>corruptiuia. Si igitur natura dedit igni<pb n=""
+              facs="../input_files/e-codices_bge-lat0092_014v_large.jpg"/><lb break="?" facs="#facs_eSc_line_9c189ab2" n="l5xs6U"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_9c189ab2"
+              xml:id="elem_eSc_line_9c189ab2"/>et rebus Inaiãtis dupplicem potentia una<lb break="?"
+              facs="#facs_eSc_line_49dc3ff0" n="lyzCUK"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_49dc3ff0"
+              xml:id="elem_eSc_line_49dc3ff0"/>per quam adipiscuntur propriam quietem<lb break="?" facs="#facs_eSc_line_385cedfc"
+              n="bvb4E8"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_385cedfc"
+              xml:id="elem_eSc_line_385cedfc"/>et aliam per quam agunt in prohibencia<lb break="?" facs="#facs_eSc_line_a46f418e"
+              n="mrrzqT"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_a46f418e"
+              xml:id="elem_eSc_line_a46f418e"/>et contraria multo magis hoc dedit aĩa<lb break="?" facs="#facs_eSc_line_9e68fa56"
+              n="pcdiNP"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_9e68fa56"
+              xml:id="elem_eSc_line_9e68fa56"/>libus Tribint ergo eis dupplicem appetitũ<lb break="?"
+              facs="#facs_eSc_line_0574570c" n="uDQI8S"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_0574570c"
+              xml:id="elem_eSc_line_0574570c"/>sensituium unũ per quem prosequũtur pro<lb break="?"
+              facs="#facs_eSc_line_5ddd079d" n="yFqzNP"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_5ddd079d"
+              xml:id="elem_eSc_line_5ddd079d"/>priam quietem et propriam delectationẽ ut<lb break="?"
+              facs="#facs_eSc_line_af8ef72e" n="f8R2s9"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_af8ef72e"
+              xml:id="elem_eSc_line_af8ef72e"/>concupiscencionalem Et alium per quem<lb break="?" facs="#facs_eSc_line_fa1f29e0"
+              n="fvDOgz"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_fa1f29e0"
+              xml:id="elem_eSc_line_fa1f29e0"/>resistunt et aggreduuntur prohibentia cõ¬<lb break="?"
+              facs="#facs_eSc_line_2cee8148" n="zy9R3Q"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_2cee8148"
+              xml:id="elem_eSc_line_2cee8148"/>traria ut irascibilem Ita ꝙ concupiscibłis<lb break="?"
+              facs="#facs_eSc_line_cda112ef" n="xfoZOn"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_cda112ef"
+              xml:id="elem_eSc_line_cda112ef"/>se ht̃ sicut grauitas et leuitas in grauib<lb break="?"
+              facs="#facs_eSc_line_af8eac0f" n="xvSUNQ"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_af8eac0f"
+              xml:id="elem_eSc_line_af8eac0f"/>et leuibus. Irascibilis se ht̃ sicut caliditas<lb break="?"
+              facs="#facs_eSc_line_681a4163" n="dc4Q3a"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_681a4163"
+              xml:id="elem_eSc_line_681a4163"/>et frigiditas in eis. Nam sicut grauia per<lb break="?"
+              facs="#facs_eSc_line_c9b81fa7" n="nmplzO"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c9b81fa7"
+              xml:id="elem_eSc_line_c9b81fa7"/>grauitatem desi recedunt aloco sursum tã<lb break="?"
+              facs="#facs_eSc_line_79149c74" n="pj6Ry9"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_79149c74"
+              xml:id="elem_eSc_line_79149c74"/>ꝙͣ a non cõueniente et tendunt in locũ<lb break="?"
+              facs="#facs_eSc_line_98caf74f" n="peN3p0"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_98caf74f"
+              xml:id="elem_eSc_line_98caf74f"/>deorsum tamꝙͣ in locum sibi cõueniẽtem<lb break="?"
+              facs="#facs_eSc_line_2f730b87" n="mLNwLF"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_2f730b87"
+              xml:id="elem_eSc_line_2f730b87"/>et conformem per frigiditatem uero re¬<lb break="?" facs="#facs_eSc_line_26ac6c15"
+              n="zBTr1L"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_26ac6c15"
+              xml:id="elem_eSc_line_26ac6c15"/>sistunt contrariis ne corrumpant᷑ a pro<lb break="?" facs="#facs_eSc_line_5dfa89b9"
+              n="uio9pJ"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_5dfa89b9"
+              xml:id="elem_eSc_line_5dfa89b9"/>pria natura et deserant propria loca et<lb break="?" facs="#facs_eSc_line_6208120d"
+              n="zYG33V"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_6208120d"
+              xml:id="elem_eSc_line_6208120d"/>propriam quietem Sic aĩalia per concupi¬<lb break="?"
+              facs="#facs_eSc_line_ade55aed" n="ekmMPO"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_ade55aed"
+              xml:id="elem_eSc_line_ade55aed"/>scibilem fugunt mala tristia et prosequũ<lb break="?"
+              facs="#facs_eSc_line_e4be628f" n="qA558w"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_e4be628f"
+              xml:id="elem_eSc_line_e4be628f"/>tur bona delectabilia. per irascibilẽ uero ag<lb break="?"
+              facs="#facs_eSc_line_f47c426d" n="ro0WM4"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_f47c426d"
+              xml:id="elem_eSc_line_f47c426d"/>gredumtur contraria que possent ab huiꝰ.<lb break="?"
+              facs="#facs_eSc_line_5dbc0032" n="xrKXKV"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_5dbc0032"
+              xml:id="elem_eSc_line_5dbc0032"/>delectabilib prohibere. ut leo per concupi¬<lb break="?"
+              facs="#facs_eSc_line_0921c8b8" n="lXO1id"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_0921c8b8"
+              xml:id="elem_eSc_line_0921c8b8"/>scibilem pergit ut prosequatur cibum tãꝙ̃<lb break="?"
+              facs="#facs_eSc_line_3c26e3cf" n="f7AC9q"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_3c26e3cf"
+              xml:id="elem_eSc_line_3c26e3cf"/>aliquid delectabile. per irascibilem aggre<lb break="?"
+              facs="#facs_eSc_line_abf2fa1c" n="rZI9cj"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_abf2fa1c"
+              xml:id="elem_eSc_line_abf2fa1c"/>ditur aĩalia uolencia ipsum prohibere a<lb break="?"
+              facs="#facs_eSc_line_1aba296d" n="lvupo3"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_1aba296d"
+              xml:id="elem_eSc_line_1aba296d"/>cibo adepto Et ꝙ hec uirtus sit data aĩ<lb break="?"
+              facs="#facs_eSc_line_0848a8a2" n="jx178z"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_0848a8a2"
+              xml:id="elem_eSc_line_0848a8a2"/>malib signum p̃t adduci ꝙ sensin se offert<lb break="?"
+              facs="#facs_eSc_line_7611292f" n="rsulFu"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_7611292f"
+              xml:id="elem_eSc_line_7611292f"/>continue. nam canes cum inueumt a li<lb break="?" facs="#facs_eSc_line_bddfb5fb"
+              n="jfjL3V"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_bddfb5fb"
+              xml:id="elem_eSc_line_bddfb5fb"/>mentum non cessant donec posuerint In<lb break="?" facs="#facs_eSc_line_70e21908"
+              n="yR9vp2"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_70e21908"
+              xml:id="elem_eSc_line_70e21908"/>occulto et hoc facunt ut elongentur ab ob¬<lb break="?"
+              facs="#facs_eSc_line_4cde2747" n="chxztY"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_4cde2747"
+              xml:id="elem_eSc_line_4cde2747"/>staculo. pp̃ quod bene dictum est ꝙ concupi<lb break="?"
+              facs="#facs_eSc_line_7e0c24a2" n="juU78g"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_7e0c24a2"
+              xml:id="elem_eSc_line_7e0c24a2"/>scibilis respicit bonum et malum sẜ se dia¬<lb break="?"
+              facs="#facs_eSc_line_a27209ed" n="j3Z5ou"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_a27209ed"
+              xml:id="elem_eSc_line_a27209ed"/>scibilis uero respicit bonũ et malũ inꝙ ͣtũ<lb break="?"
+              facs="#facs_eSc_line_64303375" n="euQOgK"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_64303375"
+              xml:id="elem_eSc_line_64303375"/>habent rõnem difficilis et ardui. nam cũ<lb break="?"
+              facs="#facs_eSc_line_58349368" n="rgljNw"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_58349368"
+              xml:id="elem_eSc_line_58349368"/>bonum sẜ se dicat quid prosequendum ma¬<lb break="?"
+              facs="#facs_eSc_line_a7d0f38b" n="ayPMMQ"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_a7d0f38b"
+              xml:id="elem_eSc_line_a7d0f38b"/>lum uero quid fugiendum, concupisciblis<lb break="?" facs="#facs_eSc_line_9d2bbef4"
+              n="cAWnVB"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_9d2bbef4"
+              xml:id="elem_eSc_line_9d2bbef4"/>sẜ se tendit in quuietem et in bona delecta¬<lb break="?"
+              facs="#facs_eSc_line_0e5eec44" n="bwQDWj"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_0e5eec44"
+              xml:id="elem_eSc_line_0e5eec44"/>bilia et fugit mala tristia. pro obiecto<lb break="?"
+              facs="#facs_eSc_line_8205f6bc" n="fpKALF"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_8205f6bc"
+              xml:id="elem_eSc_line_8205f6bc"/>enim ħt bona et mala sẜ se considerata<cb break="?"/><lb break="?"
+              facs="#facs_eSc_line_ddc66eaf" n="kDrcIv"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_ddc66eaf"
+              xml:id="elem_eSc_line_ddc66eaf"/>Irascibilis uero sẜ ꝙ aggredimur et resistim᷒<lb break="?"
+              facs="#facs_eSc_line_a951efe3" n="ywhl2b"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_a951efe3"
+              xml:id="elem_eSc_line_a951efe3"/>prohibentib et nociuis tendit in bona et<lb break="?"
+              facs="#facs_eSc_line_f4d146c9" n="fzxWl6"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_f4d146c9"
+              xml:id="elem_eSc_line_f4d146c9"/>in mala non sẜ se considerata sed ut hñt<lb break="?"
+              facs="#facs_eSc_line_e0fdb5d8" n="eyXg7B"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_e0fdb5d8"
+              xml:id="elem_eSc_line_e0fdb5d8"/>rõnem ardui et difficilis nam arduitas<lb break="?" facs="#facs_eSc_line_187c6155"
+              n="ryO9b6"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_187c6155"
+              xml:id="elem_eSc_line_187c6155"/>et difficultas potissime sunt repugnãcia<lb break="?"
+              facs="#facs_eSc_line_879edcdc" n="abbkzL"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_879edcdc"
+              xml:id="elem_eSc_line_879edcdc"/>et prohibentia ne possim᷒ consequi bo<lb break="?" facs="#facs_eSc_line_014fae24"
+              n="cIzYqY"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_014fae24"
+              xml:id="elem_eSc_line_014fae24"/>num et uitare malum. Imperfecte ergo<lb break="?" facs="#facs_eSc_line_271ccca6"
+              n="m7hAZF"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_271ccca6"
+              xml:id="elem_eSc_line_271ccca6"/>fecisset natura si dedisset aĩalib concu¬<lb break="?"
+              facs="#facs_eSc_line_90442d4b" n="gxkDJE"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_90442d4b"
+              xml:id="elem_eSc_line_90442d4b"/>piscibilem per quam uitarent mala et pro<lb break="?"
+              facs="#facs_eSc_line_8ff5121e" n="zWXtgA"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_8ff5121e"
+              xml:id="elem_eSc_line_8ff5121e"/>sequerent᷑ bona nisi dedisset eis irascibilẽ<lb break="?"
+              facs="#facs_eSc_line_a3307983" n="evTivt"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_a3307983"
+              xml:id="elem_eSc_line_a3307983"/>per quam aggrederentur impedientia de<lb break="?" facs="#facs_eSc_line_7e926111"
+              n="jNJL0A"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_7e926111"
+              xml:id="elem_eSc_line_7e926111"/>lectacionem illam Ut igit᷑ aĩalia sẜ mo¬<lb break="?"
+              facs="#facs_eSc_line_9db05dab" n="dCWXol"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_9db05dab"
+              xml:id="elem_eSc_line_9db05dab"/>dum sibi cõuenientem plene possent de<lb break="?" facs="#facs_eSc_line_59bbbe31"
+              n="f8uunM"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_59bbbe31"
+              xml:id="elem_eSc_line_59bbbe31"/>lettari per contupisciblem̃ data est eis ira<lb break="?"
+              facs="#facs_eSc_line_e508d6bd" n="gaXZQ8"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_e508d6bd"
+              xml:id="elem_eSc_line_e508d6bd"/>scibilis per quam resistant et aggrediant᷑<lb break="?"
+              facs="#facs_eSc_line_ac80a67c" n="nMHbx6"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_ac80a67c"
+              xml:id="elem_eSc_line_ac80a67c"/>impedientia delectationẽ illam ¶ Dupplex<lb break="?"
+              facs="#facs_eSc_line_02d0a3cb" n="ckSjYZ"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_02d0a3cb"
+              xml:id="elem_eSc_line_02d0a3cb"/>est ergo appetitus sensituius Irascibilis<lb break="?"
+              facs="#facs_eSc_line_23af390d" n="lFKtsX"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_23af390d"
+              xml:id="elem_eSc_line_23af390d"/>et concupisciblĩs. Apetitus autem In<lb break="?" facs="#facs_eSc_line_be0f1523"
+              n="tDUezz"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_be0f1523"
+              xml:id="elem_eSc_line_be0f1523"/>tellectiuus qui dr̃ uoluntas est indiuisus<lb break="?"
+              facs="#facs_eSc_line_69361a01" n="lxiNdk"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_69361a01"
+              xml:id="elem_eSc_line_69361a01"/>nam cum Intellectus uniu̾saliori modo<lb break="?" facs="#facs_eSc_line_f717b0e2"
+              n="ynIBjx"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_f717b0e2"
+              xml:id="elem_eSc_line_f717b0e2"/>respiciat suum obiectum ꝙͣ sensus appeti<lb break="?"
+              facs="#facs_eSc_line_b69c2cea" n="pxrDHk"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_b69c2cea"
+              xml:id="elem_eSc_line_b69c2cea"/>tus intellectiuus qui sequit᷑ intellectum<lb break="?"
+              facs="#facs_eSc_line_8537d9e8" n="puyFzs"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_8537d9e8"
+              xml:id="elem_eSc_line_8537d9e8"/>uniu̾saliori modo fertur in bonum ꝙ̃ ape<lb break="?"
+              facs="#facs_eSc_line_334c1c4a" n="dg1wmQ"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_334c1c4a"
+              xml:id="elem_eSc_line_334c1c4a"/>titus ss sensum Et quia quanto quid uni<lb break="?"
+              facs="#facs_eSc_line_b17945d2" n="wmxBj7"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_b17945d2"
+              xml:id="elem_eSc_line_b17945d2"/>uersaliori mõ accipitur. tanto unum et<lb break="?" facs="#facs_eSc_line_a282160c"
+              n="mbySQw"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_a282160c"
+              xml:id="elem_eSc_line_a282160c"/>idem existens ad plura se extendit. licet<lb break="?"
+              facs="#facs_eSc_line_c5b168ef" n="pzzWEW"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c5b168ef"
+              xml:id="elem_eSc_line_c5b168ef"/>appetitus sensituius sit aluus et aluis ser<lb break="?"
+              facs="#facs_eSc_line_b67b556b" n="uqxq7M"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_b67b556b"
+              xml:id="elem_eSc_line_b67b556b"/>quem prosequi᷑ delectabilia ss sensum<lb break="?" facs="#facs_eSc_line_90d74ab0"
+              n="gHXDAK"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_90d74ab0"
+              xml:id="elem_eSc_line_90d74ab0"/>et aggredimur terribilia. Appetitus tamẽ<lb break="?"
+              facs="#facs_eSc_line_5120c62b" n="hJ2dPv"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_5120c62b"
+              xml:id="elem_eSc_line_5120c62b"/>intellectuus unus et idem existens fertur<lb break="?"
+              facs="#facs_eSc_line_197fc636" n="ppmTsu"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_197fc636"
+              xml:id="elem_eSc_line_197fc636"/>in omẽ bonũ intelligibile. Non est ergo a<lb break="?"
+              facs="#facs_eSc_line_c6318956" n="tAt62H"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c6318956"
+              xml:id="elem_eSc_line_c6318956"/>lius appetitus intedectiuus sẜ quem pro¬<lb break="?"
+              facs="#facs_eSc_line_010d8b14" n="nAbOxm"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_010d8b14"
+              xml:id="elem_eSc_line_010d8b14"/>sequint᷑ bona delectabilia per intellectum<lb break="?"
+              facs="#facs_eSc_line_012da411" n="r6eYhw"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_012da411"
+              xml:id="elem_eSc_line_012da411"/>et aggredimur bona ardua sicut est alis<lb break="?" facs="#facs_eSc_line_d6d8a224"
+              n="mKHwYU"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_d6d8a224"
+              xml:id="elem_eSc_line_d6d8a224"/>appetitus sensitiuus ss quem prosequimur<lb break="?"
+              facs="#facs_eSc_line_ad75972d" n="o2e74e"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_ad75972d"
+              xml:id="elem_eSc_line_ad75972d"/>bona delectabilia et aggredim᷑ terribilia<lb break="?"
+              facs="#facs_eSc_line_4d7f7894" n="rYR9L1"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_4d7f7894"
+              xml:id="elem_eSc_line_4d7f7894"/>Quare si omĩs uirtus moralis uel est in<lb break="?"
+              facs="#facs_eSc_line_2b917f4b" n="jn7jRj"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_2b917f4b"
+              xml:id="elem_eSc_line_2b917f4b"/>Intellettu uel in appetitu Et appetitꝰ alius<lb break="?"
+              facs="#facs_eSc_line_ebfc150a" n="lTJFvS"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_ebfc150a"
+              xml:id="elem_eSc_line_ebfc150a"/>est intellectius ut uoluntas et alius est<lb break="?"
+              facs="#facs_eSc_line_c07d0d43" n="omsHR3"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_c07d0d43"
+              xml:id="elem_eSc_line_c07d0d43"/>sensitiuus et hic est dupplex scilicet irasci<lb break="?"
+              facs="#facs_eSc_line_81dc6e52" n="l7mX7K"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_81dc6e52"
+              xml:id="elem_eSc_line_81dc6e52"/>bilis et concupisciblis Oportet omnem<pb n=""
+              facs="../input_files/e-codices_bge-lat0092_015r_large.jpg"/><lb break="?" facs="#facs_eSc_line_a59d1cca" n="nbn7QI"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_a59d1cca"
+              xml:id="elem_eSc_line_a59d1cca"/>uirtutem esse uel in intellectu uel in appeti<lb break="?"
+              facs="#facs_eSc_line_a97b763f" n="aooyrH"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_a97b763f"
+              xml:id="elem_eSc_line_a97b763f"/>tu intellectiuo uel in irascibili uel in con<lb break="?"
+              facs="#facs_eSc_line_99098fdd" n="c54NUH"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_99098fdd"
+              xml:id="elem_eSc_line_99098fdd"/>cupiscibili. Accipiendo ergo uirtutem mo¬<lb break="?"
+              facs="#facs_eSc_line_be420a70" n="nepo30"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_be420a70"
+              xml:id="elem_eSc_line_be420a70"/>ralem large prout ipsa prudencia dicit᷑ qued̃<lb break="?"
+              facs="#facs_eSc_line_0c5eb16a" n="wlER9S"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_0c5eb16a"
+              xml:id="elem_eSc_line_0c5eb16a"/>uirtus moralis dice possumꝰ ꝙ sẜ has<lb break="?" facs="#facs_eSc_line_50c636fc"
+              n="y6bsEf"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_50c636fc"
+              xml:id="elem_eSc_line_50c636fc"/>quatuor potentias aĩe in quibus h̃t esse<lb break="?"
+              facs="#facs_eSc_line_01492664" n="jJqIPs"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_01492664"
+              xml:id="elem_eSc_line_01492664"/>uirtus moralis sumpte sunt quatuor uirtu<lb break="?"
+              facs="#facs_eSc_line_ba76ee64" n="cXn8tl"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_ba76ee64"
+              xml:id="elem_eSc_line_ba76ee64"/>tes cardinales scilicet prudencia iusticia for¬<lb break="?"
+              facs="#facs_eSc_line_d0d193a8" n="t8lB9p"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_d0d193a8"
+              xml:id="elem_eSc_line_d0d193a8"/>titudo temperancia. Nam prudentia est<lb break="?" facs="#facs_eSc_line_27bc4c6b"
+              n="iz91x2"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_27bc4c6b"
+              xml:id="elem_eSc_line_27bc4c6b"/>in intellectu Justicia est in uoluntate forti<lb break="?"
+              facs="#facs_eSc_line_3896bb97" n="jmZUBq"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_3896bb97"
+              xml:id="elem_eSc_line_3896bb97"/>tudo in irascibili. temperantia in concupi<lb break="?"
+              facs="#facs_eSc_line_deadf56f" n="wSwVdk"
+              corresp="/home/mgl/Bureau/Travail/Communications_et_articles/Alignement_multilingue_regimine/data/HTR/txt_1/Geneve_Ms_Lat_92/sortie_HTR/Geneve_Ms_Lat_92_out.replaced.tokenized.expanded.xml#elem_eSc_line_deadf56f"
+              xml:id="elem_eSc_line_deadf56f"/>scibili </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

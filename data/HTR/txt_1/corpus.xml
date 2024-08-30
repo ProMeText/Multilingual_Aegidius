@@ -1,0 +1,56 @@
+<?xml-model href="../schemas/out/ODD_edition.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schemas/out/ODD_edition.sch" type="application/xml" schematypens="://purl.oclc.org/dsdl/schematron"?>
+<TEI xml:id="drp" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fra">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title resp="#moi" xml:lang="es"/>
+        <author cert="low">Matthias Gille Levenson</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Unpublished</publisher>
+        <availability>
+          <licence>Creative Commons CC BY-NC-SA 4.0 FR</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <TEI type="castillan" xml:id="castB" xml:lang="spo">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>De Regimine Principum</title>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <p>HTR</p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <xi:include href="Beinecke_Marston_MS_139/sortie_HTR/collatex/Beinecke_Marston_MS_139.xml"
+      xmlns:xi="http://www.w3.org/2001/XInclude"/>
+        <xi:include href="Bevilaqua_1498/sortie_HTR/collatex/Bevilaqua_1498.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="Planck/sortie_HTR/collatex/Planck.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="BNE_MSS_958/sortie_HTR/collatex/BNE_MSS_958.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="BNF_Lat_6477/sortie_HTR/collatex/BNF_Lat_6477.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="Geneve_Ms_Lat_92/sortie_HTR/collatex/Geneve_Ms_Lat_92.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+    <xi:include href="BNE_9236/sortie_HTR/collatex/BNE_9236.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="Pre-transcriptions/Rome_1607.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+        <xi:include href="BNF_Lat_1234/sortie_HTR/collatex/BNF_Lat_1234.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <!---->
+    <!-- <xi:include href="RES-E-101/sortie_HTR/collatex/RES-E-101.xml"
+      xmlns:xi="http://www.w3.org/2001/XInclude"/>-->
+    <xi:include href="Valencia_BH_Ms_0594/sortie_HTR/collatex/Valencia_BH_Ms_0594.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+
+
+
+  </TEI>
+</TEI>
