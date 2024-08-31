@@ -1,0 +1,41 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Valencia-BH-Ms-0594.pdf_page_8.png</fileName>
+      <fileIdentifier>pdf//Valencia-BH-Ms-0594.pdf</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15270" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15271" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15272" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15273" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15274" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15275" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15276" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15277" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15278" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15279" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15280" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15281" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15282" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15283" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT15284" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT15285" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT15286" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT6443" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6444" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6445" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6446" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6447" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT6448" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT6449" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT6455" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479" HEIGHT="3508" PHYSICAL_IMG_NR="7" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2479" HEIGHT="3508">
+        
+        <TextBlock HPOS="210" VPOS="506" WIDTH="723" HEIGHT="2103" ID="eSc_textblock_261cdcd3" TAGREFS="BT15274">
+          <Shape><Polygon POINTS="259 506 902 514 933 569 902 1535 917 2562 878 2609 265 2609 226 2570 210 647 259 506"/></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="974" VPOS="514" WIDTH="739" HEIGHT="2118" ID="eSc_textblock_f0525a78" TAGREFS="BT15274">
+          <Shape><Polygon POINTS="999 514 1658 530 1705 592 1713 2258 1705 2547 1650 2632 1013 2617 974 2578 974 1465 997 1309 1106 1229 1097 1182 982 1151 974 553 999 514"/></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="974" VPOS="1169" WIDTH="138" HEIGHT="146" ID="eSc_textblock_2c795bfa" TAGREFS="BT15273">
+          <Shape><Polygon POINTS="1013 1169 1097 1177 1112 1237 1089 1276 982 1315 974 1223 1013 1169"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

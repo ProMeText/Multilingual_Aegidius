@@ -1,0 +1,36 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Valencia-BH-Ms-0594.pdf_page_5.png</fileName>
+      <fileIdentifier>pdf//Valencia-BH-Ms-0594.pdf</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15270" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15271" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15272" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15273" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15274" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15275" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15276" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15277" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15278" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15279" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15280" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15281" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15282" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15283" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT15284" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT15285" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT15286" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT6443" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6444" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6445" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6446" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6447" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT6448" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT6449" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT6455" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479" HEIGHT="3508" PHYSICAL_IMG_NR="4" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2479" HEIGHT="3508">
+        
+        <TextBlock HPOS="943" VPOS="584" WIDTH="699" HEIGHT="1994" ID="eSc_textblock_7d65a128" TAGREFS="BT15274">
+          <Shape><Polygon POINTS="1241 584 1611 592 1642 654 1627 2531 1596 2554 990 2578 943 2523 951 647 966 592 1241 584"/></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="1676" VPOS="584" WIDTH="660" HEIGHT="1978" ID="eSc_textblock_8be81bb2" TAGREFS="BT15274">
+          <Shape><Polygon POINTS="1716 584 2196 600 2305 615 2336 654 2336 2461 2321 2531 2274 2554 1707 2562 1676 2531 1691 615 1716 584"/></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,106 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>04.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT15200" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15201" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15202" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15203" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15204" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15205" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15206" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15207" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15208" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15209" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15210" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15211" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15212" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15213" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT6414" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6415" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6416" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6417" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6418" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT6419" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT6420" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2900" HEIGHT="3966" PHYSICAL_IMG_NR="3" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2900" HEIGHT="3966">
+        
+        <TextBlock HPOS="96" VPOS="440" WIDTH="1003" HEIGHT="2765" ID="eSc_textblock_b385e1f4" TAGREFS="BT15204">
+          <Shape><Polygon POINTS="134 440 985 449 1090 493 1099 3064 1090 3144 1037 3197 343 3205 158 3197 141 3161 123 1392 158 1313 273 1266 308 1172 176 1143 123 1081 141 713 96 449 134 440"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8a85a57a" TAGREFS="LT6418" BASELINE="196 546 1059 553" HPOS="193" VPOS="471" WIDTH="866" HEIGHT="108">
+            <Shape><Polygon POINTS="1055 478 1044 475 830 475 828 475 826 475 824 475 791 497 669 486 667 486 533 495 495 475 484 471 482 471 480 471 478 471 462 475 416 495 237 495 198 478 196 546 193 570 471 564 504 570 528 577 531 577 533 577 614 570 672 566 680 570 694 577 696 577 698 577 766 568 784 568 808 568 976 579 978 579 1057 566 1059 553 1057 480 1055 478"/></Shape>
+	    <String CONTENT="digent uͥtute morali si gͥ nͨ" HPOS="193" VPOS="471" WIDTH="866" HEIGHT="108" WC="0.9968660967103367"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3fcff2a2" TAGREFS="LT6418" BASELINE="196 621 1053 616" HPOS="193" VPOS="550" WIDTH="860" HEIGHT="99">
+            <Shape><Polygon POINTS="788 553 773 550 733 564 722 566 713 564 689 550 687 550 678 550 656 550 634 550 621 550 619 550 550 564 533 566 526 564 515 553 513 553 511 553 456 553 453 553 451 553 434 564 420 570 343 570 334 564 323 553 321 553 319 553 317 553 193 561 196 621 196 638 482 649 484 649 802 636 824 636 837 636 998 647 1000 647 1002 647 1053 634 1053 616 1046 564 855 566 835 564 788 553 788 553"/></Shape>
+	    <String CONTENT="ĩ potenciis nalib nͨ in sensi" HPOS="193" VPOS="550" WIDTH="860" HEIGHT="99" WC="0.9471184551715851"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6406c20" TAGREFS="LT6418" BASELINE="196 683 1031 689" HPOS="193" VPOS="621" WIDTH="838" HEIGHT="97">
+            <Shape><Polygon POINTS="409 621 385 623 288 632 196 623 196 683 193 702 751 718 753 718 755 718 799 707 982 718 985 718 987 718 1029 705 1031 689 1026 625 921 636 769 623 751 623 749 623 720 623 475 634 423 623 412 621 409 621"/></Shape>
+	    <String CONTENT="b est u̾tus moralis cũ pret̾" HPOS="193" VPOS="621" WIDTH="838" HEIGHT="97" WC="0.9919229964415233"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef51be8e" TAGREFS="LT6418" BASELINE="202 755 1051 762" HPOS="200" VPOS="700" WIDTH="851" HEIGHT="88">
+            <Shape><Polygon POINTS="202 755 200 779 323 771 334 782 337 782 337 784 339 784 341 784 343 786 489 786 489 784 491 784 509 779 528 773 550 779 575 786 577 786 579 786 581 786 610 777 632 773 764 773 819 775 1020 788 1022 788 1024 788 1026 788 1048 773 1051 762 1048 700 202 700 202 755"/></Shape>
+	    <String CONTENT="po n᷑ales ⁊ sensus ñ sit nisi" HPOS="200" VPOS="700" WIDTH="851" HEIGHT="88" WC="0.961152078776524"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76fb548c" TAGREFS="LT6418" BASELINE="196 828 1064 832" HPOS="193" VPOS="762" WIDTH="871" HEIGHT="103">
+            <Shape><Polygon POINTS="196 828 193 848 271 861 273 861 275 861 277 861 297 848 301 848 498 848 500 848 511 859 513 859 515 859 517 859 520 859 539 848 553 861 555 861 557 861 630 863 632 865 753 865 753 863 755 863 758 863 775 852 967 863 969 863 1062 848 1064 832 1062 764 974 775 896 764 881 764 879 764 877 764 874 764 874 766 863 775 850 766 850 764 848 764 846 764 843 764 841 764 839 764 837 766 824 777 601 768 513 766 511 766 480 771 449 775 445 771 436 764 436 762 434 762 431 762 429 762 427 762 403 771 396 773 376 771 277 762 275 762 196 773 196 828"/></Shape>
+	    <String CONTENT="intłlc̃us ⁊ appetitus intłłcti" HPOS="193" VPOS="762" WIDTH="871" HEIGHT="103" WC="0.9937431891759236"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b0fb3ab" TAGREFS="LT6418" BASELINE="180 905 1040 907" HPOS="178" VPOS="846" WIDTH="862" HEIGHT="94">
+            <Shape><Polygon POINTS="180 905 178 932 817 927 819 927 830 938 832 938 835 938 837 940 998 940 998 938 1000 938 1037 925 1040 907 1040 852 180 846 180 905"/></Shape>
+	    <String CONTENT="uus ⁊ sensitiuus o in talib" HPOS="178" VPOS="846" WIDTH="862" HEIGHT="94" WC="0.9635298868705486"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce9b4cad" TAGREFS="LT6418" BASELINE="196 976 1059 984" HPOS="193" VPOS="914" WIDTH="866" HEIGHT="99">
+            <Shape><Polygon POINTS="196 976 193 991 299 1006 301 1006 372 995 379 995 381 995 392 1006 394 1006 396 1006 398 1006 524 1000 572 998 579 1002 588 1009 590 1009 592 1009 594 1009 680 1004 740 1000 749 1004 755 1011 758 1011 760 1011 762 1013 1057 1013 1059 984 1057 916 843 929 196 914 196 976"/></Shape>
+	    <String CONTENT="ẽẽ uͥtutes morales" HPOS="193" VPOS="914" WIDTH="866" HEIGHT="99" WC="0.9587326270562632"/>
+          </TextLine>
+
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="79" VPOS="1084" WIDTH="227" HEIGHT="262" ID="eSc_textblock_5c958287" TAGREFS="BT15203">
+          <Shape><Polygon POINTS="114 1084 306 1198 288 1275 130 1346 79 1302 79 1128 114 1084"/></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="1181" VPOS="449" WIDTH="949" HEIGHT="2765" ID="eSc_textblock_3ebd0907" TAGREFS="BT15204">
+          <Shape><Polygon POINTS="1518 449 1998 458 2104 502 2078 808 2130 1277 2130 3135 2060 3214 1225 3214 1181 3179 1189 484 1216 458 1518 449"/></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="52" VPOS="229" WIDTH="148" HEIGHT="165" ID="eSc_textblock_638b425b" TAGREFS="BT15205">
+          <Shape><Polygon POINTS="72 229 121 229 200 317 121 394 88 394 52 332 72 229"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2141" VPOS="722" WIDTH="465" HEIGHT="306" ID="eSc_textblock_a8d71515" TAGREFS="BT15205">
+          <Shape><Polygon POINTS="2241 722 2562 757 2606 819 2598 958 2483 1028 2177 1020 2141 854 2177 757 2241 722"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

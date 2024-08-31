@@ -1,0 +1,61 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>16369408.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15232" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15233" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15234" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15235" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15236" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15237" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15238" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15239" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15240" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15241" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT15228" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15229" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15230" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15231" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15242" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT6426" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6427" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6428" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6429" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6430" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT6431" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2192" HEIGHT="2872" PHYSICAL_IMG_NR="3" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2192" HEIGHT="2872">
+        
+        <TextBlock HPOS="236" VPOS="255" WIDTH="661" HEIGHT="2041" ID="eSc_textblock_83f20d78" TAGREFS="BT15232">
+          <Shape><Polygon POINTS="397 255 826 268 871 274 897 325 884 2232 846 2296 255 2289 236 2270 255 280 397 255"/></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="937" VPOS="255" WIDTH="776" HEIGHT="2060" ID="eSc_textblock_085bc11c" TAGREFS="BT15232">
+          <Shape><Polygon POINTS="964 255 1687 261 1713 299 1706 2251 1661 2315 1122 2315 937 2289 943 293 964 255"/></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="854" VPOS="114" WIDTH="164" HEIGHT="88" ID="eSc_textblock_4886538f" TAGREFS="BT15237">
+          <Shape><Polygon POINTS="932 114 993 140 1018 177 973 202 854 177 854 134 878 127 884 153 932 114"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1574" VPOS="102" WIDTH="266" HEIGHT="107" ID="eSc_textblock_faf1f4d9" TAGREFS="BT15237">
+          <Shape><Polygon POINTS="1634 102 1789 108 1797 146 1840 157 1649 209 1574 202 1599 114 1634 102"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1848" VPOS="153" WIDTH="24" HEIGHT="4" ID="eSc_textblock_9468d6dc" TAGREFS="BT15237">
+          <Shape><Polygon POINTS="1851 153 1872 153 1872 157 1848 157 1851 153"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1855" VPOS="1531" WIDTH="24" HEIGHT="37" ID="eSc_textblock_e866c16f" TAGREFS="BT15233">
+          <Shape><Polygon POINTS="1863 1531 1879 1557 1872 1568 1855 1549 1863 1531"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1925" VPOS="1563" WIDTH="17" HEIGHT="18" ID="eSc_textblock_35defca6" TAGREFS="BT15233">
+          <Shape><Polygon POINTS="1926 1563 1942 1570 1942 1581 1925 1568 1926 1563"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

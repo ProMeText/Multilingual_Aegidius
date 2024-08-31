@@ -1,0 +1,40 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>16369409.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15232" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15233" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15234" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15235" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15236" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15237" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15238" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15239" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15240" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15241" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT15228" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15229" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15230" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15231" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15242" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT6426" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6427" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6428" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6429" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6430" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT6431" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2325" HEIGHT="2907" PHYSICAL_IMG_NR="4" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2325" HEIGHT="2907">
+        
+        <TextBlock HPOS="743" VPOS="264" WIDTH="793" HEIGHT="2053" ID="eSc_textblock_d54420f2" TAGREFS="BT15232">
+          <Shape><Polygon POINTS="822 264 1523 277 1536 2265 1517 2298 762 2317 743 2285 749 1731 788 1264 794 335 822 264"/></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="1583" VPOS="258" WIDTH="632" HEIGHT="2059" ID="eSc_textblock_31ecba66" TAGREFS="BT15232">
+          <Shape><Polygon POINTS="1617 258 2189 271 2215 310 2215 1813 2195 2252 2156 2298 1777 2317 1602 2311 1583 2291 1596 316 1617 258"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="84" VPOS="122" WIDTH="75" HEIGHT="173" ID="eSc_textblock_c58a8824" TAGREFS="BT15237">
+          <Shape><Polygon POINTS="103 122 153 155 159 250 127 295 84 243 103 122"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
