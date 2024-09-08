@@ -120,7 +120,7 @@
           
           <TextLine ID="eSc_line_d154de7b" TAGREFS="LT6454" BASELINE="220 1136 1062 1132" HPOS="218" VPOS="1087" WIDTH="844" HEIGHT="74">
             <Shape><Polygon POINTS="220 1136 220 1153 995 1161 997 1161 1060 1149 1062 1132 1060 1099 1034 1087 1032 1087 1030 1087 1029 1087 991 1099 707 1099 650 1087 648 1087 218 1101 220 1136"/></Shape>
-	    <String CONTENT="ex naturalibus nec laudamur nec uitupera." HPOS="218" VPOS="1087" WIDTH="844" HEIGHT="74" WC="0.9822031622979699"/>
+	    <String CONTENT="ex naturalibus nec laudamur nec uitupera¬" HPOS="218" VPOS="1087" WIDTH="844" HEIGHT="74" WC="0.9822031622979699"/>
           </TextLine>
 
           
@@ -253,7 +253,7 @@
           
           <TextLine ID="eSc_line_cb6c1885" TAGREFS="LT6454" BASELINE="212 2243 1058 2250" HPOS="210" VPOS="2198" WIDTH="848" HEIGHT="72">
             <Shape><Polygon POINTS="212 2243 210 2262 1054 2270 1058 2250 1058 2213 582 2200 580 2200 459 2208 438 2208 436 2208 428 2200 428 2198 426 2198 424 2198 422 2198 212 2204 212 2243"/></Shape>
-	    <String CONTENT="tia naturales sufficienter determineniur ad" HPOS="210" VPOS="2198" WIDTH="848" HEIGHT="72" WC="0.9804186668506888"/>
+	    <String CONTENT="tia naturales sufficienter determinentur ad" HPOS="210" VPOS="2198" WIDTH="848" HEIGHT="72" WC="0.9804186668506888"/>
           </TextLine>
 
           
@@ -274,7 +274,7 @@
           
           <TextLine ID="eSc_line_acb3a8c6" TAGREFS="LT6454" BASELINE="212 2420 1058 2428" HPOS="210" VPOS="2375" WIDTH="848" HEIGHT="72">
             <Shape><Polygon POINTS="212 2420 210 2440 1054 2447 1058 2428 1056 2393 919 2381 917 2381 863 2391 857 2391 855 2391 845 2381 845 2379 843 2379 841 2379 839 2379 676 2389 654 2389 652 2389 639 2377 637 2377 635 2377 633 2377 631 2377 629 2377 613 2387 493 2377 491 2377 434 2387 424 2387 422 2387 409 2375 407 2375 405 2375 403 2375 212 2383 212 2420"/></Shape>
-	    <String CONTENT="tute loquimut:quare in eis huiusmodi uirtu" HPOS="210" VPOS="2375" WIDTH="848" HEIGHT="72" WC="0.9825027755328587"/>
+	    <String CONTENT="tute loquimur:quare in eis huiusmodi uirtu" HPOS="210" VPOS="2375" WIDTH="848" HEIGHT="72" WC="0.9825027755328587"/>
           </TextLine>
 
           
@@ -447,7 +447,7 @@
           
           <TextLine ID="eSc_line_7ea88d8d" TAGREFS="LT6454" BASELINE="1122 1253 1978 1249" HPOS="1120" VPOS="1206" WIDTH="858" HEIGHT="68">
             <Shape><Polygon POINTS="1122 1253 1122 1274 1976 1270 1978 1249 1974 1214 1145 1206 1144 1206 1142 1206 1120 1214 1122 1253"/></Shape>
-	    <String CONTENT="diunt rationi quia secundum regulatn ratio" HPOS="1120" VPOS="1206" WIDTH="858" HEIGHT="68" WC="0.985406405703966"/>
+	    <String CONTENT="diunt rationi quia secundum regulam ratio" HPOS="1120" VPOS="1206" WIDTH="858" HEIGHT="68" WC="0.985406405703966"/>
           </TextLine>
 
           
