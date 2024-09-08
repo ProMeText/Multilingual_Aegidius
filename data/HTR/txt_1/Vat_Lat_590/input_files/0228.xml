@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>0228.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15570" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15571" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15572" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15573" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15574" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15576" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15577" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15578" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15579" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15580" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15581" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15582" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15583" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT6563" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6564" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6565" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6566" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6567" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT6568" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1677"
+          HEIGHT="2500"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1677"
+                  HEIGHT="2500">
+        
+        <TextBlock HPOS="628"
+                   VPOS="300"
+                   WIDTH="821"
+                   HEIGHT="1537"
+                   ID="eSc_textblock_8ebfa5f9"
+                   TAGREFS="BT15574">
+          <Shape><Polygon POINTS="1117 300 1421 327 1449 1177 1421 1793 1399 1837 1310 1820 678 1815 633 1798 628 1765 628 972 700 943 711 872 704 848 639 837 628 815 633 333 655 311 1117 300"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2640207f"
+                    TAGREFS="LT6568"
+                    BASELINE="650 348 1411 355" 
+                    HPOS="648"
+                    VPOS="322"
+                    WIDTH="763"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1400 337 1386 337 1372 337 1358 337 1344 336 1331 336 1317 336 1303 336 1289 334 1275 334 1261 334 1247 334 1233 334 1219 333 1205 333 1192 333 1178 333 1164 331 1150 331 1136 331 1122 331 1108 331 1094 330 1080 330 1067 330 1053 330 1039 329 1025 329 1011 329 997 329 983 329 969 327 955 327 942 327 928 327 914 326 900 326 886 326 872 326 858 326 844 325 830 325 816 325 803 325 789 323 775 323 761 323 747 323 733 323 719 322 709 322 659 323 650 333 650 348 648 363 801 372 803 372 919 366 944 365 947 366 965 373 967 373 968 373 1158 368 1175 375 1176 375 1178 375 1179 375 1204 368 1207 368 1335 376 1336 376 1410 368 1411 355 1410 337 1400 337"/></Shape>
+	    <String CONTENT="secundum q̃: prosequamur bona sensibilia &amp; delectabilia &amp; ag"
+                    HPOS="648"
+                    VPOS="322"
+                    WIDTH="763"
+                    HEIGHT="54"
+                    WC="0.9760536973675092"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51c9b5e2"
+                    TAGREFS="LT6568"
+                    BASELINE="654 394 1406 394" 
+                    HPOS="654"
+                    VPOS="363"
+                    WIDTH="752"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="654 394 654 413 1406 408 1406 394 1406 372 1315 363 1314 363 1312 363 1311 363 1301 370 1297 370 1253 363 1251 363 1221 369 1212 372 1164 372 1162 369 1157 365 1157 363 1155 363 1154 363 1153 363 1151 363 1140 369 1136 370 1118 369 1076 363 1075 363 1074 363 1057 368 1046 370 654 365 654 394"/></Shape>
+	    <String CONTENT="gredimur teribilia. Quare si omnis uirtus moralis uel est intel¬"
+                    HPOS="654"
+                    VPOS="363"
+                    WIDTH="752"
+                    HEIGHT="50"
+                    WC="0.9814393306151032"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9592e439"
+                    TAGREFS="LT6568"
+                    BASELINE="651 429 1410 425" 
+                    HPOS="650"
+                    VPOS="398"
+                    WIDTH="760"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="651 429 651 445 1408 440 1410 425 1407 405 1174 398 1172 398 1132 405 1130 405 1121 405 928 400 926 400 650 406 651 429"/></Shape>
+	    <String CONTENT="lectum uel in apetitu &amp; appetitus alius intellectuus ut uolun¬"
+                    HPOS="650"
+                    VPOS="398"
+                    WIDTH="760"
+                    HEIGHT="47"
+                    WC="0.9881175025816886"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bdcd31d8"
+                    TAGREFS="LT6568"
+                    BASELINE="651 459 1419 463" 
+                    HPOS="650"
+                    VPOS="431"
+                    WIDTH="769"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="651 459 650 475 976 483 978 483 1147 477 1165 484 1167 484 1168 484 1418 476 1419 463 1419 443 1389 434 1388 434 1386 434 1279 441 1258 441 1240 440 1162 433 1161 433 1160 433 1139 438 1135 440 1121 438 1064 433 1062 433 1040 438 1030 440 1021 437 1004 433 1003 433 1001 433 1000 433 990 437 983 440 955 437 907 431 905 431 904 431 903 431 897 436 896 438 891 436 880 431 879 431 878 431 876 431 861 436 851 438 833 436 808 431 807 431 773 434 739 438 651 434 651 459"/></Shape>
+	    <String CONTENT="tas alius sensitiuus &amp; hic duplex silic&amp; irascibilis &amp; conspicabili¬"
+                    HPOS="650"
+                    VPOS="431"
+                    WIDTH="769"
+                    HEIGHT="53"
+                    WC="0.9786939445663901"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9a5973a"
+                    TAGREFS="LT6568"
+                    BASELINE="653 498 1415 505" 
+                    HPOS="651"
+                    VPOS="473"
+                    WIDTH="764"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="653 498 651 513 1413 518 1415 505 1414 479 653 473 653 498"/></Shape>
+	    <String CONTENT="bus oport&amp; enim uirtutem moralem uel ẽẽ intellectum uel"
+                    HPOS="651"
+                    VPOS="473"
+                    WIDTH="764"
+                    HEIGHT="45"
+                    WC="0.958323367855005"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb95db53"
+                    TAGREFS="LT6568"
+                    BASELINE="653 533 1407 541" 
+                    HPOS="651"
+                    VPOS="506"
+                    WIDTH="756"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="653 533 651 548 1404 555 1407 541 1406 518 1374 511 1372 511 1308 516 1289 518 1287 516 1283 511 1282 511 1282 509 1281 509 1279 509 1278 509 1096 513 1050 515 1047 513 1030 506 1029 506 1028 506 1026 506 1008 513 1007 513 1005 513 980 506 979 506 978 506 919 512 905 513 890 512 841 506 840 506 653 509 653 533"/></Shape>
+	    <String CONTENT="in uoluntate uelinirascibili uel in concupiscibili. Accipiendo"
+                    HPOS="651"
+                    VPOS="506"
+                    WIDTH="756"
+                    HEIGHT="49"
+                    WC="0.9475429211893389"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2bbf80a9"
+                    TAGREFS="LT6568"
+                    BASELINE="651 573 1406 579" 
+                    HPOS="650"
+                    VPOS="544"
+                    WIDTH="756"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="651 573 650 591 653 594 654 594 654 595 655 595 657 595 658 595 857 588 915 597 917 597 978 588 1028 598 1029 600 1117 600 1117 598 1118 598 1135 590 1147 598 1149 598 1150 598 1151 598 1215 593 1261 600 1262 600 1264 600 1278 593 1287 600 1289 600 1290 600 1292 600 1293 600 1294 600 1304 591 1404 591 1406 579 1404 558 1364 558 1364 556 1356 550 1356 548 1354 548 1353 548 1351 548 1350 548 1335 556 1333 556 1325 556 1251 548 1250 548 1249 548 1225 555 1217 556 1044 555 1040 552 1030 545 1029 545 1028 545 915 545 914 545 912 545 900 550 889 554 866 550 839 544 837 544 836 544 826 548 819 552 651 547 651 573"/></Shape>
+	    <String CONTENT="igitur uirtutem moralem large prout ipa prudentia dici¬"
+                    HPOS="650"
+                    VPOS="544"
+                    WIDTH="756"
+                    HEIGHT="56"
+                    WC="0.9889769749207931"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41da26b4"
+                    TAGREFS="LT6568"
+                    BASELINE="650 611 1404 616" 
+                    HPOS="648"
+                    VPOS="580"
+                    WIDTH="756"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="650 611 648 623 709 633 711 633 810 626 903 634 904 634 1204 630 1212 637 1214 637 1215 637 1217 637 1403 629 1404 616 1401 587 1343 593 1333 587 1331 584 1329 584 1328 584 1276 584 1275 584 1274 584 1272 584 1269 587 1265 591 1260 587 1257 584 1256 584 1254 584 1253 584 1251 584 1243 587 1222 593 1217 587 1214 584 1212 584 1211 584 1210 584 1189 587 1155 591 1139 587 1125 583 1124 583 1122 583 1121 583 1119 583 1119 584 1115 587 1111 593 1029 593 1023 587 1017 581 1015 581 1014 581 1012 581 947 587 914 590 907 587 891 581 890 581 889 581 823 587 808 588 805 587 790 580 789 580 704 580 703 580 701 580 700 580 690 587 689 588 650 588 650 611"/></Shape>
+	    <String CONTENT="tur quedam uirtus moralis dicere possumus quod secundũ"
+                    HPOS="648"
+                    VPOS="580"
+                    WIDTH="756"
+                    HEIGHT="57"
+                    WC="0.9886442520401695"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5690d11f"
+                    TAGREFS="LT6568"
+                    BASELINE="646 650 1417 654" 
+                    HPOS="644"
+                    VPOS="618"
+                    WIDTH="773"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="646 650 644 665 1103 665 1112 665 1189 672 1190 672 1415 665 1417 654 1417 631 1382 622 1381 622 1379 622 1262 629 1219 630 1212 627 1200 622 1199 622 1197 622 1196 622 1180 627 1169 630 1164 626 1157 622 1155 622 1154 622 1153 622 1151 622 1136 626 1125 629 1111 626 1093 620 1092 620 1090 620 1089 620 1087 620 1082 625 1075 630 971 630 883 622 853 619 851 619 825 620 716 627 704 619 703 619 701 619 646 618 646 650"/></Shape>
+	    <String CONTENT="has quatuor potentias anime in quibus hab&amp; ẽẽ uirtus sum¬"
+                    HPOS="644"
+                    VPOS="618"
+                    WIDTH="773"
+                    HEIGHT="54"
+                    WC="0.9948749016907256"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ce0bad0"
+                    TAGREFS="LT6568"
+                    BASELINE="648 686 1407 690" 
+                    HPOS="647"
+                    VPOS="655"
+                    WIDTH="760"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="648 686 647 705 1404 706 1407 690 1406 668 1315 659 1314 659 1246 665 1215 666 1193 663 1154 658 1153 658 1042 661 905 665 780 656 769 656 768 656 766 656 765 656 765 658 758 665 703 665 648 655 648 686"/></Shape>
+	    <String CONTENT="pte sunt quatuor uirtutes cardinales uidelic&amp; prudentia."
+                    HPOS="647"
+                    VPOS="655"
+                    WIDTH="760"
+                    HEIGHT="51"
+                    WC="0.99619067886046"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_23371b04"
+                    TAGREFS="LT6568"
+                    BASELINE="653 726 1414 726" 
+                    HPOS="653"
+                    VPOS="695"
+                    WIDTH="761"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="653 726 653 741 1414 741 1414 726 1414 705 1326 695 1325 695 1324 695 1306 705 1235 705 1212 695 1211 695 1210 695 1208 695 1207 695 1197 705 1140 705 1132 697 1132 695 1130 695 1129 695 1128 695 1074 704 1064 697 1062 697 1061 697 939 695 937 695 893 704 864 695 862 695 861 695 860 695 828 705 785 705 778 698 778 697 776 697 775 697 773 697 772 697 743 704 673 695 672 695 671 695 653 704 653 726"/></Shape>
+	    <String CONTENT="iustitia. fortitudo. temperantia. Nam prudentia est in in¬"
+                    HPOS="653"
+                    VPOS="695"
+                    WIDTH="761"
+                    HEIGHT="46"
+                    WC="0.9770039638568615"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7715e5f7"
+                    TAGREFS="LT6568"
+                    BASELINE="651 761 1408 761" 
+                    HPOS="651"
+                    VPOS="733"
+                    WIDTH="757"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="651 761 651 777 1408 776 1408 761 1407 733 985 740 979 737 971 733 969 733 968 733 967 733 965 733 965 734 961 737 958 741 907 741 900 738 880 733 879 733 878 733 876 733 860 738 854 740 847 738 812 733 811 733 757 740 754 740 743 733 741 733 740 733 666 733 665 733 664 733 651 738 651 761"/></Shape>
+	    <String CONTENT="tellectu. iustitia. in uolumptate fortitudo in irascibili tẽ¬"
+                    HPOS="651"
+                    VPOS="733"
+                    WIDTH="757"
+                    HEIGHT="44"
+                    WC="0.9839657420112241"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ad77801"
+                    TAGREFS="LT6568"
+                    BASELINE="650 794 995 796" 
+                    HPOS="646"
+                    VPOS="762"
+                    WIDTH="348"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="982 762 648 762 648 793 646 814 992 814 994 795 992 791 982 762"/></Shape>
+	    <String CONTENT="perantia in concupi scibili"
+                    HPOS="646"
+                    VPOS="762"
+                    WIDTH="348"
+                    HEIGHT="52"
+                    WC="0.971596912101463"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="650"
+                   VPOS="850"
+                   WIDTH="48"
+                   HEIGHT="104"
+                   ID="eSc_textblock_8d12ae9b"
+                   TAGREFS="BT15573">
+          <Shape><Polygon POINTS="678 850 698 866 698 920 666 954 650 900 678 850"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_50092bb3"
+                    TAGREFS="LT6568"
+                    BASELINE="669 908 689 908" 
+                    HPOS="669"
+                    VPOS="840"
+                    WIDTH="20"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="669 908 669 926 689 923 689 908 689 843 669 840 669 908"/></Shape>
+	    <String CONTENT=""
+                    HPOS="669"
+                    VPOS="840"
+                    WIDTH="20"
+                    HEIGHT="86"
+                    WC="0.6875672340393066"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
