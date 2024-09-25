@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="troyes_898" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -619,212 +618,330 @@
     <body>
       <div n="1" type="livre">
         <div n="1.2" type="partie">
-          <head><lb break="yes" facs="#facs_eSc_line_eecf0ce7"
-            xml:id="elem_eSc_line_eecf0ce7"/>Ci cõmence. la seconde partie dou<lb break="yes"
-              facs="#facs_eSc_line_297cc53f" xml:id="elem_eSc_line_297cc53f"/>premier liure del
-          gouuernem̃t<lb break="yes" facs="#facs_eSc_line_b23832f7" xml:id="elem_eSc_line_b23832f7"
-          />des rois et des princes.</head>
+          <head>
+            <lb break="yes"
+              facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_eecf0ce7"
+              xml:id="elem_eSc_line_eecf0ce7"/>Ci commence. la seconde partie dou<lb break="yes"
+              facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_297cc53f"
+              xml:id="elem_eSc_line_297cc53f"/>premier liure del gouuernement<lb break="yes"
+              facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_b23832f7"
+              xml:id="elem_eSc_line_b23832f7"/>des rois et des princes.</head>
           <div n="1" type="chapitre">
             <p>
-            <pb n="" facs="../input_files/troyes898-pages.pdf_page_1.png"/>Li pre<lb break="no" facs="#facs_eSc_line_d9c709ef"
-          xml:id="elem_eSc_line_d9c709ef"/>miers chapitres ensengne qnͣ<lb break="no"
-          facs="#facs_eSc_line_61b3a7a1" xml:id="elem_eSc_line_61b3a7a1"/>tes poissances lame a<lb
-          break="?" facs="#facs_eSc_line_2032e96c" xml:id="elem_eSc_line_2032e96c"/>ame a .iiii.
-        manieres de pois<lb break="no" facs="#facs_eSc_line_57bb271c"
-          xml:id="elem_eSc_line_57bb271c"/>sances. et les unes des ma<lb break="no"
-          facs="#facs_eSc_line_1e1b3721" xml:id="elem_eSc_line_1e1b3721"/>nieres sont natureus si
-        cõme la<lb break="yes" facs="#facs_eSc_line_2262c522" xml:id="elem_eSc_line_2262c522"/>uertus
-        qui nourist et la uertus<lb break="yes" facs="#facs_eSc_line_89073614"
-          xml:id="elem_eSc_line_89073614"/>qui acroist. et la uertus qui ensẽg<lb break="no"
-          facs="#facs_eSc_line_ae6066d2" xml:id="elem_eSc_line_ae6066d2"/>ne. et la uertus
-        cõnissans. si cõme<lb break="yes" facs="#facs_eSc_line_26d3b40a"
-          xml:id="elem_eSc_line_26d3b40a"/>la ueue. le goust latouchement.<lb break="yes"
-          facs="#facs_eSc_line_50b7e056" xml:id="elem_eSc_line_50b7e056"/>et les autres sens del
-          hõme.<lb break="yes" facs="#facs_eSc_line_23c8caa7" xml:id="elem_eSc_line_23c8caa7"/>Lautre
-        poissanche de lame est li<lb break="yes" facs="#facs_eSc_line_4528abb3"
-          xml:id="elem_eSc_line_4528abb3"/>entendemẽs. ¶La tierche poissã<lb break="no"
-          facs="#facs_eSc_line_4a58e8c2" xml:id="elem_eSc_line_4a58e8c2"/>che de lame est desirs
-          dentendem̃t<lb break="yes" facs="#facs_eSc_line_574b8c89" xml:id="elem_eSc_line_574b8c89"
-        />que on nomme uolente. ¶La qͣr<lb break="no" facs="#facs_eSc_line_84fcf464"
-          xml:id="elem_eSc_line_84fcf464"/>te est desirs des .u. sens. de Iõme. et<lb break="yes"
-          facs="#facs_eSc_line_3f92305a" xml:id="elem_eSc_line_3f92305a"/>sachies que les uertus de
-          boines<lb break="yes" facs="#facs_eSc_line_f14fb6c1" xml:id="elem_eSc_line_f14fb6c1"
-        />oeuures que nous aquerons par<cb break="?"/><lb break="yes" facs="#facs_eSc_line_abee77fa"
-          xml:id="elem_eSc_line_abee77fa"/>acoustumance de bien faire ne<lb break="yes"
-          facs="#facs_eSc_line_de0a1f8c" xml:id="elem_eSc_line_de0a1f8c"/>sont pas es poissances de
-          lame<lb break="yes" facs="#facs_eSc_line_f918a559" xml:id="elem_eSc_line_f918a559"/>naturel
-        ne es .u. sens de lõme Car<lb break="yes" facs="#facs_eSc_line_0bab9380"
-          xml:id="elem_eSc_line_0bab9380"/>pour les uertus de boines oeures<lb break="yes"
-          facs="#facs_eSc_line_ab8d0661" xml:id="elem_eSc_line_ab8d0661"/>doit on loer lõme qnͣt il
-        les a. et<lb break="yes" facs="#facs_eSc_line_6af245a5" xml:id="elem_eSc_line_6af245a5"
-        />blasmer qnͣt il a le cõtraire. Et<lb break="yes" facs="#facs_eSc_line_ec6c2059"
-          xml:id="elem_eSc_line_ec6c2059"/>sachies que pour bien nourir.<lb break="yes"
-          facs="#facs_eSc_line_b84e0a3c" xml:id="elem_eSc_line_b84e0a3c"/>ne pour bien sentir ne
-        pour biẽ<lb break="yes" facs="#facs_eSc_line_0b01b380" xml:id="elem_eSc_line_0b01b380"
-        />ueoir. ne doit mie iestre loes ne bla<lb break="no" facs="#facs_eSc_line_a09eed37"
-          xml:id="elem_eSc_line_a09eed37"/>mes. Sil nest ensi que par trop<lb break="yes"
-          facs="#facs_eSc_line_591121d6" xml:id="elem_eSc_line_591121d6"/>boiure ou par trop mengier
-          ait<lb break="yes" facs="#facs_eSc_line_16ca5e7e" xml:id="elem_eSc_line_16ca5e7e"/>aqius
-        maladie par quoi aucu<lb break="no" facs="#facs_eSc_line_4a87869d"
-          xml:id="elem_eSc_line_4a87869d"/>ne des uertus soit empechie.<lb break="yes"
-          facs="#facs_eSc_line_9cf88dd5" xml:id="elem_eSc_line_9cf88dd5"/>Mais les uertus de boines
-          oeures<lb break="yes" facs="#facs_eSc_line_380e3cb6" xml:id="elem_eSc_line_380e3cb6"/>sont
-        closes selont raison. et doi<lb break="no" facs="#facs_eSc_line_2dc2f28e"
-          xml:id="elem_eSc_line_2dc2f28e"/>uent iestre es poissances de lame<lb break="yes"
-          facs="#facs_eSc_line_32bd1ba3" xml:id="elem_eSc_line_32bd1ba3"/>qui obeissent a raison.
-        ¶Les poi<lb break="no" facs="#facs_eSc_line_eec3191e" xml:id="elem_eSc_line_eec3191e"
-        />ssances natureles ne li .u. sens<lb break="yes" facs="#facs_eSc_line_b32f7caf"
-          xml:id="elem_eSc_line_b32f7caf"/>de lõme nobeissent pas a raison.<lb break="yes"
-          facs="#facs_eSc_line_9d75e600" xml:id="elem_eSc_line_9d75e600"/>Car cler ueoir ne bien
-        iestre acre<lb break="no" facs="#facs_eSc_line_a4c8c651" xml:id="elem_eSc_line_a4c8c651"/>u
-        nest pas en la poissanche de lõ<lb break="no" facs="#facs_eSc_line_db8ebcef"
-          xml:id="elem_eSc_line_db8ebcef"/>me. Car se uns hom auoit mengie<lb break="yes"
-          facs="#facs_eSc_line_0e358f94" xml:id="elem_eSc_line_0e358f94"/>et ne uosist pas iestre
-        acreus ne<lb break="yes" facs="#facs_eSc_line_85ebbd97" xml:id="elem_eSc_line_85ebbd97"
-        />nouris si le nouriroient et acroi<lb break="no" facs="#facs_eSc_line_4aa51767"
-          xml:id="elem_eSc_line_4aa51767"/>stroient les uertus qui en lui st̾.<lb break="yes"
-          facs="#facs_eSc_line_b5dd9dd4" xml:id="elem_eSc_line_b5dd9dd4"/>et pour ce ne doit on pas
-          metre<lb break="yes" facs="#facs_eSc_line_74ceea04" xml:id="elem_eSc_line_74ceea04"/>en ces
-        poissances les uertus de<lb break="yes" facs="#facs_eSc_line_a2e0f32a"
-          xml:id="elem_eSc_line_a2e0f32a"/>boines oeuures et les poissan<lb break="no"
-          facs="#facs_eSc_line_da6395a4" xml:id="elem_eSc_line_da6395a4"/>ces natureles. Et li .u.
-        sens de lom<lb break="no" facs="#facs_eSc_line_fe252bc7" xml:id="elem_eSc_line_fe252bc7"/>me
-        sont encline souffissaumẽt<lb break="yes" facs="#facs_eSc_line_4db06f1a"
-          xml:id="elem_eSc_line_4db06f1a"/>par nature a faire leur oeuures.<lb break="yes"
-          facs="#facs_eSc_line_04df72df" xml:id="elem_eSc_line_04df72df"/>Ne par elles nous ne
-        sommes bõ<lb break="no" facs="#facs_eSc_line_f45ad28c" xml:id="elem_eSc_line_f45ad28c"/>ne
-        mauuais. Mais les uertus<pb n="" facs="../input_files/troyes898-pages.pdf_page_6.png"
-          /><lb break="yes" facs="#facs_eSc_line_1d18762c" xml:id="elem_eSc_line_1d18762c"/>des boines
-        oeuures enclinent les<lb break="yes" facs="#facs_eSc_line_bdc7e982"
-          xml:id="elem_eSc_line_bdc7e982"/>poissanches de lame ou elles sõt<lb break="yes"
-          facs="#facs_eSc_line_40bf757c" xml:id="elem_eSc_line_40bf757c"/>a bien faire. pour ce di
-        ie que les<lb break="yes" facs="#facs_eSc_line_d91bbf40" xml:id="elem_eSc_line_d91bbf40"
-        />uertus de boines oeuures ne st̾<lb break="yes" facs="#facs_eSc_line_c569f80e"
-          xml:id="elem_eSc_line_c569f80e"/>pas es poissances de lame natu<lb break="no"
-          facs="#facs_eSc_line_82ee4ce6" xml:id="elem_eSc_line_82ee4ce6"/>rel. ne es .x. sens del
-        hõme. qui par<lb break="yes" facs="#facs_eSc_line_b6b174ba" xml:id="elem_eSc_line_b6b174ba"
-        />lor nature sont encline souffis<lb break="no" facs="#facs_eSc_line_675eb4c4"
-          xml:id="elem_eSc_line_675eb4c4"/>saument a faire lor oeuures.</p>
-            </div>
+              <pb n="" facs="../input_files/troyes898-pages.pdf_page_1.png"/>Li pre<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_d9c709ef"
+                xml:id="elem_eSc_line_d9c709ef"/>miers chapitres ensengne qnͣ<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_61b3a7a1"
+                xml:id="elem_eSc_line_61b3a7a1"/>tes poissances lame a<lb break="?"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_2032e96c"
+                xml:id="elem_eSc_line_2032e96c"/>ame a .iiii. manieres de pois<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_57bb271c"
+                xml:id="elem_eSc_line_57bb271c"/>sances. et les unes des ma<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_1e1b3721"
+                xml:id="elem_eSc_line_1e1b3721"/>nieres sont natureus si comme la<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_2262c522"
+                xml:id="elem_eSc_line_2262c522"/>uertus qui nourist et la uertus<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_89073614"
+                xml:id="elem_eSc_line_89073614"/>qui acroist. et la uertus qui enseng<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_ae6066d2"
+                xml:id="elem_eSc_line_ae6066d2"/>ne. et la uertus connissans. si comme<lb
+                break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_26d3b40a"
+                xml:id="elem_eSc_line_26d3b40a"/>la ueue. Ie goust latouchement.<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_50b7e056"
+                xml:id="elem_eSc_line_50b7e056"/>et les autres sens del homme.<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_23c8caa7"
+                xml:id="elem_eSc_line_23c8caa7"/>Lautre poissanche de lame est li<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_4528abb3"
+                xml:id="elem_eSc_line_4528abb3"/>entendemens. ¶La tierche poissan<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_4a58e8c2"
+                xml:id="elem_eSc_line_4a58e8c2"/>che de lame est desirs dentendement<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_574b8c89"
+                xml:id="elem_eSc_line_574b8c89"/>que on nomme uolente. ¶La qͣr<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_84fcf464"
+                xml:id="elem_eSc_line_84fcf464"/>te est desirs des .u. sens. de Iomme. et<lb
+                break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_3f92305a"
+                xml:id="elem_eSc_line_3f92305a"/>sachies que les uertus de boines<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_f14fb6c1"
+                xml:id="elem_eSc_line_f14fb6c1"/>oeuures que nous aquerons par<cb break="?"/>
+              <lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_abee77fa"
+                xml:id="elem_eSc_line_abee77fa"/>acoustumance de bien faire ne<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_de0a1f8c"
+                xml:id="elem_eSc_line_de0a1f8c"/>sont pas es poissances de lame<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_f918a559"
+                xml:id="elem_eSc_line_f918a559"/>naturel ne es .u. sens de lomme Car<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_0bab9380"
+                xml:id="elem_eSc_line_0bab9380"/>pour les uertus de boines oeures<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_ab8d0661"
+                xml:id="elem_eSc_line_ab8d0661"/>doit on loer lomme quant il les a. et<lb
+                break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_6af245a5"
+                xml:id="elem_eSc_line_6af245a5"/>blasmer quant il a le contraire. Et<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_ec6c2059"
+                xml:id="elem_eSc_line_ec6c2059"/>sachies que pour bien nourir.<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_b84e0a3c"
+                xml:id="elem_eSc_line_b84e0a3c"/>ne pour bien sentir ne pour bien<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_0b01b380"
+                xml:id="elem_eSc_line_0b01b380"/>ueoir. ne doit mie iestre loes ne bla<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_a09eed37"
+                xml:id="elem_eSc_line_a09eed37"/>mes. Sil nest ensi que par trop<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_591121d6"
+                xml:id="elem_eSc_line_591121d6"/>boiure ou par trop mengier ait<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_16ca5e7e"
+                xml:id="elem_eSc_line_16ca5e7e"/>aqius maladie par quoi aucu<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_4a87869d"
+                xml:id="elem_eSc_line_4a87869d"/>ne des uertus soit empechie.<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_9cf88dd5"
+                xml:id="elem_eSc_line_9cf88dd5"/>Mais les uertus de boines oeures<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_380e3cb6"
+                xml:id="elem_eSc_line_380e3cb6"/>sont closes selont raison. et doi<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_2dc2f28e"
+                xml:id="elem_eSc_line_2dc2f28e"/>uent iestre es poissances de lame<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_32bd1ba3"
+                xml:id="elem_eSc_line_32bd1ba3"/>qui obeissent a raison. ¶Les poi<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_eec3191e"
+                xml:id="elem_eSc_line_eec3191e"/>ssances natureles ne li .u. sens<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_b32f7caf"
+                xml:id="elem_eSc_line_b32f7caf"/>de lomme nobeissent pas a raison.<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_9d75e600"
+                xml:id="elem_eSc_line_9d75e600"/>Car cler ueoir ne bien iestre acre<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_a4c8c651"
+                xml:id="elem_eSc_line_a4c8c651"/>u nest pas en la poissanche de lon<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_db8ebcef"
+                xml:id="elem_eSc_line_db8ebcef"/>me. Car se uns hom auoit mengie<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_0e358f94"
+                xml:id="elem_eSc_line_0e358f94"/>et ne uosist pas iestre acreus ne<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_85ebbd97"
+                xml:id="elem_eSc_line_85ebbd97"/>nouris si le nouriroient et acroi<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_4aa51767"
+                xml:id="elem_eSc_line_4aa51767"/>stroient les uertus qui en lui ster.<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_b5dd9dd4"
+                xml:id="elem_eSc_line_b5dd9dd4"/>et pour ce ne doit on pas metre<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_74ceea04"
+                xml:id="elem_eSc_line_74ceea04"/>en ces poissances les uertus de<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_a2e0f32a"
+                xml:id="elem_eSc_line_a2e0f32a"/>boines oeuures et les poissan<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_da6395a4"
+                xml:id="elem_eSc_line_da6395a4"/>ces natureles. Et li .u. sens de lom<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_fe252bc7"
+                xml:id="elem_eSc_line_fe252bc7"/>me sont encline souffissaument<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_4db06f1a"
+                xml:id="elem_eSc_line_4db06f1a"/>par nature a faire leur oeuures.<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_04df72df"
+                xml:id="elem_eSc_line_04df72df"/>Ne par elles nous ne sommes bon<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_f45ad28c"
+                xml:id="elem_eSc_line_f45ad28c"/>ne mauuais. Mais les uertus<pb n=""
+                facs="../input_files/troyes898-pages.pdf_page_6.png"/>
+              <lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_1d18762c"
+                xml:id="elem_eSc_line_1d18762c"/>des boines oeuures enclinent les<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_bdc7e982"
+                xml:id="elem_eSc_line_bdc7e982"/>poissanches de lame ou elles sont<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_40bf757c"
+                xml:id="elem_eSc_line_40bf757c"/>a bien faire. pour ce di ie que les<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_d91bbf40"
+                xml:id="elem_eSc_line_d91bbf40"/>uertus de boines oeuures ne ster<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_c569f80e"
+                xml:id="elem_eSc_line_c569f80e"/>pas es poissances de lame natu<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_82ee4ce6"
+                xml:id="elem_eSc_line_82ee4ce6"/>rel. ne es .x. sens del homme. qui par<lb
+                break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_b6b174ba"
+                xml:id="elem_eSc_line_b6b174ba"/>lor nature sont encline souffis<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_675eb4c4"
+                xml:id="elem_eSc_line_675eb4c4"/>saument a faire lor oeuures.</p>
+          </div>
           <div type="chapitre" n="2">
             <p>
-            <lb break="yes"
-          facs="#facs_eSc_line_dd96df10" xml:id="elem_eSc_line_dd96df10"/>Li secons chapitles
-          ensengne<lb break="yes" facs="#facs_eSc_line_33ff753e" xml:id="elem_eSc_line_33ff753e"
-        />cõment les uertus des boines<lb break="yes" facs="#facs_eSc_line_d41f23b6"
-          xml:id="elem_eSc_line_d41f23b6"/>oeuures sont deuisees
-              <lb break="yes" rend="lettrine" facs="none"/>N<lb break="no"
-          facs="#facs_eSc_line_82ee89cd" xml:id="elem_eSc_line_82ee89cd"/>ous uous auons dit
-          queles<lb break="yes" facs="#facs_eSc_line_0d37c595" xml:id="elem_eSc_line_0d37c595"/>uertus
-        de boines oeuures<lb break="yes" facs="#facs_eSc_line_1009c368"
-          xml:id="elem_eSc_line_1009c368"/>ne sont pas es poissances de lame<lb break="yes"
-          facs="#facs_eSc_line_927e724b" xml:id="elem_eSc_line_927e724b"/>naturel ne es .u. sens de
-          lõme.<lb break="yes" facs="#facs_eSc_line_c70486d5" xml:id="elem_eSc_line_c70486d5"/>Encore
-        uous disons noꝰ quil sõt<lb break="yes" facs="#facs_eSc_line_b0f91513"
-          xml:id="elem_eSc_line_b0f91513"/>ii. manieres de uertus. Les unes<lb break="yes"
-          facs="#facs_eSc_line_06eb0567" xml:id="elem_eSc_line_06eb0567"/>manieres tendent
-          principaum̃t<lb break="yes" facs="#facs_eSc_line_a6802adb" xml:id="elem_eSc_line_a6802adb"
-        />a cõnissanche de uerite Si cõme<lb break="yes" facs="#facs_eSc_line_4d290e56"
-          xml:id="elem_eSc_line_4d290e56"/>a la scienche de natures et destro<lb break="no"
-          facs="#facs_eSc_line_3567acec" xml:id="elem_eSc_line_3567acec"/>nomie et des autres
-          scienches.<lb break="yes" facs="#facs_eSc_line_6b5be22e" xml:id="elem_eSc_line_6b5be22e"
-        />Les autres manieres de uertu<lb break="yes" facs="#facs_eSc_line_3461400d"
-          xml:id="elem_eSc_line_3461400d"/>sont celles par quoi on fait boine ᷤ<lb break="yes"
-          facs="#facs_eSc_line_a130e565" xml:id="elem_eSc_line_a130e565"/>oeuures et les aquiert on
-          par<lb break="yes" facs="#facs_eSc_line_300d57e3" xml:id="elem_eSc_line_300d57e3"
-        />acoustumance de bien faire et<lb break="yes" facs="#facs_eSc_line_ba168f97"
-          xml:id="elem_eSc_line_ba168f97"/>sont el desir de lõme. si ꝯme iu<lb break="no"
-          facs="#facs_eSc_line_a3ebfa0e" xml:id="elem_eSc_line_a3ebfa0e"/>stice atemprance forche de
-          boin<lb break="no" facs="#facs_eSc_line_42ab6206" xml:id="elem_eSc_line_42ab6206"
-        />nairetes et les et les autres de<lb break="yes" facs="#facs_eSc_line_f656b26c"
-          xml:id="elem_eSc_line_f656b26c"/>quoi nous dirons cha auant.<lb break="yes"
-          facs="#facs_eSc_line_c65679e4" xml:id="elem_eSc_line_c65679e4"/>Or uous dirons des uertus
-          par<lb break="yes" facs="#facs_eSc_line_d785ec91" xml:id="elem_eSc_line_d785ec91"/>quoi on
-        fait boines oeuures. Li<lb break="yes" facs="#facs_eSc_line_b543deba"
-          xml:id="elem_eSc_line_b543deba"/>desirs de lomme qui est boins o<lb break="no"
-          facs="#facs_eSc_line_c0cf5f58" xml:id="elem_eSc_line_c0cf5f58"/>beist a raison et les
-        uertus de boĩ-<cb break="?"/><lb break="yes" facs="#facs_eSc_line_3780be64"
-          xml:id="elem_eSc_line_3780be64"/>nes choses sont oeuures selonc rai<lb break="no"
-          facs="#facs_eSc_line_83ea6439" xml:id="elem_eSc_line_83ea6439"/>son. Elles sont en
-        lentendement et<lb break="yes" facs="#facs_eSc_line_e1476b8c" xml:id="elem_eSc_line_e1476b8c"
-        />el desir dou boin hõme. Et cil desir ᷤ<lb break="yes" facs="#facs_eSc_line_415aa809"
-          xml:id="elem_eSc_line_415aa809"/>nest autre chose que une enclinã<lb break="no"
-          facs="#facs_eSc_line_752d7eed" xml:id="elem_eSc_line_752d7eed"/>che a bien auoir. ou a mal
-          faire<lb break="yes" facs="#facs_eSc_line_279cd3c3" xml:id="elem_eSc_line_279cd3c3"/>qui
-        uient de ce que li boin cõnoist<lb break="yes" facs="#facs_eSc_line_d1d871b7"
-          xml:id="elem_eSc_line_d1d871b7"/>bien et mal. ¶ Pour ce que li hõ<lb break="no"
-          facs="#facs_eSc_line_febf52d0" xml:id="elem_eSc_line_febf52d0"/>ait cõnissances de quoi
-        lune est<lb break="yes" facs="#facs_eSc_line_db327efc" xml:id="elem_eSc_line_db327efc"
-        />cõnissance dentendement. Lautre<lb break="yes" facs="#facs_eSc_line_0304c008"
-          xml:id="elem_eSc_line_0304c008"/>est cõnissance des .u. sens. Il a en soi<lb break="yes"
-          facs="#facs_eSc_line_ae82e476" xml:id="elem_eSc_line_ae82e476"/>ii. desirs. Car qñt
-          lentendemens<lb break="yes" facs="#facs_eSc_line_11f7d02a" xml:id="elem_eSc_line_11f7d02a"
-        />cõnoist aucun bien et aucũ mal<lb break="yes" facs="#facs_eSc_line_f4693c54"
-          xml:id="elem_eSc_line_f4693c54"/>il desire a suir le bien et a fuir le<lb break="yes"
-          facs="#facs_eSc_line_c3efaf56" xml:id="elem_eSc_line_c3efaf56"/>mal. et tel desit appielon
-          uolente.<lb break="yes" facs="#facs_eSc_line_10c0a4b5" xml:id="elem_eSc_line_10c0a4b5"/>Et
-        qnͣt li boin par les .u. sens que il<lb break="yes" facs="#facs_eSc_line_c8291e0a"
-          xml:id="elem_eSc_line_c8291e0a"/>acõnoist aucun bien singulier<lb break="yes"
-          facs="#facs_eSc_line_300a2457" xml:id="elem_eSc_line_300a2457"/>ou aucun mal li hom destre
-        en en<lb break="no" facs="#facs_eSc_line_c8831580" xml:id="elem_eSc_line_c8831580"/>clinant
-        a poursuir le bien et a<lb break="yes" facs="#facs_eSc_line_ea7f21f0"
-          xml:id="elem_eSc_line_ea7f21f0"/>fuir le mal. Et cel desir claime on<lb break="yes"
-          facs="#facs_eSc_line_a91036db" xml:id="elem_eSc_line_a91036db"/>desir des .u. sens de
-        lõme. Et saci<lb break="no" facs="#facs_eSc_line_5c01a016" xml:id="elem_eSc_line_5c01a016"
-        />es que li desirs que li hom a par<lb break="yes" facs="#facs_eSc_line_00cc2c2e"
-          xml:id="elem_eSc_line_00cc2c2e"/>la cõnissance. des u. sens est deuise ͤ<lb break="yes"
-          facs="#facs_eSc_line_a3cd10a9" xml:id="elem_eSc_line_a3cd10a9"/>en .ii. desirs. Car tout
-        ainssi q̃ natu<lb break="no" facs="#facs_eSc_line_ac22b674" xml:id="elem_eSc_line_ac22b674"
-        />re dõme a en soi .ii poissances si<lb break="yes" facs="#facs_eSc_line_cbf62f17"
-          xml:id="elem_eSc_line_cbf62f17"/>cũ caleur et legierete li sens pu<lb break="no"
-          facs="#facs_eSc_line_9795aa1c" xml:id="elem_eSc_line_9795aa1c"/>et aler en sen propre liu
-          naturel<lb break="yes" facs="#facs_eSc_line_a9510bc7" xml:id="elem_eSc_line_a9510bc7"/>qui
-        est lasus uers la lune. et ꝑ<lb break="yes" facs="#facs_eSc_line_e1273af2"
-          xml:id="elem_eSc_line_e1273af2"/>la caleur que il a il puet cõtre<lb break="no"
-          facs="#facs_eSc_line_d1253845" xml:id="elem_eSc_line_d1253845"/>ster as choses qui
-        empeechent son<lb break="yes" facs="#facs_eSc_line_c09861ff" xml:id="elem_eSc_line_c09861ff"
-        />delit en sen propre liu naturel.<lb break="yes" facs="#facs_eSc_line_55cf2df9"
-          xml:id="elem_eSc_line_55cf2df9"/>Et ensi est il des autres elemens<lb break="yes"
-          facs="#facs_eSc_line_ddaadf08" xml:id="elem_eSc_line_ddaadf08"/>Tout ensi doit on entendre
-          quil<lb break="yes" facs="#facs_eSc_line_d180e24f" xml:id="elem_eSc_line_d180e24f"/>est es
-        natures des biestes. Et<fw type="titre_courant"/><lb break="yes"
-          facs="#facs_eSc_line_31f9a631" xml:id="elem_eSc_line_31f9a631"/>102<pb n=""
-          facs="../input_files/troyes898-pages.pdf_page_7.png"/><lb break="yes"
-          facs="#facs_eSc_line_bc7ff045" xml:id="elem_eSc_line_bc7ff045"/>puis que nature de bieste
-        est plus<lb break="yes" facs="#facs_eSc_line_cfee153b" xml:id="elem_eSc_line_cfee153b"/>france
-        et plus noble de natutre<lb break="yes" facs="#facs_eSc_line_c0952a29"
-          xml:id="elem_eSc_line_c0952a29"/>delemens. Et nature douna as<lb break="yes"
-          facs="#facs_eSc_line_a455a5af" xml:id="elem_eSc_line_a455a5af"/>elemens .ii. poissantes
-        drois fu<lb break="yes" facs="#facs_eSc_line_a2ecd679" xml:id="elem_eSc_line_a2ecd679"/>et
-        raisons que nature dounast<lb break="yes" facs="#facs_eSc_line_3962773f"
-          xml:id="elem_eSc_line_3962773f"/>as biestes .ii. poissances. pour ce<lb break="yes"
-          facs="#facs_eSc_line_500e5520" xml:id="elem_eSc_line_500e5520"/>que par lune li hom et les
-          autͤs<lb break="yes" facs="#facs_eSc_line_b20c4444" xml:id="elem_eSc_line_b20c4444"/>biestes
-        peuissent tendre a chose<lb break="yes" facs="#facs_eSc_line_b81cf639"
-          xml:id="elem_eSc_line_b81cf639"/>cõnignable et auoir leur propre<lb break="yes"
-          facs="#facs_eSc_line_7004379f" xml:id="elem_eSc_line_7004379f"/>delit. Celle poissance est
-          apielee<lb break="yes" facs="#facs_eSc_line_906d996f" xml:id="elem_eSc_line_906d996f"
-        />desirs de bien delitable et par ⟦au⟧<lb break="yes" facs="#facs_eSc_line_0c58c6ea"
-          xml:id="elem_eSc_line_0c58c6ea"/>lautre poissanche il puissent<lb break="yes"
-          facs="#facs_eSc_line_62f44a7b" xml:id="elem_eSc_line_62f44a7b"/>contrester as choses qui
-        lor delit<lb break="yes" facs="#facs_eSc_line_a0b4b75d" xml:id="elem_eSc_line_a0b4b75d"
-        />puissent empeechier. Et celle poi<lb break="no" facs="#facs_eSc_line_4032fccc"
-          xml:id="elem_eSc_line_4032fccc"/>ssanche est appiellee desirs de cõ<lb break="no"
-          facs="#facs_eSc_line_0a854a98" xml:id="elem_eSc_line_0a854a98"/>trester a chou qui sen
-        propre de<lb break="no" facs="#facs_eSc_line_53f6875b" xml:id="elem_eSc_line_53f6875b"/>lit
-        peuist empeechier. ¶ Dont<lb break="yes" facs="#facs_eSc_line_4c0597b3"
-          xml:id="elem_eSc_line_4c0597b3"/>on puet sauoir que des uertus<lb break="yes"
-          facs="#facs_eSc_line_19c1d5e0" xml:id="elem_eSc_line_19c1d5e0"/>de boines oeuures la
-        uertus de<lb break="yes" facs="#facs_eSc_line_7c94b13f" xml:id="elem_eSc_line_7c94b13f"
-        />sapienche est en lentendement.<lb break="yes" facs="#facs_eSc_line_81946233"
-          xml:id="elem_eSc_line_81946233"/>et la uertus de iustiche. est en la<lb break="yes"
-          facs="#facs_eSc_line_c6cacd65" xml:id="elem_eSc_line_c6cacd65"/>uolente et la uertus de
-        forche de<lb break="yes" facs="#facs_eSc_line_3642b7f3" xml:id="elem_eSc_line_3642b7f3"
-        />corage est el desir de contrester<lb break="yes" facs="#facs_eSc_line_adc5e060"
-          xml:id="elem_eSc_line_adc5e060"/>a chou qui empeeche le propre<lb break="yes"
-          facs="#facs_eSc_line_45cff52e" xml:id="elem_eSc_line_45cff52e"/>delit de lõme. la uertus
-          datem<lb break="no" rend="ind" facs="#facs_eSc_line_6d08cc17" xml:id="elem_eSc_line_6d08cc17"
-        />pranche est ou desir dauoir delit</p></div></div></div>
+              <lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_dd96df10"
+                xml:id="elem_eSc_line_dd96df10"/>Li secons chapitles ensengne<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_33ff753e"
+                xml:id="elem_eSc_line_33ff753e"/>comment les uertus des boines<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_d41f23b6"
+                xml:id="elem_eSc_line_d41f23b6"/>oeuures sont deuisees <lb break="yes"
+                rend="lettrine" facs="none"/>N<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_82ee89cd"
+                xml:id="elem_eSc_line_82ee89cd"/>ous uous auons dit queles<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_0d37c595"
+                xml:id="elem_eSc_line_0d37c595"/>uertus de boines oeuures<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_1009c368"
+                xml:id="elem_eSc_line_1009c368"/>ne sont pas es poissances de lame<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_927e724b"
+                xml:id="elem_eSc_line_927e724b"/>naturel ne es .u. sens de lomme.<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_c70486d5"
+                xml:id="elem_eSc_line_c70486d5"/>Encore uous disons nous quil sont<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_b0f91513"
+                xml:id="elem_eSc_line_b0f91513"/>ii. manieres de uertus. Les unes<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_06eb0567"
+                xml:id="elem_eSc_line_06eb0567"/>manieres tendent principaument<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_a6802adb"
+                xml:id="elem_eSc_line_a6802adb"/>a connissanche de uerite Si comme<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_4d290e56"
+                xml:id="elem_eSc_line_4d290e56"/>a la scienche de natures et destro<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_3567acec"
+                xml:id="elem_eSc_line_3567acec"/>nomie et des autres scienches.<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_6b5be22e"
+                xml:id="elem_eSc_line_6b5be22e"/>Les autres manieres de uertu<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_3461400d"
+                xml:id="elem_eSc_line_3461400d"/>sont celles par quoi on fait boine ᷤ<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_a130e565"
+                xml:id="elem_eSc_line_a130e565"/>oeuures et les aquiert on par<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_300d57e3"
+                xml:id="elem_eSc_line_300d57e3"/>acoustumance de bien faire et<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_ba168f97"
+                xml:id="elem_eSc_line_ba168f97"/>sont el desir de lomme. si comme iu<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_a3ebfa0e"
+                xml:id="elem_eSc_line_a3ebfa0e"/>stice atemprance forche de boin<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_42ab6206"
+                xml:id="elem_eSc_line_42ab6206"/>nairetes et les et les autres de<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_f656b26c"
+                xml:id="elem_eSc_line_f656b26c"/>quoi nous dirons cha auant.<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_c65679e4"
+                xml:id="elem_eSc_line_c65679e4"/>Or uous dirons des uertus par<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_d785ec91"
+                xml:id="elem_eSc_line_d785ec91"/>quoi on fait boines oeuures. Li<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_b543deba"
+                xml:id="elem_eSc_line_b543deba"/>desirs de lomme qui est boins o<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_c0cf5f58"
+                xml:id="elem_eSc_line_c0cf5f58"/>beist a raison et les uertus de boin-<cb break="?"/>
+              <lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_3780be64"
+                xml:id="elem_eSc_line_3780be64"/>nes choses sont oeuures selonc rai<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_83ea6439"
+                xml:id="elem_eSc_line_83ea6439"/>son. Elles sont en lentendement et<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_e1476b8c"
+                xml:id="elem_eSc_line_e1476b8c"/>el desir dou boin homme. Et cil desir ᷤ<lb
+                break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_415aa809"
+                xml:id="elem_eSc_line_415aa809"/>nest autre chose que une enclinan<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_752d7eed"
+                xml:id="elem_eSc_line_752d7eed"/>che a bien auoir. ou a mal faire<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_279cd3c3"
+                xml:id="elem_eSc_line_279cd3c3"/>qui uient de ce que li boin connoist<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_d1d871b7"
+                xml:id="elem_eSc_line_d1d871b7"/>bien et mal. ¶ Pour ce que li hon<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_febf52d0"
+                xml:id="elem_eSc_line_febf52d0"/>ait connissances de quoi lune est<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_db327efc"
+                xml:id="elem_eSc_line_db327efc"/>connissance dentendement. Lautre<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_0304c008"
+                xml:id="elem_eSc_line_0304c008"/>est connissance des .u. sens. Il a en soi<lb
+                break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_ae82e476"
+                xml:id="elem_eSc_line_ae82e476"/>ii. desirs. Car quant lentendemens<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_11f7d02a"
+                xml:id="elem_eSc_line_11f7d02a"/>connoist aucun bien et aucun mal<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_f4693c54"
+                xml:id="elem_eSc_line_f4693c54"/>il desire a suir le bien et a fuir le<lb
+                break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_c3efaf56"
+                xml:id="elem_eSc_line_c3efaf56"/>mal. et tel desit appielon uolente.<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_10c0a4b5"
+                xml:id="elem_eSc_line_10c0a4b5"/>Et quant li boin par les .u. sens que il<lb
+                break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_c8291e0a"
+                xml:id="elem_eSc_line_c8291e0a"/>aconnoist aucun bien singulier<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_300a2457"
+                xml:id="elem_eSc_line_300a2457"/>ou aucun mal li hom destre en en<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_c8831580"
+                xml:id="elem_eSc_line_c8831580"/>clinant a poursuir le bien et a<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_ea7f21f0"
+                xml:id="elem_eSc_line_ea7f21f0"/>fuir le mal. Et cel desir claime on<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_a91036db"
+                xml:id="elem_eSc_line_a91036db"/>desir des .u. sens de lomme. Et saci<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_5c01a016"
+                xml:id="elem_eSc_line_5c01a016"/>es que li desirs que li hom a par<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_00cc2c2e"
+                xml:id="elem_eSc_line_00cc2c2e"/>la connissance. des u. sens est deuise ͤ<lb
+                break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_a3cd10a9"
+                xml:id="elem_eSc_line_a3cd10a9"/>en .ii. desirs. Car tout ainssi que natu<lb
+                break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_ac22b674"
+                xml:id="elem_eSc_line_ac22b674"/>re domme a en soi .ii poissances si<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_cbf62f17"
+                xml:id="elem_eSc_line_cbf62f17"/>cun caleur et legierete li sens pu<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_9795aa1c"
+                xml:id="elem_eSc_line_9795aa1c"/>et aler en sen propre liu naturel<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_a9510bc7"
+                xml:id="elem_eSc_line_a9510bc7"/>qui est lasus uers la lune. et par<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_e1273af2"
+                xml:id="elem_eSc_line_e1273af2"/>la caleur que il a il puet contre<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_d1253845"
+                xml:id="elem_eSc_line_d1253845"/>ster as choses qui empeechent son<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_c09861ff"
+                xml:id="elem_eSc_line_c09861ff"/>delit en sen propre liu naturel.<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_55cf2df9"
+                xml:id="elem_eSc_line_55cf2df9"/>Et ensi est il des autres elemens<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_ddaadf08"
+                xml:id="elem_eSc_line_ddaadf08"/>Tout ensi doit on entendre quil<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_d180e24f"
+                xml:id="elem_eSc_line_d180e24f"/>est es natures des biestes. Et<fw
+                type="titre_courant"/>
+              <lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_31f9a631"
+                xml:id="elem_eSc_line_31f9a631"/>102<pb n=""
+                facs="../input_files/troyes898-pages.pdf_page_7.png"/>
+              <lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_bc7ff045"
+                xml:id="elem_eSc_line_bc7ff045"/>puis que nature de bieste est plus<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_cfee153b"
+                xml:id="elem_eSc_line_cfee153b"/>france et plus noble de natutre<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_c0952a29"
+                xml:id="elem_eSc_line_c0952a29"/>delemens. Et nature douna as<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_a455a5af"
+                xml:id="elem_eSc_line_a455a5af"/>elemens .ii. poissantes drois fu<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_a2ecd679"
+                xml:id="elem_eSc_line_a2ecd679"/>et raisons que nature dounast<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_3962773f"
+                xml:id="elem_eSc_line_3962773f"/>as biestes .ii. poissances. pour ce<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_500e5520"
+                xml:id="elem_eSc_line_500e5520"/>que par lune li hom et les autres<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_b20c4444"
+                xml:id="elem_eSc_line_b20c4444"/>biestes peuissent tendre a chose<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_b81cf639"
+                xml:id="elem_eSc_line_b81cf639"/>connignable et auoir leur propre<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_7004379f"
+                xml:id="elem_eSc_line_7004379f"/>delit. Celle poissance est apielee<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_906d996f"
+                xml:id="elem_eSc_line_906d996f"/>desirs de bien delitable et par ⟦au⟧<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_0c58c6ea"
+                xml:id="elem_eSc_line_0c58c6ea"/>lautre poissanche il puissent<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_62f44a7b"
+                xml:id="elem_eSc_line_62f44a7b"/>contrester as choses qui lor delit<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_a0b4b75d"
+                xml:id="elem_eSc_line_a0b4b75d"/>puissent empeechier. Et celle poi<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_4032fccc"
+                xml:id="elem_eSc_line_4032fccc"/>ssanche est appiellee desirs de con<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_0a854a98"
+                xml:id="elem_eSc_line_0a854a98"/>trester a chou qui sen propre de<lb break="no"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_53f6875b"
+                xml:id="elem_eSc_line_53f6875b"/>lit peuist empeechier. ¶ Dont<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_4c0597b3"
+                xml:id="elem_eSc_line_4c0597b3"/>on puet sauoir que des uertus<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_19c1d5e0"
+                xml:id="elem_eSc_line_19c1d5e0"/>de boines oeuures la uertus de<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_7c94b13f"
+                xml:id="elem_eSc_line_7c94b13f"/>sapienche est en lentendement.<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_81946233"
+                xml:id="elem_eSc_line_81946233"/>et la uertus de iustiche. est en la<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_c6cacd65"
+                xml:id="elem_eSc_line_c6cacd65"/>uolente et la uertus de forche de<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_3642b7f3"
+                xml:id="elem_eSc_line_3642b7f3"/>corage est el desir de contrester<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_adc5e060"
+                xml:id="elem_eSc_line_adc5e060"/>a chou qui empeeche le propre<lb break="yes"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_45cff52e"
+                xml:id="elem_eSc_line_45cff52e"/>delit de lomme. la uertus datem<lb break="no"
+                rend="ind"
+                facs="../../Multilingual_Aegidius/data/HTR/txt_1/Troyes_898/sortie_HTR/troyes_898_out.xml#facs_eSc_line_6d08cc17"
+                xml:id="elem_eSc_line_6d08cc17"/>pranche est ou desir dauoir delit</p>
+          </div>
+        </div>
+      </div>
     </body>
   </text>
 </TEI>
