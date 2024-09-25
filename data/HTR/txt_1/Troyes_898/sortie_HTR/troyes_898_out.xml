@@ -1,0 +1,624 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="troyes_898">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>troyes_898</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the
+                                source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="facs_eSc_line_7d51e9d4" corresp="#elem_eSc_line_7d51e9d4">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_7d51e9d4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_438fd82b" corresp="#elem_eSc_line_438fd82b">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_438fd82b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_175abe5c" corresp="#elem_eSc_line_175abe5c">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_175abe5c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a03dacf4" corresp="#elem_eSc_line_a03dacf4">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_a03dacf4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_eaa02556" corresp="#elem_eSc_line_eaa02556">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_eaa02556.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5284855d" corresp="#elem_eSc_line_5284855d">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_5284855d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d87a88ee" corresp="#elem_eSc_line_d87a88ee">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_d87a88ee.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_963403dc" corresp="#elem_eSc_line_963403dc">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_963403dc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9d6e39ab" corresp="#elem_eSc_line_9d6e39ab">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_9d6e39ab.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ea0fcdfc" corresp="#elem_eSc_line_ea0fcdfc">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_ea0fcdfc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cfe397b9" corresp="#elem_eSc_line_cfe397b9">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_cfe397b9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4f48492e" corresp="#elem_eSc_line_4f48492e">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_4f48492e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a2735dd6" corresp="#elem_eSc_line_a2735dd6">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_a2735dd6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_eecf0ce7" corresp="#elem_eSc_line_eecf0ce7">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_eecf0ce7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_297cc53f" corresp="#elem_eSc_line_297cc53f">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_297cc53f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b23832f7" corresp="#elem_eSc_line_b23832f7">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_b23832f7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d9c709ef" corresp="#elem_eSc_line_d9c709ef">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_d9c709ef.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_61b3a7a1" corresp="#elem_eSc_line_61b3a7a1">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_61b3a7a1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2032e96c" corresp="#elem_eSc_line_2032e96c">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_2032e96c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_57bb271c" corresp="#elem_eSc_line_57bb271c">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_57bb271c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1e1b3721" corresp="#elem_eSc_line_1e1b3721">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_1e1b3721.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2262c522" corresp="#elem_eSc_line_2262c522">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_2262c522.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_89073614" corresp="#elem_eSc_line_89073614">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_89073614.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ae6066d2" corresp="#elem_eSc_line_ae6066d2">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_ae6066d2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_26d3b40a" corresp="#elem_eSc_line_26d3b40a">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_26d3b40a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_50b7e056" corresp="#elem_eSc_line_50b7e056">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_50b7e056.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_23c8caa7" corresp="#elem_eSc_line_23c8caa7">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_23c8caa7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4528abb3" corresp="#elem_eSc_line_4528abb3">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_4528abb3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4a58e8c2" corresp="#elem_eSc_line_4a58e8c2">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_4a58e8c2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_574b8c89" corresp="#elem_eSc_line_574b8c89">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_574b8c89.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_84fcf464" corresp="#elem_eSc_line_84fcf464">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_84fcf464.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3f92305a" corresp="#elem_eSc_line_3f92305a">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_3f92305a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f14fb6c1" corresp="#elem_eSc_line_f14fb6c1">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_f14fb6c1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_abee77fa" corresp="#elem_eSc_line_abee77fa">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_abee77fa.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_de0a1f8c" corresp="#elem_eSc_line_de0a1f8c">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_de0a1f8c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f918a559" corresp="#elem_eSc_line_f918a559">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_f918a559.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0bab9380" corresp="#elem_eSc_line_0bab9380">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_0bab9380.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ab8d0661" corresp="#elem_eSc_line_ab8d0661">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_ab8d0661.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6af245a5" corresp="#elem_eSc_line_6af245a5">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_6af245a5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ec6c2059" corresp="#elem_eSc_line_ec6c2059">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_ec6c2059.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b84e0a3c" corresp="#elem_eSc_line_b84e0a3c">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_b84e0a3c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0b01b380" corresp="#elem_eSc_line_0b01b380">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_0b01b380.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a09eed37" corresp="#elem_eSc_line_a09eed37">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_a09eed37.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_591121d6" corresp="#elem_eSc_line_591121d6">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_591121d6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_16ca5e7e" corresp="#elem_eSc_line_16ca5e7e">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_16ca5e7e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4a87869d" corresp="#elem_eSc_line_4a87869d">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_4a87869d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9cf88dd5" corresp="#elem_eSc_line_9cf88dd5">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_9cf88dd5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_380e3cb6" corresp="#elem_eSc_line_380e3cb6">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_380e3cb6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2dc2f28e" corresp="#elem_eSc_line_2dc2f28e">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_2dc2f28e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_32bd1ba3" corresp="#elem_eSc_line_32bd1ba3">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_32bd1ba3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_eec3191e" corresp="#elem_eSc_line_eec3191e">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_eec3191e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b32f7caf" corresp="#elem_eSc_line_b32f7caf">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_b32f7caf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9d75e600" corresp="#elem_eSc_line_9d75e600">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_9d75e600.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a4c8c651" corresp="#elem_eSc_line_a4c8c651">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_a4c8c651.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_db8ebcef" corresp="#elem_eSc_line_db8ebcef">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_db8ebcef.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0e358f94" corresp="#elem_eSc_line_0e358f94">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_0e358f94.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_85ebbd97" corresp="#elem_eSc_line_85ebbd97">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_85ebbd97.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4aa51767" corresp="#elem_eSc_line_4aa51767">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_4aa51767.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b5dd9dd4" corresp="#elem_eSc_line_b5dd9dd4">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_b5dd9dd4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_74ceea04" corresp="#elem_eSc_line_74ceea04">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_74ceea04.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a2e0f32a" corresp="#elem_eSc_line_a2e0f32a">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_a2e0f32a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_da6395a4" corresp="#elem_eSc_line_da6395a4">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_da6395a4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fe252bc7" corresp="#elem_eSc_line_fe252bc7">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_fe252bc7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4db06f1a" corresp="#elem_eSc_line_4db06f1a">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_4db06f1a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_04df72df" corresp="#elem_eSc_line_04df72df">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_04df72df.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f45ad28c" corresp="#elem_eSc_line_f45ad28c">
+      <graphic url="../lignes/troyes898-pages.pdf_page_1_eSc_line_f45ad28c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1d18762c" corresp="#elem_eSc_line_1d18762c">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_1d18762c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bdc7e982" corresp="#elem_eSc_line_bdc7e982">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_bdc7e982.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_40bf757c" corresp="#elem_eSc_line_40bf757c">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_40bf757c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d91bbf40" corresp="#elem_eSc_line_d91bbf40">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_d91bbf40.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c569f80e" corresp="#elem_eSc_line_c569f80e">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_c569f80e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_82ee4ce6" corresp="#elem_eSc_line_82ee4ce6">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_82ee4ce6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b6b174ba" corresp="#elem_eSc_line_b6b174ba">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_b6b174ba.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_675eb4c4" corresp="#elem_eSc_line_675eb4c4">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_675eb4c4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dd96df10" corresp="#elem_eSc_line_dd96df10">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_dd96df10.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_33ff753e" corresp="#elem_eSc_line_33ff753e">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_33ff753e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d41f23b6" corresp="#elem_eSc_line_d41f23b6">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_d41f23b6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_82ee89cd" corresp="#elem_eSc_line_82ee89cd">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_82ee89cd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0d37c595" corresp="#elem_eSc_line_0d37c595">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_0d37c595.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1009c368" corresp="#elem_eSc_line_1009c368">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_1009c368.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_927e724b" corresp="#elem_eSc_line_927e724b">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_927e724b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c70486d5" corresp="#elem_eSc_line_c70486d5">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_c70486d5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b0f91513" corresp="#elem_eSc_line_b0f91513">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_b0f91513.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_06eb0567" corresp="#elem_eSc_line_06eb0567">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_06eb0567.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a6802adb" corresp="#elem_eSc_line_a6802adb">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_a6802adb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4d290e56" corresp="#elem_eSc_line_4d290e56">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_4d290e56.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3567acec" corresp="#elem_eSc_line_3567acec">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_3567acec.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6b5be22e" corresp="#elem_eSc_line_6b5be22e">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_6b5be22e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3461400d" corresp="#elem_eSc_line_3461400d">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_3461400d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a130e565" corresp="#elem_eSc_line_a130e565">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_a130e565.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_300d57e3" corresp="#elem_eSc_line_300d57e3">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_300d57e3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ba168f97" corresp="#elem_eSc_line_ba168f97">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_ba168f97.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a3ebfa0e" corresp="#elem_eSc_line_a3ebfa0e">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_a3ebfa0e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_42ab6206" corresp="#elem_eSc_line_42ab6206">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_42ab6206.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f656b26c" corresp="#elem_eSc_line_f656b26c">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_f656b26c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c65679e4" corresp="#elem_eSc_line_c65679e4">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_c65679e4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d785ec91" corresp="#elem_eSc_line_d785ec91">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_d785ec91.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b543deba" corresp="#elem_eSc_line_b543deba">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_b543deba.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c0cf5f58" corresp="#elem_eSc_line_c0cf5f58">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_c0cf5f58.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3780be64" corresp="#elem_eSc_line_3780be64">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_3780be64.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_83ea6439" corresp="#elem_eSc_line_83ea6439">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_83ea6439.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e1476b8c" corresp="#elem_eSc_line_e1476b8c">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_e1476b8c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_415aa809" corresp="#elem_eSc_line_415aa809">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_415aa809.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_752d7eed" corresp="#elem_eSc_line_752d7eed">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_752d7eed.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_279cd3c3" corresp="#elem_eSc_line_279cd3c3">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_279cd3c3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d1d871b7" corresp="#elem_eSc_line_d1d871b7">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_d1d871b7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_febf52d0" corresp="#elem_eSc_line_febf52d0">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_febf52d0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_db327efc" corresp="#elem_eSc_line_db327efc">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_db327efc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0304c008" corresp="#elem_eSc_line_0304c008">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_0304c008.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ae82e476" corresp="#elem_eSc_line_ae82e476">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_ae82e476.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_11f7d02a" corresp="#elem_eSc_line_11f7d02a">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_11f7d02a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f4693c54" corresp="#elem_eSc_line_f4693c54">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_f4693c54.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c3efaf56" corresp="#elem_eSc_line_c3efaf56">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_c3efaf56.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_10c0a4b5" corresp="#elem_eSc_line_10c0a4b5">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_10c0a4b5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c8291e0a" corresp="#elem_eSc_line_c8291e0a">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_c8291e0a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_300a2457" corresp="#elem_eSc_line_300a2457">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_300a2457.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c8831580" corresp="#elem_eSc_line_c8831580">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_c8831580.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ea7f21f0" corresp="#elem_eSc_line_ea7f21f0">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_ea7f21f0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a91036db" corresp="#elem_eSc_line_a91036db">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_a91036db.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5c01a016" corresp="#elem_eSc_line_5c01a016">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_5c01a016.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_00cc2c2e" corresp="#elem_eSc_line_00cc2c2e">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_00cc2c2e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a3cd10a9" corresp="#elem_eSc_line_a3cd10a9">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_a3cd10a9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ac22b674" corresp="#elem_eSc_line_ac22b674">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_ac22b674.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cbf62f17" corresp="#elem_eSc_line_cbf62f17">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_cbf62f17.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9795aa1c" corresp="#elem_eSc_line_9795aa1c">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_9795aa1c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a9510bc7" corresp="#elem_eSc_line_a9510bc7">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_a9510bc7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e1273af2" corresp="#elem_eSc_line_e1273af2">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_e1273af2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d1253845" corresp="#elem_eSc_line_d1253845">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_d1253845.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c09861ff" corresp="#elem_eSc_line_c09861ff">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_c09861ff.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_55cf2df9" corresp="#elem_eSc_line_55cf2df9">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_55cf2df9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ddaadf08" corresp="#elem_eSc_line_ddaadf08">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_ddaadf08.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d180e24f" corresp="#elem_eSc_line_d180e24f">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_d180e24f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_31f9a631" corresp="#elem_eSc_line_31f9a631">
+      <graphic url="../lignes/troyes898-pages.pdf_page_6_eSc_line_31f9a631.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bc7ff045" corresp="#elem_eSc_line_bc7ff045">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_bc7ff045.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cfee153b" corresp="#elem_eSc_line_cfee153b">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_cfee153b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c0952a29" corresp="#elem_eSc_line_c0952a29">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_c0952a29.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a455a5af" corresp="#elem_eSc_line_a455a5af">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_a455a5af.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a2ecd679" corresp="#elem_eSc_line_a2ecd679">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_a2ecd679.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3962773f" corresp="#elem_eSc_line_3962773f">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_3962773f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_500e5520" corresp="#elem_eSc_line_500e5520">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_500e5520.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b20c4444" corresp="#elem_eSc_line_b20c4444">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_b20c4444.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b81cf639" corresp="#elem_eSc_line_b81cf639">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_b81cf639.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7004379f" corresp="#elem_eSc_line_7004379f">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_7004379f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_906d996f" corresp="#elem_eSc_line_906d996f">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_906d996f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0c58c6ea" corresp="#elem_eSc_line_0c58c6ea">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_0c58c6ea.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_62f44a7b" corresp="#elem_eSc_line_62f44a7b">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_62f44a7b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a0b4b75d" corresp="#elem_eSc_line_a0b4b75d">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_a0b4b75d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4032fccc" corresp="#elem_eSc_line_4032fccc">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_4032fccc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0a854a98" corresp="#elem_eSc_line_0a854a98">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_0a854a98.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_53f6875b" corresp="#elem_eSc_line_53f6875b">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_53f6875b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4c0597b3" corresp="#elem_eSc_line_4c0597b3">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_4c0597b3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_19c1d5e0" corresp="#elem_eSc_line_19c1d5e0">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_19c1d5e0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7c94b13f" corresp="#elem_eSc_line_7c94b13f">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_7c94b13f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_81946233" corresp="#elem_eSc_line_81946233">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_81946233.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c6cacd65" corresp="#elem_eSc_line_c6cacd65">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_c6cacd65.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3642b7f3" corresp="#elem_eSc_line_3642b7f3">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_3642b7f3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_adc5e060" corresp="#elem_eSc_line_adc5e060">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_adc5e060.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_45cff52e" corresp="#elem_eSc_line_45cff52e">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_45cff52e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6d08cc17" corresp="#elem_eSc_line_6d08cc17">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_6d08cc17.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_707fddd2" corresp="#elem_eSc_line_707fddd2">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_707fddd2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_db866946" corresp="#elem_eSc_line_db866946">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_db866946.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e7f0b49e" corresp="#elem_eSc_line_e7f0b49e">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_e7f0b49e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1cc92553" corresp="#elem_eSc_line_1cc92553">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_1cc92553.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ff3b2431" corresp="#elem_eSc_line_ff3b2431">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_ff3b2431.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d1898fd9" corresp="#elem_eSc_line_d1898fd9">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_d1898fd9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a36e00d7" corresp="#elem_eSc_line_a36e00d7">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_a36e00d7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8872c5d9" corresp="#elem_eSc_line_8872c5d9">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_8872c5d9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_138af645" corresp="#elem_eSc_line_138af645">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_138af645.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9b379b9a" corresp="#elem_eSc_line_9b379b9a">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_9b379b9a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8437fe46" corresp="#elem_eSc_line_8437fe46">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_8437fe46.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8bf7127d" corresp="#elem_eSc_line_8bf7127d">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_8bf7127d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b1dcb03c" corresp="#elem_eSc_line_b1dcb03c">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_b1dcb03c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_23b7bc7f" corresp="#elem_eSc_line_23b7bc7f">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_23b7bc7f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_984bd8d8" corresp="#elem_eSc_line_984bd8d8">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_984bd8d8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_11aa5eaf" corresp="#elem_eSc_line_11aa5eaf">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_11aa5eaf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_49744960" corresp="#elem_eSc_line_49744960">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_49744960.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_02bf95d3" corresp="#elem_eSc_line_02bf95d3">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_02bf95d3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_48de309e" corresp="#elem_eSc_line_48de309e">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_48de309e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_da1e5a24" corresp="#elem_eSc_line_da1e5a24">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_da1e5a24.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6c9e40ba" corresp="#elem_eSc_line_6c9e40ba">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_6c9e40ba.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cb7e781a" corresp="#elem_eSc_line_cb7e781a">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_cb7e781a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_42f23bbe" corresp="#elem_eSc_line_42f23bbe">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_42f23bbe.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_44aa5a72" corresp="#elem_eSc_line_44aa5a72">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_44aa5a72.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_35363b4a" corresp="#elem_eSc_line_35363b4a">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_35363b4a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_48445d37" corresp="#elem_eSc_line_48445d37">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_48445d37.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b3702153" corresp="#elem_eSc_line_b3702153">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_b3702153.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_509bdec1" corresp="#elem_eSc_line_509bdec1">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_509bdec1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_68d8e347" corresp="#elem_eSc_line_68d8e347">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_68d8e347.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8ed0cc96" corresp="#elem_eSc_line_8ed0cc96">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_8ed0cc96.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cfc3c449" corresp="#elem_eSc_line_cfc3c449">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_cfc3c449.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_73d8f439" corresp="#elem_eSc_line_73d8f439">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_73d8f439.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a7530d92" corresp="#elem_eSc_line_a7530d92">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_a7530d92.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a0d63d6e" corresp="#elem_eSc_line_a0d63d6e">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_a0d63d6e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_52d2571a" corresp="#elem_eSc_line_52d2571a">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_52d2571a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8d6ba790" corresp="#elem_eSc_line_8d6ba790">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_8d6ba790.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b3978a54" corresp="#elem_eSc_line_b3978a54">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_b3978a54.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fed99dc3" corresp="#elem_eSc_line_fed99dc3">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_fed99dc3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1517ff18" corresp="#elem_eSc_line_1517ff18">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_1517ff18.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b92c0f38" corresp="#elem_eSc_line_b92c0f38">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_b92c0f38.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_081549d0" corresp="#elem_eSc_line_081549d0">
+      <graphic url="../lignes/troyes898-pages.pdf_page_7_eSc_line_081549d0.png"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div><pb n="" facs="../input_files/troyes898-pages.pdf_page_1.png"/><graphic type="initiale" facs="601 1217 541 1462 756 1462 725 1320 689 1329 572 1336 576 1405 576 1455 725 1446 725 1400 718 1329 711 1329"/><lb break="?" facs="#facs_eSc_line_7d51e9d4" xml:id="elem_eSc_line_7d51e9d4"/>tout son roiaume par les oeuures<lb break="?" facs="#facs_eSc_line_438fd82b" xml:id="elem_eSc_line_438fd82b"/>de ueritet. ¶Nous uous auõs<lb break="?" facs="#facs_eSc_line_175abe5c" xml:id="elem_eSc_line_175abe5c"/>dit que li roi et li prince sont<lb break="?" facs="#facs_eSc_line_a03dacf4" xml:id="elem_eSc_line_a03dacf4"/>en boin ciuite qnͣt il aiment dieu<lb break="?" facs="#facs_eSc_line_eaa02556" xml:id="elem_eSc_line_eaa02556"/>et il entendent pout lamour de<lb break="?" facs="#facs_eSc_line_5284855d" xml:id="elem_eSc_line_5284855d"/>dieu a gouurener lor pueple droi-<lb break="?" facs="#facs_eSc_line_d87a88ee" xml:id="elem_eSc_line_d87a88ee"/>turierement selonc loy et raisõ<lb break="?" facs="#facs_eSc_line_963403dc" xml:id="elem_eSc_line_963403dc"/>Or uous dirons queles uertus il<lb break="?" facs="#facs_eSc_line_9d6e39ab" xml:id="elem_eSc_line_9d6e39ab"/>doiuent auoir. et pour ce queles<lb break="?" facs="#facs_eSc_line_ea0fcdfc" xml:id="elem_eSc_line_ea0fcdfc"/>uertus font lame parfaite. ¶Noꝰ<lb break="?" facs="#facs_eSc_line_cfe397b9" xml:id="elem_eSc_line_cfe397b9"/>dirons qͣntes poissances lame a<lb break="?" facs="#facs_eSc_line_4f48492e" xml:id="elem_eSc_line_4f48492e"/>et esqueles poissances les uertus<lb break="?" facs="#facs_eSc_line_a2735dd6" xml:id="elem_eSc_line_a2735dd6"/>de bonnes oeuures doiuent i estre<lb break="?" facs="#facs_eSc_line_eecf0ce7" xml:id="elem_eSc_line_eecf0ce7"/>Ci cõmence. la seconde partie dou<lb break="?" facs="#facs_eSc_line_297cc53f" xml:id="elem_eSc_line_297cc53f"/>premier liure del gouuernem̃t<lb break="?" facs="#facs_eSc_line_b23832f7" xml:id="elem_eSc_line_b23832f7"/>des rois et des princes. Li pre-<lb break="?" facs="#facs_eSc_line_d9c709ef" xml:id="elem_eSc_line_d9c709ef"/>miers chapitres ensengne qnͣ-<lb break="?" facs="#facs_eSc_line_61b3a7a1" xml:id="elem_eSc_line_61b3a7a1"/>tes poissances lame a<lb break="?" facs="#facs_eSc_line_2032e96c" xml:id="elem_eSc_line_2032e96c"/>ame a .iiii. manieres de pois-<lb break="?" facs="#facs_eSc_line_57bb271c" xml:id="elem_eSc_line_57bb271c"/>sances. et les unes des ma-<lb break="?" facs="#facs_eSc_line_1e1b3721" xml:id="elem_eSc_line_1e1b3721"/>nieres sont natureus si cõme la<lb break="?" facs="#facs_eSc_line_2262c522" xml:id="elem_eSc_line_2262c522"/>uertus qui nourist et la uertus<lb break="?" facs="#facs_eSc_line_89073614" xml:id="elem_eSc_line_89073614"/>qui acroist. et la uertus qui ensẽg-<lb break="?" facs="#facs_eSc_line_ae6066d2" xml:id="elem_eSc_line_ae6066d2"/>ne. et la uertus cõnissans. si cõme<lb break="?" facs="#facs_eSc_line_26d3b40a" xml:id="elem_eSc_line_26d3b40a"/>la ueue. Ie goust latouchement.<lb break="?" facs="#facs_eSc_line_50b7e056" xml:id="elem_eSc_line_50b7e056"/>et les autres sens del hõme.<lb break="?" facs="#facs_eSc_line_23c8caa7" xml:id="elem_eSc_line_23c8caa7"/>Lautre poissanche de lame est li<lb break="?" facs="#facs_eSc_line_4528abb3" xml:id="elem_eSc_line_4528abb3"/>entendemẽs. ¶La tierche poissã-<lb break="?" facs="#facs_eSc_line_4a58e8c2" xml:id="elem_eSc_line_4a58e8c2"/>che de lame est desirs dentendem̃t<lb break="?" facs="#facs_eSc_line_574b8c89" xml:id="elem_eSc_line_574b8c89"/>que on nomme uolente. ¶La qͣr-<lb break="?" facs="#facs_eSc_line_84fcf464" xml:id="elem_eSc_line_84fcf464"/>te est desirs des .u. sens. de Iõme. et<lb break="?" facs="#facs_eSc_line_3f92305a" xml:id="elem_eSc_line_3f92305a"/>sachies que les uertus de boines<lb break="?" facs="#facs_eSc_line_f14fb6c1" xml:id="elem_eSc_line_f14fb6c1"/>oeuures que nous aquerons par<cb break="?"/><lb break="?" facs="#facs_eSc_line_abee77fa" xml:id="elem_eSc_line_abee77fa"/>acoustumance de bien faire ne<lb break="?" facs="#facs_eSc_line_de0a1f8c" xml:id="elem_eSc_line_de0a1f8c"/>sont pas es poissances de lame<lb break="?" facs="#facs_eSc_line_f918a559" xml:id="elem_eSc_line_f918a559"/>naturel ne es .u. sens de lõme Car<lb break="?" facs="#facs_eSc_line_0bab9380" xml:id="elem_eSc_line_0bab9380"/>pour les uertus de boines oeures<lb break="?" facs="#facs_eSc_line_ab8d0661" xml:id="elem_eSc_line_ab8d0661"/>doit on loer lõme qnͣt il les a. et<lb break="?" facs="#facs_eSc_line_6af245a5" xml:id="elem_eSc_line_6af245a5"/>blasmer qnͣt il a le cõtraire. Et<lb break="?" facs="#facs_eSc_line_ec6c2059" xml:id="elem_eSc_line_ec6c2059"/>sachies que pour bien nourir.<lb break="?" facs="#facs_eSc_line_b84e0a3c" xml:id="elem_eSc_line_b84e0a3c"/>ne pour bien sentir ne pour biẽ<lb break="?" facs="#facs_eSc_line_0b01b380" xml:id="elem_eSc_line_0b01b380"/>ueoir. ne doit mie iestre loes ne bla-<lb break="?" facs="#facs_eSc_line_a09eed37" xml:id="elem_eSc_line_a09eed37"/>mes. Sil nest ensi que par trop<lb break="?" facs="#facs_eSc_line_591121d6" xml:id="elem_eSc_line_591121d6"/>boiure ou par trop mengier ait<lb break="?" facs="#facs_eSc_line_16ca5e7e" xml:id="elem_eSc_line_16ca5e7e"/>aqius maladie par quoi aucu-<lb break="?" facs="#facs_eSc_line_4a87869d" xml:id="elem_eSc_line_4a87869d"/>ne des uertus soit empechie.<lb break="?" facs="#facs_eSc_line_9cf88dd5" xml:id="elem_eSc_line_9cf88dd5"/>Mais les uertus de boines oeures<lb break="?" facs="#facs_eSc_line_380e3cb6" xml:id="elem_eSc_line_380e3cb6"/>sont closes selont raison. et doi-<lb break="?" facs="#facs_eSc_line_2dc2f28e" xml:id="elem_eSc_line_2dc2f28e"/>uent iestre es poissances de lame<lb break="?" facs="#facs_eSc_line_32bd1ba3" xml:id="elem_eSc_line_32bd1ba3"/>qui obeissent a raison. ¶Les poi-<lb break="?" facs="#facs_eSc_line_eec3191e" xml:id="elem_eSc_line_eec3191e"/>ssances natureles ne li .u. sens<lb break="?" facs="#facs_eSc_line_b32f7caf" xml:id="elem_eSc_line_b32f7caf"/>de lõme nobeissent pas a raison.<lb break="?" facs="#facs_eSc_line_9d75e600" xml:id="elem_eSc_line_9d75e600"/>Car cler ueoir ne bien iestre acre-<lb break="?" facs="#facs_eSc_line_a4c8c651" xml:id="elem_eSc_line_a4c8c651"/>u nest pas en la poissanche de lõ-<lb break="?" facs="#facs_eSc_line_db8ebcef" xml:id="elem_eSc_line_db8ebcef"/>me. Car se uns hom auoit mengie<lb break="?" facs="#facs_eSc_line_0e358f94" xml:id="elem_eSc_line_0e358f94"/>et ne uosist pas iestre acreus ne<lb break="?" facs="#facs_eSc_line_85ebbd97" xml:id="elem_eSc_line_85ebbd97"/>nouris si le nouriroient et acroi-<lb break="?" facs="#facs_eSc_line_4aa51767" xml:id="elem_eSc_line_4aa51767"/>stroient les uertus qui en lui st̾.<lb break="?" facs="#facs_eSc_line_b5dd9dd4" xml:id="elem_eSc_line_b5dd9dd4"/>et pour ce ne doit on pas metre<lb break="?" facs="#facs_eSc_line_74ceea04" xml:id="elem_eSc_line_74ceea04"/>en ces poissances les uertus de<lb break="?" facs="#facs_eSc_line_a2e0f32a" xml:id="elem_eSc_line_a2e0f32a"/>boines oeuures et les poissan-<lb break="?" facs="#facs_eSc_line_da6395a4" xml:id="elem_eSc_line_da6395a4"/>ces natureles. Et li .u. sens de lom-<lb break="?" facs="#facs_eSc_line_fe252bc7" xml:id="elem_eSc_line_fe252bc7"/>me sont encline souffissaumẽt<lb break="?" facs="#facs_eSc_line_4db06f1a" xml:id="elem_eSc_line_4db06f1a"/>par nature a faire leur oeuures.<lb break="?" facs="#facs_eSc_line_04df72df" xml:id="elem_eSc_line_04df72df"/>Ne par elles nous ne sommes bõ-<lb break="?" facs="#facs_eSc_line_f45ad28c" xml:id="elem_eSc_line_f45ad28c"/>ne mauuais. Mais les uertus<pb n="" facs="../input_files/troyes898-pages.pdf_page_6.png"/><graphic type="initiale" facs="221 958 202 1081 363 1081 365 951 345 1004 339 988 231 977 231 1027 231 1075 295 1080 297 1080 300 1080 302 1080 302 1077 313 1064 322 1043 345 1043 359 1043 359 1027 359 1004 345 1004"/><lb break="?" facs="#facs_eSc_line_1d18762c" xml:id="elem_eSc_line_1d18762c"/>des boines oeuures enclinent les<lb break="?" facs="#facs_eSc_line_bdc7e982" xml:id="elem_eSc_line_bdc7e982"/>poissanches de lame ou elles sõt<lb break="?" facs="#facs_eSc_line_40bf757c" xml:id="elem_eSc_line_40bf757c"/>a bien faire. pour ce di ie que les<lb break="?" facs="#facs_eSc_line_d91bbf40" xml:id="elem_eSc_line_d91bbf40"/>uertus de boines oeuures ne st̾<lb break="?" facs="#facs_eSc_line_c569f80e" xml:id="elem_eSc_line_c569f80e"/>pas es poissances de lame natu-<lb break="?" facs="#facs_eSc_line_82ee4ce6" xml:id="elem_eSc_line_82ee4ce6"/>rel. ne es .x. sens del hõme. qui par<lb break="?" facs="#facs_eSc_line_b6b174ba" xml:id="elem_eSc_line_b6b174ba"/>lor nature sont encline souffis-<lb break="?" facs="#facs_eSc_line_675eb4c4" xml:id="elem_eSc_line_675eb4c4"/>saument a faire lor oeuures.<lb break="?" facs="#facs_eSc_line_dd96df10" xml:id="elem_eSc_line_dd96df10"/>Li secons chapitles ensengne<lb break="?" facs="#facs_eSc_line_33ff753e" xml:id="elem_eSc_line_33ff753e"/>cõment les uertus des boines<lb break="?" facs="#facs_eSc_line_d41f23b6" xml:id="elem_eSc_line_d41f23b6"/>oeuures sont deuisees<lb break="?" facs="#facs_eSc_line_82ee89cd" xml:id="elem_eSc_line_82ee89cd"/>ous uous auons dit queles<lb break="?" facs="#facs_eSc_line_0d37c595" xml:id="elem_eSc_line_0d37c595"/>uertus de boines oeuures<lb break="?" facs="#facs_eSc_line_1009c368" xml:id="elem_eSc_line_1009c368"/>ne sont pas es poissances de lame<lb break="?" facs="#facs_eSc_line_927e724b" xml:id="elem_eSc_line_927e724b"/>naturel ne es .u. sens de lõme.<lb break="?" facs="#facs_eSc_line_c70486d5" xml:id="elem_eSc_line_c70486d5"/>Encore uous disons noꝰ quil sõt<lb break="?" facs="#facs_eSc_line_b0f91513" xml:id="elem_eSc_line_b0f91513"/>ii. manieres de uertus. Les unes<lb break="?" facs="#facs_eSc_line_06eb0567" xml:id="elem_eSc_line_06eb0567"/>manieres tendent principaum̃t<lb break="?" facs="#facs_eSc_line_a6802adb" xml:id="elem_eSc_line_a6802adb"/>a cõnissanche de uerite Si cõme<lb break="?" facs="#facs_eSc_line_4d290e56" xml:id="elem_eSc_line_4d290e56"/>a la scienche de natures et destro-<lb break="?" facs="#facs_eSc_line_3567acec" xml:id="elem_eSc_line_3567acec"/>nomie et des autres scienches.<lb break="?" facs="#facs_eSc_line_6b5be22e" xml:id="elem_eSc_line_6b5be22e"/>Les autres manieres de uertu<lb break="?" facs="#facs_eSc_line_3461400d" xml:id="elem_eSc_line_3461400d"/>sont celles par quoi on fait boine ᷤ<lb break="?" facs="#facs_eSc_line_a130e565" xml:id="elem_eSc_line_a130e565"/>oeuures et les aquiert on par<lb break="?" facs="#facs_eSc_line_300d57e3" xml:id="elem_eSc_line_300d57e3"/>acoustumance de bien faire et<lb break="?" facs="#facs_eSc_line_ba168f97" xml:id="elem_eSc_line_ba168f97"/>sont el desir de lõme. si ꝯme iu-<lb break="?" facs="#facs_eSc_line_a3ebfa0e" xml:id="elem_eSc_line_a3ebfa0e"/>stice atemprance forche de boin-<lb break="?" facs="#facs_eSc_line_42ab6206" xml:id="elem_eSc_line_42ab6206"/>nairetes et les et les autres de<lb break="?" facs="#facs_eSc_line_f656b26c" xml:id="elem_eSc_line_f656b26c"/>quoi nous dirons cha auant.<lb break="?" facs="#facs_eSc_line_c65679e4" xml:id="elem_eSc_line_c65679e4"/>Or uous dirons des uertus par<lb break="?" facs="#facs_eSc_line_d785ec91" xml:id="elem_eSc_line_d785ec91"/>quoi on fait boines oeuures. Li<lb break="?" facs="#facs_eSc_line_b543deba" xml:id="elem_eSc_line_b543deba"/>desirs de lomme qui est boins o-<lb break="?" facs="#facs_eSc_line_c0cf5f58" xml:id="elem_eSc_line_c0cf5f58"/>beist a raison et les uertus de boĩ-<cb break="?"/><lb break="?" facs="#facs_eSc_line_3780be64" xml:id="elem_eSc_line_3780be64"/>nes choses sont oeuures selonc rai-<lb break="?" facs="#facs_eSc_line_83ea6439" xml:id="elem_eSc_line_83ea6439"/>son. Elles sont en lentendement et<lb break="?" facs="#facs_eSc_line_e1476b8c" xml:id="elem_eSc_line_e1476b8c"/>el desir dou boin hõme. Et cil desir ᷤ<lb break="?" facs="#facs_eSc_line_415aa809" xml:id="elem_eSc_line_415aa809"/>nest autre chose que une enclinã-<lb break="?" facs="#facs_eSc_line_752d7eed" xml:id="elem_eSc_line_752d7eed"/>che a bien auoir. ou a mal faire<lb break="?" facs="#facs_eSc_line_279cd3c3" xml:id="elem_eSc_line_279cd3c3"/>qui uient de ce que li boin cõnoist<lb break="?" facs="#facs_eSc_line_d1d871b7" xml:id="elem_eSc_line_d1d871b7"/>bien et mal. ¶ Pour ce que li hõ-<lb break="?" facs="#facs_eSc_line_febf52d0" xml:id="elem_eSc_line_febf52d0"/>ait cõnissances de quoi lune est<lb break="?" facs="#facs_eSc_line_db327efc" xml:id="elem_eSc_line_db327efc"/>cõnissance dentendement. Lautre<lb break="?" facs="#facs_eSc_line_0304c008" xml:id="elem_eSc_line_0304c008"/>est cõnissance des .u. sens. Il a en soi<lb break="?" facs="#facs_eSc_line_ae82e476" xml:id="elem_eSc_line_ae82e476"/>ii. desirs. Car qñt lentendemens<lb break="?" facs="#facs_eSc_line_11f7d02a" xml:id="elem_eSc_line_11f7d02a"/>cõnoist aucun bien et aucũ mal<lb break="?" facs="#facs_eSc_line_f4693c54" xml:id="elem_eSc_line_f4693c54"/>il desire a suir le bien et a fuir le<lb break="?" facs="#facs_eSc_line_c3efaf56" xml:id="elem_eSc_line_c3efaf56"/>mal. et tel desit appielon uolente.<lb break="?" facs="#facs_eSc_line_10c0a4b5" xml:id="elem_eSc_line_10c0a4b5"/>Et qnͣt li boin par les .u. sens que il<lb break="?" facs="#facs_eSc_line_c8291e0a" xml:id="elem_eSc_line_c8291e0a"/>acõnoist aucun bien singulier<lb break="?" facs="#facs_eSc_line_300a2457" xml:id="elem_eSc_line_300a2457"/>ou aucun mal li hom destre en en-<lb break="?" facs="#facs_eSc_line_c8831580" xml:id="elem_eSc_line_c8831580"/>clinant a poursuir le bien et a<lb break="?" facs="#facs_eSc_line_ea7f21f0" xml:id="elem_eSc_line_ea7f21f0"/>fuir le mal. Et cel desir claime on<lb break="?" facs="#facs_eSc_line_a91036db" xml:id="elem_eSc_line_a91036db"/>desir des .u. sens de lõme. Et saci-<lb break="?" facs="#facs_eSc_line_5c01a016" xml:id="elem_eSc_line_5c01a016"/>es que li desirs que li hom a par<lb break="?" facs="#facs_eSc_line_00cc2c2e" xml:id="elem_eSc_line_00cc2c2e"/>la cõnissance. des u. sens est deuise ͤ<lb break="?" facs="#facs_eSc_line_a3cd10a9" xml:id="elem_eSc_line_a3cd10a9"/>en .ii. desirs. Car tout ainssi q̃ natu-<lb break="?" facs="#facs_eSc_line_ac22b674" xml:id="elem_eSc_line_ac22b674"/>re dõme a en soi .ii poissances si<lb break="?" facs="#facs_eSc_line_cbf62f17" xml:id="elem_eSc_line_cbf62f17"/>cũ caleur et legierete li sens pu-<lb break="?" facs="#facs_eSc_line_9795aa1c" xml:id="elem_eSc_line_9795aa1c"/>et aler en sen propre liu naturel<lb break="?" facs="#facs_eSc_line_a9510bc7" xml:id="elem_eSc_line_a9510bc7"/>qui est lasus uers la lune. et ꝑ<lb break="?" facs="#facs_eSc_line_e1273af2" xml:id="elem_eSc_line_e1273af2"/>la caleur que il a il puet cõtre-<lb break="?" facs="#facs_eSc_line_d1253845" xml:id="elem_eSc_line_d1253845"/>ster as choses qui empeechent son<lb break="?" facs="#facs_eSc_line_c09861ff" xml:id="elem_eSc_line_c09861ff"/>delit en sen propre liu naturel.<lb break="?" facs="#facs_eSc_line_55cf2df9" xml:id="elem_eSc_line_55cf2df9"/>Et ensi est il des autres elemens<lb break="?" facs="#facs_eSc_line_ddaadf08" xml:id="elem_eSc_line_ddaadf08"/>Tout ensi doit on entendre quil<lb break="?" facs="#facs_eSc_line_d180e24f" xml:id="elem_eSc_line_d180e24f"/>est es natures des biestes. Et<fw type="titre_courant"/><lb break="?" facs="#facs_eSc_line_31f9a631" xml:id="elem_eSc_line_31f9a631"/>102<pb n="" facs="../input_files/troyes898-pages.pdf_page_7.png"/><lb break="?" facs="#facs_eSc_line_bc7ff045" xml:id="elem_eSc_line_bc7ff045"/>puis que nature de bieste est plus<lb break="?" facs="#facs_eSc_line_cfee153b" xml:id="elem_eSc_line_cfee153b"/>france et plus noble de natutre<lb break="?" facs="#facs_eSc_line_c0952a29" xml:id="elem_eSc_line_c0952a29"/>delemens. Et nature douna as<lb break="?" facs="#facs_eSc_line_a455a5af" xml:id="elem_eSc_line_a455a5af"/>elemens .ii. poissantes drois fu<lb break="?" facs="#facs_eSc_line_a2ecd679" xml:id="elem_eSc_line_a2ecd679"/>et raisons que nature dounast<lb break="?" facs="#facs_eSc_line_3962773f" xml:id="elem_eSc_line_3962773f"/>as biestes .ii. poissances. pour ce<lb break="?" facs="#facs_eSc_line_500e5520" xml:id="elem_eSc_line_500e5520"/>que par lune li hom et les autͤs<lb break="?" facs="#facs_eSc_line_b20c4444" xml:id="elem_eSc_line_b20c4444"/>biestes peuissent tendre a chose<lb break="?" facs="#facs_eSc_line_b81cf639" xml:id="elem_eSc_line_b81cf639"/>cõnignable et auoir leur propre<lb break="?" facs="#facs_eSc_line_7004379f" xml:id="elem_eSc_line_7004379f"/>delit. Celle poissance est apielee<lb break="?" facs="#facs_eSc_line_906d996f" xml:id="elem_eSc_line_906d996f"/>desirs de bien delitable et par ⟦au⟧<lb break="?" facs="#facs_eSc_line_0c58c6ea" xml:id="elem_eSc_line_0c58c6ea"/>lautre poissanche il puissent<lb break="?" facs="#facs_eSc_line_62f44a7b" xml:id="elem_eSc_line_62f44a7b"/>contrester as choses qui lor delit<lb break="?" facs="#facs_eSc_line_a0b4b75d" xml:id="elem_eSc_line_a0b4b75d"/>puissent empeechier. Et celle poi-<lb break="?" facs="#facs_eSc_line_4032fccc" xml:id="elem_eSc_line_4032fccc"/>ssanche est appiellee desirs de cõ-<lb break="?" facs="#facs_eSc_line_0a854a98" xml:id="elem_eSc_line_0a854a98"/>trester a chou qui sen propre de-<lb break="?" facs="#facs_eSc_line_53f6875b" xml:id="elem_eSc_line_53f6875b"/>lit peuist empeechier. ¶ Dont<lb break="?" facs="#facs_eSc_line_4c0597b3" xml:id="elem_eSc_line_4c0597b3"/>on puet sauoir que des uertus<lb break="?" facs="#facs_eSc_line_19c1d5e0" xml:id="elem_eSc_line_19c1d5e0"/>de boines oeuures la uertus de<lb break="?" facs="#facs_eSc_line_7c94b13f" xml:id="elem_eSc_line_7c94b13f"/>sapienche est en lentendement.<lb break="?" facs="#facs_eSc_line_81946233" xml:id="elem_eSc_line_81946233"/>et la uertus de iustiche. est en la<lb break="?" facs="#facs_eSc_line_c6cacd65" xml:id="elem_eSc_line_c6cacd65"/>uolente et la uertus de forche de<lb break="?" facs="#facs_eSc_line_3642b7f3" xml:id="elem_eSc_line_3642b7f3"/>corage est el desir de contrester<lb break="?" facs="#facs_eSc_line_adc5e060" xml:id="elem_eSc_line_adc5e060"/>a chou qui empeeche le propre<lb break="?" facs="#facs_eSc_line_45cff52e" xml:id="elem_eSc_line_45cff52e"/>delit de lõme. la uertus datem--<lb break="?" facs="#facs_eSc_line_6d08cc17" xml:id="elem_eSc_line_6d08cc17"/>pranche est ou desir dauoir delit<lb break="?" facs="#facs_eSc_line_707fddd2" xml:id="elem_eSc_line_707fddd2"/>Cis tiers chapitles ensengne<lb break="?" facs="#facs_eSc_line_db866946" xml:id="elem_eSc_line_db866946"/>qnͣtes uertus de boines oeuures<lb break="?" facs="#facs_eSc_line_e7f0b49e" xml:id="elem_eSc_line_e7f0b49e"/>Ous uous auons dit<lb break="?" facs="#facs_eSc_line_1cc92553" xml:id="elem_eSc_line_1cc92553"/>sont<lb break="?" facs="#facs_eSc_line_ff3b2431" xml:id="elem_eSc_line_ff3b2431"/>cõment les uertus de boin-<lb break="?" facs="#facs_eSc_line_d1898fd9" xml:id="elem_eSc_line_d1898fd9"/>nes oeuures sont deuisees. Or<lb break="?" facs="#facs_eSc_line_a36e00d7" xml:id="elem_eSc_line_a36e00d7"/>uous dirons quantes uertus de<lb break="?" facs="#facs_eSc_line_8872c5d9" xml:id="elem_eSc_line_8872c5d9"/>boines oeuures sont. ¶Li phi-<graphic type="initiale" facs="559 1872 559 2010 740 2010 740 1872 733 1968 724 1934 692 1918 690 1918 688 1918 574 1934 574 1973 579 2009 601 1993 631 2007 636 2009 638 2009 640 2011 688 2011 688 2009 690 2009 692 2009 692 2007 695 2007 708 1993 747 2005 751 1973 747 1968 733 1968"/><cb break="?"/><lb break="?" facs="#facs_eSc_line_138af645" xml:id="elem_eSc_line_138af645"/>losophes dist que il sont .xii. uer-<lb break="?" facs="#facs_eSc_line_9b379b9a" xml:id="elem_eSc_line_9b379b9a"/>tus de boinnes oeuures. ¶La p̾-<lb break="?" facs="#facs_eSc_line_8437fe46" xml:id="elem_eSc_line_8437fe46"/>miere est apielee sapience. Celle<lb break="?" facs="#facs_eSc_line_8bf7127d" xml:id="elem_eSc_line_8bf7127d"/>est en lentendement de lomme et<lb break="?" facs="#facs_eSc_line_b1dcb03c" xml:id="elem_eSc_line_b1dcb03c"/>fait que li lom qui la fait oeure<lb break="?" facs="#facs_eSc_line_23b7bc7f" xml:id="elem_eSc_line_23b7bc7f"/>de droites raisons et de boinnes.<lb break="?" facs="#facs_eSc_line_984bd8d8" xml:id="elem_eSc_line_984bd8d8"/>La seconde uertus est iustice:<lb break="?" facs="#facs_eSc_line_11aa5eaf" xml:id="elem_eSc_line_11aa5eaf"/>qui oeuure de droiture et de rai-<lb break="?" facs="#facs_eSc_line_49744960" xml:id="elem_eSc_line_49744960"/>son. ¶Les autres x uertus sõt<lb break="?" facs="#facs_eSc_line_02bf95d3" xml:id="elem_eSc_line_02bf95d3"/>el desir del homme et atemprent<lb break="?" facs="#facs_eSc_line_48de309e" xml:id="elem_eSc_line_48de309e"/>les mouuemens dou cprage selõc<lb break="?" facs="#facs_eSc_line_da1e5a24" xml:id="elem_eSc_line_da1e5a24"/>raison qnͣt elles ont en lomme<lb break="?" facs="#facs_eSc_line_6c9e40ba" xml:id="elem_eSc_line_6c9e40ba"/>tant de pooir. Et qnͣt li mouue-<lb break="?" facs="#facs_eSc_line_cb7e781a" xml:id="elem_eSc_line_cb7e781a"/>ment de corage sont bien atem-<lb break="?" facs="#facs_eSc_line_42f23bbe" xml:id="elem_eSc_line_42f23bbe"/>pre selonc raison. Li hom se main-<lb break="?" facs="#facs_eSc_line_44aa5a72" xml:id="elem_eSc_line_44aa5a72"/>tient es oeuures humaines droi-<lb break="?" facs="#facs_eSc_line_35363b4a" xml:id="elem_eSc_line_35363b4a"/>turierement. Or uous noume-<lb break="?" facs="#facs_eSc_line_48445d37" xml:id="elem_eSc_line_48445d37"/>rons les .x. uertus. Car les deus<lb break="?" facs="#facs_eSc_line_b3702153" xml:id="elem_eSc_line_b3702153"/>deuant nous uous auons nõme-<lb break="?" facs="#facs_eSc_line_509bdec1" xml:id="elem_eSc_line_509bdec1"/>es. ¶Lune des .x. uertus est for-<lb break="?" facs="#facs_eSc_line_68d8e347" xml:id="elem_eSc_line_68d8e347"/>che de corage. ¶Lautre est atẽ-<lb break="?" facs="#facs_eSc_line_8ed0cc96" xml:id="elem_eSc_line_8ed0cc96"/>prance. ¶La tierchies largeche<lb break="?" facs="#facs_eSc_line_cfc3c449" xml:id="elem_eSc_line_cfc3c449"/>de peu dauoir. ¶La quarte est<lb break="?" facs="#facs_eSc_line_73d8f439" xml:id="elem_eSc_line_73d8f439"/>de faire grant despens de grans<lb break="?" facs="#facs_eSc_line_a7530d92" xml:id="elem_eSc_line_a7530d92"/>choses. ¶La quinte est de boi-<lb break="?" facs="#facs_eSc_line_a0d63d6e" xml:id="elem_eSc_line_a0d63d6e"/>nairetes. ¶ La sisime est uerite ᷤ<lb break="?" facs="#facs_eSc_line_52d2571a" xml:id="elem_eSc_line_52d2571a"/>La sietimes est uertus de grant<lb break="?" facs="#facs_eSc_line_8d6ba790" xml:id="elem_eSc_line_8d6ba790"/>cuer ¶La witime est amours<lb break="?" facs="#facs_eSc_line_b3978a54" xml:id="elem_eSc_line_b3978a54"/>donneur. ¶ La nueuime est.<lb break="?" facs="#facs_eSc_line_fed99dc3" xml:id="elem_eSc_line_fed99dc3"/>courtesie. ¶Li disimes est. q̃<lb break="?" facs="#facs_eSc_line_1517ff18" xml:id="elem_eSc_line_1517ff18"/>on si sache bien auoir encõuer-<lb break="?" facs="#facs_eSc_line_b92c0f38" xml:id="elem_eSc_line_b92c0f38"/>ser aueec les gens. ¶Les uer-<lb break="?" facs="#facs_eSc_line_081549d0" xml:id="elem_eSc_line_081549d0"/>tus de boines oeuures sont es</div>
+    </body>
+  </text>
+</TEI>
