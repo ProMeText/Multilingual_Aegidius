@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ars4.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15425" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15426" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15427" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15428" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15429" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15430" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15431" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15432" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15433" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15434" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15435" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15436" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15437" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15438" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT15439" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT6506" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6507" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6508" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6509" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6510" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4396"
+          HEIGHT="6524"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4396"
+                  HEIGHT="6524">
+        
+        <TextBlock HPOS="493"
+                   VPOS="826"
+                   WIDTH="2651"
+                   HEIGHT="3911"
+                   ID="eSc_textblock_05804680"
+                   TAGREFS="BT15429">
+          <Shape><Polygon POINTS="2970 840 3144 956 3086 2957 3086 3432 3144 3577 3086 3754 3101 4432 3057 4664 2999 4708 1073 4737 652 4722 493 4650 507 869 1726 826"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_550ec9a5"
+                    TAGREFS="LT6510"
+                    BASELINE="511 931 3039 916" 
+                    HPOS="507"
+                    VPOS="826"
+                    WIDTH="2532"
+                    HEIGHT="167">
+            <Shape><Polygon POINTS="3010 869 2974 848 2959 844 2930 844 2919 837 2901 837 2865 837 2829 837 2792 837 2756 837 2720 837 2684 837 2647 833 2611 833 2575 833 2538 833 2502 833 2466 833 2430 833 2393 833 2357 833 2321 829 2285 829 2248 829 2212 829 2176 829 2139 829 2103 829 2067 829 2031 829 1994 826 1958 826 1954 826 1900 844 1900 848 1770 848 1766 844 1730 826 1704 826 1668 826 1632 826 1595 829 1559 829 1523 829 1487 833 1450 833 1414 837 1378 837 1342 837 1338 837 1323 848 1312 848 1265 840 1233 840 1196 844 1160 844 1124 844 1088 848 1051 848 1040 848 1019 851 979 851 943 851 906 855 870 855 834 855 797 858 761 858 725 858 689 862 652 862 616 862 580 866 544 866 507 866 511 931 511 993 649 974 953 989 993 989 997 989 1026 989 1200 971 1556 982 1748 985 1751 985 3035 960 3039 916 3017 873 3010 869"/></Shape>
+	    <String CONTENT="participacion. Car combien que lappetit ne soit pas lentendement ne"
+                    HPOS="507"
+                    VPOS="826"
+                    WIDTH="2532"
+                    HEIGHT="167"
+                    WC="0.9868626496685085"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dfb0740b"
+                    TAGREFS="LT6510"
+                    BASELINE="518 1036 3133 1007" 
+                    HPOS="515"
+                    VPOS="927"
+                    WIDTH="2618"
+                    HEIGHT="167">
+            <Shape><Polygon POINTS="3097 927 2927 949 2357 942 2256 942 2252 942 2230 945 2136 964 1994 964 1969 949 1947 938 1944 938 1940 938 1875 953 1817 964 1595 956 1196 945 1193 945 1189 945 1128 967 1117 971 1109 967 1088 953 1084 953 1080 953 1077 953 946 971 939 971 935 971 848 949 845 949 841 949 837 949 834 949 794 974 787 974 634 953 631 953 515 978 518 1036 518 1072 834 1094 837 1094 841 1094 845 1094 870 1072 874 1072 1392 1072 2473 1076 2477 1076 2528 1072 2684 1054 2883 1069 2887 1069 2890 1069 2894 1069 2916 1051 3126 1069 3133 1007 3122 945 3097 927"/></Shape>
+	    <String CONTENT="raison essencielement si participe il raison pource que il est ordonne obeir"
+                    HPOS="515"
+                    VPOS="927"
+                    WIDTH="2618"
+                    HEIGHT="167"
+                    WC="0.9835459409575713"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_54fe3afc"
+                    TAGREFS="LT6510"
+                    BASELINE="511 1130 3101 1109" 
+                    HPOS="507"
+                    VPOS="1043"
+                    WIDTH="2594"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="511 1130 511 1177 3101 1152 3101 1109 3093 1051 1374 1043 1371 1043 1367 1043 1327 1061 558 1051 554 1051 551 1051 507 1065 511 1130"/></Shape>
+	    <String CONTENT="a iison. Mais les puissances naturelles et les sensitiues cõgnoissãces"
+                    HPOS="507"
+                    VPOS="1043"
+                    WIDTH="2594"
+                    HEIGHT="134"
+                    WC="0.9795054478777779"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_42baba92"
+                    TAGREFS="LT6510"
+                    BASELINE="511 1232 3053 1214" 
+                    HPOS="507"
+                    VPOS="1134"
+                    WIDTH="2546"
+                    HEIGHT="149">
+            <Shape><Polygon POINTS="511 1232 511 1283 3050 1257 3053 1214 3046 1152 2916 1134 2912 1134 2586 1152 2535 1156 507 1156 511 1232"/></Shape>
+	    <String CONTENT="ne sont pas racionelles par essence pource que il ne sont pas ruison."
+                    HPOS="507"
+                    VPOS="1134"
+                    WIDTH="2546"
+                    HEIGHT="149"
+                    WC="0.9820468011109725"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11e423bf"
+                    TAGREFS="LT6510"
+                    BASELINE="515 1333 3061 1315" 
+                    HPOS="511"
+                    VPOS="1243"
+                    WIDTH="2550"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="515 1333 515 1373 3057 1362 3061 1315 3053 1246 1969 1243 1965 1243 1813 1257 1780 1261 1766 1261 1701 1243 1697 1243 1693 1243 1570 1261 1566 1261 1537 1243 1534 1243 1530 1243 1526 1243 1523 1243 1472 1264 1465 1264 1450 1264 1363 1246 1360 1246 1200 1264 1196 1264 1055 1246 1051 1246 903 1268 899 1268 895 1268 649 1250 645 1250 511 1272 515 1333"/></Shape>
+	    <String CONTENT="et si ne participẽt point raison car par elles mesmes et selon que ilz sõt"
+                    HPOS="511"
+                    VPOS="1243"
+                    WIDTH="2550"
+                    HEIGHT="130"
+                    WC="0.9934462026545876"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb66f93d"
+                    TAGREFS="LT6510"
+                    BASELINE="515 1420 3075 1409" 
+                    HPOS="511"
+                    VPOS="1337"
+                    WIDTH="2564"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="515 1420 515 1478 3072 1453 3075 1409 3068 1355 2411 1337 2408 1337 2212 1355 1563 1341 1559 1341 511 1362 515 1420"/></Shape>
+	    <String CONTENT="telles il ne obeissent pas a raison. Dont es sens corporelz ne es puissandes"
+                    HPOS="511"
+                    VPOS="1337"
+                    WIDTH="2564"
+                    HEIGHT="141"
+                    WC="0.9887110143899918"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_539d8686"
+                    TAGREFS="LT6510"
+                    BASELINE="515 1522 3086 1504" 
+                    HPOS="511"
+                    VPOS="1435"
+                    WIDTH="2575"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="515 1522 515 1565 2553 1569 2557 1569 3086 1544 3086 1504 3075 1435 511 1457 515 1522"/></Shape>
+	    <String CONTENT="natureles ne sont pas leurs uertuz mais seulemict ont este en lentendemẽt"
+                    HPOS="511"
+                    VPOS="1435"
+                    WIDTH="2575"
+                    HEIGHT="134"
+                    WC="0.9920362540193506"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b184b8cb"
+                    TAGREFS="LT6510"
+                    BASELINE="507 1620 3072 1620" 
+                    HPOS="507"
+                    VPOS="1536"
+                    WIDTH="2565"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="507 1620 507 1663 3072 1659 3072 1620 3068 1536 507 1540 507 1620"/></Shape>
+	    <String CONTENT="et en lapetit. Et en nous a double apetit intellectif et sensitif. car aussi"
+                    HPOS="507"
+                    VPOS="1536"
+                    WIDTH="2565"
+                    HEIGHT="127"
+                    WC="0.9898515343666077"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7415fe7"
+                    TAGREFS="LT6510"
+                    BASELINE="511 1721 3083 1707" 
+                    HPOS="507"
+                    VPOS="1641"
+                    WIDTH="2576"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="511 1721 511 1761 1146 1779 1149 1779 1719 1757 1726 1757 1788 1775 1791 1775 1795 1775 1799 1775 1860 1754 1864 1754 1871 1754 1918 1772 1922 1772 1925 1775 2393 1775 2393 1772 3079 1746 3083 1707 3072 1641 507 1659 511 1721"/></Shape>
+	    <String CONTENT="comme naturel lapetit naturel ensuit la forme prinse nãturelemẽt"
+                    HPOS="507"
+                    VPOS="1641"
+                    WIDTH="2576"
+                    HEIGHT="138"
+                    WC="0.9856734709306196"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c915942a"
+                    TAGREFS="LT6510"
+                    BASELINE="515 1808 3057 1808" 
+                    HPOS="515"
+                    VPOS="1732"
+                    WIDTH="2542"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="515 1808 515 1852 3053 1855 3057 1808 3057 1750 2680 1732 2676 1732 2596 1750 2586 1754 2013 1754 1998 1750 1864 1732 1860 1732 1770 1750 1766 1750 1762 1750 1708 1732 1704 1732 1701 1732 1490 1750 1479 1750 1472 1750 1360 1732 1356 1732 1037 1750 1030 1750 1026 1750 921 1732 917 1732 914 1732 848 1750 671 1732 667 1732 515 1750 515 1808"/></Shape>
+	    <String CONTENT="aussi lapetit de cõgnoissance ensuit la forme congneue car aussi cõe"
+                    HPOS="515"
+                    VPOS="1732"
+                    WIDTH="2542"
+                    HEIGHT="123"
+                    WC="0.9928686857223511"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b06dbf52"
+                    TAGREFS="LT6510"
+                    BASELINE="515 1913 3057 1899" 
+                    HPOS="511"
+                    VPOS="1830"
+                    WIDTH="2546"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="515 1913 515 1971 638 1953 1334 1964 1780 1968 1784 1968 1886 1957 1969 1946 2103 1953 2314 1964 2317 1964 3053 1939 3057 1899 3046 1830 511 1833 515 1913"/></Shape>
+	    <String CONTENT="pource que les choses pesantes ont forme de guiuite ou pesanteur il"
+                    HPOS="511"
+                    VPOS="1830"
+                    WIDTH="2546"
+                    HEIGHT="141"
+                    WC="0.9929811233904824"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45639c47"
+                    TAGREFS="LT6510"
+                    BASELINE="511 2004 3090 2004" 
+                    HPOS="511"
+                    VPOS="1928"
+                    WIDTH="2579"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="511 2004 511 2047 3090 2047 3090 2004 3086 1928 511 1942 511 2004"/></Shape>
+	    <String CONTENT="ont une inclinacion naturrle qui est dit appetit naturel par ilz desirẽt"
+                    HPOS="511"
+                    VPOS="1928"
+                    WIDTH="2579"
+                    HEIGHT="119"
+                    WC="0.9925918252500769"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba803035"
+                    TAGREFS="LT6510"
+                    BASELINE="515 2102 3050 2094" 
+                    HPOS="511"
+                    VPOS="2015"
+                    WIDTH="2539"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="515 2102 515 2145 3046 2134 3050 2094 3043 2033 1846 2015 1842 2015 1599 2033 616 2018 612 2018 511 2036 515 2102"/></Shape>
+	    <String CONTENT="naturelemẽt estie en lieu bas. Ainsi les choses qui ont cõgnoissance"
+                    HPOS="511"
+                    VPOS="2015"
+                    WIDTH="2539"
+                    HEIGHT="130"
+                    WC="0.9722478432314736"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22d9e2a1"
+                    TAGREFS="LT6510"
+                    BASELINE="511 2192 3075 2192" 
+                    HPOS="511"
+                    VPOS="2134"
+                    WIDTH="2564"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="511 2192 511 2250 3075 2232 3075 2192 3075 2134 511 2134 511 2192"/></Shape>
+	    <String CONTENT="pource que il ont en soy la forme de la chose cogneue il sensuit aucune"
+                    HPOS="511"
+                    VPOS="2134"
+                    WIDTH="2564"
+                    HEIGHT="116"
+                    WC="0.9796217721952519"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5eb207e"
+                    TAGREFS="LT6510"
+                    BASELINE="511 2290 3075 2279" 
+                    HPOS="507"
+                    VPOS="2207"
+                    WIDTH="2568"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="511 2290 511 2330 3072 2326 3075 2279 3064 2207 507 2229 511 2290"/></Shape>
+	    <String CONTENT="inclinacion et aucun appetit selon celle forme. Et pource que nous auõ"
+                    HPOS="507"
+                    VPOS="2207"
+                    WIDTH="2568"
+                    HEIGHT="123"
+                    WC="0.9713789887831245"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26d1697a"
+                    TAGREFS="LT6510"
+                    BASELINE="504 2388 3057 2381" 
+                    HPOS="500"
+                    VPOS="2312"
+                    WIDTH="2557"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="504 2388 504 2442 689 2424 1432 2435 1773 2439 1777 2439 3053 2417 3057 2381 3050 2319 500 2312 504 2388"/></Shape>
+	    <String CONTENT="en nous double congnoissance cest assauoir sensitiue⁊ intellectiue"
+                    HPOS="500"
+                    VPOS="2312"
+                    WIDTH="2557"
+                    HEIGHT="130"
+                    WC="0.9916448105465282"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da2d3270"
+                    TAGREFS="LT6510"
+                    BASELINE="507 2486 3075 2479" 
+                    HPOS="504"
+                    VPOS="2399"
+                    WIDTH="2571"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="507 2486 507 2533 3072 2526 3075 2479 3068 2413 587 2399 583 2399 580 2399 504 2417 507 2486"/></Shape>
+	    <String CONTENT="ainsi auons nous double appetit. cest assauoir sensitif qui ensuit la"
+                    HPOS="504"
+                    VPOS="2399"
+                    WIDTH="2571"
+                    HEIGHT="134"
+                    WC="0.9790928070096002"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_54034542"
+                    TAGREFS="LT6510"
+                    BASELINE="504 2584 3068 2573" 
+                    HPOS="500"
+                    VPOS="2500"
+                    WIDTH="2568"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="504 2584 504 2627 3064 2605 3068 2573 3061 2511 536 2500 533 2500 529 2500 525 2500 500 2511 504 2584"/></Shape>
+	    <String CONTENT="forme de la chose cogneue par le sens corporel. et lappr̃at intellectis qui"
+                    HPOS="500"
+                    VPOS="2500"
+                    WIDTH="2568"
+                    HEIGHT="127"
+                    WC="0.9844743895530701"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2192a9b4"
+                    TAGREFS="LT6510"
+                    BASELINE="504 2671 3086 2663" 
+                    HPOS="500"
+                    VPOS="2584"
+                    WIDTH="2586"
+                    HEIGHT="145">
+            <Shape><Polygon POINTS="504 2671 504 2714 1516 2729 1519 2729 1679 2711 1690 2711 1697 2711 1780 2729 1784 2729 2056 2711 2100 2707 2110 2707 2176 2725 2179 2725 2183 2725 2187 2725 2234 2707 2241 2707 2306 2707 2825 2725 2829 2725 2832 2725 2890 2707 3028 2725 3032 2725 3035 2725 3086 2703 3086 2663 3075 2587 2328 2602 2248 2595 2154 2584 2150 2584 2147 2584 2121 2595 2103 2602 2045 2595 1936 2584 1933 2584 1577 2602 1461 2605 1454 2602 1439 2587 1436 2587 1432 2587 1294 2587 1291 2587 1287 2587 1283 2587 1262 2605 1258 2605 1211 2587 1207 2587 1204 2587 1062 2605 1055 2605 1037 2605 565 2587 562 2587 558 2587 500 2609 504 2671"/></Shape>
+	    <String CONTENT="ensuit la forme de la chose cogneue par lentendent. Et lappetit sensitif qst"
+                    HPOS="500"
+                    VPOS="2584"
+                    WIDTH="2586"
+                    HEIGHT="145"
+                    WC="0.9918257923502671"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12242ed6"
+                    TAGREFS="LT6510"
+                    BASELINE="504 2769 3090 2758" 
+                    HPOS="500"
+                    VPOS="2692"
+                    WIDTH="2590"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="504 2769 504 2819 2999 2819 2999 2816 3003 2816 3090 2790 3090 2758 3083 2700 500 2692 504 2769"/></Shape>
+	    <String CONTENT="Souble. car aussi comme nature a donne aux elemens et aux choses qui"
+                    HPOS="500"
+                    VPOS="2692"
+                    WIDTH="2590"
+                    HEIGHT="127"
+                    WC="0.9979837975081276"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58aa55d0"
+                    TAGREFS="LT6510"
+                    BASELINE="511 2859 3083 2852" 
+                    HPOS="507"
+                    VPOS="2776"
+                    WIDTH="2576"
+                    HEIGHT="145">
+            <Shape><Polygon POINTS="3061 2798 2908 2798 2883 2776 2879 2776 2876 2776 2872 2776 2774 2794 2382 2776 2379 2776 2375 2776 2335 2798 2009 2798 1795 2776 1791 2776 1788 2776 1740 2798 1737 2798 1588 2779 1585 2779 1581 2779 1501 2798 1182 2779 1178 2779 845 2798 544 2779 540 2779 536 2779 533 2779 507 2794 511 2859 511 2921 772 2899 1316 2914 1512 2917 1516 2917 1777 2906 2034 2899 2292 2903 3006 2914 3010 2914 3014 2914 3083 2892 3083 2852 3079 2830 3061 2798"/></Shape>
+	    <String CONTENT="sont sans ame double puissance. lune par quoy ilz tendent a leur ꝓpre"
+                    HPOS="507"
+                    VPOS="2776"
+                    WIDTH="2576"
+                    HEIGHT="145"
+                    WC="0.9908761598061824"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_65fa94b2"
+                    TAGREFS="LT6510"
+                    BASELINE="511 2957 3053 2950" 
+                    HPOS="507"
+                    VPOS="2888"
+                    WIDTH="2546"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="511 2957 511 2997 3050 2990 3053 2950 3043 2888 507 2892 511 2957"/></Shape>
+	    <String CONTENT="repoux. et lautre par quoy ilz resistent et se deffendent de leur cõtruires"
+                    HPOS="507"
+                    VPOS="2888"
+                    WIDTH="2546"
+                    HEIGHT="109"
+                    WC="0.9947476457608374"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8eae2df8"
+                    TAGREFS="LT6510"
+                    BASELINE="511 3048 3035 3048" 
+                    HPOS="511"
+                    VPOS="2972"
+                    WIDTH="2524"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="511 3048 511 3091 3035 3084 3035 3048 3035 2990 511 2972 511 3048"/></Shape>
+	    <String CONTENT="et proibant ou empeschant leur propre repour. mais plus ha donnie"
+                    HPOS="511"
+                    VPOS="2972"
+                    WIDTH="2524"
+                    HEIGHT="119"
+                    WC="0.9922512320371775"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a3d35aa3"
+                    TAGREFS="LT6510"
+                    BASELINE="515 3142 3035 3135" 
+                    HPOS="511"
+                    VPOS="3062"
+                    WIDTH="2524"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="515 3142 515 3182 3028 3189 3035 3135 3028 3069 652 3062 649 3062 511 3080 515 3142"/></Shape>
+	    <String CONTENT="nature ceste double puissance es bestes qui ont cõgnoissance et qui sõt"
+                    HPOS="511"
+                    VPOS="3062"
+                    WIDTH="2524"
+                    HEIGHT="127"
+                    WC="0.9881165558344698"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6226df0a"
+                    TAGREFS="LT6510"
+                    BASELINE="515 3233 3043 3233" 
+                    HPOS="515"
+                    VPOS="3171"
+                    WIDTH="2528"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="515 3233 515 3287 3043 3272 3043 3233 3043 3171 515 3171 515 3233"/></Shape>
+	    <String CONTENT="plus parfaiz. nous uoion que le feu est naturellement chault et leger."
+                    HPOS="515"
+                    VPOS="3171"
+                    WIDTH="2528"
+                    HEIGHT="116"
+                    WC="0.988466568504061"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6196920f"
+                    TAGREFS="LT6510"
+                    BASELINE="515 3327 3050 3327" 
+                    HPOS="515"
+                    VPOS="3262"
+                    WIDTH="2535"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="515 3327 515 3367 3050 3359 3050 3327 3046 3262 515 3265 515 3327"/></Shape>
+	    <String CONTENT="et par sa legerete il tend en hault comme en son propre lieu et repoux a"
+                    HPOS="515"
+                    VPOS="3262"
+                    WIDTH="2535"
+                    HEIGHT="105"
+                    WC="0.991758584148354"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4cc444c4"
+                    TAGREFS="LT6510"
+                    BASELINE="515 3410 3035 3417" 
+                    HPOS="511"
+                    VPOS="3345"
+                    WIDTH="2524"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="515 3410 511 3454 3028 3472 3035 3417 3032 3356 515 3345 515 3410"/></Shape>
+	    <String CONTENT="luy conuenable. et par sa chaleur il eschaufse et brule les choses qui luy"
+                    HPOS="511"
+                    VPOS="3345"
+                    WIDTH="2524"
+                    HEIGHT="127"
+                    WC="0.989155202298551"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_353a66e3"
+                    TAGREFS="LT6510"
+                    BASELINE="511 3497 3083 3508" 
+                    HPOS="511"
+                    VPOS="3439"
+                    WIDTH="2572"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="511 3497 511 3551 3079 3544 3083 3508 3079 3450 511 3439 511 3497"/></Shape>
+	    <String CONTENT="sont contraurs. Soncques nature a donne au feu puissance calefactiue"
+                    HPOS="511"
+                    VPOS="3439"
+                    WIDTH="2572"
+                    HEIGHT="112"
+                    WC="0.9866099559208926"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_966bff7a"
+                    TAGREFS="LT6510"
+                    BASELINE="511 3588 3122 3599" 
+                    HPOS="507"
+                    VPOS="3530"
+                    WIDTH="2615"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="511 3588 507 3635 3115 3642 3122 3599 3119 3533 511 3530 511 3588"/></Shape>
+	    <String CONTENT="ou eschauffante a ce que par elle il resistast es choses contiires ⁊ coruptiuq"
+                    HPOS="507"
+                    VPOS="3530"
+                    WIDTH="2615"
+                    HEIGHT="112"
+                    WC="0.9879684211351932"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad4ffbbd"
+                    TAGREFS="LT6510"
+                    BASELINE="511 3682 3061 3689" 
+                    HPOS="507"
+                    VPOS="3624"
+                    WIDTH="2554"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="511 3682 507 3725 3053 3736 3061 3689 3057 3635 511 3624 511 3682"/></Shape>
+	    <String CONTENT="affin quil ne fust empesche par quelconques choses contiaires de tendre ꝑ"
+                    HPOS="507"
+                    VPOS="3624"
+                    WIDTH="2554"
+                    HEIGHT="112"
+                    WC="0.9832565004694952"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49b572b7"
+                    TAGREFS="LT6510"
+                    BASELINE="511 3780 3035 3787" 
+                    HPOS="511"
+                    VPOS="3718"
+                    WIDTH="2524"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="511 3780 511 3834 3032 3831 3035 3787 3032 3729 511 3718 511 3780"/></Shape>
+	    <String CONTENT="sa legerrte a son propre lieu et de y icposer. ¶ Soncques si nature au"
+                    HPOS="511"
+                    VPOS="3718"
+                    WIDTH="2524"
+                    HEIGHT="116"
+                    WC="0.9952557035854884"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f77532b"
+                    TAGREFS="LT6510"
+                    BASELINE="515 3870 3064 3885" 
+                    HPOS="515"
+                    VPOS="3809"
+                    WIDTH="2549"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="515 3870 515 3928 3061 3925 3064 3885 3061 3823 515 3809 515 3870"/></Shape>
+	    <String CONTENT="feu et aux choses qui sont sans ame a donne double puissance. une par"
+                    HPOS="515"
+                    VPOS="3809"
+                    WIDTH="2549"
+                    HEIGHT="119"
+                    WC="0.98920387375182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e2dae1d2"
+                    TAGREFS="LT6510"
+                    BASELINE="515 3957 3050 3983" 
+                    HPOS="511"
+                    VPOS="3903"
+                    WIDTH="2539"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="515 3957 511 4005 1603 4034 1606 4034 2234 4023 2241 4023 2245 4023 2357 4041 2361 4041 2578 4026 2731 4044 2734 4044 3046 4026 3050 3983 3046 3910 515 3903 515 3957"/></Shape>
+	    <String CONTENT="quoy ilz acquerẽt leur propre repour. et lautre par quoy ilz se deffendent"
+                    HPOS="511"
+                    VPOS="3903"
+                    WIDTH="2539"
+                    HEIGHT="141"
+                    WC="0.9919715325037638"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79b693be"
+                    TAGREFS="LT6510"
+                    BASELINE="515 4052 3024 4073" 
+                    HPOS="511"
+                    VPOS="3997"
+                    WIDTH="2513"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="515 4052 511 4095 3017 4131 3024 4073 3021 4008 515 3997 515 4052"/></Shape>
+	    <String CONTENT="de leur contiiur et proibans. par plus forte raison a elle donne ce aux"
+                    HPOS="511"
+                    VPOS="3997"
+                    WIDTH="2513"
+                    HEIGHT="134"
+                    WC="0.9863110360964923"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32d82a36"
+                    TAGREFS="LT6510"
+                    BASELINE="515 4153 3024 4171" 
+                    HPOS="511"
+                    VPOS="4091"
+                    WIDTH="2513"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="515 4153 511 4193 3017 4218 3024 4171 3021 4110 515 4091 515 4153"/></Shape>
+	    <String CONTENT="bestes donc elle leur a donne appetit sensitif double. lun par quoy ilz"
+                    HPOS="511"
+                    VPOS="4091"
+                    WIDTH="2513"
+                    HEIGHT="127"
+                    WC="0.9882313424432781"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f69fe736"
+                    TAGREFS="LT6510"
+                    BASELINE="515 4251 3083 4258" 
+                    HPOS="515"
+                    VPOS="4186"
+                    WIDTH="2568"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="515 4251 515 4313 3079 4302 3083 4258 3079 4200 515 4186 515 4251"/></Shape>
+	    <String CONTENT="poursuiuãt et querẽt leur propre icpour et propre delectacion qui est nõme"
+                    HPOS="515"
+                    VPOS="4186"
+                    WIDTH="2568"
+                    HEIGHT="127"
+                    WC="0.9938578288276474"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36f2e71a"
+                    TAGREFS="LT6510"
+                    BASELINE="515 4345 3068 4356" 
+                    HPOS="511"
+                    VPOS="4284"
+                    WIDTH="2557"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="515 4345 511 4385 870 4407 874 4407 1312 4392 1389 4410 1392 4410 1396 4410 3064 4396 3068 4356 3061 4284 515 4284 515 4345"/></Shape>
+	    <String CONTENT="concubisable. et lautre par quoy ilz resistent a leur contuures ⁊ assaillent"
+                    HPOS="511"
+                    VPOS="4284"
+                    WIDTH="2557"
+                    HEIGHT="126"
+                    WC="0.994554089088189"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5664718d"
+                    TAGREFS="LT6510"
+                    BASELINE="515 4436 3057 4458" 
+                    HPOS="511"
+                    VPOS="4360"
+                    WIDTH="2546"
+                    HEIGHT="145">
+            <Shape><Polygon POINTS="511 4479 3050 4505 3057 4458 3050 4381 2945 4400 2538 4378 2535 4378 2531 4378 2491 4400 2219 4400 2078 4374 2074 4374 1813 4392 1708 4371 1704 4371 1701 4371 1697 4371 1679 4389 1621 4371 1617 4371 1614 4371 1128 4385 1106 4367 1102 4367 1099 4367 1095 4367 939 4385 852 4363 848 4363 845 4363 602 4381 518 4360 515 4436 511 4479"/></Shape>
+	    <String CONTENT="les proibens cest a dire les choses qui empeschent leur repour et delectaciõ"
+                    HPOS="511"
+                    VPOS="4360"
+                    WIDTH="2546"
+                    HEIGHT="145"
+                    WC="0.9919963749972257"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_efdf80f8"
+                    TAGREFS="LT6510"
+                    BASELINE="511 4537 3043 4552" 
+                    HPOS="507"
+                    VPOS="4468"
+                    WIDTH="2536"
+                    HEIGHT="149">
+            <Shape><Polygon POINTS="511 4537 507 4592 1748 4606 1751 4606 1755 4606 1759 4606 1759 4603 1780 4588 2143 4606 2212 4610 2216 4610 2241 4610 2386 4592 2411 4610 2415 4613 2419 4613 2422 4613 2426 4613 2430 4613 2441 4610 2488 4595 2553 4610 2564 4613 2567 4613 2571 4617 2713 4617 2713 4613 2716 4613 2720 4613 2742 4595 3035 4613 3043 4552 3039 4487 511 4468 511 4537"/></Shape>
+	    <String CONTENT="et est nõme miscible ainsi que lappetit concubisable est ainsi es bestes"
+                    HPOS="507"
+                    VPOS="4468"
+                    WIDTH="2536"
+                    HEIGHT="149"
+                    WC="0.9831735312122188"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50406ec0"
+                    TAGREFS="LT6510"
+                    BASELINE="507 4635 3021 4650" 
+                    HPOS="504"
+                    VPOS="4559"
+                    WIDTH="2517"
+                    HEIGHT="210">
+            <Shape><Polygon POINTS="507 4635 504 4722 627 4758 631 4758 634 4758 826 4729 885 4751 888 4751 892 4751 895 4751 975 4729 986 4729 993 4729 1135 4762 1138 4766 1338 4766 1338 4762 1342 4762 1345 4762 1374 4740 1403 4762 1407 4762 1410 4762 1414 4766 1494 4766 1494 4762 1497 4762 1548 4737 1559 4733 1574 4740 1606 4751 1610 4751 1614 4751 1664 4740 1697 4733 1711 4740 1759 4766 1762 4766 1766 4766 1770 4766 1828 4744 1846 4737 1878 4744 1994 4766 1998 4769 2194 4769 2194 4766 2198 4766 2256 4748 2299 4737 2390 4751 2520 4769 2524 4769 2528 4769 2564 4751 2593 4740 2658 4755 2687 4758 2691 4758 2694 4758 2698 4758 2702 4755 2727 4740 2800 4755 2818 4758 2821 4758 2847 4755 2970 4740 3010 4758 3021 4650 3017 4592 2734 4570 2731 4570 2727 4570 2723 4570 2698 4588 2694 4592 2433 4592 2426 4584 2397 4566 2393 4566 2390 4566 2386 4566 2382 4566 2335 4584 2285 4566 2281 4566 2277 4566 2274 4566 2219 4584 2212 4584 2198 4584 2056 4566 2052 4566 1766 4581 1740 4581 1737 4581 1719 4563 1715 4563 1711 4563 1708 4563 1704 4563 1657 4581 1653 4581 1650 4581 1585 4563 1581 4563 1577 4563 1472 4577 1447 4581 1421 4577 1302 4563 1298 4563 1222 4577 1196 4581 1120 4577 888 4559 885 4559 507 4570 507 4635"/></Shape>
+	    <String CONTENT="cõme legercte et guigfuete est es choses gugues et legeire. mais lappetit"
+                    HPOS="504"
+                    VPOS="4559"
+                    WIDTH="2517"
+                    HEIGHT="210"
+                    WC="0.9535339031670544"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

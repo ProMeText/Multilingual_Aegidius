@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ars6.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15425" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15426" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15427" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15428" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15429" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15430" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15431" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15432" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15433" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15434" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15435" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15436" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15437" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15438" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT15439" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT6506" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6507" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6508" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6509" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6510" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4378"
+          HEIGHT="6501"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4378"
+                  HEIGHT="6501">
+        
+        <TextBlock HPOS="419"
+                   VPOS="794"
+                   WIDTH="2712"
+                   HEIGHT="3897"
+                   ID="eSc_textblock_18e2238b"
+                   TAGREFS="BT15429">
+          <Shape><Polygon POINTS="3073 837 3073 2264 3088 2669 3131 2701 3088 2759 3059 3655 3088 4648 2120 4691 491 4662 433 4171 462 2672 419 2307 462 852 1849 794"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4c90da7d"
+                    TAGREFS="LT6510"
+                    BASELINE="476 895 3048 902" 
+                    HPOS="476"
+                    VPOS="794"
+                    WIDTH="2572"
+                    HEIGHT="159">
+            <Shape><Polygon POINTS="3037 834 3001 834 2965 834 2929 830 2893 830 2857 827 2821 827 2785 827 2748 823 2712 823 2676 823 2640 819 2604 819 2568 819 2532 816 2496 816 2459 816 2423 812 2387 812 2351 809 2315 809 2279 809 2243 805 2207 805 2170 805 2134 801 2098 801 2062 801 2037 798 1979 798 1954 798 1946 794 1802 794 1773 794 1737 798 1701 798 1665 801 1629 801 1592 801 1556 805 1520 805 1484 809 1448 809 1412 809 1376 812 1340 812 1304 816 1267 816 1231 819 1195 819 1159 819 1123 823 1087 823 1051 827 1015 827 978 827 942 830 906 830 870 834 834 834 798 837 762 837 726 837 689 841 653 841 617 845 581 845 545 845 520 845 476 895 476 953 3045 949 3048 902 3045 834 3037 834"/></Shape>
+	    <String CONTENT="nous entreprenon les hauls biens et difficles. mais lappetit sensitif"
+                    HPOS="476"
+                    VPOS="794"
+                    WIDTH="2572"
+                    HEIGHT="159"
+                    WC="0.9776746518370034"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_949f1613"
+                    TAGREFS="LT6510"
+                    BASELINE="469 1000 3034 1000" 
+                    HPOS="469"
+                    VPOS="935"
+                    WIDTH="2565"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="469 1000 469 1061 3034 1043 3034 1000 3034 942 469 935 469 1000"/></Shape>
+	    <String CONTENT="par quoy nous poursuuuion les biens sensibles et delectables ⁊ cellui"
+                    HPOS="469"
+                    VPOS="935"
+                    WIDTH="2565"
+                    HEIGHT="126"
+                    WC="0.993223652459573"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ca81de8"
+                    TAGREFS="LT6510"
+                    BASELINE="476 1101 3034 1087" 
+                    HPOS="473"
+                    VPOS="1014"
+                    WIDTH="2561"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="476 1101 476 1162 3030 1134 3034 1087 3023 1014 2384 1032 2058 1025 1755 1018 1751 1018 1748 1018 1723 1029 1704 1036 1553 1032 1285 1022 1282 1022 1130 1036 1087 1040 1018 1040 715 1025 711 1025 473 1043 476 1101"/></Shape>
+	    <String CONTENT="par quoy nous entreprenon les choses terables et difficles ne sont"
+                    HPOS="473"
+                    VPOS="1014"
+                    WIDTH="2561"
+                    HEIGHT="148"
+                    WC="0.9733028547330336"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9817ebc0"
+                    TAGREFS="LT6510"
+                    BASELINE="480 1206 3030 1188" 
+                    HPOS="476"
+                    VPOS="1112"
+                    WIDTH="2554"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="480 1206 480 1253 3027 1249 3030 1188 3019 1112 1853 1134 1737 1130 1553 1119 1549 1119 1477 1134 1444 1137 1329 1134 989 1123 986 1123 982 1123 939 1141 931 1141 892 1141 581 1126 577 1126 476 1144 480 1206"/></Shape>
+	    <String CONTENT="pas une mesme chose. Pourquoy si toute uertuz morale est en lentẽ"
+                    HPOS="476"
+                    VPOS="1112"
+                    WIDTH="2554"
+                    HEIGHT="141"
+                    WC="0.9726005065621752"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c4b57c35"
+                    TAGREFS="LT6510"
+                    BASELINE="440 1303 3037 1292" 
+                    HPOS="437"
+                    VPOS="1231"
+                    WIDTH="2600"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="440 1303 440 1339 3037 1339 3037 1292 3027 1231 437 1235 440 1303"/></Shape>
+	    <String CONTENT="dement ou en lappetit et lun appetit est intellectif sicõme uolente. Et"
+                    HPOS="437"
+                    VPOS="1231"
+                    WIDTH="2600"
+                    HEIGHT="108"
+                    WC="0.9852601281470723"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9982eb9"
+                    TAGREFS="LT6510"
+                    BASELINE="469 1397 3027 1379" 
+                    HPOS="465"
+                    VPOS="1321"
+                    WIDTH="2562"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="469 1397 469 1444 3023 1437 3027 1379 3016 1321 465 1332 469 1397"/></Shape>
+	    <String CONTENT="lautre sensitif qui est diuise en deux cest assauoir irascible et concu"
+                    HPOS="465"
+                    VPOS="1321"
+                    WIDTH="2562"
+                    HEIGHT="123"
+                    WC="0.9805274370690467"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1da0191"
+                    TAGREFS="LT6510"
+                    BASELINE="469 1498 3041 1484" 
+                    HPOS="465"
+                    VPOS="1408"
+                    WIDTH="2576"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="469 1498 469 1545 3037 1524 3041 1484 3034 1426 2759 1408 2756 1408 465 1426 469 1498"/></Shape>
+	    <String CONTENT="biscible il comuent que toute uertuz morale soit en lentendemẽt ou en"
+                    HPOS="465"
+                    VPOS="1408"
+                    WIDTH="2576"
+                    HEIGHT="137"
+                    WC="0.9830657192638942"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be6de170"
+                    TAGREFS="LT6510"
+                    BASELINE="465 1599 3037 1585" 
+                    HPOS="462"
+                    VPOS="1506"
+                    WIDTH="2575"
+                    HEIGHT="151">
+            <Shape><Polygon POINTS="465 1599 465 1657 3034 1632 3037 1585 3027 1506 1744 1527 1694 1520 1592 1509 1589 1509 1181 1527 1177 1527 1123 1509 1119 1509 1116 1509 1112 1509 1108 1509 1087 1531 1083 1531 1036 1531 502 1513 498 1513 494 1513 491 1513 462 1527 465 1599"/></Shape>
+	    <String CONTENT="la uolente ou en lappetit irasable ou concubisaible. ¶ Soncques en"
+                    HPOS="462"
+                    VPOS="1506"
+                    WIDTH="2575"
+                    HEIGHT="151"
+                    WC="0.9765435267578472"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04559705"
+                    TAGREFS="LT6510"
+                    BASELINE="469 1701 3052 1686" 
+                    HPOS="465"
+                    VPOS="1610"
+                    WIDTH="2587"
+                    HEIGHT="145">
+            <Shape><Polygon POINTS="469 1701 469 1755 3052 1726 3052 1686 3045 1628 2474 1610 2470 1610 2467 1610 2398 1628 1246 1618 1242 1618 465 1639 469 1701"/></Shape>
+	    <String CONTENT="prenent uertuz morale largement selon que prudence est uectuz mora"
+                    HPOS="465"
+                    VPOS="1610"
+                    WIDTH="2587"
+                    HEIGHT="145"
+                    WC="0.9989477648879542"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1edc6d46"
+                    TAGREFS="LT6510"
+                    BASELINE="469 1787 3023 1776" 
+                    HPOS="465"
+                    VPOS="1726"
+                    WIDTH="2558"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="469 1787 469 1834 3019 1820 3023 1776 3016 1726 465 1726 469 1787"/></Shape>
+	    <String CONTENT="le nous pouons dire que les quatre uertuz cardinales sont prinsce"
+                    HPOS="465"
+                    VPOS="1726"
+                    WIDTH="2558"
+                    HEIGHT="108"
+                    WC="0.9946979375985953"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_931fde80"
+                    TAGREFS="LT6510"
+                    BASELINE="469 1888 3048 1874" 
+                    HPOS="465"
+                    VPOS="1798"
+                    WIDTH="2583"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="469 1888 473 1950 541 1932 1015 1946 1108 1946 1112 1946 1155 1943 1322 1928 1531 1939 1614 1943 1618 1943 3045 1921 3048 1874 3037 1798 1751 1820 1585 1816 1246 1805 1242 1805 1072 1823 1047 1823 1000 1823 502 1809 498 1809 494 1809 491 1809 465 1820 469 1888"/></Shape>
+	    <String CONTENT="selon ses quatre puissances de lame es quelles peust estre uertuz cest"
+                    HPOS="465"
+                    VPOS="1798"
+                    WIDTH="2583"
+                    HEIGHT="152"
+                    WC="0.9945635139942169"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd54a3e9"
+                    TAGREFS="LT6510"
+                    BASELINE="469 1982 3023 1968" 
+                    HPOS="465"
+                    VPOS="1906"
+                    WIDTH="2558"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="469 1982 469 2033 2344 2033 2344 2029 2347 2029 2351 2029 2387 2011 3016 2026 3023 1968 3016 1914 541 1906 538 1906 534 1906 465 1925 469 1982"/></Shape>
+	    <String CONTENT="assauoir prudence iustice force et temperance. Car prudence est en len"
+                    HPOS="465"
+                    VPOS="1906"
+                    WIDTH="2558"
+                    HEIGHT="127"
+                    WC="0.9921786895820073"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4db6e9cf"
+                    TAGREFS="LT6510"
+                    BASELINE="458 2076 3048 2062" 
+                    HPOS="455"
+                    VPOS="2000"
+                    WIDTH="2593"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="458 2076 458 2120 982 2138 986 2138 1083 2120 1105 2116 1224 2120 1748 2134 1751 2134 1903 2116 1936 2112 1950 2116 2008 2130 2012 2130 2015 2130 3048 2109 3048 2062 3037 2000 455 2011 458 2076"/></Shape>
+	    <String CONTENT="tendement. Iustice en la uolente. force en lappetit unsable. et temper̃ce"
+                    HPOS="455"
+                    VPOS="2000"
+                    WIDTH="2593"
+                    HEIGHT="138"
+                    WC="0.9830868350316401"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_edbd2f46"
+                    TAGREFS="LT6510"
+                    BASELINE="469 2167 1477 2174" 
+                    HPOS="465"
+                    VPOS="2087"
+                    WIDTH="1012"
+                    HEIGHT="145">
+            <Shape><Polygon POINTS="469 2167 465 2221 964 2210 1065 2217 1228 2232 1231 2232 1473 2210 1477 2174 1473 2109 751 2109 744 2105 679 2087 675 2087 671 2087 469 2101 469 2167"/></Shape>
+	    <String CONTENT="en lappetit concubiscble."
+                    HPOS="465"
+                    VPOS="2087"
+                    WIDTH="1012"
+                    HEIGHT="145"
+                    WC="0.9694612216949463"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
