@@ -8,26 +8,29 @@ import os
 
 def clean_text(text, delimiter):
     # On teste si on a des délimiteurs qui précèdent une espace
-    regexp_punct = re.compile(rf"{delimiter}([\(\)\[\].;¿?“–«'¡\-—\"])\s?")
+    
+    regexp_strip = re.compile(r"[#*•|α^<>]")
+    text = re.sub(regexp_strip, "", text)
+    
+    regexp_punct = re.compile(rf"{delimiter}([\(\)\[\].·,,;¿?¦“…/’‘>«»'¡\-—–―\"])\s?")
     search = re.search(regexp_punct, text)
-    while search:
+    if search:
         text = re.sub(regexp_punct, rf"\1{delimiter}", text)
-        search = re.search(regexp_punct, text)
 
     regexp_space = re.compile(rf"{delimiter}\s")
     search = re.search(regexp_space, text)
-    while search:
+    if search:
         text = re.sub(regexp_space, delimiter, text)
-        search = re.search(regexp_space, text)
 
     text = text.replace(f"{delimiter}{delimiter}", delimiter)
     
-    regexp = re.compile(rf"{delimiter}([^A-Za-zẽ\d+çÇÉÁÍÓÚéçáíƷàÞóúýþ&])\s?")
+    regexp = re.compile(rf"{delimiter}([^A-Za-zẽ\d+çÇÉÁÍòãÓȝïÈèÚéçáíƷàÞóúýþ&])\s?")
     search = re.search(regexp, text)
     if search:
         print(text)
         print(search)
-        print("Keep working!")
+        print("Recursinving!")
+        text = clean_text(text, delimiter)
     
     # On supprime le délimiteur en fin d'exemple
     try:
@@ -36,7 +39,7 @@ def clean_text(text, delimiter):
     except IndexError:
         print(f"Error with example |{text}|")
         exit()
-
+    
     return text
 
 
@@ -58,6 +61,8 @@ def main(input_dir, split, output_dir, delimiter, lang):
             continue
         langs.append(current_lang)
         for file in glob.glob(f"{dirLang}/*"):
+            if ".json" in file:
+                continue
             filename = file.split("/")[-1]
 
             # On verifie qu'on matche bien le split qu'on veut
