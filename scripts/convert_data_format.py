@@ -9,6 +9,8 @@ import os
 def clean_text(text, delimiter):
     # On teste si on a des délimiteurs qui précèdent une espace
     
+    text = text.replace("’", "'")
+    
     regexp_strip = re.compile(r"[#*•|α^<>]")
     text = re.sub(regexp_strip, "", text)
     
@@ -24,7 +26,7 @@ def clean_text(text, delimiter):
 
     text = text.replace(f"{delimiter}{delimiter}", delimiter)
     
-    regexp = re.compile(rf"{delimiter}([^A-Za-zẽ\d+çÇÉÁÍòãÓȝïÈèÚéçáíƷàÞóúýþ&])\s?")
+    regexp = re.compile(rf"{delimiter}([^A-Za-zẽ\d+çÇÉÁÍòãÓȝïÈũèÚéçáíƷàÞóúýþ&])\s?")
     search = re.search(regexp, text)
     if search:
         print(text)
