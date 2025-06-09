@@ -1,0 +1,806 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BNE_9236">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>BNE_9236</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="facs_eSc_line_11dcf81d" corresp="#elem_eSc_line_11dcf81d">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_11dcf81d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a75e0d9d" corresp="#elem_eSc_line_a75e0d9d">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_a75e0d9d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_07f5fff8" corresp="#elem_eSc_line_07f5fff8">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_07f5fff8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_78df385f" corresp="#elem_eSc_line_78df385f">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_78df385f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9fae371e" corresp="#elem_eSc_line_9fae371e">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_9fae371e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_33c91ef2" corresp="#elem_eSc_line_33c91ef2">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_33c91ef2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c1ac6ebf" corresp="#elem_eSc_line_c1ac6ebf">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_c1ac6ebf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ab482284" corresp="#elem_eSc_line_ab482284">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_ab482284.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bfb734ed" corresp="#elem_eSc_line_bfb734ed">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_bfb734ed.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_844da936" corresp="#elem_eSc_line_844da936">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_844da936.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d313b51d" corresp="#elem_eSc_line_d313b51d">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_d313b51d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a000101c" corresp="#elem_eSc_line_a000101c">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_a000101c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d43586b4" corresp="#elem_eSc_line_d43586b4">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_d43586b4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_273a2502" corresp="#elem_eSc_line_273a2502">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_273a2502.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_06d1e199" corresp="#elem_eSc_line_06d1e199">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_06d1e199.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0129ef90" corresp="#elem_eSc_line_0129ef90">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_0129ef90.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3ede2688" corresp="#elem_eSc_line_3ede2688">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_3ede2688.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_19cc5a2b" corresp="#elem_eSc_line_19cc5a2b">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_19cc5a2b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f6dd5524" corresp="#elem_eSc_line_f6dd5524">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_f6dd5524.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e189cd78" corresp="#elem_eSc_line_e189cd78">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_e189cd78.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_15633639" corresp="#elem_eSc_line_15633639">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_15633639.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0ee4f749" corresp="#elem_eSc_line_0ee4f749">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_0ee4f749.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_09370d9e" corresp="#elem_eSc_line_09370d9e">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_09370d9e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f16d2fa0" corresp="#elem_eSc_line_f16d2fa0">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_f16d2fa0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5f72f960" corresp="#elem_eSc_line_5f72f960">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_5f72f960.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4b9524d7" corresp="#elem_eSc_line_4b9524d7">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_4b9524d7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_41cd659f" corresp="#elem_eSc_line_41cd659f">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_41cd659f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7138c470" corresp="#elem_eSc_line_7138c470">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_7138c470.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_788af1c2" corresp="#elem_eSc_line_788af1c2">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_788af1c2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0c00f4ad" corresp="#elem_eSc_line_0c00f4ad">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_0c00f4ad.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ffff88f5" corresp="#elem_eSc_line_ffff88f5">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_ffff88f5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6e788101" corresp="#elem_eSc_line_6e788101">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_6e788101.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ccaf55ac" corresp="#elem_eSc_line_ccaf55ac">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_ccaf55ac.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4c942c94" corresp="#elem_eSc_line_4c942c94">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_4c942c94.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bfa3b9d5" corresp="#elem_eSc_line_bfa3b9d5">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_bfa3b9d5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_55511560" corresp="#elem_eSc_line_55511560">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_55511560.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3b492924" corresp="#elem_eSc_line_3b492924">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_3b492924.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7d3b015e" corresp="#elem_eSc_line_7d3b015e">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_7d3b015e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c4368f03" corresp="#elem_eSc_line_c4368f03">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_c4368f03.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_255c44fe" corresp="#elem_eSc_line_255c44fe">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_255c44fe.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8878a37d" corresp="#elem_eSc_line_8878a37d">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_8878a37d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a30b95cd" corresp="#elem_eSc_line_a30b95cd">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_a30b95cd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fb60ac6b" corresp="#elem_eSc_line_fb60ac6b">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_fb60ac6b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2cbcb735" corresp="#elem_eSc_line_2cbcb735">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_2cbcb735.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a8edd70c" corresp="#elem_eSc_line_a8edd70c">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_a8edd70c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ed1674b0" corresp="#elem_eSc_line_ed1674b0">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_ed1674b0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bb75c6aa" corresp="#elem_eSc_line_bb75c6aa">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_bb75c6aa.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d4d84343" corresp="#elem_eSc_line_d4d84343">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_d4d84343.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0f8ba71c" corresp="#elem_eSc_line_0f8ba71c">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_0f8ba71c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_251d87a6" corresp="#elem_eSc_line_251d87a6">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_251d87a6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_75e50c51" corresp="#elem_eSc_line_75e50c51">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_75e50c51.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1409c01e" corresp="#elem_eSc_line_1409c01e">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_1409c01e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b1486d0d" corresp="#elem_eSc_line_b1486d0d">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_b1486d0d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f6f7046e" corresp="#elem_eSc_line_f6f7046e">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_f6f7046e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_733325b4" corresp="#elem_eSc_line_733325b4">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_733325b4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_28099636" corresp="#elem_eSc_line_28099636">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_28099636.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2d2e2833" corresp="#elem_eSc_line_2d2e2833">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_2d2e2833.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2727209a" corresp="#elem_eSc_line_2727209a">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_2727209a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0faa7480" corresp="#elem_eSc_line_0faa7480">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_0faa7480.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7e29cdd5" corresp="#elem_eSc_line_7e29cdd5">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_7e29cdd5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_440f802c" corresp="#elem_eSc_line_440f802c">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_440f802c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5e2f9dac" corresp="#elem_eSc_line_5e2f9dac">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_5e2f9dac.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a7a1faef" corresp="#elem_eSc_line_a7a1faef">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_a7a1faef.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fa76d2f4" corresp="#elem_eSc_line_fa76d2f4">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_fa76d2f4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7f2850fb" corresp="#elem_eSc_line_7f2850fb">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_7f2850fb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_198bc83d" corresp="#elem_eSc_line_198bc83d">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_198bc83d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_abf8d2dd" corresp="#elem_eSc_line_abf8d2dd">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_abf8d2dd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_165ff698" corresp="#elem_eSc_line_165ff698">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_165ff698.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_57ad44c1" corresp="#elem_eSc_line_57ad44c1">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_57ad44c1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9f66862d" corresp="#elem_eSc_line_9f66862d">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_9f66862d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b4c73fb7" corresp="#elem_eSc_line_b4c73fb7">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_b4c73fb7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2d7b3a3c" corresp="#elem_eSc_line_2d7b3a3c">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_2d7b3a3c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_31e6023c" corresp="#elem_eSc_line_31e6023c">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_31e6023c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_433d7d56" corresp="#elem_eSc_line_433d7d56">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_433d7d56.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f0149e16" corresp="#elem_eSc_line_f0149e16">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_f0149e16.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4d538120" corresp="#elem_eSc_line_4d538120">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_4d538120.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b38b4e9e" corresp="#elem_eSc_line_b38b4e9e">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_b38b4e9e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_56f91229" corresp="#elem_eSc_line_56f91229">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_56f91229.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_33a1261b" corresp="#elem_eSc_line_33a1261b">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_33a1261b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0ceb7d34" corresp="#elem_eSc_line_0ceb7d34">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_0ceb7d34.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_41761ae7" corresp="#elem_eSc_line_41761ae7">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_41761ae7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_49b5d828" corresp="#elem_eSc_line_49b5d828">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_49b5d828.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_40cc15d2" corresp="#elem_eSc_line_40cc15d2">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_40cc15d2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7d9c8e45" corresp="#elem_eSc_line_7d9c8e45">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_7d9c8e45.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_159ce893" corresp="#elem_eSc_line_159ce893">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_159ce893.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_aea6ff7a" corresp="#elem_eSc_line_aea6ff7a">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_aea6ff7a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b096f108" corresp="#elem_eSc_line_b096f108">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_b096f108.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fe902bb7" corresp="#elem_eSc_line_fe902bb7">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_fe902bb7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ffb8669b" corresp="#elem_eSc_line_ffb8669b">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_ffb8669b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c17f9517" corresp="#elem_eSc_line_c17f9517">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_c17f9517.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9c34030a" corresp="#elem_eSc_line_9c34030a">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_9c34030a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_de2b4219" corresp="#elem_eSc_line_de2b4219">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_de2b4219.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f6b58a27" corresp="#elem_eSc_line_f6b58a27">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_f6b58a27.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_95046aed" corresp="#elem_eSc_line_95046aed">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_95046aed.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6771c35b" corresp="#elem_eSc_line_6771c35b">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_6771c35b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_51737ed8" corresp="#elem_eSc_line_51737ed8">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_51737ed8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_aee044e5" corresp="#elem_eSc_line_aee044e5">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_aee044e5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_39616946" corresp="#elem_eSc_line_39616946">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_39616946.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_882f9a3a" corresp="#elem_eSc_line_882f9a3a">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_882f9a3a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6e9c467c" corresp="#elem_eSc_line_6e9c467c">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_6e9c467c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_89728298" corresp="#elem_eSc_line_89728298">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_89728298.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8c2336ed" corresp="#elem_eSc_line_8c2336ed">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_8c2336ed.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e2cb2bb9" corresp="#elem_eSc_line_e2cb2bb9">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_e2cb2bb9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0956a9ee" corresp="#elem_eSc_line_0956a9ee">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_0956a9ee.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ec515a0b" corresp="#elem_eSc_line_ec515a0b">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_ec515a0b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_76bc7605" corresp="#elem_eSc_line_76bc7605">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_76bc7605.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_37a1fe35" corresp="#elem_eSc_line_37a1fe35">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_37a1fe35.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3e9f8ecc" corresp="#elem_eSc_line_3e9f8ecc">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_3e9f8ecc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4a4c3980" corresp="#elem_eSc_line_4a4c3980">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_4a4c3980.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_727c3660" corresp="#elem_eSc_line_727c3660">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_727c3660.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d7e16bd9" corresp="#elem_eSc_line_d7e16bd9">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_d7e16bd9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7f106faa" corresp="#elem_eSc_line_7f106faa">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_7f106faa.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d95a1d17" corresp="#elem_eSc_line_d95a1d17">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_d95a1d17.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_74175936" corresp="#elem_eSc_line_74175936">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_74175936.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_52e719f2" corresp="#elem_eSc_line_52e719f2">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_52e719f2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2ba22e2b" corresp="#elem_eSc_line_2ba22e2b">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_2ba22e2b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_baf38a4c" corresp="#elem_eSc_line_baf38a4c">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_baf38a4c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_27968019" corresp="#elem_eSc_line_27968019">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_27968019.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f078d759" corresp="#elem_eSc_line_f078d759">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_f078d759.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_876338b2" corresp="#elem_eSc_line_876338b2">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_876338b2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a26b942c" corresp="#elem_eSc_line_a26b942c">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_a26b942c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_abfc0f23" corresp="#elem_eSc_line_abfc0f23">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_abfc0f23.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_549f084d" corresp="#elem_eSc_line_549f084d">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_549f084d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_551fabf9" corresp="#elem_eSc_line_551fabf9">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_551fabf9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3f11d4d5" corresp="#elem_eSc_line_3f11d4d5">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_3f11d4d5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ea9c6fdc" corresp="#elem_eSc_line_ea9c6fdc">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_ea9c6fdc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1e5b6ef3" corresp="#elem_eSc_line_1e5b6ef3">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_1e5b6ef3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e4327980" corresp="#elem_eSc_line_e4327980">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_e4327980.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_236b075f" corresp="#elem_eSc_line_236b075f">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_1_eSc_line_236b075f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ac68e2dd" corresp="#elem_eSc_line_ac68e2dd">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_ac68e2dd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_74f9a898" corresp="#elem_eSc_line_74f9a898">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_74f9a898.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_47c6a8cc" corresp="#elem_eSc_line_47c6a8cc">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_47c6a8cc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6fe4dec0" corresp="#elem_eSc_line_6fe4dec0">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_6fe4dec0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dc12d2a6" corresp="#elem_eSc_line_dc12d2a6">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_dc12d2a6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2a019d02" corresp="#elem_eSc_line_2a019d02">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_2a019d02.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7253ad3e" corresp="#elem_eSc_line_7253ad3e">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_7253ad3e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6ca57b64" corresp="#elem_eSc_line_6ca57b64">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_6ca57b64.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f3d7eb49" corresp="#elem_eSc_line_f3d7eb49">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_f3d7eb49.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_36b7224e" corresp="#elem_eSc_line_36b7224e">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_36b7224e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3859efa6" corresp="#elem_eSc_line_3859efa6">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_3859efa6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_392d7e94" corresp="#elem_eSc_line_392d7e94">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_392d7e94.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_20b6a05f" corresp="#elem_eSc_line_20b6a05f">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_20b6a05f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dc01bbea" corresp="#elem_eSc_line_dc01bbea">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_dc01bbea.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7e8c6729" corresp="#elem_eSc_line_7e8c6729">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_7e8c6729.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d42c5667" corresp="#elem_eSc_line_d42c5667">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_d42c5667.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cdccce94" corresp="#elem_eSc_line_cdccce94">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_cdccce94.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_085d77a7" corresp="#elem_eSc_line_085d77a7">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_085d77a7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_303cb8ef" corresp="#elem_eSc_line_303cb8ef">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_303cb8ef.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b998883a" corresp="#elem_eSc_line_b998883a">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_b998883a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2ae177e1" corresp="#elem_eSc_line_2ae177e1">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_2ae177e1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_594a9913" corresp="#elem_eSc_line_594a9913">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_594a9913.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_35b6c292" corresp="#elem_eSc_line_35b6c292">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_35b6c292.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_80714fa7" corresp="#elem_eSc_line_80714fa7">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_80714fa7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_58d50573" corresp="#elem_eSc_line_58d50573">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_58d50573.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_86a5ab98" corresp="#elem_eSc_line_86a5ab98">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_86a5ab98.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_04b324fc" corresp="#elem_eSc_line_04b324fc">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_04b324fc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_beded38a" corresp="#elem_eSc_line_beded38a">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_beded38a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fb2b01df" corresp="#elem_eSc_line_fb2b01df">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_fb2b01df.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5f5131a3" corresp="#elem_eSc_line_5f5131a3">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_5f5131a3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5f281bbd" corresp="#elem_eSc_line_5f281bbd">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_5f281bbd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_30a36736" corresp="#elem_eSc_line_30a36736">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_30a36736.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ba161ab3" corresp="#elem_eSc_line_ba161ab3">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_ba161ab3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_520f5c22" corresp="#elem_eSc_line_520f5c22">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_520f5c22.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_19e9e72c" corresp="#elem_eSc_line_19e9e72c">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_19e9e72c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e4001694" corresp="#elem_eSc_line_e4001694">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_e4001694.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_266f61b1" corresp="#elem_eSc_line_266f61b1">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_266f61b1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d1ecdfab" corresp="#elem_eSc_line_d1ecdfab">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_d1ecdfab.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a86fe442" corresp="#elem_eSc_line_a86fe442">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_a86fe442.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_62e123fd" corresp="#elem_eSc_line_62e123fd">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_62e123fd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ca03c408" corresp="#elem_eSc_line_ca03c408">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_ca03c408.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b1ef81a0" corresp="#elem_eSc_line_b1ef81a0">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_b1ef81a0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7770f1ca" corresp="#elem_eSc_line_7770f1ca">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_7770f1ca.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_85272f97" corresp="#elem_eSc_line_85272f97">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_85272f97.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_39144934" corresp="#elem_eSc_line_39144934">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_39144934.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4f03726e" corresp="#elem_eSc_line_4f03726e">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_4f03726e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1a049c70" corresp="#elem_eSc_line_1a049c70">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_1a049c70.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9fefc521" corresp="#elem_eSc_line_9fefc521">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_9fefc521.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ba9791ed" corresp="#elem_eSc_line_ba9791ed">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_ba9791ed.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2fc96b72" corresp="#elem_eSc_line_2fc96b72">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_2fc96b72.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fa56a388" corresp="#elem_eSc_line_fa56a388">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_fa56a388.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_81ef3ab9" corresp="#elem_eSc_line_81ef3ab9">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_81ef3ab9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4789cba8" corresp="#elem_eSc_line_4789cba8">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_4789cba8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3957b554" corresp="#elem_eSc_line_3957b554">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_3957b554.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_edc9391a" corresp="#elem_eSc_line_edc9391a">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_edc9391a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_363a2d11" corresp="#elem_eSc_line_363a2d11">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_363a2d11.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0106b2a0" corresp="#elem_eSc_line_0106b2a0">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_0106b2a0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f4623edf" corresp="#elem_eSc_line_f4623edf">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_f4623edf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9441b182" corresp="#elem_eSc_line_9441b182">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_9441b182.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2e902407" corresp="#elem_eSc_line_2e902407">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_2e902407.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_df31fb38" corresp="#elem_eSc_line_df31fb38">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_df31fb38.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_34b4a524" corresp="#elem_eSc_line_34b4a524">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_34b4a524.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_45712712" corresp="#elem_eSc_line_45712712">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_45712712.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e72f7f2f" corresp="#elem_eSc_line_e72f7f2f">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_e72f7f2f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2270ed4c" corresp="#elem_eSc_line_2270ed4c">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_2270ed4c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bddb26ec" corresp="#elem_eSc_line_bddb26ec">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_bddb26ec.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_af040686" corresp="#elem_eSc_line_af040686">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_af040686.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8e798d18" corresp="#elem_eSc_line_8e798d18">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_8e798d18.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9017e0d5" corresp="#elem_eSc_line_9017e0d5">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_9017e0d5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_70786f5a" corresp="#elem_eSc_line_70786f5a">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_70786f5a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b1d628e4" corresp="#elem_eSc_line_b1d628e4">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_b1d628e4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3792cd85" corresp="#elem_eSc_line_3792cd85">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_3792cd85.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6b99ccf6" corresp="#elem_eSc_line_6b99ccf6">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_6b99ccf6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d96d7ae3" corresp="#elem_eSc_line_d96d7ae3">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_d96d7ae3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_24a7f376" corresp="#elem_eSc_line_24a7f376">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_24a7f376.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_deec4588" corresp="#elem_eSc_line_deec4588">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_deec4588.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a3f58bc1" corresp="#elem_eSc_line_a3f58bc1">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_a3f58bc1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7c8b75e8" corresp="#elem_eSc_line_7c8b75e8">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_7c8b75e8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_64fcf5a9" corresp="#elem_eSc_line_64fcf5a9">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_64fcf5a9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_957848d5" corresp="#elem_eSc_line_957848d5">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_957848d5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_021290ae" corresp="#elem_eSc_line_021290ae">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_021290ae.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7058f7e2" corresp="#elem_eSc_line_7058f7e2">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_7058f7e2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dcaf5d16" corresp="#elem_eSc_line_dcaf5d16">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_dcaf5d16.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b44e8837" corresp="#elem_eSc_line_b44e8837">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_b44e8837.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b7b17cfa" corresp="#elem_eSc_line_b7b17cfa">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_b7b17cfa.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_787646a6" corresp="#elem_eSc_line_787646a6">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_787646a6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c82965d1" corresp="#elem_eSc_line_c82965d1">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_c82965d1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d43a51b9" corresp="#elem_eSc_line_d43a51b9">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_d43a51b9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e34fa234" corresp="#elem_eSc_line_e34fa234">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_e34fa234.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0e7ac6c6" corresp="#elem_eSc_line_0e7ac6c6">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_0e7ac6c6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_31a08157" corresp="#elem_eSc_line_31a08157">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_31a08157.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7b6f723f" corresp="#elem_eSc_line_7b6f723f">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_7b6f723f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_850536df" corresp="#elem_eSc_line_850536df">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_850536df.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_aa95076a" corresp="#elem_eSc_line_aa95076a">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_aa95076a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e6fb45a9" corresp="#elem_eSc_line_e6fb45a9">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_e6fb45a9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5e082011" corresp="#elem_eSc_line_5e082011">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_5e082011.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4ab0f4ec" corresp="#elem_eSc_line_4ab0f4ec">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_4ab0f4ec.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2345064f" corresp="#elem_eSc_line_2345064f">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_2345064f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_97450c91" corresp="#elem_eSc_line_97450c91">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_97450c91.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_06a1f99d" corresp="#elem_eSc_line_06a1f99d">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_06a1f99d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_63a160f7" corresp="#elem_eSc_line_63a160f7">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_63a160f7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_63fe7251" corresp="#elem_eSc_line_63fe7251">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_63fe7251.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_11fadb50" corresp="#elem_eSc_line_11fadb50">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_11fadb50.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b3b547f5" corresp="#elem_eSc_line_b3b547f5">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_b3b547f5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7edf0496" corresp="#elem_eSc_line_7edf0496">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_7edf0496.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b592545c" corresp="#elem_eSc_line_b592545c">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_b592545c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a8db5209" corresp="#elem_eSc_line_a8db5209">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_a8db5209.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_67365b52" corresp="#elem_eSc_line_67365b52">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_67365b52.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_40d40b08" corresp="#elem_eSc_line_40d40b08">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_40d40b08.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4f4bc9e8" corresp="#elem_eSc_line_4f4bc9e8">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_4f4bc9e8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_813e4c02" corresp="#elem_eSc_line_813e4c02">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_813e4c02.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_741b5e63" corresp="#elem_eSc_line_741b5e63">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_741b5e63.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3f2230db" corresp="#elem_eSc_line_3f2230db">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_3f2230db.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_726e1c2b" corresp="#elem_eSc_line_726e1c2b">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_726e1c2b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9e985547" corresp="#elem_eSc_line_9e985547">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_9e985547.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_13537d6c" corresp="#elem_eSc_line_13537d6c">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_13537d6c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3d444cc6" corresp="#elem_eSc_line_3d444cc6">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_3d444cc6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_396dfa15" corresp="#elem_eSc_line_396dfa15">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_396dfa15.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6389f5f8" corresp="#elem_eSc_line_6389f5f8">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_6389f5f8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3e2de967" corresp="#elem_eSc_line_3e2de967">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_3e2de967.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7e953b14" corresp="#elem_eSc_line_7e953b14">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_7e953b14.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b9df7e66" corresp="#elem_eSc_line_b9df7e66">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_b9df7e66.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_779123f6" corresp="#elem_eSc_line_779123f6">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_779123f6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_25398014" corresp="#elem_eSc_line_25398014">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_25398014.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4d47d2e6" corresp="#elem_eSc_line_4d47d2e6">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_4d47d2e6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b2e92c7f" corresp="#elem_eSc_line_b2e92c7f">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_b2e92c7f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e4e3f244" corresp="#elem_eSc_line_e4e3f244">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_e4e3f244.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a2c5ac9c" corresp="#elem_eSc_line_a2c5ac9c">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_a2c5ac9c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_39986e98" corresp="#elem_eSc_line_39986e98">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_39986e98.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a40dfe57" corresp="#elem_eSc_line_a40dfe57">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_a40dfe57.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1425de30" corresp="#elem_eSc_line_1425de30">
+      <graphic url="../lignes/deregimine_man_haro-mss9236.pdf_page_2_eSc_line_1425de30.png"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="livre" n="1">
+        <div type="partie" n="2">
+          <div type="chapitre" n="1"><pb n="" facs="../input_files/deregimine_man_haro-mss9236.pdf_page_1.png"/><lb break="?" facs="#facs_eSc_line_11dcf81d" xml:id="elem_eSc_line_11dcf81d"/>Cap̃ .i. quo didunt po aĩe ⁊ in quib<lb break="yes" facs="#facs_eSc_line_a75e0d9d" xml:id="elem_eSc_line_a75e0d9d"/>ꝑotentiis hñt eẽ initutes .a.m. a.<lb break="yes" facs="#facs_eSc_line_07f5fff8" xml:id="elem_eSc_line_07f5fff8"/>Ostqͣm auxiliante<lb break="yes" facs="#facs_eSc_line_78df385f" xml:id="elem_eSc_line_78df385f"/>d̾o ꝯpleuimꝰ pͥmã<lb break="yes" facs="#facs_eSc_line_9fae371e" xml:id="elem_eSc_line_9fae371e"/>ꝑtẽ huiꝰ pͥmi libri.<lb break="yes" facs="#facs_eSc_line_33c91ef2" xml:id="elem_eSc_line_33c91ef2"/>in quo agit de regia<lb break="no" facs="#facs_eSc_line_c1ac6ebf" xml:id="elem_eSc_line_c1ac6ebf"/>mĩe sui. oñdentes<lb break="no" facs="#facs_eSc_line_ab482284" xml:id="elem_eSc_line_ab482284"/>qͩ reges ⁊ pͥncipe ᷤᷤ<lb break="yes" facs="#facs_eSc_line_bfb734ed" xml:id="elem_eSc_line_bfb734ed"/>suã felicitatẽ pone debeãt. qr ñ deci<lb break="yes" facs="#facs_eSc_line_844da936" xml:id="elem_eSc_line_844da936"/>eos suũ finẽ pon̾e in d̾icus. nec ĩ ciui<lb break="no" facs="#facs_eSc_line_d313b51d" xml:id="elem_eSc_line_d313b51d"/>li poͣ nec ĩ aliqib talib. s oĩb hiis<lb break="yes" facs="#facs_eSc_line_a000101c" xml:id="elem_eSc_line_a000101c"/>ut supͣ pleniꝰ ꝓbat debent uti tanꝙͣ<lb break="yes" facs="#facs_eSc_line_d43586b4" xml:id="elem_eSc_line_d43586b4"/>organis ad felicitatẽ. suã a felicita<lb break="no" facs="#facs_eSc_line_273a2502" xml:id="elem_eSc_line_273a2502"/>tẽ pon̾e debent ĩ actu pͧdentie ꝓut ta<lb break="no" facs="#facs_eSc_line_06d1e199" xml:id="elem_eSc_line_06d1e199"/>lis actꝰ est ĩꝑatꝰ a caritate. Nã tũc regeᷤ<lb break="yes" facs="#facs_eSc_line_0129ef90" xml:id="elem_eSc_line_0129ef90"/>hũt felicitatẽ suo statui debitã ⁊ qdi<lb break="no" facs="#facs_eSc_line_3ede2688" xml:id="elem_eSc_line_3ede2688"/>gnã qñ instigãte di diłctõe ẜ pͧden<lb break="no" facs="#facs_eSc_line_19cc5a2b" xml:id="elem_eSc_line_19cc5a2b"/>tiã regnatiuã gentẽ ⁊̃ ꝯmissa ẜ legẽ<cb break="?"/><lb break="yes" facs="#facs_eSc_line_f6dd5524" xml:id="elem_eSc_line_f6dd5524"/>⁊ rõem scẽ ⁊ iuste regũt. pͥncipalr̃ gͥ re<lb break="no" facs="#facs_eSc_line_e189cd78" xml:id="elem_eSc_line_e189cd78"/>gũ felicitas ponẽda ẽ in pp̃o d̃o. ⁊ ex cogͥ<lb break="no" facs="#facs_eSc_line_15633639" xml:id="elem_eSc_line_15633639"/>tõe ⁊ diłctõe eiꝰ suũ studiũ ⁊ suã uitama<lb break="yes" facs="#facs_eSc_line_0ee4f749" xml:id="elem_eSc_line_0ee4f749"/>ad ħ ordĩare debent ut cog̊scentes ⁊ di<lb break="no" facs="#facs_eSc_line_09370d9e" xml:id="elem_eSc_line_09370d9e"/>ligũtes dm̃ tanꝙͣ uł mĩstri eiꝰ ẜ ordinẽ<lb break="yes" facs="#facs_eSc_line_f16d2fa0" xml:id="elem_eSc_line_f16d2fa0"/>rõis digant ppłm sͥ omissũ. ¶ Hiis gͥ<lb break="no" facs="#facs_eSc_line_5f72f960" xml:id="elem_eSc_line_5f72f960"/>ita pactis. ⁊oñso ĩ quo reges debeant<lb break="yes" facs="#facs_eSc_line_4b9524d7" xml:id="elem_eSc_line_4b9524d7"/>pon̾e suũ finẽ ẜ ordinẽ suꝑiꝰ p̃taxatũ.<lb break="yes" facs="#facs_eSc_line_41cd659f" xml:id="elem_eSc_line_41cd659f"/>restat oñde quib u̾tutibi reges polłe<lb break="yes" facs="#facs_eSc_line_7138c470" xml:id="elem_eSc_line_7138c470"/>debeãt. u̾tutes a sũt qͥdã ornatꝰ ⁊ q̃<lb break="no" facs="#facs_eSc_line_788af1c2" xml:id="elem_eSc_line_788af1c2"/>dam ꝑfcões aĩe. or gͥ pͥꝰ gũd̾e̾ qtͦ sunt<lb break="yes" facs="#facs_eSc_line_0c00f4ad" xml:id="elem_eSc_line_0c00f4ad"/>po ͤ aĩe ⁊ in quib potũtus hñt eẽ u̾<lb break="no" facs="#facs_eSc_line_ffff88f5" xml:id="elem_eSc_line_ffff88f5"/>tutes ꝯñt̾ aũt maĩfestabr̃ quo u̾tu<lb break="no" facs="#facs_eSc_line_6e788101" xml:id="elem_eSc_line_6e788101"/>tes sũt distĩguende. pͣte auo oñdemꝰ<lb break="yes" facs="#facs_eSc_line_ccaf55ac" xml:id="elem_eSc_line_ccaf55ac"/>q̊t sũt nu̾o biꝰ uͥtutes ⁊ q̃ illaꝵ sũt<lb break="yes" facs="#facs_eSc_line_4c942c94" xml:id="elem_eSc_line_4c942c94"/>pͥncipales ⁊ q̃ ẜarie. Deinde a̾ decłabr̃<lb break="yes" facs="#facs_eSc_line_bfa3b9d5" xml:id="elem_eSc_line_bfa3b9d5"/>singłarit̾ q̃ sit una q̃ illaꝵ u̾tutũ ⁊<lb break="yes" facs="#facs_eSc_line_55511560" xml:id="elem_eSc_line_55511560"/>quo decet reges ⁊ pͥncipes tales u̾tu<lb break="no" facs="#facs_eSc_line_3b492924" xml:id="elem_eSc_line_3b492924"/>tes hr̃e. poͤ aũt aĩe sic distĩgui pꝰsũt.<lb break="yes" facs="#facs_eSc_line_7d3b015e" xml:id="elem_eSc_line_7d3b015e"/>qr q̃dam sũt uͣles. q̃dam cogͥtuie sẽ<lb break="no" facs="#facs_eSc_line_c4368f03" xml:id="elem_eSc_line_c4368f03"/>sitiue. q̃dam appetitiue ⁊ q̃dam ĩtel<lb break="no" facs="#facs_eSc_line_255c44fe" xml:id="elem_eSc_line_255c44fe"/>lectiue. Naturales po ͤ sũt ille ĩ qͥb<lb break="yes" facs="#facs_eSc_line_8878a37d" xml:id="elem_eSc_line_8878a37d"/>ꝯ̾camꝰ cũ uegetabłibi ⁊ plantis ut<lb break="yes" facs="#facs_eSc_line_a30b95cd" xml:id="elem_eSc_line_a30b95cd"/>poͣ nut̾tiua. augm̃tatiua. gnͣatiua.<lb break="yes" facs="#facs_eSc_line_fb60ac6b" xml:id="elem_eSc_line_fb60ac6b"/>⁊ talia q̃ ⁊ ip̃is arborib ꝯpetũt. po ͤ<lb break="no" facs="#facs_eSc_line_2cbcb735" xml:id="elem_eSc_line_2cbcb735"/>u̾o cogͥtiue senũtiue sũt. uisus gu<lb break="no" facs="#facs_eSc_line_a8edd70c" xml:id="elem_eSc_line_a8edd70c"/>stꝰ tactus ⁊ talia in qͥbi ꝯĩcamꝰ cũ bͧ<lb break="no" facs="#facs_eSc_line_ed1674b0" xml:id="elem_eSc_line_ed1674b0"/>tis. appetitiue u̾o distĩgunt. Nã qͥdã<lb break="yes" facs="#facs_eSc_line_bb75c6aa" xml:id="elem_eSc_line_bb75c6aa"/>appetitꝰ ẽ in hoĩe ĩ quo nõ ꝯͥcat cũ<lb break="no" facs="#facs_eSc_line_d4d84343" xml:id="elem_eSc_line_d4d84343"/>brutis ut appetitꝰ seqñs ĩtllctã. qͥdã<lb break="yes" facs="#facs_eSc_line_0f8ba71c" xml:id="elem_eSc_line_0f8ba71c"/>uo ĩ quo ꝯͥcat cũ eis ut appetitꝰ seqñs<lb break="yes" facs="#facs_eSc_line_251d87a6" xml:id="elem_eSc_line_251d87a6"/>sensũ. appetitꝰ a seqñs sensũ pt̃ noĩs<lb break="no" facs="#facs_eSc_line_75e50c51" xml:id="elem_eSc_line_75e50c51"/>ri ssualitas seqñs ĩtelłctũ noiẽt᷑.<lb break="yes" facs="#facs_eSc_line_1409c01e" xml:id="elem_eSc_line_1409c01e"/>uolũtas ẜ ꝙ̃ in mod̾ loqñdi bruta hñt<lb break="yes" facs="#facs_eSc_line_b1486d0d" xml:id="elem_eSc_line_b1486d0d"/>sensualitatẽ ⁊ appetitũ sensitiu̾. S<lb break="yes" facs="#facs_eSc_line_f6f7046e" xml:id="elem_eSc_line_f6f7046e"/>ñ hũt uo ͭͤ ͬ i. appetitũ intelletiuũ<lb break="yes" facs="#facs_eSc_line_733325b4" xml:id="elem_eSc_line_733325b4"/>u̾tutes gͦ de qͥbi loqͥ ĩtendimꝰ q̃ sũt<pb n="1" facs="../input_files/deregimine_man_haro-mss9236.pdf_page_1.png"/><lb break="yes" facs="#facs_eSc_line_28099636" xml:id="elem_eSc_line_28099636"/>qͥdam hĩtꝰ laudabłes uł erũt in poͥᷤ nͣ lib<lb break="yes" facs="#facs_eSc_line_2d2e2833" xml:id="elem_eSc_line_2d2e2833"/>ł in ip̃is sensib uł in appetitu sensitiuo.<lb break="yes" facs="#facs_eSc_line_2727209a" xml:id="elem_eSc_line_2727209a"/>ł in appetitu ĩtelłctiuo. uł in ip̃o ĩtelle<lb break="no" facs="#facs_eSc_line_0faa7480" xml:id="elem_eSc_line_0faa7480"/>ctu uł in hiis omĩb uł in aliqͥb hoꝵ.<lb break="yes" facs="#facs_eSc_line_7e29cdd5" xml:id="elem_eSc_line_7e29cdd5"/>In poͥᷤ aũt nͣlib cẽ nõ possunt ꝙ t̾ͥpłr̃ p.<lb break="yes" facs="#facs_eSc_line_440f802c" xml:id="elem_eSc_line_440f802c"/>pͥmo qr ex nͣlib. nͨ laudam᷑ nͨ uituꝑa<lb break="no" facs="#facs_eSc_line_5e2f9dac" xml:id="elem_eSc_line_5e2f9dac"/>m᷑ . ull̾s .n. dr̃ bonꝰ hõ ex eo ꝙ hẽat boã<lb break="yes" facs="#facs_eSc_line_a7a1faef" xml:id="elem_eSc_line_a7a1faef"/>digestiuã uł bonã augm̃tatiuã. ¶ S̾o<lb break="no" facs="#facs_eSc_line_fa76d2f4" xml:id="elem_eSc_line_fa76d2f4"/>ĩ talib nõ hñt eẽ hiꝰ uͥtutes qr u̾tus<lb break="yes" facs="#facs_eSc_line_7f2850fb" xml:id="elem_eSc_line_7f2850fb"/>ẽ ad ẜ rõem ut p̃t ꝓbari ẜo etħ. po ͤ<lb break="no" facs="#facs_eSc_line_198bc83d" xml:id="elem_eSc_line_198bc83d"/>a nͣles ẜ̃ꝙ hiꝰ sũt rõi nõ obediũt. Nã<lb break="yes" facs="#facs_eSc_line_abf8d2dd" xml:id="elem_eSc_line_abf8d2dd"/>siue qͥ rõcinet siue uelit nõ pp̃ ħ<lb break="yes" facs="#facs_eSc_line_165ff698" xml:id="elem_eSc_line_165ff698"/>ꝑ se loqũdo po ͤ nͣles uariant̾ in acti<lb break="no" facs="#facs_eSc_line_57ad44c1" xml:id="elem_eSc_line_57ad44c1"/>bi suis si sꝑ ẜ modũ s̾ possi ᷝ ͤ ͬ suas a<lb break="no" facs="#facs_eSc_line_9f66862d" xml:id="elem_eSc_line_9f66862d"/>ctões efficiũt. ¶ T̾cio in talib poͥ ᷤ nõ<lb break="yes" facs="#facs_eSc_line_b4c73fb7" xml:id="elem_eSc_line_b4c73fb7"/>sũt hĩtus ⁊ u̾tutes. qr ħ itꝰ sũt ad det̾<lb break="no" facs="#facs_eSc_line_2d7b3a3c" xml:id="elem_eSc_line_2d7b3a3c"/>mĩand̾ poͣs ut bñ uł male agant. ⁊<lb break="yes" facs="#facs_eSc_line_31e6023c" xml:id="elem_eSc_line_31e6023c"/>ut ꝑ hĩtus uitõsos det̾iat᷑ poͣ ad agen<lb break="no" facs="#facs_eSc_line_433d7d56" xml:id="elem_eSc_line_433d7d56"/>dũ male ꝑ u̾tuosos ad agend̾ bene<lb break="no" facs="#facs_eSc_line_f0149e16" xml:id="elem_eSc_line_f0149e16"/>cũ gͥ nͣ sit det̾iata ad miũ ⁊ po ͤ nͣles suf<lb break="no" facs="#facs_eSc_line_4d538120" xml:id="elem_eSc_line_4d538120"/>ficient̾ defient ad agend̾ ex nͣ sua ẜ eaᷤ.<lb break="yes" facs="#facs_eSc_line_b38b4e9e" xml:id="elem_eSc_line_b38b4e9e"/>nͨ sumꝰ uitõsi nͨ u̾tuo si ut ħ de uitõ ⁊ uͥ<lb break="no" facs="#facs_eSc_line_56f91229" xml:id="elem_eSc_line_56f91229"/>tute loqͥui. qrͣ in eis hiꝰ u̾tutes eẽ nõ pꝰ<lb break="no" facs="#facs_eSc_line_33a1261b" xml:id="elem_eSc_line_33a1261b"/>sunt ¶ hiis gͥ tͥb rõib ꝑ ꝙͣs ꝓbatũ ẽ<lb break="yes" facs="#facs_eSc_line_0ceb7d34" xml:id="elem_eSc_line_0ceb7d34"/>u̾tutes nõ eẽ in ꝑo nͣlib ꝓbari pt̾ eas u̾<lb break="no" facs="#facs_eSc_line_41761ae7" xml:id="elem_eSc_line_41761ae7"/>eẽ in cog̾tõe sensitiã sũ in poᷤ sensitiui.<lb break="yes" facs="#facs_eSc_line_49b5d828" xml:id="elem_eSc_line_49b5d828"/>Nã sic̾ nõ laudam᷑ nͨ iutuꝑam᷑ ex pͥo ᷤ nͣ<lb break="no" facs="#facs_eSc_line_40cc15d2" xml:id="elem_eSc_line_40cc15d2"/>lib. sic nõ laudam᷑ nͨ uituꝑam᷑ ex sensi<lb break="no" facs="#facs_eSc_line_7d9c8e45" xml:id="elem_eSc_line_7d9c8e45"/>b. Nã sic̾ ulłs laudat᷑ tanꝙͣ bonꝰ hõ ex<lb break="yes" facs="#facs_eSc_line_159ce893" xml:id="elem_eSc_line_159ce893"/>eo ꝙ bñ digĩt uł bñ crescit. sic ñ laudat᷑<lb break="yes" facs="#facs_eSc_line_aea6ff7a" xml:id="elem_eSc_line_aea6ff7a"/>ex̃ eo ꝙ acute uidet ł sb̾tilit̾ audit. nͥ<lb break="yes" facs="#facs_eSc_line_b096f108" xml:id="elem_eSc_line_b096f108"/>forte h̃ eẽt ꝑ accũs uł ñ qͥs ex sr̃flua<lb break="yes" facs="#facs_eSc_line_fe902bb7" xml:id="elem_eSc_line_fe902bb7"/>comestioẽ uł ex nimia potatõe inc᷑<lb break="no" facs="#facs_eSc_line_ffb8669b" xml:id="elem_eSc_line_ffb8669b"/>riss obtaluna ocłoꝵ ne bñ uideret.<lb break="yes" facs="#facs_eSc_line_c17f9517" xml:id="elem_eSc_line_c17f9517"/>ł debłitatẽ stomachi ne bñ digeret.<lb break="yes" facs="#facs_eSc_line_9c34030a" xml:id="elem_eSc_line_9c34030a"/>ĩcreparet᷑ ille nõ qi male digit uł qr<lb break="yes" facs="#facs_eSc_line_de2b4219" xml:id="elem_eSc_line_de2b4219"/>ñ clare iud ⁊ bñ digere ꝑ se loqñdo ñ<cb break="?"/><lb break="yes" facs="#facs_eSc_line_f6b58a27" xml:id="elem_eSc_line_f6b58a27"/>ẽ in pt̃ate hoĩs s ĩcreparet᷑ ex nimio<lb break="yes" facs="#facs_eSc_line_95046aed" xml:id="elem_eSc_line_95046aed"/>potu uł ex suꝑfluo cibo. Nã erat in p̃ta<lb break="no" facs="#facs_eSc_line_6771c35b" xml:id="elem_eSc_line_6771c35b"/>te sua ut possi uti potu ⁊ cibo mod̾ate.<lb break="yes" facs="#facs_eSc_line_51737ed8" xml:id="elem_eSc_line_51737ed8"/>S̾o ĩ sensib nõ ẽ ponẽda u̾tꝰ moralis<lb break="yes" facs="#facs_eSc_line_aee044e5" xml:id="elem_eSc_line_aee044e5"/>qr sic̾ poͦ nͣles nõ obediũt rõi. qr ẜ re<lb break="no" facs="#facs_eSc_line_39616946" xml:id="elem_eSc_line_39616946"/>głam rõis nlłs mag̾̃ uł minꝰ auget᷑. ꝓ<lb break="yes" facs="#facs_eSc_line_882f9a3a" xml:id="elem_eSc_line_882f9a3a"/>mag̾ ⁊ minꝰ digit. sic nͨ sensus obediũt<lb break="no" facs="#facs_eSc_line_6e9c467c" xml:id="elem_eSc_line_6e9c467c"/>rõi. nõ n. ẽ in pt̃ate hoĩs uidere clariꝰ<lb break="yes" facs="#facs_eSc_line_89728298" xml:id="elem_eSc_line_89728298"/>uł minꝰ clare. qrͣ si u̾tꝰ morał ẽ a̾d ẜ<lb break="no" facs="#facs_eSc_line_8c2336ed" xml:id="elem_eSc_line_8c2336ed"/>rõem. hiꝰ u̾tus ĩ sensib poni iñ d ¶T<lb break="no" facs="#facs_eSc_line_e2cb2bb9" xml:id="elem_eSc_line_e2cb2bb9"/>cio ĩ talib nõ est morał u̾tꝰ qr sic̾ poͤ<lb break="yes" facs="#facs_eSc_line_0956a9ee" xml:id="elem_eSc_line_0956a9ee"/>nͣles sufficient̾ det̾iant᷑ ad actões suaᷤ<lb break="yes" facs="#facs_eSc_line_ec515a0b" xml:id="elem_eSc_line_ec515a0b"/>ꝑ sua ⟦⟧. sic ⁊ sẜue Nam sic̾ igͥs tm̃<lb break="yes" facs="#facs_eSc_line_76bc7605" xml:id="elem_eSc_line_76bc7605"/>calefacit qnͣtũ pt̾ calefac̾e. pp̃ ꝙ qr<lb break="yes" facs="#facs_eSc_line_37a1fe35" xml:id="elem_eSc_line_37a1fe35"/>det̾iat᷑ in actõe sua nͨ laudat nͨ uitu<lb break="no" facs="#facs_eSc_line_3e9f8ecc" xml:id="elem_eSc_line_3e9f8ecc"/>ꝑat. nͨ ẽ in eo uͥtꝰ morał. sic qr poͣ di<lb break="no" facs="#facs_eSc_line_4a4c3980" xml:id="elem_eSc_line_4a4c3980"/>gestiua tm̃ dig̾it qͣntũ pt̃ digere ⁊ o<lb break="no" facs="#facs_eSc_line_727c3660" xml:id="elem_eSc_line_727c3660"/>cłs tm̃ uidet qntũ pt̃ uidere. ĩ eis uͥtꝰ<lb break="yes" facs="#facs_eSc_line_d7e16bd9" xml:id="elem_eSc_line_d7e16bd9"/>morał ẽẽ nõ pt̃. nã ꝑ u̾tutẽ moralẽ<lb break="yes" facs="#facs_eSc_line_7f106faa" xml:id="elem_eSc_line_7f106faa"/>det̾iat poͣ ad agend̾. ħ aũt sufficient̾<lb break="yes" facs="#facs_eSc_line_d95a1d17" xml:id="elem_eSc_line_d95a1d17"/>det̾iant᷑ ad actões ꝓp̾as ꝑ tͣm . nõ gͥ ĩ<lb break="yes" facs="#facs_eSc_line_74175936" xml:id="elem_eSc_line_74175936"/>digent u̾tute morali. Si gͥ nͨ in poᷤ<lb break="yes" facs="#facs_eSc_line_52e719f2" xml:id="elem_eSc_line_52e719f2"/>nͣlib nͨ ĩ sensib ẽ u̾tꝰ morał cũ p̃tᷤ<lb break="yes" facs="#facs_eSc_line_2ba22e2b" xml:id="elem_eSc_line_2ba22e2b"/>poͣs nͣles ⁊ sensus nõ sit nͥ intllcũ ⁊<lb break="yes" facs="#facs_eSc_line_baf38a4c" xml:id="elem_eSc_line_baf38a4c"/>appetitꝰ ĩtelłctuł ⁊ sensitus. d in ta<lb break="no" facs="#facs_eSc_line_27968019" xml:id="elem_eSc_line_27968019"/>lib ẽ u̾tutes morales. Cap̃ .ii. qũo<lb break="yes" facs="#facs_eSc_line_f078d759" xml:id="elem_eSc_line_f078d759"/>distĩgunt᷑ u̾ͥtutes ⁊ qũo se hñt ĩ ĩtllcũ<lb break="no" facs="#facs_eSc_line_876338b2" xml:id="elem_eSc_line_876338b2"/>stenso ꝙ nͨ in poᷤ nͣlib ⁊ appetitu.<lb break="yes" facs="#facs_eSc_line_a26b942c" xml:id="elem_eSc_line_a26b942c"/>nͨ in sensib hñt eẽ u̾tutes. Re<lb break="no" facs="#facs_eSc_line_abfc0f23" xml:id="elem_eSc_line_abfc0f23"/>stat oñd̾e qũo distigunt᷑ iltutes ⁊ qͦ<lb break="no" facs="#facs_eSc_line_549f084d" xml:id="elem_eSc_line_549f084d"/>mͦ ĩ incllcũ ⁊ appetitu existũt. Distĩ<lb break="yes" facs="#facs_eSc_line_551fabf9" xml:id="elem_eSc_line_551fabf9"/>guend̾ ẽ gͦ de u̾tutib ⁊ de hiꝰ poͫ. Nã<lb break="yes" facs="#facs_eSc_line_3f11d4d5" xml:id="elem_eSc_line_3f11d4d5"/>u̾tutũ q̃dam sũt ĩtllcũales q̃dã mo<lb break="no" facs="#facs_eSc_line_ea9c6fdc" xml:id="elem_eSc_line_ea9c6fdc"/>rales q̃dam medie int̾ intllcũales ⁊<lb break="yes" facs="#facs_eSc_line_1e5b6ef3" xml:id="elem_eSc_line_1e5b6ef3"/>morales u̾tutes ĩtllcũales dũr ille<lb break="yes" facs="#facs_eSc_line_e4327980" xml:id="elem_eSc_line_e4327980"/>q̃ sũt ĩ intllcũ specłatiuo. cuiꝰ modi<lb break="yes" facs="#facs_eSc_line_236b075f" xml:id="elem_eSc_line_236b075f"/>sc̃ie sũt speclatiue ut nͣł ph̾ia. geo.<pb n="" facs="../input_files/deregimine_man_haro-mss9236.pdf_page_2.png"/><lb break="yes" facs="#facs_eSc_line_ac68e2dd" xml:id="elem_eSc_line_ac68e2dd"/>metͥ. methaᶜᵃ ⁊cet̾atalia. u̾tutes u̾o<lb break="yes" facs="#facs_eSc_line_74f9a898" xml:id="elem_eSc_line_74f9a898"/>simpͬ morales sũt ille q̃ sũt in appetitu.<lb break="yes" facs="#facs_eSc_line_47c6a8cc" xml:id="elem_eSc_line_47c6a8cc"/>sũ appetitꝰ ile sit sensit̃s sũ ĩtelłctiuꝰ.<lb break="yes" facs="#facs_eSc_line_6fe4dec0" xml:id="elem_eSc_line_6fe4dec0"/>cuimoĩ a sũt iͧticia tẽꝑanͣ. fortitudo.<lb break="yes" facs="#facs_eSc_line_dc12d2a6" xml:id="elem_eSc_line_dc12d2a6"/>mansuetudo ¬ cetã talia de qͥb sumꝰ<lb break="yes" facs="#facs_eSc_line_2a019d02" xml:id="elem_eSc_line_2a019d02"/>singlr̃ tͣctaturi. u̾tutes a medie int̾ in<lb break="no" facs="#facs_eSc_line_7253ad3e" xml:id="elem_eSc_line_7253ad3e"/>tllcũales ⁊morales sũt u̾tutes exñteᷤᷤ<lb break="no" facs="#facs_eSc_line_6ca57b64" xml:id="elem_eSc_line_6ca57b64"/>ĩ intllcũ pͣctico ut pͥdentia ⁊ alie u̾tu<lb break="no" facs="#facs_eSc_line_f3d7eb49" xml:id="elem_eSc_line_f3d7eb49"/>tes sͥ aunexe pͣdencia a̾ ẜ ꝯm̃tatorem<lb break="yes" facs="#facs_eSc_line_36b7224e" xml:id="elem_eSc_line_36b7224e"/>suꝑ libͫ eth̃. media ẽ int̾ uͥtutes moraleᷤ<lb break="yes" facs="#facs_eSc_line_3859efa6" xml:id="elem_eSc_line_3859efa6"/>⁊ intllcũales ꝯputari tñ pt̃ cũ uͥtutib<lb break="yes" facs="#facs_eSc_line_392d7e94" xml:id="elem_eSc_line_392d7e94"/>moralib. Nã prudẽtia nõ inẽ nͥ hoĩb<lb break="yes" facs="#facs_eSc_line_20b6a05f" xml:id="elem_eSc_line_20b6a05f"/>bonis sic̾ nͨ u̾tutes morales. pͣui .n. ho<lb break="no" facs="#facs_eSc_line_dc01bbea" xml:id="elem_eSc_line_dc01bbea"/>mĩes ⁊ si p᷒sent eẽ scientes. hastuti ⁊ u̾<lb break="yes" facs="#facs_eSc_line_7e8c6729" xml:id="elem_eSc_line_7e8c6729"/>si pelles prudẽtes tũ eẽ nõ p᷒sunt ut<lb break="yes" facs="#facs_eSc_line_d42c5667" xml:id="elem_eSc_line_d42c5667"/>suo loco patebit. Inde ẽ gͦ ꝙ dr̃ .uiͦ. etħ.<lb break="yes" facs="#facs_eSc_line_cdccce94" xml:id="elem_eSc_line_cdccce94"/>ꝙ impo ᷝ ͤ ẽ pͥdentẽ eẽ nõ entẽ bonũ.<lb break="yes" facs="#facs_eSc_line_085d77a7" xml:id="elem_eSc_line_085d77a7"/>¶ Omissis gͥ uͥtutib ĩtllcũalib ⁊ diu<lb break="yes" facs="#facs_eSc_line_303cb8ef" xml:id="elem_eSc_line_303cb8ef"/>missis scĩis specłatiuis. de pͧdenͣ ⁊ de uͥ<lb break="no" facs="#facs_eSc_line_b998883a" xml:id="elem_eSc_line_b998883a"/>tutib moralib ẽẽ tͣctand̾. Suscepim᷒<lb break="yes" facs="#facs_eSc_line_2ae177e1" xml:id="elem_eSc_line_2ae177e1"/>.n. ut płies diximꝰ opꝰ ut nõ sciamꝰ. si<lb break="yes" facs="#facs_eSc_line_594a9913" xml:id="elem_eSc_line_594a9913"/>ut boni fiamꝰ. q̃ bonitas sũ pͧdenͣ ⁊ũtu<lb break="no" facs="#facs_eSc_line_35b6c292" xml:id="elem_eSc_line_35b6c292"/>tibi moralib nob̾ ineẽ nõ p̃t. has aũt<lb break="yes" facs="#facs_eSc_line_80714fa7" xml:id="elem_eSc_line_80714fa7"/>u̾tutes ĩ intelłctu ⁊ appetitu sic eẽ ꝯtin<lb break="no" facs="#facs_eSc_line_58d50573" xml:id="elem_eSc_line_58d50573"/>git. dcm̃ ẽ .n. uͥtutẽ eẽ ad ẜ rõem. o gͦ<lb break="yes" facs="#facs_eSc_line_86a5ab98" xml:id="elem_eSc_line_86a5ab98"/>eẽ rõalem poͣm in qͣ ponit᷑ eẽ uͥtꝰ. Rõa<lb break="no" facs="#facs_eSc_line_04b324fc" xml:id="elem_eSc_line_04b324fc"/>le a̾ dupłx ẽ ẜ pħm. ꝑ eẽmͣ ⁊ ꝑ ꝑticipa<lb break="no" facs="#facs_eSc_line_beded38a" xml:id="elem_eSc_line_beded38a"/>tõem. Intllcũs a est rõał ꝑ eẽmͣ. appe<lb break="no" facs="#facs_eSc_line_fb2b01df" xml:id="elem_eSc_line_fb2b01df"/>titꝰ uo ꝑ ꝑticipatõm. Nã appetitꝰ lici<lb break="yes" facs="#facs_eSc_line_5f5131a3" xml:id="elem_eSc_line_5f5131a3"/>nõ sit ip̃e intllcũs uł ip̃a rõ eẽnͣlr̃. dr̃<lb break="yes" facs="#facs_eSc_line_5f281bbd" xml:id="elem_eSc_line_5f281bbd"/>tũ ꝑticipare rõe. qr ẽ aptꝰ natꝰ rõi obe<lb break="no" facs="#facs_eSc_line_30a36736" xml:id="elem_eSc_line_30a36736"/>dire. po ͤ aũt nͣles ⁊ sensus nͨ sũt rõa<lb break="no" facs="#facs_eSc_line_ba161ab3" xml:id="elem_eSc_line_ba161ab3"/>les ꝑeem᷑ qr nõ ip̃a rõ sũt nͨ rõe ꝑti<lb break="no" facs="#facs_eSc_line_520f5c22" xml:id="elem_eSc_line_520f5c22"/>cipant qr ꝑ se ⁊ ẜ ꝙ hiꝰ. ñ obediũt rõi.<lb break="yes" facs="#facs_eSc_line_19e9e72c" xml:id="elem_eSc_line_19e9e72c"/>igit᷑ in sensib ⁊ in poⁱˢ nͣlib ut supͣ<lb break="yes" facs="#facs_eSc_line_e4001694" xml:id="elem_eSc_line_e4001694"/>dicebat᷑ nõ hñt eẽ u̾tutes si solũ eẽ<lb break="yes" facs="#facs_eSc_line_266f61b1" xml:id="elem_eSc_line_266f61b1"/>hñt ĩ intllcũ ⁊ appetitu. In nob̾ aũt<cb break="?"/><lb break="yes" facs="#facs_eSc_line_d1ecdfab" xml:id="elem_eSc_line_d1ecdfab"/>dupłx ẽ appetitꝰ intelłctiuꝰ ⁊ sensitiuuᷤ<lb break="yes" facs="#facs_eSc_line_a86fe442" xml:id="elem_eSc_line_a86fe442"/>Nam sic̾ appetitꝰ uͣlis sequit formͣ nͣlit̾<lb break="no" facs="#facs_eSc_line_62e123fd" xml:id="elem_eSc_line_62e123fd"/>adeptã. sic appetitꝰ cogͥtiuꝰ seqr᷑ formͣ ꝑ<lb break="yes" facs="#facs_eSc_line_ca03c408" xml:id="elem_eSc_line_ca03c408"/>cogͥtõem app̃hensã. Sic̃ .i. gͣuia ex eo ꝙ<lb break="yes" facs="#facs_eSc_line_b1ef81a0" xml:id="elem_eSc_line_b1ef81a0"/>hñt forͣm gͣuis seqͥt᷑ ea q̃dam nͣł incli<lb break="no" facs="#facs_eSc_line_7770f1ca" xml:id="elem_eSc_line_7770f1ca"/>natõ ⁊ qͥdam appetitꝰ nͣł ut nͣlit̾ desid̾ent<lb break="no" facs="#facs_eSc_line_85272f97" xml:id="elem_eSc_line_85272f97"/>eẽ deorsũ. sic hñtia cogͥtõem ꝓut hñt ĩ<lb break="yes" facs="#facs_eSc_line_39144934" xml:id="elem_eSc_line_39144934"/>se ip̃is forͣm apphensã se q̃dam ĩclinatõ<lb break="no" facs="#facs_eSc_line_4f03726e" xml:id="elem_eSc_line_4f03726e"/>tq̾dam appetitꝰ ẜ forͣm illã. pp̃ ꝙ sic̾ est<lb break="yes" facs="#facs_eSc_line_1a049c70" xml:id="elem_eSc_line_1a049c70"/>in nob̾ dupłx cogͥtõ sensitĩa ⁊ intelłctia.<lb break="yes" facs="#facs_eSc_line_9fefc521" xml:id="elem_eSc_line_9fefc521"/>sic ẽ in nob̾ d̽ appetitꝰ uidel sensitiuꝰ qͥ<lb break="yes" facs="#facs_eSc_line_ba9791ed" xml:id="elem_eSc_line_ba9791ed"/>seqͥt᷑ formͣ app̃hensã ꝑ sensũ. ⁊ intelłctiuꝰ<lb break="yes" facs="#facs_eSc_line_2fc96b72" xml:id="elem_eSc_line_2fc96b72"/>qͥ seqͥt᷑ formͣ app̃hensã ꝑ intllcm̃. appeti<lb break="no" facs="#facs_eSc_line_fa56a388" xml:id="elem_eSc_line_fa56a388"/>t᷒ aͥ sensitiu᷒ dupłx ẽ. Nam cũ alia sint<lb break="yes" facs="#facs_eSc_line_81ef3ab9" xml:id="elem_eSc_line_81ef3ab9"/>supͣ inaĩata. si nͣ ełis treb inaĩatis de<lb break="no" facs="#facs_eSc_line_4789cba8" xml:id="elem_eSc_line_4789cba8"/>dit duplicẽ poͣm. unã ꝑ ꝙͣ tendũt ĩ ꝓpͥã<lb break="yes" facs="#facs_eSc_line_3957b554" xml:id="elem_eSc_line_3957b554"/>qͥetẽ. ⁊ aliã ꝑꝙͣ resistũt ⁊ agũt in ꝓhi<lb break="no" facs="#facs_eSc_line_edc9391a" xml:id="elem_eSc_line_edc9391a"/>bentia ⁊ in ꝯͣria. młto mag̾ hẽat dupᶜᵉ<lb break="yes" facs="#facs_eSc_line_363a2d11" xml:id="elem_eSc_line_363a2d11"/>poͣm nͣ dedit ip̃is ałib q̃ sunt ꝑfcõra<lb break="yes" facs="#facs_eSc_line_0106b2a0" xml:id="elem_eSc_line_0106b2a0"/>illis. uidemꝰ . n. ꝙ igͥs ẽ nͣlit̾ calidꝰ ⁊ le<lb break="no" facs="#facs_eSc_line_f4623edf" xml:id="elem_eSc_line_f4623edf"/>uis. ꝑ leuitatẽ a tendit in locũ ꝓpͥum<lb break="yes" facs="#facs_eSc_line_9441b182" xml:id="elem_eSc_line_9441b182"/>⁊ in qͥetẽ sͥ ꝯͥentẽ. ꝑ caliditatẽ u̾o agit<lb break="no" facs="#facs_eSc_line_2e902407" xml:id="elem_eSc_line_2e902407"/>ĩ ꝯͣria. Negͦ igͥs ꝑ q̃a aꝯͣria agñtia ĩ<lb break="no" facs="#facs_eSc_line_df31fb38" xml:id="elem_eSc_line_df31fb38"/>pediret᷑ ne ꝑ ⟦ꝑ⟧ leuitatẽ in ꝓpͥo loco qͥ<lb break="no" facs="#facs_eSc_line_34b4a524" xml:id="elem_eSc_line_34b4a524"/>esce̾t dedit ei nͣ poͣm calefactiuã ut<lb break="yes" facs="#facs_eSc_line_45712712" xml:id="elem_eSc_line_45712712"/>ꝑ eã resist̾e̾t tagẽt in ꝯͣria corruptiua.<lb break="yes" facs="#facs_eSc_line_e72f7f2f" xml:id="elem_eSc_line_e72f7f2f"/>Si gͥ igni ⁊ reb inaĩatis nͣ dedit dupli<lb break="no" facs="#facs_eSc_line_2270ed4c" xml:id="elem_eSc_line_2270ed4c"/>cẽ poͣm. unã ꝑ ꝙͣ adipiscũt ꝓp̾am qͥe<lb break="no" facs="#facs_eSc_line_bddb26ec" xml:id="elem_eSc_line_bddb26ec"/>tem. ⁊aliã ꝑ ꝙͣ agũt in ꝓhibẽtia ⁊ ꝯͣ<lb break="no" facs="#facs_eSc_line_af040686" xml:id="elem_eSc_line_af040686"/>ria. młto mag̾ hoc dedit ałibi. tͥbuit<lb break="yes" facs="#facs_eSc_line_8e798d18" xml:id="elem_eSc_line_8e798d18"/>gͦ eis t̾ͥplicẽ appetitũ sensitiũ. unũ ꝑ<lb break="yes" facs="#facs_eSc_line_9017e0d5" xml:id="elem_eSc_line_9017e0d5"/>ꝙ̃ ꝯseqũt ꝓp̾am qͥetẽ i ꝓpͥã dełctatõe.<lb break="yes" facs="#facs_eSc_line_70786f5a" xml:id="elem_eSc_line_70786f5a"/>ut ꝯcupisciłem ⁊ aliũ ꝑꝙ̃ resistũt<lb break="yes" facs="#facs_eSc_line_b1d628e4" xml:id="elem_eSc_line_b1d628e4"/>⁊agg̾diũt ꝑhitiua ⁊ ꝯͣrĩa ut irasci ᷝ ͤ<lb break="yes" facs="#facs_eSc_line_3792cd85" xml:id="elem_eSc_line_3792cd85"/>ita ꝙ ꝯcupisci ł se h̃t sic̃ leuitas ł gͣuitaᷤ.<lb break="yes" facs="#facs_eSc_line_6b99ccf6" xml:id="elem_eSc_line_6b99ccf6"/>ĩ leuib ⁊ gͣuib. Irasci u̾o se ht̃ .ꝙ. calidi<lb break="no" facs="#facs_eSc_line_d96d7ae3" xml:id="elem_eSc_line_d96d7ae3"/>tas ⁊ frigiditas ĩ eis. Nam sic̃ gͣuia ps<pb n="2" facs="../input_files/deregimine_man_haro-mss9236.pdf_page_2.png"/><lb break="yes" facs="#facs_eSc_line_24a7f376" xml:id="elem_eSc_line_24a7f376"/>gͣuitatẽ recedũt aloco sursũ tanꝙͣ a nõ<lb break="yes" facs="#facs_eSc_line_deec4588" xml:id="elem_eSc_line_deec4588"/>ꝯ̾ente ⁊ tendũt in locũ de orsũ tanꝙͣ ad<lb break="yes" facs="#facs_eSc_line_a3f58bc1" xml:id="elem_eSc_line_a3f58bc1"/>locũ ꝯͥentẽ ⁊ ꝯfor̃em. ꝑ frigiditatẽ u̾o<lb break="no" facs="#facs_eSc_line_7c8b75e8" xml:id="elem_eSc_line_7c8b75e8"/>resistũt ꝯͣriis ne corrũpant a ꝓpͥa nͣ ⁊ de<lb break="no" facs="#facs_eSc_line_64fcf5a9" xml:id="elem_eSc_line_64fcf5a9"/>ẜant ꝓpͥa loca ⁊ ꝓpͥam qͥetẽ. sic alia ꝑ cõ<lb break="yes" facs="#facs_eSc_line_957848d5" xml:id="elem_eSc_line_957848d5"/>cupisciˡᵉ fugiũt mala t̾stia ⁊ ꝓseqũt᷑<lb break="yes" facs="#facs_eSc_line_021290ae" xml:id="elem_eSc_line_021290ae"/>bona delcãbłia. ꝑ irasciˡᵉ u̾o agg̾diũt᷑<lb break="yes" facs="#facs_eSc_line_7058f7e2" xml:id="elem_eSc_line_7058f7e2"/>ꝯͣtia q̃ possent ẽã ab hiꝰ delcãtõnib ꝓhi<lb break="no" facs="#facs_eSc_line_dcaf5d16" xml:id="elem_eSc_line_dcaf5d16"/>bere. ut leo ꝑ ꝯcupisciˡᵉ ꝑgit ut ꝓseqͣ<lb break="no" facs="#facs_eSc_line_b44e8837" xml:id="elem_eSc_line_b44e8837"/>t᷑ cibũ tanꝙͦ ad delcãbłe. ꝑ irascibłem<lb break="no" facs="#facs_eSc_line_b7b17cfa" xml:id="elem_eSc_line_b7b17cfa"/>u̾o agg̾dit᷑ ałla uolẽtia ip̃m ꝓhib̾e ĩ ci<lb break="no" facs="#facs_eSc_line_787646a6" xml:id="elem_eSc_line_787646a6"/>bo adep̃to. pp̃ ꝙ bñ dm̃ ẽ ꝙ ꝯcupisł res<lb break="no" facs="#facs_eSc_line_c82965d1" xml:id="elem_eSc_line_c82965d1"/>ꝑicit bonũ ⁊ malũ ẜ se. Irascił u̾o respic̃<lb break="yes" facs="#facs_eSc_line_d43a51b9" xml:id="elem_eSc_line_d43a51b9"/>bonũ ⁊ malũ in ꝙͫ hñt rõem difficił ⁊<lb break="yes" facs="#facs_eSc_line_e34fa234" xml:id="elem_eSc_line_e34fa234"/>ardui. Nã cũ bonũ ẜ se dicat ꝙͥ ꝑseqñd̾.<lb break="yes" facs="#facs_eSc_line_0e7ac6c6" xml:id="elem_eSc_line_0e7ac6c6"/>malũ u̾o ꝙͥ fugiend̾. ꝯcupi q̃ ẜ se ten<lb break="no" facs="#facs_eSc_line_31a08157" xml:id="elem_eSc_line_31a08157"/>dit in qͥetẽ ⁊ in bona delcãbłia ⁊ fugit<lb break="yes" facs="#facs_eSc_line_7b6f723f" xml:id="elem_eSc_line_7b6f723f"/>mala tͥstia ꝓ oƀo ht̃ bona ⁊ mala sen<lb break="no" facs="#facs_eSc_line_850536df" xml:id="elem_eSc_line_850536df"/>sibłis ẜ se ꝯsid̾ata. Irascił u̾o ẜ ꝙͣ agg̾<lb break="no" facs="#facs_eSc_line_aa95076a" xml:id="elem_eSc_line_aa95076a"/>dimꝰ ⁊ resistimꝰ ꝓhibentib ⁊ nociuis tẽ<lb break="no" facs="#facs_eSc_line_e6fb45a9" xml:id="elem_eSc_line_e6fb45a9"/>dit in bona ⁊ mala sensiˡⁱᵃ nõ ẜ se ꝯsi<lb break="no" facs="#facs_eSc_line_5e082011" xml:id="elem_eSc_line_5e082011"/>d̾ata si ut hñt rõem ardui ⁊ difficił. Nã<lb break="yes" facs="#facs_eSc_line_4ab0f4ec" xml:id="elem_eSc_line_4ab0f4ec"/>arduitas ⁊ difficłtas potissime sũt re<lb break="no" facs="#facs_eSc_line_2345064f" xml:id="elem_eSc_line_2345064f"/>pugͣntia ⁊ ꝓhñtia ne possimꝰ ꝯseqͥ bo<lb break="no" facs="#facs_eSc_line_97450c91" xml:id="elem_eSc_line_97450c91"/>nũ ⁊ uitar̾e ⟦li⟧ malũ. imꝑfcẽ gͦ egis<lb break="yes" facs="#facs_eSc_line_06a1f99d" xml:id="elem_eSc_line_06a1f99d"/>si nͣ si dediss alib ꝯcupisci ᷝ ͤͤ ꝑ ꝙͣ uita<lb break="no" facs="#facs_eSc_line_63a160f7" xml:id="elem_eSc_line_63a160f7"/>rent mala ⁊ ꝓseq̃rent᷑ bona. nͥ dediss<lb break="yes" facs="#facs_eSc_line_63fe7251" xml:id="elem_eSc_line_63fe7251"/>eis irasciˡᵉ ꝑ ꝙͣ agg̃derent ĩpedienti<lb break="no" facs="#facs_eSc_line_11fadb50" xml:id="elem_eSc_line_11fadb50"/>a dełctatõem illã. dupłx ẽ gͦ appetitus<lb break="yes" facs="#facs_eSc_line_b3b547f5" xml:id="elem_eSc_line_b3b547f5"/>sensitiuꝰ nascił ⁊ ꝯcupisł appetit᷑ꝰ a̾ iu<lb break="no" facs="#facs_eSc_line_7edf0496" xml:id="elem_eSc_line_7edf0496"/>telłctuꝰ qͥdr̃ uolũtas reman ĩd̾isus.<lb break="yes" facs="#facs_eSc_line_b592545c" xml:id="elem_eSc_line_b592545c"/>Nam cũ intllcũs ułiori mͦ respiciat su<lb break="no" facs="#facs_eSc_line_a8db5209" xml:id="elem_eSc_line_a8db5209"/>ũ oƀm ꝙͣ sensus appetitiuꝰ intelłctuuꝰ qͥ<lb break="yes" facs="#facs_eSc_line_67365b52" xml:id="elem_eSc_line_67365b52"/>seqͥt᷑ intllcm̃ ułiori mͦ fert᷑ in bonũ ꝙͣ<lb break="yes" facs="#facs_eSc_line_40d40b08" xml:id="elem_eSc_line_40d40b08"/>appetitꝰ ẜ sensũ. ⁊ qr qnͣto aͥd sb̾ ułiori<lb break="yes" facs="#facs_eSc_line_4f4bc9e8" xml:id="elem_eSc_line_4f4bc9e8"/>modo accipit᷑ tanto unũ ⁊ id̾ exñs ad<lb break="yes" facs="#facs_eSc_line_813e4c02" xml:id="elem_eSc_line_813e4c02"/>pła se extendit licet appetitꝰ sensitiuꝰ<cb break="?"/><lb break="no" facs="#facs_eSc_line_741b5e63" xml:id="elem_eSc_line_741b5e63"/>sit aliꝰ ⁊ aliꝰ ẜ ꝙ̃ ꝓsequi delcãbłia ẜ sensũ<lb break="yes" facs="#facs_eSc_line_3f2230db" xml:id="elem_eSc_line_3f2230db"/>⁊ aggͥdim᷑ t̾ribłia. appetitꝰ tñ intełłctiuꝰ<lb break="yes" facs="#facs_eSc_line_726e1c2b" xml:id="elem_eSc_line_726e1c2b"/>unꝰ ⁊ id̾ exñs fert ᷑ in om̃e bonũ intsiˡᵉ.<lb break="yes" facs="#facs_eSc_line_9e985547" xml:id="elem_eSc_line_9e985547"/>nõ gͦ est aliꝰ appetitꝰ intellctuł ẜ ꝙ̃ ꝓseqͥ<lb break="no" facs="#facs_eSc_line_13537d6c" xml:id="elem_eSc_line_13537d6c"/>m᷑ bona delcãbłia ꝑ intllcm̃ ⁊ aggdim᷑<lb break="yes" facs="#facs_eSc_line_3d444cc6" xml:id="elem_eSc_line_3d444cc6"/>bona ardua. sic̃ est aliꝰ appetitꝰ sensitiu᷒ ẜ<lb break="no" facs="#facs_eSc_line_396dfa15" xml:id="elem_eSc_line_396dfa15"/>ꝙ̃ ꝓsequi bona sensiˡⁱᵃ delcãbłia ⁊ agg̾ͥ<lb break="yes" facs="#facs_eSc_line_6389f5f8" xml:id="elem_eSc_line_6389f5f8"/>diui᷑ t̾ribłia. qrͣ si oĩs u̾tus morał uł ẽ<lb break="no" facs="#facs_eSc_line_3e2de967" xml:id="elem_eSc_line_3e2de967"/>ĩ intelłctu uł in appetitu. ⁊ appetitꝰ aliꝰ<lb break="yes" facs="#facs_eSc_line_7e953b14" xml:id="elem_eSc_line_7e953b14"/>ẽ intelłctuꝰ uł uolũtas. aliꝰ sensitusꝰ. ⁊<lb break="yes" facs="#facs_eSc_line_b9df7e66" xml:id="elem_eSc_line_b9df7e66"/>hͥ dup̃. irascił ẜ ⁊ ꝯcuꝑisł o oẽm uͥtutẽ<lb break="yes" facs="#facs_eSc_line_779123f6" xml:id="elem_eSc_line_779123f6"/>moralẽ uł eẽ in ĩtllcũ uł in uo ͭ ͤ uł in<lb break="yes" facs="#facs_eSc_line_25398014" xml:id="elem_eSc_line_25398014"/>irasciˡⁱ uł in ꝯcupisˡⁱ accipiẽdo gͥ uir<lb break="no" facs="#facs_eSc_line_4d47d2e6" xml:id="elem_eSc_line_4d47d2e6"/>tutẽ moralẽ large ꝓut ip̃a pͧdentia<lb break="yes" facs="#facs_eSc_line_b2e92c7f" xml:id="elem_eSc_line_b2e92c7f"/>dr̃ q̃dam u̾tꝰ morał dic̃ẽ possumꝰ ꝙ ẜ<lb break="no" facs="#facs_eSc_line_e4e3f244" xml:id="elem_eSc_line_e4e3f244"/>bas .iiii. poͣs aĩe in qͥb ht̃ eẽ uͥtꝰ sũp<lb break="yes" facs="#facs_eSc_line_a2c5ac9c" xml:id="elem_eSc_line_a2c5ac9c"/>te sũt .iiii. u̾tutes cardĩales. ẜ pͣdenͣ.<lb break="yes" facs="#facs_eSc_line_39986e98" xml:id="elem_eSc_line_39986e98"/>iusticia. fortitudo ⁊ tẽꝑantia. Nam<lb break="yes" facs="#facs_eSc_line_a40dfe57" xml:id="elem_eSc_line_a40dfe57"/>pͧdentia ẽ in ĩtelłctu. iusticia in uo ͭ ͤ<lb break="yes" facs="#facs_eSc_line_1425de30" xml:id="elem_eSc_line_1425de30"/>fortiᵈᵒ ĩ irasciˡⁱ tẽꝑanͣ in ꝯcupiscibłi.</div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

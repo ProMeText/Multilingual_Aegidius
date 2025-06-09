@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>339.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15840" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15841" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT15828" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15829" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15830" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15831" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15832" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15833" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15834" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15835" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15836" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15837" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15838" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15839" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15842" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT6656" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT6653" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6654" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6655" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6657" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1155"
+          HEIGHT="1757"
+          PHYSICAL_IMG_NR="10"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1155"
+                  HEIGHT="1757">
+        
+        <TextBlock HPOS="38"
+                   VPOS="1090"
+                   WIDTH="861"
+                   HEIGHT="491"
+                   ID="eSc_textblock_a5715b2e"
+                   TAGREFS="BT15832">
+          <Shape><Polygon POINTS="891 1581 38 1581 46 1090 899 1090"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_09b51da4"
+                    TAGREFS="LT6655"
+                    BASELINE="296 1121 629 1125" 
+                    HPOS="295"
+                    VPOS="1086"
+                    WIDTH="334"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="296 1121 295 1130 377 1135 378 1135 379 1135 394 1131 399 1130 403 1131 416 1136 417 1136 418 1136 419 1136 420 1136 425 1131 426 1130 430 1131 441 1135 442 1135 443 1135 444 1135 456 1131 462 1130 481 1132 545 1138 546 1138 628 1132 629 1125 629 1088 296 1086 296 1121"/></Shape>
+	    <String CONTENT="C A P. XIIII."
+                    HPOS="295"
+                    VPOS="1086"
+                    WIDTH="334"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ecc54143"
+                    TAGREFS="LT6655"
+                    BASELINE="65 1175 889 1179" 
+                    HPOS="64"
+                    VPOS="1119"
+                    WIDTH="825"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="65 1175 64 1197 138 1198 139 1198 140 1198 141 1198 163 1186 268 1186 274 1191 275 1191 276 1191 277 1191 340 1190 354 1199 355 1199 356 1199 357 1200 396 1200 396 1199 397 1199 398 1199 414 1187 456 1187 471 1193 472 1193 473 1193 542 1188 567 1195 568 1195 569 1195 570 1195 583 1188 625 1188 645 1200 646 1200 647 1200 810 1201 811 1201 812 1201 833 1194 852 1201 853 1201 854 1202 888 1202 889 1179 889 1147 804 1139 803 1139 802 1139 788 1144 783 1145 780 1144 771 1139 770 1139 769 1139 712 1141 627 1144 598 1137 565 1128 564 1128 505 1126 504 1126 503 1126 488 1133 466 1144 405 1138 404 1138 352 1144 335 1136 334 1136 333 1136 300 1140 279 1126 268 1119 267 1119 266 1119 169 1119 168 1119 167 1119 166 1119 163 1122 160 1124 157 1122 154 1119 153 1119 152 1119 65 1119 65 1175"/></Shape>
+	    <String CONTENT="Quod oẽs ciues, et maxime Reges et princi¬"
+                    HPOS="64"
+                    VPOS="1119"
+                    WIDTH="825"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec92925d"
+                    TAGREFS="LT6655"
+                    BASELINE="140 1227 828 1229" 
+                    HPOS="139"
+                    VPOS="1187"
+                    WIDTH="689"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="140 1227 139 1237 168 1243 169 1243 241 1239 285 1237 298 1240 328 1248 329 1248 330 1248 330 1248 344 1241 350 1238 359 1241 364 1243 365 1243 366 1243 373 1242 392 1237 413 1242 436 1248 437 1248 438 1248 439 1248 440 1248 447 1243 453 1239 459 1243 460 1243 461 1243 462 1243 483 1237 494 1242 495 1242 495 1242 520 1240 526 1244 532 1249 533 1249 534 1249 535 1250 579 1250 579 1249 580 1249 592 1245 617 1238 637 1246 644 1249 645 1249 646 1250 685 1250 685 1249 686 1249 691 1247 710 1238 727 1246 728 1246 729 1246 730 1246 743 1239 763 1245 764 1245 765 1245 766 1245 779 1239 790 1249 791 1249 792 1249 793 1250 827 1250 828 1229 826 1194 651 1196 647 1193 642 1189 641 1189 640 1189 639 1189 638 1189 637 1189 632 1193 628 1197 598 1197 595 1193 589 1189 589 1188 588 1188 587 1188 569 1188 568 1188 536 1193 524 1195 510 1193 487 1190 486 1190 461 1193 447 1195 439 1193 417 1187 416 1187 415 1187 414 1187 402 1193 398 1195 392 1193 374 1188 373 1188 372 1188 344 1193 332 1195 329 1193 317 1187 316 1187 240 1187 239 1187 211 1193 203 1195 200 1193 193 1187 192 1187 191 1187 151 1187 150 1187 149 1187 140 1191 140 1227"/></Shape>
+	    <String CONTENT="pes non decet suas vxores regere eo¬"
+                    HPOS="139"
+                    VPOS="1187"
+                    WIDTH="689"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a483475"
+                    TAGREFS="LT6655"
+                    BASELINE="192 1281 747 1281" 
+                    HPOS="192"
+                    VPOS="1239"
+                    WIDTH="555"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="192 1281 192 1292 243 1292 250 1298 250 1299 251 1299 252 1299 253 1299 254 1299 255 1299 255 1298 263 1292 291 1292 292 1292 318 1304 319 1304 320 1305 355 1305 355 1304 356 1304 398 1293 401 1292 403 1293 412 1297 412 1297 413 1297 414 1297 415 1297 422 1293 422 1292 423 1293 436 1304 437 1304 438 1304 439 1305 480 1305 480 1304 481 1304 482 1304 482 1303 491 1295 523 1304 524 1304 525 1304 526 1304 547 1293 550 1292 590 1292 592 1294 604 1304 605 1304 606 1304 607 1305 701 1305 701 1304 701 1304 716 1296 724 1300 725 1300 726 1300 727 1300 747 1294 747 1281 747 1246 729 1239 728 1239 727 1239 726 1239 713 1246 708 1249 643 1249 636 1245 630 1242 629 1242 628 1242 627 1242 620 1245 614 1248 485 1243 477 1243 476 1243 475 1243 445 1248 428 1242 420 1239 419 1239 418 1239 401 1242 373 1246 368 1241 366 1240 366 1239 365 1239 364 1239 275 1239 274 1239 273 1239 272 1239 272 1240 258 1249 228 1249 219 1240 219 1239 218 1239 217 1239 192 1239 192 1281"/></Shape>
+	    <String CONTENT="dem regimine, quo regendi"
+                    HPOS="192"
+                    VPOS="1239"
+                    WIDTH="555"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6473ae24"
+                    TAGREFS="LT6655"
+                    BASELINE="384 1335 560 1333" 
+                    HPOS="383"
+                    VPOS="1292"
+                    WIDTH="177"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="384 1335 384 1345 465 1349 466 1349 559 1343 560 1333 557 1298 519 1299 517 1298 512 1293 512 1292 511 1292 510 1292 491 1292 490 1292 489 1292 477 1298 475 1299 472 1298 467 1295 466 1295 465 1295 445 1298 425 1300 419 1298 409 1293 408 1293 407 1293 383 1297 384 1335"/></Shape>
+	    <String CONTENT="sunt filii."
+                    HPOS="383"
+                    VPOS="1292"
+                    WIDTH="177"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_234f9c2b"
+                    TAGREFS="LT6653"
+                    BASELINE="181 1435 891 1435" 
+                    HPOS="181"
+                    VPOS="1381"
+                    WIDTH="710"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="181 1435 181 1445 268 1446 292 1458 293 1458 294 1458 295 1458 296 1458 304 1452 332 1458 333 1458 334 1458 335 1458 350 1447 351 1446 367 1446 369 1447 383 1458 384 1458 385 1458 386 1459 407 1459 407 1458 408 1458 431 1448 436 1446 456 1446 461 1448 480 1458 481 1458 482 1458 483 1458 512 1448 513 1448 523 1456 524 1456 525 1456 526 1456 527 1456 528 1456 537 1449 540 1446 545 1449 554 1453 555 1453 556 1453 595 1451 611 1458 612 1458 613 1459 647 1459 647 1458 648 1458 665 1450 670 1447 676 1450 683 1453 684 1453 685 1453 699 1450 707 1448 709 1450 719 1458 720 1458 721 1458 722 1459 751 1459 751 1458 752 1458 770 1451 782 1446 814 1449 816 1451 824 1458 825 1458 825 1458 826 1459 883 1459 883 1458 884 1458 885 1458 891 1453 891 1435 890 1398 726 1400 714 1393 700 1384 699 1384 698 1384 697 1384 696 1384 675 1392 658 1401 614 1401 594 1390 590 1389 589 1389 588 1389 576 1390 564 1391 558 1389 543 1384 542 1384 541 1384 540 1384 529 1389 523 1391 480 1390 479 1390 478 1390 447 1400 415 1386 412 1385 411 1385 410 1385 409 1385 405 1386 385 1391 362 1385 347 1381 346 1381 181 1381 181 1435"/></Shape>
+	    <String CONTENT="Via nõ sufficit scire quale cõiugiũ, et qualiter ꝗs"
+                    HPOS="181"
+                    VPOS="1381"
+                    WIDTH="710"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8975961"
+                    TAGREFS="LT6653"
+                    BASELINE="179 1488 891 1486" 
+                    HPOS="178"
+                    VPOS="1447"
+                    WIDTH="713"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="179 1488 180 1506 203 1497 305 1497 322 1506 323 1506 324 1506 325 1506 326 1506 327 1506 354 1498 401 1504 402 1504 448 1499 487 1503 488 1503 515 1497 525 1501 526 1501 527 1501 528 1501 529 1501 535 1496 551 1504 552 1504 553 1504 587 1496 615 1503 616 1503 617 1503 643 1498 686 1503 687 1503 688 1503 702 1496 715 1505 716 1505 717 1505 718 1505 783 1505 807 1504 808 1504 809 1504 818 1498 834 1505 835 1505 836 1505 837 1505 891 1504 891 1486 887 1449 860 1458 846 1453 845 1453 844 1453 778 1458 756 1451 755 1451 754 1451 673 1457 661 1449 660 1449 660 1449 659 1449 658 1449 657 1449 647 1458 622 1458 610 1449 609 1449 608 1449 607 1449 606 1449 605 1449 597 1455 565 1451 564 1451 563 1451 562 1451 553 1459 442 1459 424 1450 423 1450 422 1450 421 1450 403 1456 384 1448 382 1447 381 1447 380 1447 367 1448 319 1452 302 1448 299 1447 298 1447 297 1447 296 1447 295 1447 295 1448 285 1455 271 1448 269 1447 268 1447 267 1447 178 1447 179 1488"/></Shape>
+	    <String CONTENT="se habere debeat in vxore ducenda, nisi circa eã"
+                    HPOS="178"
+                    VPOS="1447"
+                    WIDTH="713"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43554a06"
+                    TAGREFS="LT6653"
+                    BASELINE="43 1541 889 1539" 
+                    HPOS="42"
+                    VPOS="1494"
+                    WIDTH="847"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="43 1541 43 1583 120 1582 121 1582 158 1570 186 1579 187 1579 257 1582 264 1582 265 1582 266 1582 302 1569 318 1575 319 1575 320 1575 321 1575 336 1571 363 1582 365 1582 366 1582 367 1582 371 1582 409 1574 448 1580 449 1580 450 1580 467 1571 485 1581 486 1581 487 1581 488 1582 519 1582 519 1581 520 1581 522 1581 561 1566 683 1566 756 1576 757 1576 758 1576 759 1576 772 1567 825 1566 858 1579 865 1581 866 1581 866 1581 888 1578 889 1539 887 1506 832 1498 831 1498 830 1498 829 1498 821 1505 820 1506 495 1506 477 1500 455 1494 454 1494 453 1494 453 1494 438 1499 426 1494 425 1494 358 1494 357 1494 356 1494 355 1494 349 1499 337 1506 319 1498 309 1494 308 1494 307 1494 189 1496 185 1497 184 1497 183 1497 175 1503 162 1498 161 1498 160 1498 123 1500 115 1495 113 1494 112 1494 111 1494 110 1494 42 1494 43 1541"/></Shape>
+	    <String CONTENT="iam ductã sciat debite se habere. Ideo premissis capitulis"
+                    HPOS="42"
+                    VPOS="1494"
+                    WIDTH="847"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

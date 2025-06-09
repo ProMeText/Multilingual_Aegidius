@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>manuscritBC_275273_full.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15328" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15329" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT15316" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15317" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15318" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15319" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15320" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15321" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15322" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15323" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15324" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15325" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15326" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15327" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15330" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT6460" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6461" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6462" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6463" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6464" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1623"
+          HEIGHT="2177"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1623"
+                  HEIGHT="2177">
+        
+        <TextBlock HPOS="295"
+                   VPOS="275"
+                   WIDTH="1173"
+                   HEIGHT="1470"
+                   ID="eSc_textblock_6a2b4b09"
+                   TAGREFS="BT15320">
+          <Shape><Polygon POINTS="1240 290 1327 295 1338 319 1453 324 1453 361 1405 382 1400 459 1409 680 1434 738 1468 749 1468 772 1420 787 1409 822 1419 1411 1400 1745 324 1740 324 1335 300 1222 319 1136 300 1135 295 1107 324 1067 334 856 445 845 439 767 324 772 304 609 309 295 325 275"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_97e296ac"
+                    TAGREFS="LT6464"
+                    BASELINE="440 748 1438 735" 
+                    HPOS="437"
+                    VPOS="703"
+                    WIDTH="1000"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1417 707 1416 705 862 703 860 703 807 714 802 716 437 718 439 747 439 761 1437 745 1437 734 1434 707 1417 705 1417 707"/></Shape>
+	    <String CONTENT="¶Capitol. i. en qual manera son de ꝑtides les potẽcies dela aĩa e en q̃ls potẽcies han esser les"
+                    HPOS="437"
+                    VPOS="703"
+                    WIDTH="1000"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_074e7b66"
+                    
+                    BASELINE="1382 765 1477 764" 
+                    HPOS="1381"
+                    VPOS="731"
+                    WIDTH="94"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1454 743 1436 738 1421 736 1381 740 1381 763 1381 790 1475 790 1475 763 1474 731 1454 732 1454 743"/></Shape>
+	    <String CONTENT="uirtuts."
+                    HPOS="1381"
+                    VPOS="731"
+                    WIDTH="94"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb145f17"
+                    TAGREFS="LT6464"
+                    BASELINE="457 774 1377 765" 
+                    HPOS="453"
+                    VPOS="738"
+                    WIDTH="923"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="455 772 455 787 1376 785 1376 763 1370 738 453 749 455 772"/></Shape>
+	    <String CONTENT="Epus q̃ deus auidãt hauẽ cõplida la pͥmã ꝑtida daq̃st pͥmer libre en lo qͥl es tractar del"
+                    HPOS="453"
+                    VPOS="738"
+                    WIDTH="923"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_703c66d2"
+                    TAGREFS="LT6464"
+                    BASELINE="465 803 1415 798" 
+                    HPOS="462"
+                    VPOS="772"
+                    WIDTH="952"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="464 801 464 818 1412 812 1414 796 1408 772 462 778 464 801"/></Shape>
+	    <String CONTENT="regimẽt desimatex demostrãt en qͣl cosa los Reys els pͥnceps degen posar la sua benauẽtu-"
+                    HPOS="462"
+                    VPOS="772"
+                    WIDTH="952"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dce71f64"
+                    TAGREFS="LT6464"
+                    BASELINE="465 833 1405 827" 
+                    HPOS="462"
+                    VPOS="800"
+                    WIDTH="941"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="464 832 464 849 1401 841 1403 825 1397 800 462 807 464 832"/></Shape>
+	    <String CONTENT="rança/. Quar nos ꝑtãy dells posar la sua si en riq̃hes ne enpotencia ciuil ne en alt̾s coses"
+                    HPOS="462"
+                    VPOS="800"
+                    WIDTH="941"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af1e3928"
+                    TAGREFS="LT6464"
+                    BASELINE="458 863 1409 861" 
+                    HPOS="455"
+                    VPOS="838"
+                    WIDTH="953"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="457 861 457 874 1406 872 1408 859 1403 838 455 838 457 861"/></Shape>
+	    <String CONTENT="aytals ans de tots coses aytals segons q̃ damũt era ꝓuat deuẽ usar axi cõ dorguẽs o de in"
+                    HPOS="455"
+                    VPOS="838"
+                    WIDTH="953"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_91f37dc9"
+                    TAGREFS="LT6464"
+                    BASELINE="332 888 1409 894" 
+                    HPOS="328"
+                    VPOS="861"
+                    WIDTH="1080"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="330 887 328 898 1405 903 1408 892 1406 868 330 861 330 887"/></Shape>
+	    <String CONTENT="strumens abenauẽturanca/ Mas la sua benauẽturãça deuẽ posar en fer o en obra deprudẽcia o desauiea"
+                    HPOS="328"
+                    VPOS="861"
+                    WIDTH="1080"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9faefc3"
+                    TAGREFS="LT6464"
+                    BASELINE="332 922 940 919 1415 925" 
+                    HPOS="328"
+                    VPOS="894"
+                    WIDTH="1086"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="330 921 328 934 1412 930 1414 923 1412 894 330 894 330 921"/></Shape>
+	    <String CONTENT="segons q̃ tal fer oral obra es manada ꝑ caritat/ Quar lauos los Reys han benauẽturãca deguda e cõdigͦ"
+                    HPOS="328"
+                    VPOS="894"
+                    WIDTH="1086"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_347b5c70"
+                    TAGREFS="LT6464"
+                    BASELINE="334 950 1172 948 1415 953" 
+                    HPOS="330"
+                    VPOS="923"
+                    WIDTH="1084"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="332 948 332 966 1412 959 1414 952 1410 923 330 923 332 948"/></Shape>
+	    <String CONTENT="al lur estament quan ells ꝑ instigacio dela amor de deusegõs sauiea o segõs pruden̾cia regitiua ese-"
+                    HPOS="330"
+                    VPOS="923"
+                    WIDTH="1084"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8be4fec2"
+                    TAGREFS="LT6464"
+                    BASELINE="331 979 1397 977" 
+                    HPOS="328"
+                    VPOS="954"
+                    WIDTH="1068"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="330 977 330 992 1394 988 1396 976 1390 954 328 954 330 977"/></Shape>
+	    <String CONTENT="gons ley e segons raho regexẽ lagent quils ͤ comanada santamẽt e iustament Donq̃s pͥncipalment"
+                    HPOS="328"
+                    VPOS="954"
+                    WIDTH="1068"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74d5681f"
+                    TAGREFS="LT6464"
+                    BASELINE="329 1006 1424 1003" 
+                    HPOS="326"
+                    VPOS="979"
+                    WIDTH="1097"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="326 983 328 1005 328 1019 1421 1015 1423 1001 1417 979 332 979 326 983"/></Shape>
+	    <String CONTENT="la benauenturança dels Reys deu esser posada en deu axi q̃ per couexença e ꝑ dilectio dell lur estudi e lur"
+                    HPOS="326"
+                    VPOS="979"
+                    WIDTH="1097"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f7ac8ad"
+                    TAGREFS="LT6464"
+                    BASELINE="330 1035 1427 1035" 
+                    HPOS="328"
+                    VPOS="1010"
+                    WIDTH="1098"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="328 1034 328 1050 1426 1050 1426 1034 1426 1010 328 1010 328 1034"/></Shape>
+	    <String CONTENT="uida studien ordonar a aço q̃ ells conexent e amant deu axi cõ au̾rades ministres o au̾tades ẜutdos seus"
+                    HPOS="328"
+                    VPOS="1010"
+                    WIDTH="1098"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5db73746"
+                    TAGREFS="LT6464"
+                    BASELINE="329 1064 1408 1060" 
+                    HPOS="326"
+                    VPOS="1035"
+                    WIDTH="1080"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="328 1063 328 1075 1405 1072 1406 1059 1401 1035 326 1037 328 1063"/></Shape>
+	    <String CONTENT="segõs orde de raho endreç̾en o regesq̃ñ lo poble qͥls comanar/ aq̃stes coses donq̃s axi cõplides/ E de mo-"
+                    HPOS="326"
+                    VPOS="1035"
+                    WIDTH="1080"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d49fc1a1"
+                    TAGREFS="LT6464"
+                    BASELINE="323 1094 1403 1088" 
+                    HPOS="319"
+                    VPOS="1063"
+                    WIDTH="1082"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="319 1072 321 1093 321 1112 1399 1099 1401 1086 1396 1063 334 1063 319 1072"/></Shape>
+	    <String CONTENT="strat en qual cosa los Reys deuen posar la sua si segõs lorde damũt posat en lo.c.iii. Roman a demo"
+                    HPOS="319"
+                    VPOS="1063"
+                    WIDTH="1082"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c813e5d6"
+                    TAGREFS="LT6464"
+                    BASELINE="329 1125 1410 1116" 
+                    HPOS="326"
+                    VPOS="1090"
+                    WIDTH="1082"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="328 1124 328 1139 1406 1126 1408 1115 1403 1090 326 1099 328 1124"/></Shape>
+	    <String CONTENT="strar de quals uirtuts los Reys degen resplendir quar les uirtuts son algũ ornament e algunes ꝑfec-"
+                    HPOS="326"
+                    VPOS="1090"
+                    WIDTH="1082"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f31933a"
+                    TAGREFS="LT6464"
+                    BASELINE="329 1151 1411 1145" 
+                    HPOS="326"
+                    VPOS="1117"
+                    WIDTH="1084"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="328 1150 328 1164 1408 1159 1410 1144 1405 1117 326 1124 328 1150"/></Shape>
+	    <String CONTENT="cions dela aĩa ¶Pͥmerament donques coue a demostrar quãtes son les potẽcies dela aĩa e en qͣls potẽ-"
+                    HPOS="326"
+                    VPOS="1117"
+                    WIDTH="1084"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b33a918"
+                    TAGREFS="LT6464"
+                    BASELINE="330 1179 1387 1176" 
+                    HPOS="326"
+                    VPOS="1153"
+                    WIDTH="1060"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="328 1177 328 1190 1385 1188 1386 1175 1381 1153 326 1153 328 1177"/></Shape>
+	    <String CONTENT="cies han ꝑsser les uirtuts/ Empero ap̾s sera maĩfestat en qͣl manera les uirtuts deuẽ eẽr deꝑtides/"
+                    HPOS="326"
+                    VPOS="1153"
+                    WIDTH="1060"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5340a27d"
+                    TAGREFS="LT6464"
+                    BASELINE="306 1213 1421 1202" 
+                    HPOS="303"
+                    VPOS="1177"
+                    WIDTH="1116"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="303 1199 304 1211 304 1228 1417 1213 1419 1200 1414 1177 306 1179 303 1199"/></Shape>
+	    <String CONTENT="¶Enapͥs nos demostrarẽ quãtes son per nõbre aq̃stes uirturs¶S quals da quells son pͥncipals e quals"
+                    HPOS="303"
+                    VPOS="1177"
+                    WIDTH="1116"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c0ef224"
+                    TAGREFS="LT6464"
+                    BASELINE="318 1237 1417 1232" 
+                    HPOS="315"
+                    VPOS="1210"
+                    WIDTH="1101"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="317 1235 317 1251 1416 1246 1416 1231 1410 1210 315 1211 317 1235"/></Shape>
+	    <String CONTENT="son secundaries o meỹs pͥncipals E finalmẽt sera declarat en especial q̃l sia q̃scuma daq̃lłs urtuts"
+                    HPOS="315"
+                    VPOS="1210"
+                    WIDTH="1101"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6fe9f227"
+                    TAGREFS="LT6464"
+                    BASELINE="329 1267 1416 1260" 
+                    HPOS="326"
+                    VPOS="1233"
+                    WIDTH="1088"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="328 1266 328 1280 1412 1273 1414 1259 1408 1233 326 1242 328 1266"/></Shape>
+	    <String CONTENT="E enqͣl mana se ꝑtaỹ dels Reys e dels pͥnceps hau̾ tals uirturs¶Les potencies dela aĩa poden esser de-"
+                    HPOS="326"
+                    VPOS="1233"
+                    WIDTH="1088"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea1f1dd7"
+                    TAGREFS="LT6464"
+                    BASELINE="329 1300 1420 1290" 
+                    HPOS="326"
+                    VPOS="1266"
+                    WIDTH="1093"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1416 1288 1401 1266 326 1269 328 1298 328 1317 1417 1300 1419 1289 1416 1273 1416 1288"/></Shape>
+	    <String CONTENT="ꝑtides en aq̃sta man̾a¶Quar algunes sõ nãls ¶Algunes cogͥtiues o conexedores sensitiues ¶Alguñs"
+                    HPOS="326"
+                    VPOS="1266"
+                    WIDTH="1093"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ed8f37f"
+                    TAGREFS="LT6464"
+                    BASELINE="329 1329 1418 1320" 
+                    HPOS="326"
+                    VPOS="1291"
+                    WIDTH="1091"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="328 1327 328 1342 1416 1329 1417 1318 1412 1291 326 1302 328 1327"/></Shape>
+	    <String CONTENT="appetitiues o uolũtaries/ E alt̾s entellectuals ¶les potẽcies n̾als son aq̃lls en les qͣls nos ꝑticipã ab les co-"
+                    HPOS="326"
+                    VPOS="1291"
+                    WIDTH="1091"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_231481e8"
+                    TAGREFS="LT6464"
+                    BASELINE="326 1359 849 1352 1403 1352" 
+                    HPOS="324"
+                    VPOS="1326"
+                    WIDTH="1077"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="324 1358 324 1373 1399 1360 1401 1351 1397 1326 337 1331 324 1358"/></Shape>
+	    <String CONTENT="ses qui han uida e ab les plantes axicõ es potẽcia nutͥtiua crescitiua e gen̾atiua eles alt̾s autals qͥ"
+                    HPOS="324"
+                    VPOS="1326"
+                    WIDTH="1077"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c77cd6c8"
+                    TAGREFS="LT6464"
+                    BASELINE="327 1387 1424 1377" 
+                    HPOS="324"
+                    VPOS="1347"
+                    WIDTH="1099"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1396 1353 1377 1353 1359 1353 1341 1353 1323 1353 1305 1353 1287 1353 1268 1353 1250 1353 1232 1353 1214 1353 1196 1353 1178 1353 1160 1353 1141 1353 1123 1353 1105 1353 1087 1353 1069 1353 1051 1353 1032 1353 1014 1353 1005 1353 324 1360 326 1386 326 1398 1421 1389 1423 1376 1417 1347 1396 1347 1396 1353"/></Shape>
+	    <String CONTENT="aximatex couenen als arbres ¶Mas les potencies conexedor̃s sensitiues son la uista lo gustar ol ta-"
+                    HPOS="324"
+                    VPOS="1347"
+                    WIDTH="1099"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bfe93123"
+                    TAGREFS="LT6464"
+                    BASELINE="326 1417 1427 1407" 
+                    HPOS="324"
+                    VPOS="1380"
+                    WIDTH="1102"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="324 1416 324 1429 1425 1418 1426 1405 1421 1380 337 1389 324 1416"/></Shape>
+	    <String CONTENT="star lo tochar e les altres aytals en los quals nos comunament ꝑticipã ab les besties brutals ¶Mas"
+                    HPOS="324"
+                    VPOS="1380"
+                    WIDTH="1102"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52553f54"
+                    TAGREFS="LT6464"
+                    BASELINE="326 1445 1414 1435" 
+                    HPOS="324"
+                    VPOS="1411"
+                    WIDTH="1088"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="324 1444 324 1464 1410 1447 1412 1433 1406 1411 337 1418 324 1444"/></Shape>
+	    <String CONTENT="les potencies appetiues o uolenteroses son deꝑtides/ Quar algũ appetimẽt o alguna uoluntat es en hõ"
+                    HPOS="324"
+                    VPOS="1411"
+                    WIDTH="1088"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e56cf7e"
+                    TAGREFS="LT6464"
+                    BASELINE="325 1474 1089 1469 1418 1461" 
+                    HPOS="324"
+                    VPOS="1438"
+                    WIDTH="1093"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1412 1445 1399 1438 335 1449 324 1473 324 1487 1417 1474 1417 1460 1412 1444 1412 1445"/></Shape>
+	    <String CONTENT="en lo q̃l ell no ꝑticipa ab les besties brutals/ axi cõ es lappetimnent o la uoluntat q̃ seguer lenteniment"
+                    HPOS="324"
+                    VPOS="1438"
+                    WIDTH="1093"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e207689"
+                    TAGREFS="LT6464"
+                    BASELINE="324 1500 1412 1493" 
+                    HPOS="321"
+                    VPOS="1469"
+                    WIDTH="1089"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="323 1498 323 1513 1408 1505 1410 1491 1405 1469 321 1474 323 1498"/></Shape>
+	    <String CONTENT="Mas algũ alcre es en lo qual ell ꝑticipa ab ells axi cõ es lappetiment o lauolũtat qui segueyx lo seny"
+                    HPOS="321"
+                    VPOS="1469"
+                    WIDTH="1089"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_738298c9"
+                    TAGREFS="LT6464"
+                    BASELINE="324 1532 1417 1525" 
+                    HPOS="321"
+                    VPOS="1493"
+                    WIDTH="1095"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="323 1531 323 1543 1414 1536 1416 1523 1410 1493 321 1503 323 1531"/></Shape>
+	    <String CONTENT="corꝑal pot eẽr appellat sensualitat/ En aq̃ll qui seguex lentenimẽt sia appellat uolũtat¶Segõs la qͣl"
+                    HPOS="321"
+                    VPOS="1493"
+                    WIDTH="1095"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d9f933a"
+                    TAGREFS="LT6464"
+                    BASELINE="326 1557 1409 1552" 
+                    HPOS="324"
+                    VPOS="1531"
+                    WIDTH="1084"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="1397 1531 337 1532 324 1556 324 1571 1406 1565 1408 1551 1405 1542 1397 1531"/></Shape>
+	    <String CONTENT="manera de parlar les besties brutals han sensualitat e appetimẽt sensitiu/ Mas no han uoluntat co"
+                    HPOS="324"
+                    VPOS="1531"
+                    WIDTH="1084"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b08834c"
+                    TAGREFS="LT6464"
+                    BASELINE="325 1586 1398 1579" 
+                    HPOS="324"
+                    VPOS="1556"
+                    WIDTH="1073"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="324 1585 324 1601 1396 1596 1397 1578 1392 1556 335 1561 324 1585"/></Shape>
+	    <String CONTENT="es assaber appetiment intellectiu ¶Donq̃s les uirtuts dels quals nos entenẽ aꝑlar qui sõ alguns"
+                    HPOS="324"
+                    VPOS="1556"
+                    WIDTH="1073"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6fbb0e97"
+                    TAGREFS="LT6464"
+                    BASELINE="324 1615 1408 1609" 
+                    HPOS="321"
+                    VPOS="1583"
+                    WIDTH="1085"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="323 1614 323 1629 1405 1621 1406 1607 1401 1583 321 1589 323 1614"/></Shape>
+	    <String CONTENT="habits o concebimẽs dignes delahor o seran en les potẽcies nals/ o en les potencies sensitiues/ o en"
+                    HPOS="321"
+                    VPOS="1583"
+                    WIDTH="1085"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ff3f3d4"
+                    TAGREFS="LT6464"
+                    BASELINE="324 1644 1420 1637" 
+                    HPOS="321"
+                    VPOS="1612"
+                    WIDTH="1098"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="323 1643 323 1656 1419 1649 1419 1636 1414 1612 321 1618 323 1643"/></Shape>
+	    <String CONTENT="lappetiment sensitiu o en lappetiment incellectiu o en lentemment o entot̃s aq̃stes potẽcies o en algu-"
+                    HPOS="321"
+                    VPOS="1612"
+                    WIDTH="1098"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0884717"
+                    TAGREFS="LT6464"
+                    BASELINE="325 1672 1415 1667" 
+                    HPOS="324"
+                    VPOS="1641"
+                    WIDTH="1090"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="324 1670 324 1685 1412 1679 1414 1665 1408 1641 339 1643 324 1670"/></Shape>
+	    <String CONTENT="nes daq̃stes. En les potencies nals no poden eẽr la qual cosa entres man̾es es manifesta ¶pͥme-"
+                    HPOS="324"
+                    VPOS="1641"
+                    WIDTH="1090"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_428da7ed"
+                    TAGREFS="LT6464"
+                    BASELINE="325 1701 1417 1701" 
+                    HPOS="324"
+                    VPOS="1674"
+                    WIDTH="1092"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="324 1699 324 1716 1416 1712 1416 1699 1414 1674 339 1674 324 1699"/></Shape>
+	    <String CONTENT="rament per tal cõ per les potẽcies nãls no son lohars ne uituꝑats qͣr negũ hom no es dit bo per co"
+                    HPOS="324"
+                    VPOS="1674"
+                    WIDTH="1092"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d95c238"
+                    TAGREFS="LT6464"
+                    BASELINE="325 1731 1417 1729" 
+                    HPOS="324"
+                    VPOS="1705"
+                    WIDTH="1092"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="324 1730 324 1768 395 1766 397 1766 399 1766 399 1765 408 1756 432 1766 433 1766 435 1766 437 1766 439 1766 459 1754 493 1766 495 1766 497 1768 564 1768 564 1766 566 1766 590 1754 698 1766 700 1766 702 1766 704 1766 724 1754 869 1754 898 1766 900 1766 902 1766 953 1756 982 1766 983 1766 985 1766 987 1766 989 1766 989 1765 1002 1754 1143 1766 1145 1766 1294 1754 1319 1766 1321 1766 1323 1768 1414 1768 1416 1728 1410 1705 337 1705 324 1730"/></Shape>
+	    <String CONTENT="cõ el ha bona digestio o bona crexẽça ¶En apͥs entals potẽcies no han esser aq̃stes uirtuts ꝑ tal cõ"
+                    HPOS="324"
+                    VPOS="1705"
+                    WIDTH="1092"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="338"
+                   VPOS="788"
+                   WIDTH="14"
+                   HEIGHT="9"
+                   ID="eSc_textblock_48d47627"
+                   TAGREFS="BT15330">
+          <Shape><Polygon POINTS="347 788 352 797 338 797 340 788"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
