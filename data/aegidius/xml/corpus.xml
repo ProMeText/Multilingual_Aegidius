@@ -36,17 +36,17 @@
         </sourceDesc>
       </fileDesc>
     </teiHeader>
-    <!--<xi:include href="latin/1607/output/collatex/Rome_W.xml"
+    <xi:include href="latin/1607/output/collatex/Rome_W.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
-    <xi:include
+    <!--<xi:include
       href="latin/5574/output/sortie_HTR/collatex/bevilaqua_1498_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include href="latin/5585/output/sortie_HTR/collatex/planck_1482_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include href="latin/5661/output/sortie_HTR/collatex/rome_1556_out.struct.tokenized.xml"
-      xmlns:xi="http://www.w3.org/2001/XInclude"/>-->
-    <xi:include href="latin/8152/output/sortie_HTR/collatex/zainer_1473_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="latin/8152/output/sortie_HTR/collatex/zainer_1473_out.struct.tokenized.xml"
+      xmlns:xi="http://www.w3.org/2001/XInclude"/>-->
     <xi:include
       href="latin/Geneve_Ms_Lat_92/output/sortie_HTR/Geneve_Ms_Lat_92_out.struct.tokenized.expanded.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
