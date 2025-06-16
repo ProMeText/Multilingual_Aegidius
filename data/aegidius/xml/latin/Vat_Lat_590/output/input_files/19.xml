@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>581.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15570" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15571" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15572" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15573" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15574" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15576" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15577" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15578" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15579" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15580" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15581" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15582" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15583" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT6563" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6564" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6565" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6566" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6567" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT6568" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1886"
+          HEIGHT="2812"
+          PHYSICAL_IMG_NR="18"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1886"
+                  HEIGHT="2812">
+        
+        <TextBlock HPOS="268"
+                   VPOS="306"
+                   WIDTH="967"
+                   HEIGHT="1729"
+                   ID="eSc_textblock_1152f86c"
+                   TAGREFS="BT15574">
+          <Shape><Polygon POINTS="376 306 1098 306 1185 331 1217 512 1210 1223 1235 1616 1217 1774 1229 1973 1179 2023 918 2035 300 1985 268 1341 293 1098 293 656 373 643 387 581 287 535 287 337 306 312 376 306"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_74b87908"
+                    TAGREFS="LT6563"
+                    BASELINE="292 351 1185 346" 
+                    HPOS="288"
+                    VPOS="306"
+                    WIDTH="896"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1179 330 1156 323 1133 316 1121 311 813 306 804 306 781 306 757 306 734 306 710 306 687 306 663 306 640 306 616 306 593 306 570 306 546 306 523 306 499 306 476 306 452 306 429 306 405 306 382 306 358 306 335 309 311 311 288 332 290 349 290 367 1182 372 1184 344 1179 325 1179 330"/></Shape>
+	    <String CONTENT="ad uersa iudici intulit uel narrare bona que ip̃i iudici non contu¬"
+                    HPOS="288"
+                    VPOS="306"
+                    WIDTH="896"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5f92d2e"
+                    TAGREFS="LT6563"
+                    BASELINE="303 388 1185 384" 
+                    HPOS="300"
+                    VPOS="353"
+                    WIDTH="884"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="302 386 302 407 1182 400 1184 381 1177 353 300 356 302 386"/></Shape>
+	    <String CONTENT="lerunt. &amp; hoc modo prouocare iudicem ad maliuolentiam ꝑtis"
+                    HPOS="300"
+                    VPOS="353"
+                    WIDTH="884"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6dee668b"
+                    TAGREFS="LT6563"
+                    BASELINE="300 431 1185 425" 
+                    HPOS="295"
+                    VPOS="388"
+                    WIDTH="889"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="297 428 297 447 1182 445 1184 424 1177 388 295 391 297 428"/></Shape>
+	    <String CONTENT="ad uerse. ad beniuolentiam sui ẽ omnino pertinens ad propo¬"
+                    HPOS="295"
+                    VPOS="388"
+                    WIDTH="889"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_060df18a"
+                    TAGREFS="LT6563"
+                    BASELINE="304 471 954 470" 
+                    HPOS="303"
+                    VPOS="437"
+                    WIDTH="651"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="304 471 304 493 953 492 954 470 950 438 703 445 695 442 682 437 681 437 679 437 678 437 676 437 668 442 665 445 662 442 656 437 654 437 653 437 531 437 529 437 528 437 526 437 518 445 517 446 459 446 450 446 431 437 429 437 428 437 426 437 425 437 412 445 389 437 387 437 385 437 384 437 382 437 370 445 320 437 318 437 317 437 315 437 303 443 304 471"/></Shape>
+	    <String CONTENT="situm. Quare non sunt talia promittenda."
+                    HPOS="303"
+                    VPOS="437"
+                    WIDTH="651"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="6"
+                   VPOS="749"
+                   WIDTH="17"
+                   HEIGHT="30"
+                   ID="eSc_textblock_26f43072"
+                   TAGREFS="BT15574">
+          <Shape><Polygon POINTS="14 749 23 762 17 779 6 773 14 749"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="337"
+                   VPOS="568"
+                   WIDTH="42"
+                   HEIGHT="67"
+                   ID="eSc_textblock_0335c400"
+                   TAGREFS="BT15573">
+          <Shape><Polygon POINTS="343 568 379 574 373 635 337 629 343 568"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>197.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15455" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15456" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15457" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15458" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15459" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15460" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15461" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15462" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15463" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15464" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15465" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15466" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15467" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15468" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT22847" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT6516" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6517" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6518" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6519" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6520" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1724"
+          HEIGHT="2491"
+          PHYSICAL_IMG_NR="10"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1724"
+                  HEIGHT="2491">
+        
+        <TextBlock HPOS="792"
+                   VPOS="1799"
+                   WIDTH="530"
+                   HEIGHT="142"
+                   ID="eSc_textblock_2545a991"
+                   TAGREFS="BT15459">
+          <Shape><Polygon POINTS="1319 1880 1297 1919 1159 1941 801 1924 792 1799 1322 1799"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cc2bc94c"
+                    TAGREFS="LT6516"
+                    BASELINE="814 1832 1293 1839" 
+                    HPOS="812"
+                    VPOS="1807"
+                    WIDTH="481"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="814 1832 812 1850 1290 1858 1293 1839 1293 1814 814 1807 814 1832"/></Shape>
+	    <String CONTENT="Quomodo regenda sit ciuitas tp̃e pacis et"
+                    HPOS="812"
+                    VPOS="1807"
+                    WIDTH="481"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5aaa8b30"
+                    TAGREFS="LT6516"
+                    BASELINE="816 1868 1291 1872" 
+                    HPOS="815"
+                    VPOS="1844"
+                    WIDTH="476"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="816 1868 815 1893 911 1894 912 1894 913 1894 919 1893 936 1886 958 1891 973 1895 974 1895 976 1895 977 1895 990 1891 1003 1887 1015 1891 1028 1895 1030 1895 1031 1895 1053 1890 1070 1887 1113 1890 1177 1894 1178 1894 1224 1889 1226 1889 1228 1889 1235 1895 1236 1895 1237 1895 1239 1895 1290 1887 1291 1872 1290 1848 816 1844 816 1868"/></Shape>
+	    <String CONTENT="que ⁊ quot consideranda sunt in tali regie"
+                    HPOS="815"
+                    VPOS="1844"
+                    WIDTH="476"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e050aed"
+                    TAGREFS="LT6516"
+                    BASELINE="1059 1906 1171 1906" 
+                    HPOS="1059"
+                    VPOS="1875"
+                    WIDTH="112"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1059 1906 1059 1931 1171 1927 1171 1906 1171 1884 1074 1875 1073 1875 1071 1875 1070 1875 1059 1882 1059 1906"/></Shape>
+	    <String CONTENT="Capłm .i."
+                    HPOS="1059"
+                    VPOS="1875"
+                    WIDTH="112"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="55"
+                   VPOS="979"
+                   WIDTH="15"
+                   HEIGHT="27"
+                   ID="eSc_textblock_b6ea30f8"
+                   TAGREFS="BT15460">
+          <Shape><Polygon POINTS="70 995 60 1006 55 985 63 979"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="105"
+                   VPOS="990"
+                   WIDTH="4"
+                   HEIGHT="10"
+                   ID="eSc_textblock_4f7e8888"
+                   TAGREFS="BT15460">
+          <Shape><Polygon POINTS="109 1000 105 1000 105 990 108 990"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
