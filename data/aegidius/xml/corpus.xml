@@ -22,7 +22,7 @@
       </projectDesc>
     </encodingDesc>
   </teiHeader>
-  <TEI type="castillan" xml:id="castB" xml:lang="spo">
+  <TEI type="latin" xml:id="regimine_latin" xml:lang="la">
     <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -36,49 +36,49 @@
         </sourceDesc>
       </fileDesc>
     </teiHeader>
-    <xi:include href="latin/1607/output/collatex/Rome_W.xml"
+    <xi:include href="latin/Rome_1607/output/collatex/Rome_W.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include
-      href="latin/5574/output/sortie_HTR/collatex/bevilaqua_1498_out.struct.tokenized.xml"
+      href="latin/Bevilacqua_1498/output/sortie_HTR/collatex/bevilaqua_1498_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
-    <!--<xi:include href="latin/5585/output/sortie_HTR/collatex/planck_1482_out.struct.tokenized.xml"
+    <xi:include
+      href="latin/Planck_1482/output/sortie_HTR/collatex/planck_1482_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
-    <xi:include href="latin/5661/output/sortie_HTR/collatex/rome_1556_out.struct.tokenized.xml"
+    <xi:include href="latin/Roma_1556/output/sortie_HTR/collatex/rome_1556_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
-    <xi:include href="latin/8152/output/sortie_HTR/collatex/zainer_1473_out.struct.tokenized.xml"
+    <xi:include
+      href="latin/Zainer_1473/output/sortie_HTR/collatex/zainer_1473_out.struct.tokenized.xml"
+      xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include
+      href="latin/Geneve_Ms_Lat_92/output/sortie_HTR/collatex/Geneve_Ms_Lat_92_out.struct.tokenized.xml"
+      xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include
+      href="latin/Vatican_Borgh_360/output/sortie_HTR/collatex/Vatican_Borgh_360_out.struct.tokenized.xml"
+      xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <!--<xi:include href="latin/Ross_522/output/sortie_HTR/collatex/Ross_522_out.struct.tokenized.xml"
+      xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include
+      href="latin/Ott_lat_1102/output/sortie_HTR/collatex/collatex/Ott_lat_1102_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>-->
     <xi:include
-      href="latin/Geneve_Ms_Lat_92/output/sortie_HTR/Geneve_Ms_Lat_92_out.struct.tokenized.expanded.xml"
+      href="latin/Vat_Lat_590/output/sortie_HTR/collatex/Vat_Lat_590_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include
-      href="latin/Vatican_Borgh_360/output/sortie_HTR/Vatican_Borgh_360_out.struct.tokenized.expanded.xml"
+      href="latin/Beinecke_Marston_MS_139/output/sortie_HTR/collatex/Beinecke_Marston_MS_139_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include
-      href="latin/Ross_522/output/sortie_HTR/Ross_522_out.struct.tokenized.expanded.xml"
+      href="latin/Vat_Reg_Lat_844/output/sortie_HTR/collatex/Vat_Reg_Lat_844_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include
-      href="latin/Ott_lat_1102/output/sortie_HTR/collatex/Ott_lat_1102_out.struct.tokenized.xml"
+      href="latin/BNF_Lat_1234/output/sortie_HTR/collatex/BNF_Lat_1234_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include
-      href="latin/Vat_Lat_590/output/sortie_HTR/Vat_Lat_590_out.struct.tokenized.expanded.xml"
+      href="latin/Valencia_BH_Ms_0594/output/sortie_HTR/collatex/Valencia_BH_Ms_0594_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include
-      href="latin/Beinecke_Marston_MS_139/output/sortie_HTR/Beinecke_Marston_MS_139_out.struct.tokenized.expanded.xml"
+      href="latin/Cambridge_Corpus_Christi_College_MS_283/output/sortie_HTR/collatex/Cambridge_Corpus_Christi_College_MS_283_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
-    <xi:include
-      href="latin/Vat_Reg_Lat_844/output/sortie_HTR/Vat_Reg_Lat_844_out.struct.tokenized.expanded.xml"
-      xmlns:xi="http://www.w3.org/2001/XInclude"/>
-    <xi:include
-      href="latin/BNF_Lat_1234/output/sortie_HTR/BNF_Lat_1234_out.struct.tokenized.expanded.xml"
-      xmlns:xi="http://www.w3.org/2001/XInclude"/>
-    <xi:include
-      href="latin/Valencia_BH_Ms_0594/output/sortie_HTR/Valencia_BH_Ms_0594_out.struct.tokenized.expanded.xml"
-      xmlns:xi="http://www.w3.org/2001/XInclude"/>
-    <xi:include
-      href="latin/Cambridge_Corpus_Christi_College_MS_283/output/sortie_HTR/Cambridge_Corpus_Christi_College_MS_283_out.struct.tokenized.expanded.xml"
-      xmlns:xi="http://www.w3.org/2001/XInclude"/>
-    <xi:include
-      href="latin/Lille_696/output/sortie_HTR/Lille_696_out.struct.tokenized.expanded.xml"
+    <xi:include href="latin/Lille_696/output/sortie_HTR/collatex/Lille_696_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
   </TEI>
 </TEI>
