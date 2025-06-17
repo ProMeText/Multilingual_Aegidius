@@ -1,0 +1,1350 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Firenze_BML_Plut_89_sup_116">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Firenze_BML_Plut_89_sup_116</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the
+                                source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="facs_eSc_line_6dbf1d3f" corresp="#elem_eSc_line_6dbf1d3f">
+      <graphic url="../lignes/it0_eSc_line_6dbf1d3f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d41bbec2" corresp="#elem_eSc_line_d41bbec2">
+      <graphic url="../lignes/it0_eSc_line_d41bbec2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_019396d0" corresp="#elem_eSc_line_019396d0">
+      <graphic url="../lignes/it0_eSc_line_019396d0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ec1b8893" corresp="#elem_eSc_line_ec1b8893">
+      <graphic url="../lignes/it0_eSc_line_ec1b8893.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5490d814" corresp="#elem_eSc_line_5490d814">
+      <graphic url="../lignes/it0_eSc_line_5490d814.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3144c0be" corresp="#elem_eSc_line_3144c0be">
+      <graphic url="../lignes/it0_eSc_line_3144c0be.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_29c505b1" corresp="#elem_eSc_line_29c505b1">
+      <graphic url="../lignes/it0_eSc_line_29c505b1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8155b6d4" corresp="#elem_eSc_line_8155b6d4">
+      <graphic url="../lignes/it0_eSc_line_8155b6d4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_129324eb" corresp="#elem_eSc_line_129324eb">
+      <graphic url="../lignes/it0_eSc_line_129324eb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_411cac2f" corresp="#elem_eSc_line_411cac2f">
+      <graphic url="../lignes/it0_eSc_line_411cac2f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cfa17103" corresp="#elem_eSc_line_cfa17103">
+      <graphic url="../lignes/it0_eSc_line_cfa17103.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ec63b1d1" corresp="#elem_eSc_line_ec63b1d1">
+      <graphic url="../lignes/it0_eSc_line_ec63b1d1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_998a84de" corresp="#elem_eSc_line_998a84de">
+      <graphic url="../lignes/it0_eSc_line_998a84de.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_82e6c843" corresp="#elem_eSc_line_82e6c843">
+      <graphic url="../lignes/it1_eSc_line_82e6c843.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ca829353" corresp="#elem_eSc_line_ca829353">
+      <graphic url="../lignes/it1_eSc_line_ca829353.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d283477c" corresp="#elem_eSc_line_d283477c">
+      <graphic url="../lignes/it1_eSc_line_d283477c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_705d762e" corresp="#elem_eSc_line_705d762e">
+      <graphic url="../lignes/it1_eSc_line_705d762e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fb91e21b" corresp="#elem_eSc_line_fb91e21b">
+      <graphic url="../lignes/it1_eSc_line_fb91e21b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bed34dfe" corresp="#elem_eSc_line_bed34dfe">
+      <graphic url="../lignes/it1_eSc_line_bed34dfe.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_82b7d4b6" corresp="#elem_eSc_line_82b7d4b6">
+      <graphic url="../lignes/it1_eSc_line_82b7d4b6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bc031913" corresp="#elem_eSc_line_bc031913">
+      <graphic url="../lignes/it1_eSc_line_bc031913.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cd7ff039" corresp="#elem_eSc_line_cd7ff039">
+      <graphic url="../lignes/it1_eSc_line_cd7ff039.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3aa48c3b" corresp="#elem_eSc_line_3aa48c3b">
+      <graphic url="../lignes/it1_eSc_line_3aa48c3b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0451b7b4" corresp="#elem_eSc_line_0451b7b4">
+      <graphic url="../lignes/it1_eSc_line_0451b7b4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3066e0e8" corresp="#elem_eSc_line_3066e0e8">
+      <graphic url="../lignes/it1_eSc_line_3066e0e8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_568ca008" corresp="#elem_eSc_line_568ca008">
+      <graphic url="../lignes/it1_eSc_line_568ca008.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_69e4b4b6" corresp="#elem_eSc_line_69e4b4b6">
+      <graphic url="../lignes/it1_eSc_line_69e4b4b6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bd66dd86" corresp="#elem_eSc_line_bd66dd86">
+      <graphic url="../lignes/it1_eSc_line_bd66dd86.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f0d8222d" corresp="#elem_eSc_line_f0d8222d">
+      <graphic url="../lignes/it1_eSc_line_f0d8222d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_869bd63a" corresp="#elem_eSc_line_869bd63a">
+      <graphic url="../lignes/it1_eSc_line_869bd63a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_647caf21" corresp="#elem_eSc_line_647caf21">
+      <graphic url="../lignes/it1_eSc_line_647caf21.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d09f8243" corresp="#elem_eSc_line_d09f8243">
+      <graphic url="../lignes/it1_eSc_line_d09f8243.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_69ce25ef" corresp="#elem_eSc_line_69ce25ef">
+      <graphic url="../lignes/it1_eSc_line_69ce25ef.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2b361582" corresp="#elem_eSc_line_2b361582">
+      <graphic url="../lignes/it1_eSc_line_2b361582.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7a07cc85" corresp="#elem_eSc_line_7a07cc85">
+      <graphic url="../lignes/it1_eSc_line_7a07cc85.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_152c10e3" corresp="#elem_eSc_line_152c10e3">
+      <graphic url="../lignes/it1_eSc_line_152c10e3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b1804a64" corresp="#elem_eSc_line_b1804a64">
+      <graphic url="../lignes/it1_eSc_line_b1804a64.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0cbdc89f" corresp="#elem_eSc_line_0cbdc89f">
+      <graphic url="../lignes/it1_eSc_line_0cbdc89f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4a24377a" corresp="#elem_eSc_line_4a24377a">
+      <graphic url="../lignes/it1_eSc_line_4a24377a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dc0c909a" corresp="#elem_eSc_line_dc0c909a">
+      <graphic url="../lignes/it1_eSc_line_dc0c909a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b72f79c5" corresp="#elem_eSc_line_b72f79c5">
+      <graphic url="../lignes/it1_eSc_line_b72f79c5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f023caf0" corresp="#elem_eSc_line_f023caf0">
+      <graphic url="../lignes/it1_eSc_line_f023caf0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_60670478" corresp="#elem_eSc_line_60670478">
+      <graphic url="../lignes/it1_eSc_line_60670478.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_30007cbc" corresp="#elem_eSc_line_30007cbc">
+      <graphic url="../lignes/it1_eSc_line_30007cbc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fbb11de4" corresp="#elem_eSc_line_fbb11de4">
+      <graphic url="../lignes/it1_eSc_line_fbb11de4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_83847eb6" corresp="#elem_eSc_line_83847eb6">
+      <graphic url="../lignes/it1_eSc_line_83847eb6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_15584d7a" corresp="#elem_eSc_line_15584d7a">
+      <graphic url="../lignes/it1_eSc_line_15584d7a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_54d43daf" corresp="#elem_eSc_line_54d43daf">
+      <graphic url="../lignes/it1_eSc_line_54d43daf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_374c815d" corresp="#elem_eSc_line_374c815d">
+      <graphic url="../lignes/it1_eSc_line_374c815d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c7d3d011" corresp="#elem_eSc_line_c7d3d011">
+      <graphic url="../lignes/it1_eSc_line_c7d3d011.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f7ae8879" corresp="#elem_eSc_line_f7ae8879">
+      <graphic url="../lignes/it1_eSc_line_f7ae8879.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c08681f5" corresp="#elem_eSc_line_c08681f5">
+      <graphic url="../lignes/it1_eSc_line_c08681f5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_86d97f02" corresp="#elem_eSc_line_86d97f02">
+      <graphic url="../lignes/it1_eSc_line_86d97f02.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c181ec8c" corresp="#elem_eSc_line_c181ec8c">
+      <graphic url="../lignes/it1_eSc_line_c181ec8c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_630edcd4" corresp="#elem_eSc_line_630edcd4">
+      <graphic url="../lignes/it1_eSc_line_630edcd4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f63ead08" corresp="#elem_eSc_line_f63ead08">
+      <graphic url="../lignes/it1_eSc_line_f63ead08.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_749b1b93" corresp="#elem_eSc_line_749b1b93">
+      <graphic url="../lignes/it1_eSc_line_749b1b93.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5f4be879" corresp="#elem_eSc_line_5f4be879">
+      <graphic url="../lignes/it1_eSc_line_5f4be879.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2beeb372" corresp="#elem_eSc_line_2beeb372">
+      <graphic url="../lignes/it2_eSc_line_2beeb372.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9381e7c4" corresp="#elem_eSc_line_9381e7c4">
+      <graphic url="../lignes/it2_eSc_line_9381e7c4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7b398f64" corresp="#elem_eSc_line_7b398f64">
+      <graphic url="../lignes/it2_eSc_line_7b398f64.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_02abc6aa" corresp="#elem_eSc_line_02abc6aa">
+      <graphic url="../lignes/it2_eSc_line_02abc6aa.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_64cb0aaa" corresp="#elem_eSc_line_64cb0aaa">
+      <graphic url="../lignes/it2_eSc_line_64cb0aaa.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ce428539" corresp="#elem_eSc_line_ce428539">
+      <graphic url="../lignes/it2_eSc_line_ce428539.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0c85b1a9" corresp="#elem_eSc_line_0c85b1a9">
+      <graphic url="../lignes/it2_eSc_line_0c85b1a9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_53149c7d" corresp="#elem_eSc_line_53149c7d">
+      <graphic url="../lignes/it2_eSc_line_53149c7d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9deb0aa0" corresp="#elem_eSc_line_9deb0aa0">
+      <graphic url="../lignes/it2_eSc_line_9deb0aa0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dd9b8941" corresp="#elem_eSc_line_dd9b8941">
+      <graphic url="../lignes/it2_eSc_line_dd9b8941.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0b7acd7a" corresp="#elem_eSc_line_0b7acd7a">
+      <graphic url="../lignes/it2_eSc_line_0b7acd7a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_df6e43b5" corresp="#elem_eSc_line_df6e43b5">
+      <graphic url="../lignes/it2_eSc_line_df6e43b5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_70c77e3b" corresp="#elem_eSc_line_70c77e3b">
+      <graphic url="../lignes/it2_eSc_line_70c77e3b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_36c96318" corresp="#elem_eSc_line_36c96318">
+      <graphic url="../lignes/it2_eSc_line_36c96318.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8d2e0186" corresp="#elem_eSc_line_8d2e0186">
+      <graphic url="../lignes/it2_eSc_line_8d2e0186.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_19448a17" corresp="#elem_eSc_line_19448a17">
+      <graphic url="../lignes/it2_eSc_line_19448a17.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_69534b04" corresp="#elem_eSc_line_69534b04">
+      <graphic url="../lignes/it2_eSc_line_69534b04.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ca4e8e51" corresp="#elem_eSc_line_ca4e8e51">
+      <graphic url="../lignes/it2_eSc_line_ca4e8e51.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_548c7b7b" corresp="#elem_eSc_line_548c7b7b">
+      <graphic url="../lignes/it2_eSc_line_548c7b7b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_429d3b2b" corresp="#elem_eSc_line_429d3b2b">
+      <graphic url="../lignes/it2_eSc_line_429d3b2b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f29ca30f" corresp="#elem_eSc_line_f29ca30f">
+      <graphic url="../lignes/it2_eSc_line_f29ca30f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3fe2d454" corresp="#elem_eSc_line_3fe2d454">
+      <graphic url="../lignes/it2_eSc_line_3fe2d454.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a5cd2252" corresp="#elem_eSc_line_a5cd2252">
+      <graphic url="../lignes/it2_eSc_line_a5cd2252.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_50adde5a" corresp="#elem_eSc_line_50adde5a">
+      <graphic url="../lignes/it2_eSc_line_50adde5a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a5849f6d" corresp="#elem_eSc_line_a5849f6d">
+      <graphic url="../lignes/it2_eSc_line_a5849f6d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7dd64c16" corresp="#elem_eSc_line_7dd64c16">
+      <graphic url="../lignes/it2_eSc_line_7dd64c16.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b16b66f8" corresp="#elem_eSc_line_b16b66f8">
+      <graphic url="../lignes/it2_eSc_line_b16b66f8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a57f6a7c" corresp="#elem_eSc_line_a57f6a7c">
+      <graphic url="../lignes/it2_eSc_line_a57f6a7c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d8a686bd" corresp="#elem_eSc_line_d8a686bd">
+      <graphic url="../lignes/400_eSc_line_d8a686bd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bf2cf34b" corresp="#elem_eSc_line_bf2cf34b">
+      <graphic url="../lignes/400_eSc_line_bf2cf34b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2301fa4b" corresp="#elem_eSc_line_2301fa4b">
+      <graphic url="../lignes/400_eSc_line_2301fa4b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9123fd22" corresp="#elem_eSc_line_9123fd22">
+      <graphic url="../lignes/400_eSc_line_9123fd22.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_17d99596" corresp="#elem_eSc_line_17d99596">
+      <graphic url="../lignes/400_eSc_line_17d99596.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_388d7e12" corresp="#elem_eSc_line_388d7e12">
+      <graphic url="../lignes/400_eSc_line_388d7e12.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f976f570" corresp="#elem_eSc_line_f976f570">
+      <graphic url="../lignes/400_eSc_line_f976f570.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_af95fc6d" corresp="#elem_eSc_line_af95fc6d">
+      <graphic url="../lignes/400_eSc_line_af95fc6d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c4e7af50" corresp="#elem_eSc_line_c4e7af50">
+      <graphic url="../lignes/400_eSc_line_c4e7af50.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2dd8280e" corresp="#elem_eSc_line_2dd8280e">
+      <graphic url="../lignes/400_eSc_line_2dd8280e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_463cd929" corresp="#elem_eSc_line_463cd929">
+      <graphic url="../lignes/400_eSc_line_463cd929.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f1b08bd3" corresp="#elem_eSc_line_f1b08bd3">
+      <graphic url="../lignes/400_eSc_line_f1b08bd3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6e9f0c39" corresp="#elem_eSc_line_6e9f0c39">
+      <graphic url="../lignes/400_eSc_line_6e9f0c39.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2f6511e7" corresp="#elem_eSc_line_2f6511e7">
+      <graphic url="../lignes/400_eSc_line_2f6511e7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ec0b65b5" corresp="#elem_eSc_line_ec0b65b5">
+      <graphic url="../lignes/400_eSc_line_ec0b65b5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d17dc76f" corresp="#elem_eSc_line_d17dc76f">
+      <graphic url="../lignes/400_eSc_line_d17dc76f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f3b7fdf5" corresp="#elem_eSc_line_f3b7fdf5">
+      <graphic url="../lignes/400_eSc_line_f3b7fdf5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_49a253d8" corresp="#elem_eSc_line_49a253d8">
+      <graphic url="../lignes/401_eSc_line_49a253d8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1552ea97" corresp="#elem_eSc_line_1552ea97">
+      <graphic url="../lignes/401_eSc_line_1552ea97.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d7700258" corresp="#elem_eSc_line_d7700258">
+      <graphic url="../lignes/401_eSc_line_d7700258.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_01862921" corresp="#elem_eSc_line_01862921">
+      <graphic url="../lignes/401_eSc_line_01862921.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_47de342e" corresp="#elem_eSc_line_47de342e">
+      <graphic url="../lignes/401_eSc_line_47de342e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_59b6a172" corresp="#elem_eSc_line_59b6a172">
+      <graphic url="../lignes/401_eSc_line_59b6a172.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6baae7e8" corresp="#elem_eSc_line_6baae7e8">
+      <graphic url="../lignes/401_eSc_line_6baae7e8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_980f3163" corresp="#elem_eSc_line_980f3163">
+      <graphic url="../lignes/401_eSc_line_980f3163.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c69c2f84" corresp="#elem_eSc_line_c69c2f84">
+      <graphic url="../lignes/401_eSc_line_c69c2f84.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_09cf3186" corresp="#elem_eSc_line_09cf3186">
+      <graphic url="../lignes/401_eSc_line_09cf3186.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1b75b14c" corresp="#elem_eSc_line_1b75b14c">
+      <graphic url="../lignes/401_eSc_line_1b75b14c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_23c529cd" corresp="#elem_eSc_line_23c529cd">
+      <graphic url="../lignes/401_eSc_line_23c529cd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a6af7efd" corresp="#elem_eSc_line_a6af7efd">
+      <graphic url="../lignes/401_eSc_line_a6af7efd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1e3f0dbd" corresp="#elem_eSc_line_1e3f0dbd">
+      <graphic url="../lignes/401_eSc_line_1e3f0dbd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_57868e4f" corresp="#elem_eSc_line_57868e4f">
+      <graphic url="../lignes/401_eSc_line_57868e4f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b1dc0b2a" corresp="#elem_eSc_line_b1dc0b2a">
+      <graphic url="../lignes/401_eSc_line_b1dc0b2a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5bc20643" corresp="#elem_eSc_line_5bc20643">
+      <graphic url="../lignes/401_eSc_line_5bc20643.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e2ad6e58" corresp="#elem_eSc_line_e2ad6e58">
+      <graphic url="../lignes/401_eSc_line_e2ad6e58.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cfa8809c" corresp="#elem_eSc_line_cfa8809c">
+      <graphic url="../lignes/401_eSc_line_cfa8809c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_81870307" corresp="#elem_eSc_line_81870307">
+      <graphic url="../lignes/401_eSc_line_81870307.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c56f0016" corresp="#elem_eSc_line_c56f0016">
+      <graphic url="../lignes/401_eSc_line_c56f0016.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d805c211" corresp="#elem_eSc_line_d805c211">
+      <graphic url="../lignes/401_eSc_line_d805c211.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f94725e1" corresp="#elem_eSc_line_f94725e1">
+      <graphic url="../lignes/401_eSc_line_f94725e1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3a1aa036" corresp="#elem_eSc_line_3a1aa036">
+      <graphic url="../lignes/401_eSc_line_3a1aa036.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_05cfc5f3" corresp="#elem_eSc_line_05cfc5f3">
+      <graphic url="../lignes/401_eSc_line_05cfc5f3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bcce49d2" corresp="#elem_eSc_line_bcce49d2">
+      <graphic url="../lignes/401_eSc_line_bcce49d2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8fa67123" corresp="#elem_eSc_line_8fa67123">
+      <graphic url="../lignes/401_eSc_line_8fa67123.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4efe8219" corresp="#elem_eSc_line_4efe8219">
+      <graphic url="../lignes/401_eSc_line_4efe8219.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bc773530" corresp="#elem_eSc_line_bc773530">
+      <graphic url="../lignes/401_eSc_line_bc773530.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_26da6195" corresp="#elem_eSc_line_26da6195">
+      <graphic url="../lignes/401_eSc_line_26da6195.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cca97573" corresp="#elem_eSc_line_cca97573">
+      <graphic url="../lignes/401_eSc_line_cca97573.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6ec09269" corresp="#elem_eSc_line_6ec09269">
+      <graphic url="../lignes/401_eSc_line_6ec09269.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1eeb2a49" corresp="#elem_eSc_line_1eeb2a49">
+      <graphic url="../lignes/401_eSc_line_1eeb2a49.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0c0eea84" corresp="#elem_eSc_line_0c0eea84">
+      <graphic url="../lignes/401_eSc_line_0c0eea84.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dc3c78a4" corresp="#elem_eSc_line_dc3c78a4">
+      <graphic url="../lignes/401_eSc_line_dc3c78a4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_27735618" corresp="#elem_eSc_line_27735618">
+      <graphic url="../lignes/401_eSc_line_27735618.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_34147919" corresp="#elem_eSc_line_34147919">
+      <graphic url="../lignes/401_eSc_line_34147919.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a50c01da" corresp="#elem_eSc_line_a50c01da">
+      <graphic url="../lignes/401_eSc_line_a50c01da.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_765bfe65" corresp="#elem_eSc_line_765bfe65">
+      <graphic url="../lignes/401_eSc_line_765bfe65.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_88a10c67" corresp="#elem_eSc_line_88a10c67">
+      <graphic url="../lignes/401_eSc_line_88a10c67.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c6983d79" corresp="#elem_eSc_line_c6983d79">
+      <graphic url="../lignes/401_eSc_line_c6983d79.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_18896b2c" corresp="#elem_eSc_line_18896b2c">
+      <graphic url="../lignes/401_eSc_line_18896b2c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ecd2a76a" corresp="#elem_eSc_line_ecd2a76a">
+      <graphic url="../lignes/401_eSc_line_ecd2a76a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e74af17b" corresp="#elem_eSc_line_e74af17b">
+      <graphic url="../lignes/401_eSc_line_e74af17b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4548b9c0" corresp="#elem_eSc_line_4548b9c0">
+      <graphic url="../lignes/401_eSc_line_4548b9c0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_911616ab" corresp="#elem_eSc_line_911616ab">
+      <graphic url="../lignes/402_eSc_line_911616ab.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7e85b1e5" corresp="#elem_eSc_line_7e85b1e5">
+      <graphic url="../lignes/402_eSc_line_7e85b1e5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b4f7dbab" corresp="#elem_eSc_line_b4f7dbab">
+      <graphic url="../lignes/402_eSc_line_b4f7dbab.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c4abd87a" corresp="#elem_eSc_line_c4abd87a">
+      <graphic url="../lignes/402_eSc_line_c4abd87a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_42c5ce81" corresp="#elem_eSc_line_42c5ce81">
+      <graphic url="../lignes/402_eSc_line_42c5ce81.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_66b38c1d" corresp="#elem_eSc_line_66b38c1d">
+      <graphic url="../lignes/402_eSc_line_66b38c1d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b3bc6b69" corresp="#elem_eSc_line_b3bc6b69">
+      <graphic url="../lignes/402_eSc_line_b3bc6b69.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7ab61b5c" corresp="#elem_eSc_line_7ab61b5c">
+      <graphic url="../lignes/402_eSc_line_7ab61b5c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_af705c4e" corresp="#elem_eSc_line_af705c4e">
+      <graphic url="../lignes/402_eSc_line_af705c4e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b999cac9" corresp="#elem_eSc_line_b999cac9">
+      <graphic url="../lignes/402_eSc_line_b999cac9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d7eb2375" corresp="#elem_eSc_line_d7eb2375">
+      <graphic url="../lignes/402_eSc_line_d7eb2375.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0560a1f6" corresp="#elem_eSc_line_0560a1f6">
+      <graphic url="../lignes/402_eSc_line_0560a1f6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_86be06f9" corresp="#elem_eSc_line_86be06f9">
+      <graphic url="../lignes/402_eSc_line_86be06f9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c176e10c" corresp="#elem_eSc_line_c176e10c">
+      <graphic url="../lignes/402_eSc_line_c176e10c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f564ce3e" corresp="#elem_eSc_line_f564ce3e">
+      <graphic url="../lignes/402_eSc_line_f564ce3e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bd2b5987" corresp="#elem_eSc_line_bd2b5987">
+      <graphic url="../lignes/402_eSc_line_bd2b5987.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2809711a" corresp="#elem_eSc_line_2809711a">
+      <graphic url="../lignes/402_eSc_line_2809711a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d9a1c460" corresp="#elem_eSc_line_d9a1c460">
+      <graphic url="../lignes/411_eSc_line_d9a1c460.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7352b54a" corresp="#elem_eSc_line_7352b54a">
+      <graphic url="../lignes/411_eSc_line_7352b54a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_229a3593" corresp="#elem_eSc_line_229a3593">
+      <graphic url="../lignes/411_eSc_line_229a3593.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0c464568" corresp="#elem_eSc_line_0c464568">
+      <graphic url="../lignes/411_eSc_line_0c464568.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_65bd69a0" corresp="#elem_eSc_line_65bd69a0">
+      <graphic url="../lignes/411_eSc_line_65bd69a0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2510185f" corresp="#elem_eSc_line_2510185f">
+      <graphic url="../lignes/411_eSc_line_2510185f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_983fef81" corresp="#elem_eSc_line_983fef81">
+      <graphic url="../lignes/411_eSc_line_983fef81.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_962fca8f" corresp="#elem_eSc_line_962fca8f">
+      <graphic url="../lignes/411_eSc_line_962fca8f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7184c1e6" corresp="#elem_eSc_line_7184c1e6">
+      <graphic url="../lignes/411_eSc_line_7184c1e6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5df0cf92" corresp="#elem_eSc_line_5df0cf92">
+      <graphic url="../lignes/411_eSc_line_5df0cf92.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a9ad4354" corresp="#elem_eSc_line_a9ad4354">
+      <graphic url="../lignes/411_eSc_line_a9ad4354.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_243170c0" corresp="#elem_eSc_line_243170c0">
+      <graphic url="../lignes/411_eSc_line_243170c0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2d67d565" corresp="#elem_eSc_line_2d67d565">
+      <graphic url="../lignes/411_eSc_line_2d67d565.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_92f51dce" corresp="#elem_eSc_line_92f51dce">
+      <graphic url="../lignes/411_eSc_line_92f51dce.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fe766a4e" corresp="#elem_eSc_line_fe766a4e">
+      <graphic url="../lignes/411_eSc_line_fe766a4e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dc5e24c7" corresp="#elem_eSc_line_dc5e24c7">
+      <graphic url="../lignes/411_eSc_line_dc5e24c7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b9cf1524" corresp="#elem_eSc_line_b9cf1524">
+      <graphic url="../lignes/411_eSc_line_b9cf1524.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ff0dc38d" corresp="#elem_eSc_line_ff0dc38d">
+      <graphic url="../lignes/411_eSc_line_ff0dc38d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7639b9dc" corresp="#elem_eSc_line_7639b9dc">
+      <graphic url="../lignes/411_eSc_line_7639b9dc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_56b34680" corresp="#elem_eSc_line_56b34680">
+      <graphic url="../lignes/411_eSc_line_56b34680.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dffa615a" corresp="#elem_eSc_line_dffa615a">
+      <graphic url="../lignes/411_eSc_line_dffa615a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5fe8e8d5" corresp="#elem_eSc_line_5fe8e8d5">
+      <graphic url="../lignes/411_eSc_line_5fe8e8d5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_65c23739" corresp="#elem_eSc_line_65c23739">
+      <graphic url="../lignes/412_eSc_line_65c23739.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ef2e9bae" corresp="#elem_eSc_line_ef2e9bae">
+      <graphic url="../lignes/412_eSc_line_ef2e9bae.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_277b2e66" corresp="#elem_eSc_line_277b2e66">
+      <graphic url="../lignes/412_eSc_line_277b2e66.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_136e57ad" corresp="#elem_eSc_line_136e57ad">
+      <graphic url="../lignes/412_eSc_line_136e57ad.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_aa5383e3" corresp="#elem_eSc_line_aa5383e3">
+      <graphic url="../lignes/412_eSc_line_aa5383e3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_66d44260" corresp="#elem_eSc_line_66d44260">
+      <graphic url="../lignes/412_eSc_line_66d44260.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5168ae41" corresp="#elem_eSc_line_5168ae41">
+      <graphic url="../lignes/412_eSc_line_5168ae41.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_10cf3e04" corresp="#elem_eSc_line_10cf3e04">
+      <graphic url="../lignes/412_eSc_line_10cf3e04.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4af4ee54" corresp="#elem_eSc_line_4af4ee54">
+      <graphic url="../lignes/412_eSc_line_4af4ee54.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2bef24d5" corresp="#elem_eSc_line_2bef24d5">
+      <graphic url="../lignes/412_eSc_line_2bef24d5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b5ac8f4d" corresp="#elem_eSc_line_b5ac8f4d">
+      <graphic url="../lignes/412_eSc_line_b5ac8f4d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_06754b26" corresp="#elem_eSc_line_06754b26">
+      <graphic url="../lignes/412_eSc_line_06754b26.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ec795ee0" corresp="#elem_eSc_line_ec795ee0">
+      <graphic url="../lignes/412_eSc_line_ec795ee0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bab073f6" corresp="#elem_eSc_line_bab073f6">
+      <graphic url="../lignes/412_eSc_line_bab073f6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9defd738" corresp="#elem_eSc_line_9defd738">
+      <graphic url="../lignes/412_eSc_line_9defd738.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_169e7702" corresp="#elem_eSc_line_169e7702">
+      <graphic url="../lignes/412_eSc_line_169e7702.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b27b1eed" corresp="#elem_eSc_line_b27b1eed">
+      <graphic url="../lignes/412_eSc_line_b27b1eed.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_014a572d" corresp="#elem_eSc_line_014a572d">
+      <graphic url="../lignes/412_eSc_line_014a572d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fd2e36fc" corresp="#elem_eSc_line_fd2e36fc">
+      <graphic url="../lignes/412_eSc_line_fd2e36fc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_163e2870" corresp="#elem_eSc_line_163e2870">
+      <graphic url="../lignes/412_eSc_line_163e2870.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ee538431" corresp="#elem_eSc_line_ee538431">
+      <graphic url="../lignes/471_eSc_line_ee538431.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a0893379" corresp="#elem_eSc_line_a0893379">
+      <graphic url="../lignes/471_eSc_line_a0893379.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3c192ebe" corresp="#elem_eSc_line_3c192ebe">
+      <graphic url="../lignes/471_eSc_line_3c192ebe.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_52d6a7d2" corresp="#elem_eSc_line_52d6a7d2">
+      <graphic url="../lignes/471_eSc_line_52d6a7d2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0256b224" corresp="#elem_eSc_line_0256b224">
+      <graphic url="../lignes/471_eSc_line_0256b224.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c393adf7" corresp="#elem_eSc_line_c393adf7">
+      <graphic url="../lignes/471_eSc_line_c393adf7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c70b93fc" corresp="#elem_eSc_line_c70b93fc">
+      <graphic url="../lignes/471_eSc_line_c70b93fc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ea597579" corresp="#elem_eSc_line_ea597579">
+      <graphic url="../lignes/471_eSc_line_ea597579.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1ffd7d9e" corresp="#elem_eSc_line_1ffd7d9e">
+      <graphic url="../lignes/471_eSc_line_1ffd7d9e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f4a5e6e9" corresp="#elem_eSc_line_f4a5e6e9">
+      <graphic url="../lignes/471_eSc_line_f4a5e6e9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_21317df7" corresp="#elem_eSc_line_21317df7">
+      <graphic url="../lignes/471_eSc_line_21317df7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e6b07af7" corresp="#elem_eSc_line_e6b07af7">
+      <graphic url="../lignes/471_eSc_line_e6b07af7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e01fe398" corresp="#elem_eSc_line_e01fe398">
+      <graphic url="../lignes/471_eSc_line_e01fe398.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_be53cbfe" corresp="#elem_eSc_line_be53cbfe">
+      <graphic url="../lignes/471_eSc_line_be53cbfe.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_40ca1cee" corresp="#elem_eSc_line_40ca1cee">
+      <graphic url="../lignes/471_eSc_line_40ca1cee.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7e471523" corresp="#elem_eSc_line_7e471523">
+      <graphic url="../lignes/471_eSc_line_7e471523.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3a2f00d5" corresp="#elem_eSc_line_3a2f00d5">
+      <graphic url="../lignes/471_eSc_line_3a2f00d5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9b268b38" corresp="#elem_eSc_line_9b268b38">
+      <graphic url="../lignes/471_eSc_line_9b268b38.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2b5302db" corresp="#elem_eSc_line_2b5302db">
+      <graphic url="../lignes/471_eSc_line_2b5302db.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c7f9ff9d" corresp="#elem_eSc_line_c7f9ff9d">
+      <graphic url="../lignes/471_eSc_line_c7f9ff9d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_61915994" corresp="#elem_eSc_line_61915994">
+      <graphic url="../lignes/471_eSc_line_61915994.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_01ea0439" corresp="#elem_eSc_line_01ea0439">
+      <graphic url="../lignes/471_eSc_line_01ea0439.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8c17d983" corresp="#elem_eSc_line_8c17d983">
+      <graphic url="../lignes/471_eSc_line_8c17d983.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cdcaecd6" corresp="#elem_eSc_line_cdcaecd6">
+      <graphic url="../lignes/471_eSc_line_cdcaecd6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0a7b0dec" corresp="#elem_eSc_line_0a7b0dec">
+      <graphic url="../lignes/471_eSc_line_0a7b0dec.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1c538054" corresp="#elem_eSc_line_1c538054">
+      <graphic url="../lignes/471_eSc_line_1c538054.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7234239e" corresp="#elem_eSc_line_7234239e">
+      <graphic url="../lignes/471_eSc_line_7234239e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2b628a58" corresp="#elem_eSc_line_2b628a58">
+      <graphic url="../lignes/471_eSc_line_2b628a58.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5984d61e" corresp="#elem_eSc_line_5984d61e">
+      <graphic url="../lignes/471_eSc_line_5984d61e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0dd66b7f" corresp="#elem_eSc_line_0dd66b7f">
+      <graphic url="../lignes/471_eSc_line_0dd66b7f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3d7a8ed9" corresp="#elem_eSc_line_3d7a8ed9">
+      <graphic url="../lignes/471_eSc_line_3d7a8ed9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0cc2fed3" corresp="#elem_eSc_line_0cc2fed3">
+      <graphic url="../lignes/471_eSc_line_0cc2fed3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e73922b4" corresp="#elem_eSc_line_e73922b4">
+      <graphic url="../lignes/471_eSc_line_e73922b4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_41af1c7f" corresp="#elem_eSc_line_41af1c7f">
+      <graphic url="../lignes/471_eSc_line_41af1c7f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f56ae165" corresp="#elem_eSc_line_f56ae165">
+      <graphic url="../lignes/471_eSc_line_f56ae165.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7b4234c5" corresp="#elem_eSc_line_7b4234c5">
+      <graphic url="../lignes/471_eSc_line_7b4234c5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_88e17db7" corresp="#elem_eSc_line_88e17db7">
+      <graphic url="../lignes/471_eSc_line_88e17db7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_79b8eab3" corresp="#elem_eSc_line_79b8eab3">
+      <graphic url="../lignes/471_eSc_line_79b8eab3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_deaf7a99" corresp="#elem_eSc_line_deaf7a99">
+      <graphic url="../lignes/471_eSc_line_deaf7a99.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7ec66d08" corresp="#elem_eSc_line_7ec66d08">
+      <graphic url="../lignes/471_eSc_line_7ec66d08.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b68d1ab0" corresp="#elem_eSc_line_b68d1ab0">
+      <graphic url="../lignes/471_eSc_line_b68d1ab0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_890aff55" corresp="#elem_eSc_line_890aff55">
+      <graphic url="../lignes/471_eSc_line_890aff55.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_da40a160" corresp="#elem_eSc_line_da40a160">
+      <graphic url="../lignes/471_eSc_line_da40a160.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a37570b7" corresp="#elem_eSc_line_a37570b7">
+      <graphic url="../lignes/471_eSc_line_a37570b7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d55b5a5c" corresp="#elem_eSc_line_d55b5a5c">
+      <graphic url="../lignes/471_eSc_line_d55b5a5c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_514b8e50" corresp="#elem_eSc_line_514b8e50">
+      <graphic url="../lignes/471_eSc_line_514b8e50.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_05aa2f20" corresp="#elem_eSc_line_05aa2f20">
+      <graphic url="../lignes/471_eSc_line_05aa2f20.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_76d3f89d" corresp="#elem_eSc_line_76d3f89d">
+      <graphic url="../lignes/471_eSc_line_76d3f89d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dd719749" corresp="#elem_eSc_line_dd719749">
+      <graphic url="../lignes/471_eSc_line_dd719749.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_61441592" corresp="#elem_eSc_line_61441592">
+      <graphic url="../lignes/471_eSc_line_61441592.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a50efc30" corresp="#elem_eSc_line_a50efc30">
+      <graphic url="../lignes/471_eSc_line_a50efc30.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ce7d722e" corresp="#elem_eSc_line_ce7d722e">
+      <graphic url="../lignes/471_eSc_line_ce7d722e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_47daf416" corresp="#elem_eSc_line_47daf416">
+      <graphic url="../lignes/472_eSc_line_47daf416.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5593dca2" corresp="#elem_eSc_line_5593dca2">
+      <graphic url="../lignes/472_eSc_line_5593dca2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8ffefacd" corresp="#elem_eSc_line_8ffefacd">
+      <graphic url="../lignes/472_eSc_line_8ffefacd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ccb31bde" corresp="#elem_eSc_line_ccb31bde">
+      <graphic url="../lignes/472_eSc_line_ccb31bde.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d2762ef4" corresp="#elem_eSc_line_d2762ef4">
+      <graphic url="../lignes/472_eSc_line_d2762ef4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2865ccec" corresp="#elem_eSc_line_2865ccec">
+      <graphic url="../lignes/472_eSc_line_2865ccec.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8261fe3f" corresp="#elem_eSc_line_8261fe3f">
+      <graphic url="../lignes/472_eSc_line_8261fe3f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_24d55443" corresp="#elem_eSc_line_24d55443">
+      <graphic url="../lignes/472_eSc_line_24d55443.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_46d35455" corresp="#elem_eSc_line_46d35455">
+      <graphic url="../lignes/472_eSc_line_46d35455.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7fd15d64" corresp="#elem_eSc_line_7fd15d64">
+      <graphic url="../lignes/472_eSc_line_7fd15d64.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a8b461a0" corresp="#elem_eSc_line_a8b461a0">
+      <graphic url="../lignes/472_eSc_line_a8b461a0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5c14f5a5" corresp="#elem_eSc_line_5c14f5a5">
+      <graphic url="../lignes/472_eSc_line_5c14f5a5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_63504631" corresp="#elem_eSc_line_63504631">
+      <graphic url="../lignes/472_eSc_line_63504631.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ebf3cdd9" corresp="#elem_eSc_line_ebf3cdd9">
+      <graphic url="../lignes/472_eSc_line_ebf3cdd9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2ba8e0a3" corresp="#elem_eSc_line_2ba8e0a3">
+      <graphic url="../lignes/472_eSc_line_2ba8e0a3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_24e390f7" corresp="#elem_eSc_line_24e390f7">
+      <graphic url="../lignes/472_eSc_line_24e390f7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_909f627b" corresp="#elem_eSc_line_909f627b">
+      <graphic url="../lignes/472_eSc_line_909f627b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6b1ea664" corresp="#elem_eSc_line_6b1ea664">
+      <graphic url="../lignes/472_eSc_line_6b1ea664.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2eceba22" corresp="#elem_eSc_line_2eceba22">
+      <graphic url="../lignes/472_eSc_line_2eceba22.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6fe94d9c" corresp="#elem_eSc_line_6fe94d9c">
+      <graphic url="../lignes/472_eSc_line_6fe94d9c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_388de04a" corresp="#elem_eSc_line_388de04a">
+      <graphic url="../lignes/472_eSc_line_388de04a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_545fe448" corresp="#elem_eSc_line_545fe448">
+      <graphic url="../lignes/472_eSc_line_545fe448.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_949f041b" corresp="#elem_eSc_line_949f041b">
+      <graphic url="../lignes/472_eSc_line_949f041b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4cee82f3" corresp="#elem_eSc_line_4cee82f3">
+      <graphic url="../lignes/472_eSc_line_4cee82f3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_61be832e" corresp="#elem_eSc_line_61be832e">
+      <graphic url="../lignes/472_eSc_line_61be832e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b251201a" corresp="#elem_eSc_line_b251201a">
+      <graphic url="../lignes/472_eSc_line_b251201a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ae1180f2" corresp="#elem_eSc_line_ae1180f2">
+      <graphic url="../lignes/472_eSc_line_ae1180f2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2e9f612a" corresp="#elem_eSc_line_2e9f612a">
+      <graphic url="../lignes/472_eSc_line_2e9f612a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0ae84192" corresp="#elem_eSc_line_0ae84192">
+      <graphic url="../lignes/472_eSc_line_0ae84192.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2812e0c6" corresp="#elem_eSc_line_2812e0c6">
+      <graphic url="../lignes/472_eSc_line_2812e0c6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b06cd30a" corresp="#elem_eSc_line_b06cd30a">
+      <graphic url="../lignes/472_eSc_line_b06cd30a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a59e70fb" corresp="#elem_eSc_line_a59e70fb">
+      <graphic url="../lignes/472_eSc_line_a59e70fb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4e0e2de4" corresp="#elem_eSc_line_4e0e2de4">
+      <graphic url="../lignes/472_eSc_line_4e0e2de4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0d8d1942" corresp="#elem_eSc_line_0d8d1942">
+      <graphic url="../lignes/472_eSc_line_0d8d1942.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_509204d3" corresp="#elem_eSc_line_509204d3">
+      <graphic url="../lignes/472_eSc_line_509204d3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_95b1da1f" corresp="#elem_eSc_line_95b1da1f">
+      <graphic url="../lignes/472_eSc_line_95b1da1f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a6038147" corresp="#elem_eSc_line_a6038147">
+      <graphic url="../lignes/472_eSc_line_a6038147.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_63bb74ec" corresp="#elem_eSc_line_63bb74ec">
+      <graphic url="../lignes/472_eSc_line_63bb74ec.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_259e2bc2" corresp="#elem_eSc_line_259e2bc2">
+      <graphic url="../lignes/472_eSc_line_259e2bc2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_24209b9b" corresp="#elem_eSc_line_24209b9b">
+      <graphic url="../lignes/472_eSc_line_24209b9b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_955c3dab" corresp="#elem_eSc_line_955c3dab">
+      <graphic url="../lignes/472_eSc_line_955c3dab.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e8270418" corresp="#elem_eSc_line_e8270418">
+      <graphic url="../lignes/472_eSc_line_e8270418.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_fac6a7f0" corresp="#elem_eSc_line_fac6a7f0">
+      <graphic url="../lignes/472_eSc_line_fac6a7f0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_76040b5b" corresp="#elem_eSc_line_76040b5b">
+      <graphic url="../lignes/472_eSc_line_76040b5b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f4cc5d38" corresp="#elem_eSc_line_f4cc5d38">
+      <graphic url="../lignes/495_eSc_line_f4cc5d38.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_be02ba00" corresp="#elem_eSc_line_be02ba00">
+      <graphic url="../lignes/495_eSc_line_be02ba00.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5f2b2526" corresp="#elem_eSc_line_5f2b2526">
+      <graphic url="../lignes/495_eSc_line_5f2b2526.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_adc4b3ee" corresp="#elem_eSc_line_adc4b3ee">
+      <graphic url="../lignes/495_eSc_line_adc4b3ee.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0f63da45" corresp="#elem_eSc_line_0f63da45">
+      <graphic url="../lignes/495_eSc_line_0f63da45.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5a117d59" corresp="#elem_eSc_line_5a117d59">
+      <graphic url="../lignes/495_eSc_line_5a117d59.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_54e2829c" corresp="#elem_eSc_line_54e2829c">
+      <graphic url="../lignes/495_eSc_line_54e2829c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e709a915" corresp="#elem_eSc_line_e709a915">
+      <graphic url="../lignes/495_eSc_line_e709a915.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_623da147" corresp="#elem_eSc_line_623da147">
+      <graphic url="../lignes/495_eSc_line_623da147.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_49e2ef42" corresp="#elem_eSc_line_49e2ef42">
+      <graphic url="../lignes/495_eSc_line_49e2ef42.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_92d189f4" corresp="#elem_eSc_line_92d189f4">
+      <graphic url="../lignes/495_eSc_line_92d189f4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ef6a426b" corresp="#elem_eSc_line_ef6a426b">
+      <graphic url="../lignes/495_eSc_line_ef6a426b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b11bdab9" corresp="#elem_eSc_line_b11bdab9">
+      <graphic url="../lignes/495_eSc_line_b11bdab9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_760368dd" corresp="#elem_eSc_line_760368dd">
+      <graphic url="../lignes/495_eSc_line_760368dd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_976dd708" corresp="#elem_eSc_line_976dd708">
+      <graphic url="../lignes/495_eSc_line_976dd708.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a5b4a22d" corresp="#elem_eSc_line_a5b4a22d">
+      <graphic url="../lignes/495_eSc_line_a5b4a22d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_758d5664" corresp="#elem_eSc_line_758d5664">
+      <graphic url="../lignes/495_eSc_line_758d5664.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_af906426" corresp="#elem_eSc_line_af906426">
+      <graphic url="../lignes/495_eSc_line_af906426.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_298db0f6" corresp="#elem_eSc_line_298db0f6">
+      <graphic url="../lignes/495_eSc_line_298db0f6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_13a3dd1d" corresp="#elem_eSc_line_13a3dd1d">
+      <graphic url="../lignes/495_eSc_line_13a3dd1d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_42ea372e" corresp="#elem_eSc_line_42ea372e">
+      <graphic url="../lignes/495_eSc_line_42ea372e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ba250454" corresp="#elem_eSc_line_ba250454">
+      <graphic url="../lignes/495_eSc_line_ba250454.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_144d547d" corresp="#elem_eSc_line_144d547d">
+      <graphic url="../lignes/495_eSc_line_144d547d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ddee8106" corresp="#elem_eSc_line_ddee8106">
+      <graphic url="../lignes/495_eSc_line_ddee8106.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_16aafac5" corresp="#elem_eSc_line_16aafac5">
+      <graphic url="../lignes/495_eSc_line_16aafac5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9ee1517a" corresp="#elem_eSc_line_9ee1517a">
+      <graphic url="../lignes/495_eSc_line_9ee1517a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bcc07003" corresp="#elem_eSc_line_bcc07003">
+      <graphic url="../lignes/495_eSc_line_bcc07003.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4810d583" corresp="#elem_eSc_line_4810d583">
+      <graphic url="../lignes/495_eSc_line_4810d583.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_638d2be2" corresp="#elem_eSc_line_638d2be2">
+      <graphic url="../lignes/495_eSc_line_638d2be2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4fcc4cae" corresp="#elem_eSc_line_4fcc4cae">
+      <graphic url="../lignes/495_eSc_line_4fcc4cae.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c3e84536" corresp="#elem_eSc_line_c3e84536">
+      <graphic url="../lignes/495_eSc_line_c3e84536.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b73cc7f0" corresp="#elem_eSc_line_b73cc7f0">
+      <graphic url="../lignes/495_eSc_line_b73cc7f0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bb9db252" corresp="#elem_eSc_line_bb9db252">
+      <graphic url="../lignes/495_eSc_line_bb9db252.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4c3193e2" corresp="#elem_eSc_line_4c3193e2">
+      <graphic url="../lignes/495_eSc_line_4c3193e2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1a7221f8" corresp="#elem_eSc_line_1a7221f8">
+      <graphic url="../lignes/495_eSc_line_1a7221f8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_581b8633" corresp="#elem_eSc_line_581b8633">
+      <graphic url="../lignes/495_eSc_line_581b8633.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0ba0c3ef" corresp="#elem_eSc_line_0ba0c3ef">
+      <graphic url="../lignes/495_eSc_line_0ba0c3ef.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_47edc6d8" corresp="#elem_eSc_line_47edc6d8">
+      <graphic url="../lignes/495_eSc_line_47edc6d8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cfc3d84e" corresp="#elem_eSc_line_cfc3d84e">
+      <graphic url="../lignes/495_eSc_line_cfc3d84e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1d474c89" corresp="#elem_eSc_line_1d474c89">
+      <graphic url="../lignes/495_eSc_line_1d474c89.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6f594463" corresp="#elem_eSc_line_6f594463">
+      <graphic url="../lignes/495_eSc_line_6f594463.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_797f5d50" corresp="#elem_eSc_line_797f5d50">
+      <graphic url="../lignes/495_eSc_line_797f5d50.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_f65ef2f4" corresp="#elem_eSc_line_f65ef2f4">
+      <graphic url="../lignes/495_eSc_line_f65ef2f4.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3b83a736" corresp="#elem_eSc_line_3b83a736">
+      <graphic url="../lignes/495_eSc_line_3b83a736.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_40c5ef70" corresp="#elem_eSc_line_40c5ef70">
+      <graphic url="../lignes/496_eSc_line_40c5ef70.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7fd12c81" corresp="#elem_eSc_line_7fd12c81">
+      <graphic url="../lignes/496_eSc_line_7fd12c81.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_69551760" corresp="#elem_eSc_line_69551760">
+      <graphic url="../lignes/496_eSc_line_69551760.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ed8a9594" corresp="#elem_eSc_line_ed8a9594">
+      <graphic url="../lignes/496_eSc_line_ed8a9594.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_914496dc" corresp="#elem_eSc_line_914496dc">
+      <graphic url="../lignes/496_eSc_line_914496dc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1cbaf6ae" corresp="#elem_eSc_line_1cbaf6ae">
+      <graphic url="../lignes/496_eSc_line_1cbaf6ae.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5ad5a111" corresp="#elem_eSc_line_5ad5a111">
+      <graphic url="../lignes/496_eSc_line_5ad5a111.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ef3055f9" corresp="#elem_eSc_line_ef3055f9">
+      <graphic url="../lignes/496_eSc_line_ef3055f9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a687f4b9" corresp="#elem_eSc_line_a687f4b9">
+      <graphic url="../lignes/496_eSc_line_a687f4b9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4149f2bb" corresp="#elem_eSc_line_4149f2bb">
+      <graphic url="../lignes/496_eSc_line_4149f2bb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d25749bf" corresp="#elem_eSc_line_d25749bf">
+      <graphic url="../lignes/496_eSc_line_d25749bf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8ebee9e8" corresp="#elem_eSc_line_8ebee9e8">
+      <graphic url="../lignes/496_eSc_line_8ebee9e8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_429d86f9" corresp="#elem_eSc_line_429d86f9">
+      <graphic url="../lignes/496_eSc_line_429d86f9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5869098f" corresp="#elem_eSc_line_5869098f">
+      <graphic url="../lignes/496_eSc_line_5869098f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b87fb318" corresp="#elem_eSc_line_b87fb318">
+      <graphic url="../lignes/496_eSc_line_b87fb318.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_132bbb95" corresp="#elem_eSc_line_132bbb95">
+      <graphic url="../lignes/496_eSc_line_132bbb95.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e3ea8eba" corresp="#elem_eSc_line_e3ea8eba">
+      <graphic url="../lignes/496_eSc_line_e3ea8eba.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1cfb8d5f" corresp="#elem_eSc_line_1cfb8d5f">
+      <graphic url="../lignes/496_eSc_line_1cfb8d5f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bf290652" corresp="#elem_eSc_line_bf290652">
+      <graphic url="../lignes/496_eSc_line_bf290652.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6e043fbf" corresp="#elem_eSc_line_6e043fbf">
+      <graphic url="../lignes/496_eSc_line_6e043fbf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_614ec57d" corresp="#elem_eSc_line_614ec57d">
+      <graphic url="../lignes/496_eSc_line_614ec57d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1ab37f9b" corresp="#elem_eSc_line_1ab37f9b">
+      <graphic url="../lignes/496_eSc_line_1ab37f9b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_261b36ff" corresp="#elem_eSc_line_261b36ff">
+      <graphic url="../lignes/496_eSc_line_261b36ff.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0026cfee" corresp="#elem_eSc_line_0026cfee">
+      <graphic url="../lignes/496_eSc_line_0026cfee.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ac72ae5d" corresp="#elem_eSc_line_ac72ae5d">
+      <graphic url="../lignes/496_eSc_line_ac72ae5d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c63fc62c" corresp="#elem_eSc_line_c63fc62c">
+      <graphic url="../lignes/496_eSc_line_c63fc62c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_533d7f99" corresp="#elem_eSc_line_533d7f99">
+      <graphic url="../lignes/496_eSc_line_533d7f99.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d2273c06" corresp="#elem_eSc_line_d2273c06">
+      <graphic url="../lignes/496_eSc_line_d2273c06.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_43c0739a" corresp="#elem_eSc_line_43c0739a">
+      <graphic url="../lignes/496_eSc_line_43c0739a.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_126cabb6" corresp="#elem_eSc_line_126cabb6">
+      <graphic url="../lignes/496_eSc_line_126cabb6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bc01524e" corresp="#elem_eSc_line_bc01524e">
+      <graphic url="../lignes/496_eSc_line_bc01524e.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_61ab3b8c" corresp="#elem_eSc_line_61ab3b8c">
+      <graphic url="../lignes/496_eSc_line_61ab3b8c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2472acdc" corresp="#elem_eSc_line_2472acdc">
+      <graphic url="../lignes/496_eSc_line_2472acdc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_0c801cf3" corresp="#elem_eSc_line_0c801cf3">
+      <graphic url="../lignes/496_eSc_line_0c801cf3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6059b9d1" corresp="#elem_eSc_line_6059b9d1">
+      <graphic url="../lignes/496_eSc_line_6059b9d1.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cb2bf0b5" corresp="#elem_eSc_line_cb2bf0b5">
+      <graphic url="../lignes/496_eSc_line_cb2bf0b5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3c90c616" corresp="#elem_eSc_line_3c90c616">
+      <graphic url="../lignes/496_eSc_line_3c90c616.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d8180c16" corresp="#elem_eSc_line_d8180c16">
+      <graphic url="../lignes/496_eSc_line_d8180c16.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6a9fbd80" corresp="#elem_eSc_line_6a9fbd80">
+      <graphic url="../lignes/496_eSc_line_6a9fbd80.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5938498f" corresp="#elem_eSc_line_5938498f">
+      <graphic url="../lignes/496_eSc_line_5938498f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d0f8506f" corresp="#elem_eSc_line_d0f8506f">
+      <graphic url="../lignes/496_eSc_line_d0f8506f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d2caccd9" corresp="#elem_eSc_line_d2caccd9">
+      <graphic url="../lignes/496_eSc_line_d2caccd9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_3e694f40" corresp="#elem_eSc_line_3e694f40">
+      <graphic url="../lignes/496_eSc_line_3e694f40.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5b7da6bc" corresp="#elem_eSc_line_5b7da6bc">
+      <graphic url="../lignes/496_eSc_line_5b7da6bc.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_7206b687" corresp="#elem_eSc_line_7206b687">
+      <graphic url="../lignes/496_eSc_line_7206b687.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b80931f6" corresp="#elem_eSc_line_b80931f6">
+      <graphic url="../lignes/496_eSc_line_b80931f6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1757d4e9" corresp="#elem_eSc_line_1757d4e9">
+      <graphic url="../lignes/496_eSc_line_1757d4e9.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8a071140" corresp="#elem_eSc_line_8a071140">
+      <graphic url="../lignes/497_eSc_line_8a071140.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_642f9545" corresp="#elem_eSc_line_642f9545">
+      <graphic url="../lignes/497_eSc_line_642f9545.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a0ed975b" corresp="#elem_eSc_line_a0ed975b">
+      <graphic url="../lignes/497_eSc_line_a0ed975b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_92f3834b" corresp="#elem_eSc_line_92f3834b">
+      <graphic url="../lignes/497_eSc_line_92f3834b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_156d82aa" corresp="#elem_eSc_line_156d82aa">
+      <graphic url="../lignes/497_eSc_line_156d82aa.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_06c54114" corresp="#elem_eSc_line_06c54114">
+      <graphic url="../lignes/497_eSc_line_06c54114.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_279bd3f7" corresp="#elem_eSc_line_279bd3f7">
+      <graphic url="../lignes/497_eSc_line_279bd3f7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_95a92919" corresp="#elem_eSc_line_95a92919">
+      <graphic url="../lignes/497_eSc_line_95a92919.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5fa913df" corresp="#elem_eSc_line_5fa913df">
+      <graphic url="../lignes/497_eSc_line_5fa913df.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9ae8debd" corresp="#elem_eSc_line_9ae8debd">
+      <graphic url="../lignes/497_eSc_line_9ae8debd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_cf77e4e7" corresp="#elem_eSc_line_cf77e4e7">
+      <graphic url="../lignes/497_eSc_line_cf77e4e7.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_35434fe2" corresp="#elem_eSc_line_35434fe2">
+      <graphic url="../lignes/497_eSc_line_35434fe2.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1db48fdd" corresp="#elem_eSc_line_1db48fdd">
+      <graphic url="../lignes/497_eSc_line_1db48fdd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b46f100f" corresp="#elem_eSc_line_b46f100f">
+      <graphic url="../lignes/497_eSc_line_b46f100f.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2d137f2b" corresp="#elem_eSc_line_2d137f2b">
+      <graphic url="../lignes/497_eSc_line_2d137f2b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_30cf90ce" corresp="#elem_eSc_line_30cf90ce">
+      <graphic url="../lignes/497_eSc_line_30cf90ce.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_928e18bf" corresp="#elem_eSc_line_928e18bf">
+      <graphic url="../lignes/497_eSc_line_928e18bf.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9af96427" corresp="#elem_eSc_line_9af96427">
+      <graphic url="../lignes/497_eSc_line_9af96427.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_30dd9761" corresp="#elem_eSc_line_30dd9761">
+      <graphic url="../lignes/497_eSc_line_30dd9761.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_b1fd7de3" corresp="#elem_eSc_line_b1fd7de3">
+      <graphic url="../lignes/497_eSc_line_b1fd7de3.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_bd238201" corresp="#elem_eSc_line_bd238201">
+      <graphic url="../lignes/497_eSc_line_bd238201.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_41a292fe" corresp="#elem_eSc_line_41a292fe">
+      <graphic url="../lignes/497_eSc_line_41a292fe.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_6bd4580c" corresp="#elem_eSc_line_6bd4580c">
+      <graphic url="../lignes/497_eSc_line_6bd4580c.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8e8f1ac8" corresp="#elem_eSc_line_8e8f1ac8">
+      <graphic url="../lignes/497_eSc_line_8e8f1ac8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_88fe34ef" corresp="#elem_eSc_line_88fe34ef">
+      <graphic url="../lignes/497_eSc_line_88fe34ef.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_eaa1b203" corresp="#elem_eSc_line_eaa1b203">
+      <graphic url="../lignes/497_eSc_line_eaa1b203.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_c22344d8" corresp="#elem_eSc_line_c22344d8">
+      <graphic url="../lignes/497_eSc_line_c22344d8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_9be89ec8" corresp="#elem_eSc_line_9be89ec8">
+      <graphic url="../lignes/497_eSc_line_9be89ec8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_e78632c0" corresp="#elem_eSc_line_e78632c0">
+      <graphic url="../lignes/497_eSc_line_e78632c0.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_5e8abc1b" corresp="#elem_eSc_line_5e8abc1b">
+      <graphic url="../lignes/497_eSc_line_5e8abc1b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8e65fecd" corresp="#elem_eSc_line_8e65fecd">
+      <graphic url="../lignes/497_eSc_line_8e65fecd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a7ec478b" corresp="#elem_eSc_line_a7ec478b">
+      <graphic url="../lignes/497_eSc_line_a7ec478b.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ef30230d" corresp="#elem_eSc_line_ef30230d">
+      <graphic url="../lignes/497_eSc_line_ef30230d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4deae3cb" corresp="#elem_eSc_line_4deae3cb">
+      <graphic url="../lignes/497_eSc_line_4deae3cb.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_d98e8e68" corresp="#elem_eSc_line_d98e8e68">
+      <graphic url="../lignes/497_eSc_line_d98e8e68.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2d2051a6" corresp="#elem_eSc_line_2d2051a6">
+      <graphic url="../lignes/497_eSc_line_2d2051a6.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_8cac6524" corresp="#elem_eSc_line_8cac6524">
+      <graphic url="../lignes/497_eSc_line_8cac6524.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_2427af3d" corresp="#elem_eSc_line_2427af3d">
+      <graphic url="../lignes/497_eSc_line_2427af3d.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_dcbf6369" corresp="#elem_eSc_line_dcbf6369">
+      <graphic url="../lignes/497_eSc_line_dcbf6369.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_4c8b3fbd" corresp="#elem_eSc_line_4c8b3fbd">
+      <graphic url="../lignes/497_eSc_line_4c8b3fbd.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_15e8b011" corresp="#elem_eSc_line_15e8b011">
+      <graphic url="../lignes/497_eSc_line_15e8b011.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_ecdd4ed8" corresp="#elem_eSc_line_ecdd4ed8">
+      <graphic url="../lignes/497_eSc_line_ecdd4ed8.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_a2c87324" corresp="#elem_eSc_line_a2c87324">
+      <graphic url="../lignes/497_eSc_line_a2c87324.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_08825103" corresp="#elem_eSc_line_08825103">
+      <graphic url="../lignes/497_eSc_line_08825103.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_580eef35" corresp="#elem_eSc_line_580eef35">
+      <graphic url="../lignes/497_eSc_line_580eef35.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_69f50bc5" corresp="#elem_eSc_line_69f50bc5">
+      <graphic url="../lignes/497_eSc_line_69f50bc5.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_676c6165" corresp="#elem_eSc_line_676c6165">
+      <graphic url="../lignes/497_eSc_line_676c6165.png"/>
+    </surface>
+    <surface xml:id="facs_eSc_line_1d734e7b" corresp="#elem_eSc_line_1d734e7b">
+      <graphic url="../lignes/497_eSc_line_1d734e7b.png"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div><pb n="" facs="../input_files/it0.jpg"/><lb break="?" facs="#facs_eSc_line_6dbf1d3f" xml:id="elem_eSc_line_6dbf1d3f"/>Lo primiero capitolo della seconda parte del Primo<lb break="?" facs="#facs_eSc_line_d41bbec2" xml:id="elem_eSc_line_d41bbec2"/>libro del ghouernamento delli re edelli principi Insegnia Quante potençie<lb break="?" facs="#facs_eSc_line_019396d0" xml:id="elem_eSc_line_019396d0"/>Lanima a e uelle chui potençie le uirtu delle buonc huopere sonno.<lb break="?" facs="#facs_eSc_line_ec1b8893" xml:id="elem_eSc_line_ec1b8893"/>A ꝑui chenoi auiamo iuseguiato a laude didio nella prima ꝑte<lb break="?" facs="#facs_eSc_line_5490d814" xml:id="elem_eSc_line_5490d814"/>di questo liro che li Re elli principi sono ingraçia quando eglino<lb break="?" facs="#facs_eSc_line_3144c0be" xml:id="elem_eSc_line_3144c0be"/>amano dio. Eꝑ lamore didio sichome buoni sergienti e leagli<lb break="?" facs="#facs_eSc_line_29c505b1" xml:id="elem_eSc_line_29c505b1"/>eglio attendono aghouernare samamẽte lopoplo sicondo leggie<lb break="?" facs="#facs_eSc_line_8155b6d4" xml:id="elem_eSc_line_8155b6d4"/>eragione. Noi diremo che uirtu li Re elli principi de bono auere<lb break="?" facs="#facs_eSc_line_129324eb" xml:id="elem_eSc_line_129324eb"/>Et imꝑo chele uirtu fano lanima ꝑfetta. Econuiene p̾mera<lb break="?" facs="#facs_eSc_line_411cac2f" xml:id="elem_eSc_line_411cac2f"/>mente sapere quante potençe lamina a e chomelouirtu delle buone huopre<lb break="?" facs="#facs_eSc_line_cfa17103" xml:id="elem_eSc_line_cfa17103"/>debono essare fatte. Et ap̃sso noi diremo chomesi de diuisare le uirtu delle buo<lb break="?" facs="#facs_eSc_line_ec63b1d1" xml:id="elem_eSc_line_ec63b1d1"/>ne huopre e quante ne sonno. Epoi noi diremo di craschuna quale ella e et<lb break="?" facs="#facs_eSc_line_998a84de" xml:id="elem_eSc_line_998a84de"/>chome li Rs elli principi debono auere tale uirtu. Et diremo le quale sonno<pb n="" facs="../input_files/it1.jpg"/><lb break="?" facs="#facs_eSc_line_82e6c843" xml:id="elem_eSc_line_82e6c843"/>pui principale dellaltre. Donde luomo de sapere che lauima sia .iiii. manie¬<lb break="?" facs="#facs_eSc_line_ca829353" xml:id="elem_eSc_line_ca829353"/>re di potencie. ⟦Luuqͥ soeͣ naturale fich⟧. Lune sonno naturagli si chome la uirtu<lb break="?" facs="#facs_eSc_line_d283477c" xml:id="elem_eSc_line_d283477c"/>che notriscie. ella uirtu cho acrescie. ela uirtu che ingenera . Laltre potençie de<lb break="?" facs="#facs_eSc_line_705d762e" xml:id="elem_eSc_line_705d762e"/>lamma sono coquoscienti. Sichome el uedere il ghustare e lo tocchare eglialta<lb break="?" facs="#facs_eSc_line_fb91e21b" xml:id="elem_eSc_line_fb91e21b"/>sençi delluomo. ¶Unaltra potença dellamina e chesi chiama lontellecto: Lal.¬<lb break="?" facs="#facs_eSc_line_bed34dfe" xml:id="elem_eSc_line_bed34dfe"/>tre potençe dellanima sonno dette potençe desiderose. Donde luna sie nominata<lb break="?" facs="#facs_eSc_line_82b7d4b6" xml:id="elem_eSc_line_82b7d4b6"/>uolonta che e desidero delintellecto. elaltre sie detta desidero delli .u. sensi deluomo<lb break="?" facs="#facs_eSc_line_bc031913" xml:id="elem_eSc_line_bc031913"/>E potiamo prouare ꝑ .iij. ragioni chele uertu delle buone huopre che noi ac¬<lb break="?" facs="#facs_eSc_line_cd7ff039" xml:id="elem_eSc_line_cd7ff039"/>quisciamo ꝑ acchostumare a choscumi del ben fare nõ sonno gia potençie de<lb break="?" facs="#facs_eSc_line_3aa48c3b" xml:id="elem_eSc_line_3aa48c3b"/>lanima naturagli ne de .u. sensi delluomõ ¶La primiera ragione sie ꝑo che<lb break="?" facs="#facs_eSc_line_0451b7b4" xml:id="elem_eSc_line_0451b7b4"/>ꝑle uertu delle buone huopre/ esi de lodare luomo quando egli la/. Ebiasimare¬<lb break="?" facs="#facs_eSc_line_3066e0e8" xml:id="elem_eSc_line_3066e0e8"/>quando egli a il contraro Ma ꝑlo bene notrire. ne ꝑbene essare cresento. ne<lb break="?" facs="#facs_eSc_line_568ca008" xml:id="elem_eSc_line_568ca008"/>ꝑ ben uedere. ne ꝑ sentire. uermio nõ de essare principalimente ne biasimato ne¬<lb break="?" facs="#facs_eSc_line_69e4b4b6" xml:id="elem_eSc_line_69e4b4b6"/>lodato. se enoñe chosi che ꝑ troppo bere e/ ꝑ troppo mangiare egui abbi acꝗscato<lb break="?" facs="#facs_eSc_line_bd66dd86" xml:id="elem_eSc_line_bd66dd86"/>malatie ꝑle quali tale uertu sonno impedite sopra loro huopre. Donde in tali¬<lb break="?" facs="#facs_eSc_line_f0d8222d" xml:id="elem_eSc_line_f0d8222d"/>potençie e nõ si de gia mettare le uirtu delle buone huoꝑe. ¶La seconda ragion<lb break="?" facs="#facs_eSc_line_869bd63a" xml:id="elem_eSc_line_869bd63a"/>sie che le uertu delle buone huopre sonuo chose sicondo ragione. e debono essare<lb break="?" facs="#facs_eSc_line_647caf21" xml:id="elem_eSc_line_647caf21"/>uelle potençe dellamina che ubidischino aragione. Ma le potençe naturagli<lb break="?" facs="#facs_eSc_line_d09f8243" xml:id="elem_eSc_line_d09f8243"/>neli .v. sensi delluomo nõ ubidischono gia aragione. ꝑo che chiaro uedere o cha¬<lb break="?" facs="#facs_eSc_line_69ce25ef" xml:id="elem_eSc_line_69ce25ef"/>tiuo uedere noue gia principalmẽtẽ nella padesta deluomo. Ne bene essare cres¬<lb break="?" facs="#facs_eSc_line_2b361582" xml:id="elem_eSc_line_2b361582"/>scuito. nebene essare notato none gia nella podesta deluomo. Imꝑo che so luomo<lb break="?" facs="#facs_eSc_line_7a07cc85" xml:id="elem_eSc_line_7a07cc85"/>a mangiato. e nõ unolegia essare notrito ne eresciuto. si il nutrirano e a ccres¬<lb break="?" facs="#facs_eSc_line_152c10e3" xml:id="elem_eSc_line_152c10e3"/>screranmo le uirtu che sono in lui. Donche in questa potença/ enõ si de gia mes¬<lb break="?" facs="#facs_eSc_line_b1804a64" xml:id="elem_eSc_line_b1804a64"/>tere le uirtu delle buone huopre. ¶La Terca ragione sie ꝑo che le potençe<lb break="?" facs="#facs_eSc_line_0cbdc89f" xml:id="elem_eSc_line_0cbdc89f"/>naturagli e li .v. sensi delluomo sono iuchinati sofficentemente ꝑloro natura<lb break="?" facs="#facs_eSc_line_4a24377a" xml:id="elem_eSc_line_4a24377a"/>affare loro huopere. Ne per loro nor nõ siano ne buoni ne maluagi. Male<lb break="?" facs="#facs_eSc_line_dc0c909a" xml:id="elem_eSc_line_dc0c909a"/>uirtu delle buone huopre inchimano le potencie delauima done elle sono abene<lb break="?" facs="#facs_eSc_line_b72f79c5" xml:id="elem_eSc_line_b72f79c5"/>fare e li uitii le inchinano al mal fare . Donde le irtu delle buone huopere<lb break="?" facs="#facs_eSc_line_f023caf0" xml:id="elem_eSc_line_f023caf0"/>nõ debbono gia essare nelle potençie delluomini naturgli. segli anno inchimati<lb break="?" facs="#facs_eSc_line_60670478" xml:id="elem_eSc_line_60670478"/>sofficentemente affare loro huopare.<lb break="?" facs="#facs_eSc_line_30007cbc" xml:id="elem_eSc_line_30007cbc"/>Il Sicondo Capitolo Insegnia chome<lb break="?" facs="#facs_eSc_line_fbb11de4" xml:id="elem_eSc_line_fbb11de4"/>le iurtu delle buone huopere sono diuisate e chome elle sono nel disidero<lb break="?" facs="#facs_eSc_line_83847eb6" xml:id="elem_eSc_line_83847eb6"/>e nellontellacto deluomo.<lb break="?" facs="#facs_eSc_line_15584d7a" xml:id="elem_eSc_line_15584d7a"/>Di che noi auiamo mostrato che le iurtu delle buone huopre nõ sonno<lb break="?" facs="#facs_eSc_line_54d43daf" xml:id="elem_eSc_line_54d43daf"/>gia uelle potenge dellamina naturale ne negli .U. sensi delluomo. Noi<lb break="?" facs="#facs_eSc_line_374c815d" xml:id="elem_eSc_line_374c815d"/>diremo che .ii. maniere sono di uirtu. Luue chẽ tendono principalmente<lb break="?" facs="#facs_eSc_line_c7d3d011" xml:id="elem_eSc_line_c7d3d011"/>a cognoscença di uerita sichome la sciença di natura e astrononna e laltre sa¬<lb break="?" facs="#facs_eSc_line_f7ae8879" xml:id="elem_eSc_line_f7ae8879"/>ençe . ¶ Laltre iurtu sono ꝑloquali noi facciamo buone huopre. e si le acquis¬<lb break="?" facs="#facs_eSc_line_c08681f5" xml:id="elem_eSc_line_c08681f5"/>tiamo ꝑachoscumeçça di ben fare. esono nel desidero del huomo. si chome iusticia<lb break="?" facs="#facs_eSc_line_86d97f02" xml:id="elem_eSc_line_86d97f02"/>Temperança força e prudençia. e laltre delle quali nos diremo qui ap̃sso e ⟦lege⟧<lb break="?" facs="#facs_eSc_line_c181ec8c" xml:id="elem_eSc_line_c181ec8c"/>⟦reio⟧ lassaremo le uirtu che tendono principalmẽte a cognioscença. Et di<lb break="?" facs="#facs_eSc_line_630edcd4" xml:id="elem_eSc_line_630edcd4"/>remo delle uirtu ꝑle quali noi facciano buone huopre. ꝑo ch̃ nor attediamo<lb break="?" facs="#facs_eSc_line_f63ead08" xml:id="elem_eSc_line_f63ead08"/>principalmẽte ꝑquesta sciença che noi siamo buoni. Et diremo che imꝑo ch̃<lb break="?" facs="#facs_eSc_line_749b1b93" xml:id="elem_eSc_line_749b1b93"/>il desidero delluomo ubedissee aragion eleuirtu delle buone huoꝑe sono chose<lb break="?" facs="#facs_eSc_line_5f4be879" xml:id="elem_eSc_line_5f4be879"/>10<pb n="" facs="../input_files/it2.jpg"/><lb break="?" facs="#facs_eSc_line_2beeb372" xml:id="elem_eSc_line_2beeb372"/>suondo ragione elle sonno nello intellecto enel desidero delluomo¶Ma noi doue<lb break="?" facs="#facs_eSc_line_9381e7c4" xml:id="elem_eSc_line_9381e7c4"/>mo sapere che desidero nõne altra chosa senone una mich mança ad auere bene/ o<lb break="?" facs="#facs_eSc_line_7b398f64" xml:id="elem_eSc_line_7b398f64"/>o a fuggire il male/ che uiene dicio che luomo cognosce bene e male ¶Imꝑo ch<lb break="?" facs="#facs_eSc_line_02abc6aa" xml:id="elem_eSc_line_02abc6aa"/>luomo ã .ii. cognoscençe. Luna sie cogmoscengça dellontellecto. Laltre sie<lb break="?" facs="#facs_eSc_line_64cb0aaa" xml:id="elem_eSc_line_64cb0aaa"/>cognoscimento. delli.u. sensi. Eglia insc .ii. desideri ꝑo che qũdo lontellecto<lb break="?" facs="#facs_eSc_line_ce428539" xml:id="elem_eSc_line_ce428539"/>cogmoscie alchumo bene o alchumo male. Egli disidera a ꝑseghunitare il<lb break="?" facs="#facs_eSc_line_0c85b1a9" xml:id="elem_eSc_line_0c85b1a9"/>bene e afuiggire il male e tale desidero noi il chiamiamo uolonta. Et qũdo<lb break="?" facs="#facs_eSc_line_53149c7d" xml:id="elem_eSc_line_53149c7d"/>⟦gliuenumt⟧ luomo ꝑli .u. sensi che eglia coginoscie alchuno bene singu<lb break="?" facs="#facs_eSc_line_9deb0aa0" xml:id="elem_eSc_line_9deb0aa0"/>lare o alchuno male.Luomo desidera e suichina ꝑseguitar e afuggire il<lb break="?" facs="#facs_eSc_line_dd9b8941" xml:id="elem_eSc_line_dd9b8941"/>male Et tale desidero esi chiama desidero delli .u. sensi deluomo. ¶ Et<lb break="?" facs="#facs_eSc_line_0b7acd7a" xml:id="elem_eSc_line_0b7acd7a"/>e dasapere che li desideri che luomo a ꝑla cogmoscença di suoi sensi e diuisa<lb break="?" facs="#facs_eSc_line_df6e43b5" xml:id="elem_eSc_line_df6e43b5"/>iii.ii. desideri ꝑche tucto altresi chome nõi uedemo che natura dona<lb break="?" facs="#facs_eSc_line_70c77e3b" xml:id="elem_eSc_line_70c77e3b"/>al suocho.ii. potençie si chome chalore e ligiereçça ꝑcio che ꝑ legirereçça<lb break="?" facs="#facs_eSc_line_36c96318" xml:id="elem_eSc_line_36c96318"/>il fuocho possa andare in suo ꝓpio luogho naturale. chede la su uersa la luna<lb break="?" facs="#facs_eSc_line_8d2e0186" xml:id="elem_eSc_line_8d2e0186"/>Et ꝑlo chalore che egli a e ꝓuote contescare alle chose che possono impedire<lb break="?" facs="#facs_eSc_line_19448a17" xml:id="elem_eSc_line_19448a17"/>il suo deletto nel suo ꝓpio luogho naturale ¶ Echusi e ogłi deglialtri elmiẽti<lb break="?" facs="#facs_eSc_line_69534b04" xml:id="elem_eSc_line_69534b04"/>Tutto altersi douemo dire che eglie uella natura delle bestie/ che e pui<lb break="?" facs="#facs_eSc_line_ca4e8e51" xml:id="elem_eSc_line_ca4e8e51"/>francha e pui nobile che la natura degli Elimienti. Enatura dona agli Eli<lb break="?" facs="#facs_eSc_line_548c7b7b" xml:id="elem_eSc_line_548c7b7b"/>menti .ii. Potençie sichomie noi auemo detto. Diricto fu e ragione che na<lb break="?" facs="#facs_eSc_line_429d3b2b" xml:id="elem_eSc_line_429d3b2b"/>tura donasse alle bestie .ii. potençe ¶Imꝑo ch ꝑ gliuomimi laltre bestre ꝑo<lb break="?" facs="#facs_eSc_line_f29ca30f" xml:id="elem_eSc_line_f29ca30f"/>tessoro attendere achose che sosse conuenenole e auere lor ꝓpio diletto. Et<lb break="?" facs="#facs_eSc_line_3fe2d454" xml:id="elem_eSc_line_3fe2d454"/>quella potẽça sie chiamata desidero di bene dilectabile . Et ꝑ altre potẽge<lb break="?" facs="#facs_eSc_line_a5cd2252" xml:id="elem_eSc_line_a5cd2252"/>e potessoro contastare alle chose che illoro diletto potesse impedire. E tale po<lb break="?" facs="#facs_eSc_line_50adde5a" xml:id="elem_eSc_line_50adde5a"/>tença sichiama desidero di contastarea q̃llo che il suo ꝓpio diletto possa im<lb break="?" facs="#facs_eSc_line_a5849f6d" xml:id="elem_eSc_line_a5849f6d"/>pedire. Donde noi potemo dire che le uirtu delle buone huepre. Prudeça<lb break="?" facs="#facs_eSc_line_7dd64c16" xml:id="elem_eSc_line_7dd64c16"/>sie intendimẽto. Justicia e mella uolonta. Forteçça di corraggio e nel de<lb break="?" facs="#facs_eSc_line_b16b66f8" xml:id="elem_eSc_line_b16b66f8"/>sidero del contastare a q̃lle chose che impedischono il ꝓpio diletto delluomo.<lb break="?" facs="#facs_eSc_line_a57f6a7c" xml:id="elem_eSc_line_a57f6a7c"/>Temperança sie ⟦uignod⟧ nel disidero dauere diletto.<pb n="" facs="../input_files/400.jpg"/><graphic type="initiale" facs="453 2245 516 2341 389 2537 326 2556 270 2318 312 2211 326 2545 408 2524 401 2456 383 2456 386 2456 411 2443 421 2421 446 2421 504 2321 443 2218 243 2251 314 2412"/><lb break="?" facs="#facs_eSc_line_d8a686bd" xml:id="elem_eSc_line_d8a686bd"/>Lundecimo<lb break="?" facs="#facs_eSc_line_bf2cf34b" xml:id="elem_eSc_line_bf2cf34b"/>Capitolo insegnia che li Re elli principi nõ deghono gia gouernare ne adriç~<lb break="?" facs="#facs_eSc_line_2301fa4b" xml:id="elem_eSc_line_2301fa4b"/>çare loro donne in quella maniera che e gouernano et adriççano loro figliuogli.<lb break="?" facs="#facs_eSc_line_9123fd22" xml:id="elem_eSc_line_9123fd22"/>Ero che enc̾ bastagia a sapere quale de essare il matrimonio et che donne<lb break="?" facs="#facs_eSc_line_17d99596" xml:id="elem_eSc_line_17d99596"/>luomo de pigliare ꝑ matrimonio se luomo nõ sa come la donna che e<lb break="?" facs="#facs_eSc_line_388d7e12" xml:id="elem_eSc_line_388d7e12"/>glia presa debba gouernare et adriççiare. Noi insegniaremo in questo<lb break="?" facs="#facs_eSc_line_f976f570" xml:id="elem_eSc_line_f976f570"/>Capitolo che la donna che luomo a preso e nõ la de gia gouernare nella<lb break="?" facs="#facs_eSc_line_af95fc6d" xml:id="elem_eSc_line_af95fc6d"/>maniera che egli gouerna gli suoi seuiçiugli per la qual cosa noi douemo<lb break="?" facs="#facs_eSc_line_c4e7af50" xml:id="elem_eSc_line_c4e7af50"/>sapere che tucto altresi chome li populi che eleghono alchuno huomo ⁊ signiore<lb break="?" facs="#facs_eSc_line_2dd8280e" xml:id="elem_eSc_line_2dd8280e"/>mette et istabilisçie lordini et li merchati sicondo çio che il signiore il quale egl~<lb break="?" facs="#facs_eSc_line_463cd929" xml:id="elem_eSc_line_463cd929"/>i anno eletto le de gouernare et adriççiare/ Tucto cosi nel matrimonio sono<lb break="?" facs="#facs_eSc_line_f1b08bd3" xml:id="elem_eSc_line_f1b08bd3"/>certe leggi et certe conuencioni e pacti sicondo çio che il marito de essare sigͦre<lb break="?" facs="#facs_eSc_line_6e9f0c39" xml:id="elem_eSc_line_6e9f0c39"/>et la donna sil gouerna et adriççia sicondo le certe leggi di matrimonio et le<lb break="?" facs="#facs_eSc_line_2f6511e7" xml:id="elem_eSc_line_2f6511e7"/>certe conuençioni. Ma il padre gouerna li suoi fançiugli sicondo la sua uolõta<lb break="?" facs="#facs_eSc_line_ec0b65b5" xml:id="elem_eSc_line_ec0b65b5"/>et sicondo che egli uede il maggiore profitto a li figliuogli Pero che infra<lb break="?" facs="#facs_eSc_line_d17dc76f" xml:id="elem_eSc_line_d17dc76f"/>lo padre et li figliuogli non a niune certe conuençioni sicondo le quali il padre<lb break="?" facs="#facs_eSc_line_f3b7fdf5" xml:id="elem_eSc_line_f3b7fdf5"/>gouerna li suoi figliuogli. Ma cosi come lo Re sicondo la sua uolonta gouerna<pb n="" facs="../input_files/401.jpg"/><lb break="?" facs="#facs_eSc_line_49a253d8" xml:id="elem_eSc_line_49a253d8"/>La sua gente e il suo populo et sicondo che gli pare danno o profitto al reame.<lb break="?" facs="#facs_eSc_line_1552ea97" xml:id="elem_eSc_line_1552ea97"/>Tucto cosi ghouerna il padre suoi figliuoli sicondo la sua uolonta et sicondo che<lb break="?" facs="#facs_eSc_line_d7700258" xml:id="elem_eSc_line_d7700258"/>a lui pare il suo profitto e delli suoi figliuogli. Et e da sapere che la signioria<lb break="?" facs="#facs_eSc_line_01862921" xml:id="elem_eSc_line_01862921"/>che il padre a sopra li suoi figliuogli e piu naturale che la signioria che a il ma-<lb break="?" facs="#facs_eSc_line_47de342e" xml:id="elem_eSc_line_47de342e"/>rito sopra della sua donna. Pero che li fançiugli non anno ni una eghualita nel<lb break="?" facs="#facs_eSc_line_59b6a172" xml:id="elem_eSc_line_59b6a172"/>padre ne e̾ nõ sa menegia che e uaglino il padre ançi uenghono naturalmẽte<lb break="?" facs="#facs_eSc_line_6baae7e8" xml:id="elem_eSc_line_6baae7e8"/>de lor padre per la qual cosa la signioria che il padre a sopra li suoi figliuogli<lb break="?" facs="#facs_eSc_line_980f3163" xml:id="elem_eSc_line_980f3163"/>pare del tucto essare naturale. Ma concessa cosa che luomo per natura si de<lb break="?" facs="#facs_eSc_line_c69c2f84" xml:id="elem_eSc_line_c69c2f84"/>maritare Pur nõ dimeno egli ne nella sua uolonta mançi che eglie maritato<lb break="?" facs="#facs_eSc_line_09cf3186" xml:id="elem_eSc_line_09cf3186"/>et che e piglia questa donna o un altra E a la donna alchuna maniera degua~<lb break="?" facs="#facs_eSc_line_1b75b14c" xml:id="elem_eSc_line_1b75b14c"/>lita al suo marito. Et pus la donna mançi che ella sia maritata pigliare q̃llo<lb break="?" facs="#facs_eSc_line_23c529cd" xml:id="elem_eSc_line_23c529cd"/>marito che ella uuole per la qual cosa la signioria che il marito a su la sua dona<lb break="?" facs="#facs_eSc_line_a6af7efd" xml:id="elem_eSc_line_a6af7efd"/>non e gia del tucto naturale. E douemo sapere che il padre de tenere li suoi<lb break="?" facs="#facs_eSc_line_1e3f0dbd" xml:id="elem_eSc_line_1e3f0dbd"/>figliuogli a altre huopere che la sua donna pero che il padre de imparare li<lb break="?" facs="#facs_eSc_line_57868e4f" xml:id="elem_eSc_line_57868e4f"/>suoi figliuogli et auiargli a fare luoꝑe della chaualeria ꝑ bene della comunita<lb break="?" facs="#facs_eSc_line_b1dc0b2a" xml:id="elem_eSc_line_b1dc0b2a"/>et de la citta la quale appartiene a loro alle quali e deghono diligentemẽte attẽ-<lb break="?" facs="#facs_eSc_line_5bc20643" xml:id="elem_eSc_line_5bc20643"/>dare a fare quando e sonno nodriti et ĩ tucto crescuiti E infare quelle cose luo-<lb break="?" facs="#facs_eSc_line_e2ad6e58" xml:id="elem_eSc_line_e2ad6e58"/>mo nõ de gia fare imparare ne attendare la sua donna pero che elleno non<lb break="?" facs="#facs_eSc_line_cfa8809c" xml:id="elem_eSc_line_cfa8809c"/>debono gia attendare a fare luopere di chaualieria Ma a quale huopere elleno<lb break="?" facs="#facs_eSc_line_81870307" xml:id="elem_eSc_line_81870307"/>de bono attendare noi il diremo apresso . Donde egli appare bene che altre<lb break="?" facs="#facs_eSc_line_c56f0016" xml:id="elem_eSc_line_c56f0016"/>signiorie a luomo sopra la sua donna et il padre sopra li suoi figliuogli Et<lb break="?" facs="#facs_eSc_line_d805c211" xml:id="elem_eSc_line_d805c211"/>altra maniera de auere luomo a gouernare la sua donna che non a il padre a<lb break="?" facs="#facs_eSc_line_f94725e1" xml:id="elem_eSc_line_f94725e1"/>ghouernare suoi figliuogli. Il Duodecimo capitolo Insognia che li Re et<lb break="?" facs="#facs_eSc_line_3a1aa036" xml:id="elem_eSc_line_3a1aa036"/>Li Principi et gli altri huomini nõ deghono gia gouernare le lor donne<lb break="?" facs="#facs_eSc_line_05cfc5f3" xml:id="elem_eSc_line_05cfc5f3"/>in quella maniera che e ghouernano li loro sergienti.<lb break="?" facs="#facs_eSc_line_bcce49d2" xml:id="elem_eSc_line_bcce49d2"/>Oi che noi auemo detto et inseginato nel capitolo diuançi detto che<lb break="?" facs="#facs_eSc_line_8fa67123" xml:id="elem_eSc_line_8fa67123"/>matrimomio a altra signoria sopra la donna : e sopra li figliuoli et altra<lb break="?" facs="#facs_eSc_line_4efe8219" xml:id="elem_eSc_line_4efe8219"/>maniera di gouernare la sua donna. Noi prouaremo ꝑ .iii. ragioni<lb break="?" facs="#facs_eSc_line_bc773530" xml:id="elem_eSc_line_bc773530"/>che il marito non de gia cosi usare ¶ della sua donna chome del suo sergẽte<lb break="?" facs="#facs_eSc_line_26da6195" xml:id="elem_eSc_line_26da6195"/>po che ꝑ natura la donna e ordinata ad alta cosa che a seruire ¶La pri~<lb break="?" facs="#facs_eSc_line_cca97573" xml:id="elem_eSc_line_cca97573"/>miera ragione sie che tucta natura sie menata et adiriççiata da dio e da glian~<lb break="?" facs="#facs_eSc_line_6ec09269" xml:id="elem_eSc_line_6ec09269"/>gnioli. Et tucto cosi chome noi uedemo che luopera che e fatta di troppo sa-<lb break="?" facs="#facs_eSc_line_1eeb2a49" xml:id="elem_eSc_line_1eeb2a49"/>uio maestro e nõ nisi truoua ne pocho ne troppo. Cosi natura se ella non e ni<lb break="?" facs="#facs_eSc_line_0c0eea84" xml:id="elem_eSc_line_0c0eea84"/>pedita pero che dio il quale e sũma sapiença la diriçça e gouerna et nõ sa ni una<lb break="?" facs="#facs_eSc_line_dc3c78a4" xml:id="elem_eSc_line_dc3c78a4"/>cosa troppo ne/ e nõ mancha in cosa nicessaria Ançi tucto quello che egli fa<lb break="?" facs="#facs_eSc_line_27735618" xml:id="elem_eSc_line_27735618"/>e lo fa troppo ordinatamẽte ꝑo che natura e ordinata per colui dal quale uie~<lb break="?" facs="#facs_eSc_line_34147919" xml:id="elem_eSc_line_34147919"/>ne ogni ordinança E ꝑ cio quella cosa e troppo bene ordinata quando ella e ne<lb break="?" facs="#facs_eSc_line_a50c01da" xml:id="elem_eSc_line_a50c01da"/>ordinata a uno officio E la donna per natura e ordinata a ingenerare et<lb break="?" facs="#facs_eSc_line_765bfe65" xml:id="elem_eSc_line_765bfe65"/>a portare figliuogli ella nõ de gia essare ordinata a seruire Pero che nat᷑a<lb break="?" facs="#facs_eSc_line_88a10c67" xml:id="elem_eSc_line_88a10c67"/>ordina le cose a una huopera e a uno offiçio per la qual cosa come natura<lb break="?" facs="#facs_eSc_line_c6983d79" xml:id="elem_eSc_line_c6983d79"/>a ordinato la donna ꝑ ingenerare et ꝑ portare figliuogli cosi come al suo<lb break="?" facs="#facs_eSc_line_18896b2c" xml:id="elem_eSc_line_18896b2c"/>ꝓpio uffiço naturale luomo nõ la de gia ordinare a seruire E choloro che tẽ~<lb break="?" facs="#facs_eSc_line_ecd2a76a" xml:id="elem_eSc_line_ecd2a76a"/>ghõno le loro donne chome loro sergenti et loro camariere e nõ fanno gia<lb break="?" facs="#facs_eSc_line_e74af17b" xml:id="elem_eSc_line_e74af17b"/>lordinança della natura. Et çie sonno choloro li quali anno diffetto di ragion<lb break="?" facs="#facs_eSc_line_4548b9c0" xml:id="elem_eSc_line_4548b9c0"/>et dintendimẽto. Donde egli appare bene che il marito non de gia gouernare<graphic type="initiale" facs="992 1820 1091 1853 1100 1952 1007 2062 952 2079 910 1870 992 1820 937 1825 899 1998 958 2146 1059 2041 1074 2016 1081 1981 1140 1965 1096 1822"/><pb n="" facs="../input_files/402.jpg"/><graphic type="initiale" facs="160 1519 208 1569 217 1770 109 1584 160 1519"/><lb break="?" facs="#facs_eSc_line_911616ab" xml:id="elem_eSc_line_911616ab"/>La sua donna in quella maniera che egli ghouerna il suo sergente Ne e nõ<lb break="?" facs="#facs_eSc_line_7e85b1e5" xml:id="elem_eSc_line_7e85b1e5"/>de gia auere tale signioria sopra di lei. ¶La siconda ragione si e che la casa<lb break="?" facs="#facs_eSc_line_b4f7dbab" xml:id="elem_eSc_line_b4f7dbab"/>doue il marito tiene la sua donna cosi chome il suo sergente non e gia per<lb break="?" facs="#facs_eSc_line_c4abd87a" xml:id="elem_eSc_line_c4abd87a"/>fetta ançi a molto di disagio si chome nella casa del pouero huomo che ꝑ cio<lb break="?" facs="#facs_eSc_line_42c5ce81" xml:id="elem_eSc_line_42c5ce81"/>che il pouero huomo nõ puo auere sergente ne abondança di beni che sonno<lb break="?" facs="#facs_eSc_line_66b38c1d" xml:id="elem_eSc_line_66b38c1d"/>nicessari al suo ostello e fa della sua donna cosi come del suo sergente Et tale<lb break="?" facs="#facs_eSc_line_b3bc6b69" xml:id="elem_eSc_line_b3bc6b69"/>casa nõne gia perfetta ¶La Terça ragion si e per che luomo nõ de gia tenere<lb break="?" facs="#facs_eSc_line_7ab61b5c" xml:id="elem_eSc_line_7ab61b5c"/>la sua donna cosi come il suo sergente pero che fra la donna el uomo de auere<lb break="?" facs="#facs_eSc_line_af705c4e" xml:id="elem_eSc_line_af705c4e"/>eghualita E concessa cosa che luomo de essare signiore della donna ꝑ cio che<lb break="?" facs="#facs_eSc_line_b999cac9" xml:id="elem_eSc_line_b999cac9"/>egli de auere ꝑ natura piu di senno et di ragione in se che nella donna Et cħ<lb break="?" facs="#facs_eSc_line_d7eb2375" xml:id="elem_eSc_line_d7eb2375"/>luomo tengha la sua donna chome la sua femina fancella et il suo sergente<lb break="?" facs="#facs_eSc_line_0560a1f6" xml:id="elem_eSc_line_0560a1f6"/>e nõ la de gia tenere cosi. Ançi la de tenere come sua compagnia pero che fra<lb break="?" facs="#facs_eSc_line_86be06f9" xml:id="elem_eSc_line_86be06f9"/>luomo e la dõna non a gia si grande diseghualita come egli a fin il signore et suo<lb break="?" facs="#facs_eSc_line_c176e10c" xml:id="elem_eSc_line_c176e10c"/>l̶o̶ sergente imꝑo che la donna a alchuna cosa in eghualita al suo marito aya<lb break="?" facs="#facs_eSc_line_f564ce3e" xml:id="elem_eSc_line_f564ce3e"/>il sergiente non a ni una eghualita al suo signiore per la qual cosa luomo nõ de<lb break="?" facs="#facs_eSc_line_bd2b5987" xml:id="elem_eSc_line_bd2b5987"/>gia tenere la sua dõna come il suo sergente Ma come la sua compagnia si chome<lb break="?" facs="#facs_eSc_line_2809711a" xml:id="elem_eSc_line_2809711a"/>noi lauiamo prouato per .iii. ragin̶oni diuançi dette.<pb n="" facs="../input_files/411.jpg"/><add type="ajout" place="?" facs="810 2446 822 2541 676 2541 560 2541 575 2441 761 2442 752 2442 713 2449 697 2446 688 2442 666 2442 634 2442 627 2442 602 2452 605 2503 605 2560 796 2563 799 2500 790 2442 761 2442"><lb break="?" facs="#facs_eSc_line_d9a1c460" xml:id="elem_eSc_line_d9a1c460"/>ĩ quellora</add><add type="ajout" place="?" facs="965 1998 948 1938 914 1936 890 1934 897 1989"/><graphic type="initiale" facs="1102 1936 1127 1987 1106 2181 1051 2253 955 2228 951 1961 1010 1927 980 1921 972 2082 959 2235 1072 2207 1042 2127 1045 2127 1048 2127 1064 2118 1067 2114 1083 2111 1125 2095 1125 2076 1118 2025 1116 1923"/><lb break="?" facs="#facs_eSc_line_7352b54a" xml:id="elem_eSc_line_7352b54a"/>Il Capitolo .xxi. Insegnia che li Re elli principi<lb break="?" facs="#facs_eSc_line_229a3593" xml:id="elem_eSc_line_229a3593"/>et ciaschuno altro huomo nõ deghono gia dire li loro segreti alle loro dopne<lb break="?" facs="#facs_eSc_line_0c464568" xml:id="elem_eSc_line_0c464568"/>Oi che noi auemo insegniato che consiglio di donna e di pitchola ualuta<lb break="?" facs="#facs_eSc_line_65bd69a0" xml:id="elem_eSc_line_65bd69a0"/>et e/ isnello e ratto. Noi prouaremo ꝑ .iii. ragioni che luomo non<lb break="?" facs="#facs_eSc_line_2510185f" xml:id="elem_eSc_line_2510185f"/>de gia dire il suo segreto alla sua dõna et che il piu delle dõne nõ posso~<lb break="?" facs="#facs_eSc_line_983fef81" xml:id="elem_eSc_line_983fef81"/>no bene celare cio che luomo lor dice. ¶La Primiera ragiõn si e che quãdo<lb break="?" facs="#facs_eSc_line_962fca8f" xml:id="elem_eSc_line_962fca8f"/>si dice alchuna cosa in segreto ad alchuna persona et che luomo glil uieta<lb break="?" facs="#facs_eSc_line_7184c1e6" xml:id="elem_eSc_line_7184c1e6"/>che nol dicha/ diçio che glie stato uetato luomo il disidera alchuna uolta pui a<lb break="?" facs="#facs_eSc_line_5df0cf92" xml:id="elem_eSc_line_5df0cf92"/>dire/ se ragione nollo ne ritrae ꝑo che ꝑ natura cosa uetata e piu concupita<lb break="?" facs="#facs_eSc_line_a9ad4354" xml:id="elem_eSc_line_a9ad4354"/>a fare o a dire per la uetaçione che glie fatta. Et ꝑ che le donne anno in loro<lb break="?" facs="#facs_eSc_line_243170c0" xml:id="elem_eSc_line_243170c0"/>diffetto di ragione et dintendimẽto naturalmente/ elle nõ possono bene conta~<lb break="?" facs="#facs_eSc_line_2d67d565" xml:id="elem_eSc_line_2d67d565"/>stare alla loro uolonta che elle nõ ridichino çio che luomo loro a detto ĩ segreto<lb break="?" facs="#facs_eSc_line_92f51dce" xml:id="elem_eSc_line_92f51dce"/>et uietato. D̶o̶n̶d̶e̶ chome cose uetate. Per cio che la uetaçione e piu disiderata<lb break="?" facs="#facs_eSc_line_fe766a4e" xml:id="elem_eSc_line_fe766a4e"/>a dire o a fare se luomo nõn a ragione et intendimẽto in se per le qual cose luomo<lb break="?" facs="#facs_eSc_line_dc5e24c7" xml:id="elem_eSc_line_dc5e24c7"/>le lascia. Di tanto sono le donne piu inclynate a fare o a dire çio che e stato<lb break="?" facs="#facs_eSc_line_b9cf1524" xml:id="elem_eSc_line_b9cf1524"/>loro uietato che nõ sono gli uomini chome piu anno meno di senno e di ragio~<lb break="?" facs="#facs_eSc_line_ff0dc38d" xml:id="elem_eSc_line_ff0dc38d"/>ne in loro che gli uomini et tanto meno passono contastare alloro maluagi<lb break="?" facs="#facs_eSc_line_7639b9dc" xml:id="elem_eSc_line_7639b9dc"/>disideri che gli uomini. ¶La seconda ragione si e che la donna ac il chuore<lb break="?" facs="#facs_eSc_line_56b34680" xml:id="elem_eSc_line_56b34680"/>tenaro per natura et per la tenereçça del chuore che ella a chosi tosto che alch-<lb break="?" facs="#facs_eSc_line_dffa615a" xml:id="elem_eSc_line_dffa615a"/>una persona gli ride et mostra bello sembiante la donna crede chella s̶u̶a̶ sia<lb break="?" facs="#facs_eSc_line_5fe8e8d5" xml:id="elem_eSc_line_5fe8e8d5"/>suo mança et che egli sia il suo uagho Per la qual cosa ella gli dice di liggiero<add type="ajout" place="?" facs="2860 857 2860 906 2854 906 2856 857"/><pb n="" facs="../input_files/412.jpg"/><lb break="?" facs="#facs_eSc_line_65c23739" xml:id="elem_eSc_line_65c23739"/>Li segreti del suo chuore o daltrui quando ella gli sa ¶La Terça ragiõn si e cħ<lb break="?" facs="#facs_eSc_line_ef2e9bae" xml:id="elem_eSc_line_ef2e9bae"/>le donne disiderano molto gloria et fama del mondo et per cio cõmunamente le<lb break="?" facs="#facs_eSc_line_277b2e66" xml:id="elem_eSc_line_277b2e66"/>donne dichono gli segreti de gli uomini quando elle el sanno. alle donne le<lb break="?" facs="#facs_eSc_line_136e57ad" xml:id="elem_eSc_line_136e57ad"/>quale elle credono che sono loro amiche per cio chelle credono essarne comendate<lb break="?" facs="#facs_eSc_line_aa5383e3" xml:id="elem_eSc_line_aa5383e3"/>e lodate dall altre donne/ che dapoi chelle sanno li segreti delli loro mariti elle<lb break="?" facs="#facs_eSc_line_66d44260" xml:id="elem_eSc_line_66d44260"/>credono molto essare amate da loro/ et dichonolo ad altrui imꝑeio che elle sono<lb break="?" facs="#facs_eSc_line_5168ae41" xml:id="elem_eSc_line_5168ae41"/>molte liete quando si crede chelle sieno amate dalli loro mariti .¶ Essi de<lb break="?" facs="#facs_eSc_line_10cf3e04" xml:id="elem_eSc_line_10cf3e04"/>sapere che li modi et le maniere che noi auemo detto che le gionnie genti et<lb break="?" facs="#facs_eSc_line_4af4ee54" xml:id="elem_eSc_line_4af4ee54"/>le uecchi et le donne anno naturalmẽte nõ sono gia nicessarie ne força pero<lb break="?" facs="#facs_eSc_line_2bef24d5" xml:id="elem_eSc_line_2bef24d5"/>che egli puo bene essare altrimẽti Et possono le donne et li giouini et li uecchi<lb break="?" facs="#facs_eSc_line_b5ac8f4d" xml:id="elem_eSc_line_b5ac8f4d"/>uinçare le loro naturagli inclynançe dagli modi et dalle maniere diuãçi dette<lb break="?" facs="#facs_eSc_line_06754b26" xml:id="elem_eSc_line_06754b26"/>Che concessa cosa che le donne per natura abbino meno di senno et dintẽ~<lb break="?" facs="#facs_eSc_line_ec795ee0" xml:id="elem_eSc_line_ec795ee0"/>dimento che gli uomini et che sieno naturalimẽte mutabili Pur nõ dimeno<lb break="?" facs="#facs_eSc_line_bab073f6" xml:id="elem_eSc_line_bab073f6"/>elle possono bene auere senno et intendimẽto in loro et essare ferme e stabile<lb break="?" facs="#facs_eSc_line_9defd738" xml:id="elem_eSc_line_9defd738"/>nelle loro ꝓpaste. et passono auere buoni modi et buoni chostumi se elle si uog~<lb break="?" facs="#facs_eSc_line_169e7702" xml:id="elem_eSc_line_169e7702"/>liono intendare et mettare fadigha. Donde egli appare bene che li Re elli prin~<lb break="?" facs="#facs_eSc_line_b27b1eed" xml:id="elem_eSc_line_b27b1eed"/>cipi e gli altri huõmi nõ deghono gia dire loro segreti ne loro pensicri alle lor<lb break="?" facs="#facs_eSc_line_014a572d" xml:id="elem_eSc_line_014a572d"/>donne se nõ gli anno esꝑimentate per longho tempo chelle sieno sauie et sta~<lb break="?" facs="#facs_eSc_line_fd2e36fc" xml:id="elem_eSc_line_fd2e36fc"/>bigli nellor animo et que elle nõ sieno molte gratrice et chelle nõ dichino li<lb break="?" facs="#facs_eSc_line_163e2870" xml:id="elem_eSc_line_163e2870"/>segreti chelle sanno.<graphic type="initiale" facs="319 2444 366 2556 366 2802 332 2948 266 2897 231 2777 248 2599 319 2444"/><graphic type="initiale" facs="313 2058 349 2150 308 2210 257 2118 313 2058"/><graphic type="initiale" facs="321 2367 323 2416 317 2416 317 2367 321 2367"/><pb n="" facs="../input_files/471.jpg"/><lb break="?" facs="#facs_eSc_line_ee538431" xml:id="elem_eSc_line_ee538431"/>L<lb break="?" facs="#facs_eSc_line_a0893379" xml:id="elem_eSc_line_a0893379"/>o xxu.ͤ C.Insegnia che ciaschedimo nõ de gia istabilize nouello leg.<lb break="?" facs="#facs_eSc_line_3c192ebe" xml:id="elem_eSc_line_3c192ebe"/>Publicate aççio che e sia força dobbligare le genti.<lb break="?" facs="#facs_eSc_line_52d6a7d2" xml:id="elem_eSc_line_52d6a7d2"/>E<lb break="?" facs="#facs_eSc_line_0256b224" xml:id="elem_eSc_line_0256b224"/>L .xxui.ͤc. insegnia quante huopare et che leggi li Re et li principe<lb break="?" facs="#facs_eSc_line_c393adf7" xml:id="elem_eSc_line_c393adf7"/>ordinarono deghono contenere.<lb break="?" facs="#facs_eSc_line_c70b93fc" xml:id="elem_eSc_line_c70b93fc"/>E<lb break="?" facs="#facs_eSc_line_ea597579" xml:id="elem_eSc_line_ea597579"/>I .xxuii.ͦ C. insegnia qual uale meglio o che il Reame sia ghouer~<lb break="?" facs="#facs_eSc_line_1ffd7d9e" xml:id="elem_eSc_line_1ffd7d9e"/>nato per uno buono Re. o ꝑ bonissime leggi<lb break="?" facs="#facs_eSc_line_f4a5e6e9" xml:id="elem_eSc_line_f4a5e6e9"/>E<lb break="?" facs="#facs_eSc_line_21317df7" xml:id="elem_eSc_line_21317df7"/>L .xxuiiiͦ C. insegnia che cholla leggie naturale et insienie cholla<lb break="?" facs="#facs_eSc_line_e6b07af7" xml:id="elem_eSc_line_e6b07af7"/>leggie iscripta e comuone auere la lege di dio et la lege del euagelio<lb break="?" facs="#facs_eSc_line_e01fe398" xml:id="elem_eSc_line_e01fe398"/>E<lb break="?" facs="#facs_eSc_line_be53cbfe" xml:id="elem_eSc_line_be53cbfe"/>L xxuiiiiͦ. C. Inẜ. che tanto quanto si puo si de ghuardare le leggi del<lb break="?" facs="#facs_eSc_line_40ca1cee" xml:id="elem_eSc_line_40ca1cee"/>paese et che si de molte porre mete che luouo nõ passi gia le leggi<lb break="?" facs="#facs_eSc_line_7e471523" xml:id="elem_eSc_line_7e471523"/>nelli costumi del paese.<lb break="?" facs="#facs_eSc_line_3a2f00d5" xml:id="elem_eSc_line_3a2f00d5"/>L<lb break="?" facs="#facs_eSc_line_9b268b38" xml:id="elem_eSc_line_9b268b38"/>O xxx .C. inẜ che cosa e citta et che cosa e Reame et che e cõmene<lb break="?" facs="#facs_eSc_line_2b5302db" xml:id="elem_eSc_line_2b5302db"/>che sia il populo il quale e citta et e Reame.<lb break="?" facs="#facs_eSc_line_c7f9ff9d" xml:id="elem_eSc_line_c7f9ff9d"/>E<lb break="?" facs="#facs_eSc_line_61915994" xml:id="elem_eSc_line_61915994"/>L xxxi. C. inẜ. che allora ene la citta bonissima et il Reame bonissi~<lb break="?" facs="#facs_eSc_line_01ea0439" xml:id="elem_eSc_line_01ea0439"/>mo quando e ua persone meççane cioe cõe.<lb break="?" facs="#facs_eSc_line_8c17d983" xml:id="elem_eSc_line_8c17d983"/>L<lb break="?" facs="#facs_eSc_line_cdcaecd6" xml:id="elem_eSc_line_cdcaecd6"/>O xxxii. C inẜ. che eglie grande profitto al populo quando eporta<lb break="?" facs="#facs_eSc_line_0a7b0dec" xml:id="elem_eSc_line_0a7b0dec"/>gran riuerença alli Re et alli principi et che guardano diligente<lb break="?" facs="#facs_eSc_line_1c538054" xml:id="elem_eSc_line_1c538054"/>mente le legi le quali li Re elli principi anno istabilite.<lb break="?" facs="#facs_eSc_line_7234239e" xml:id="elem_eSc_line_7234239e"/>E<lb break="?" facs="#facs_eSc_line_2b628a58" xml:id="elem_eSc_line_2b628a58"/>L xxxiii. C. Inẜ. chome il populo et generalmente tucti choloro che<lb break="?" facs="#facs_eSc_line_5984d61e" xml:id="elem_eSc_line_5984d61e"/>abitano nel Reame si deghono conomentemẽte contenere aççio che li<lb break="?" facs="#facs_eSc_line_0dd66b7f" xml:id="elem_eSc_line_0dd66b7f"/>Re elli principi nõ abbino corruççio et ira chouloro<lb break="?" facs="#facs_eSc_line_3d7a8ed9" xml:id="elem_eSc_line_3d7a8ed9"/>O xxxiiiiͦ. C. Inẜ chome li Re elli principi si deghono contenere agio<lb break="?" facs="#facs_eSc_line_0cc2fed3" xml:id="elem_eSc_line_0cc2fed3"/>che e sieno auiati et temuti di lor populo et insegnia questo .C. che<lb break="?" facs="#facs_eSc_line_e73922b4" xml:id="elem_eSc_line_e73922b4"/>L<lb break="?" facs="#facs_eSc_line_41af1c7f" xml:id="elem_eSc_line_41af1c7f"/>concessa cosa che li Re elli principi si deghono fare amare a lor populo pur<lb break="?" facs="#facs_eSc_line_f56ae165" xml:id="elem_eSc_line_f56ae165"/>nõ dimeno e deghono essare piu amati che temuti Qui comĩçia la si~<lb break="?" facs="#facs_eSc_line_7b4234c5" xml:id="elem_eSc_line_7b4234c5"/>conda parte del terço liro del gouernamento delli re. Lo primo capitͦ<lb break="?" facs="#facs_eSc_line_88e17db7" xml:id="elem_eSc_line_88e17db7"/>Insegnia chome si de gouernare le citta in tempo di guerre o in tẽpo di pace<lb break="?" facs="#facs_eSc_line_79b8eab3" xml:id="elem_eSc_line_79b8eab3"/>Et quante cose side considerare in quello ghouernamento.<lb break="?" facs="#facs_eSc_line_deaf7a99" xml:id="elem_eSc_line_deaf7a99"/>Oi cho noi abiamo rachontato nella prima parte del<lb break="?" facs="#facs_eSc_line_7ec66d08" xml:id="elem_eSc_line_7ec66d08"/>terço libro gli oppinioni del filosofo di ghouernare le citta<lb break="?" facs="#facs_eSc_line_b68d1ab0" xml:id="elem_eSc_line_b68d1ab0"/>Noi direno chome si deghono ghouernare in tempo di<lb break="?" facs="#facs_eSc_line_890aff55" xml:id="elem_eSc_line_890aff55"/>ghuerra et a tempo di pace. Per la qual cosa e side saꝑe<lb break="?" facs="#facs_eSc_line_da40a160" xml:id="elem_eSc_line_da40a160"/>che nel ghouernare le citta in tempo di ghuerra Larme<lb break="?" facs="#facs_eSc_line_a37570b7" xml:id="elem_eSc_line_a37570b7"/>sonno nicessarie chosi chome lo leggi et li costumi li Re~<lb break="?" facs="#facs_eSc_line_d55b5a5c" xml:id="elem_eSc_line_d55b5a5c"/>ami et le citta sonno gouernate in tẽpo di pace Tuctaltresi a tẽpo<lb break="?" facs="#facs_eSc_line_514b8e50" xml:id="elem_eSc_line_514b8e50"/>di ghuerra si deghono difendare et ghouernare per ben combattere<lb break="?" facs="#facs_eSc_line_05aa2f20" xml:id="elem_eSc_line_05aa2f20"/>et ꝓ buone armi. Et e da sapere che noi potiamo prouare ꝑ .ii.<lb break="?" facs="#facs_eSc_line_76d3f89d" xml:id="elem_eSc_line_76d3f89d"/>ragioni che a ghouernare le citta a tempo di pace e si de considerare<lb break="?" facs="#facs_eSc_line_dd719749" xml:id="elem_eSc_line_dd719749"/>.iiii. cose ciac da sapere il prencipe li consiglieri li giudici et il populo.<lb break="?" facs="#facs_eSc_line_61441592" xml:id="elem_eSc_line_61441592"/>La primiera ragiõn si e che aççio che si possa ben ghouernare le citta per<lb break="?" facs="#facs_eSc_line_a50efc30" xml:id="elem_eSc_line_a50efc30"/>le leggi sieno sauiamente trouate et çio deghono fareli consiglieri delli<lb break="?" facs="#facs_eSc_line_ce7d722e" xml:id="elem_eSc_line_ce7d722e"/>et delli principi pero che esamene che li Re et li principi abino tali con~<graphic type="initiale" facs="924 2120 938 2741 1142 2688 1158 2554 1450 2414 1426 2166 1142 2120 1397 2470 1455 2435 1435 2382 1435 2299 1354 2145 958 2106 990 2494 1007 2759 1144 2708 1120 2548 1123 2548 1127 2548 1127 2545 1146 2526 1171 2494 1244 2494 1263 2510 1269 2513 1269 2517 1273 2517 1276 2517 1279 2517 1282 2517 1377 2491 1377 2479 1411 2494 1402 2487"/><pb n="" facs="../input_files/472.jpg"/><lb break="?" facs="#facs_eSc_line_47daf416" xml:id="elem_eSc_line_47daf416"/>siglieri che sapino et possino trouare lege conueneuogli le quali il populo<lb break="?" facs="#facs_eSc_line_5593dca2" xml:id="elem_eSc_line_5593dca2"/>de ghuardare Et apresso e comõne che le legi sieno bene ghuardate et çio<lb break="?" facs="#facs_eSc_line_8ffefacd" xml:id="elem_eSc_line_8ffefacd"/>de ben fare il prencipe pero che il prencipe de ghuardare le legi conuene~<lb break="?" facs="#facs_eSc_line_ccb31bde" xml:id="elem_eSc_line_ccb31bde"/>uogli ragioneuogli et ghordinamẽti conueneuogli per la força et per<lb break="?" facs="#facs_eSc_line_d2762ef4" xml:id="elem_eSc_line_d2762ef4"/>lo potere che egli a ¶ La siconda cosa che cõuiene sie per le legi che li cõ~<lb break="?" facs="#facs_eSc_line_2865ccec" xml:id="elem_eSc_line_2865ccec"/>sigliori anno trouati et che sonno oseruate ꝑ lo prencipe li giudici giudicano<lb break="?" facs="#facs_eSc_line_8261fe3f" xml:id="elem_eSc_line_8261fe3f"/>luopare et li fatti delle genti che sonno sotto al prencipe. ¶La Terça cosa<lb break="?" facs="#facs_eSc_line_24d55443" xml:id="elem_eSc_line_24d55443"/>si e che si ubidischa bene alle legi a ghordinamenti et cio de fare il popolo. Don~<lb break="?" facs="#facs_eSc_line_46d35455" xml:id="elem_eSc_line_46d35455"/>de se luomo considerasse le .iiii. cose le quali si conuenghono guardare aççio<lb break="?" facs="#facs_eSc_line_7fd15d64" xml:id="elem_eSc_line_7fd15d64"/>che le legi et le cicta sieno bene gouernate in tempo di pace. Cholui il quale<lb break="?" facs="#facs_eSc_line_a8b461a0" xml:id="elem_eSc_line_a8b461a0"/>uole parlare del gouernamẽto delle citta e de parlare delle .iiii. cose diuãçi<lb break="?" facs="#facs_eSc_line_5c14f5a5" xml:id="elem_eSc_line_5c14f5a5"/>dette. Cioc a sapere del prencipe del suo consiglio che e de essare diricto giu~<lb break="?" facs="#facs_eSc_line_63504631" xml:id="elem_eSc_line_63504631"/>dicatore/ et del suo poplo. ¶La Quarta cosa si e che tuctaltresi chome il<lb break="?" facs="#facs_eSc_line_ebf3cdd9" xml:id="elem_eSc_line_ebf3cdd9"/>fisico attende principalmente a fare la sanita del corpo. Tuctaltresi il pren~<lb break="?" facs="#facs_eSc_line_2ba8e0a3" xml:id="elem_eSc_line_2ba8e0a3"/>cipe de attendare principalmẽte che il poplo abbi la sua ragiõn et cio cħ<lb break="?" facs="#facs_eSc_line_24e390f7" xml:id="elem_eSc_line_24e390f7"/>glie profitabile imꝑcio che le legi comandano affare tucta ragiõn et uietano<lb break="?" facs="#facs_eSc_line_909f627b" xml:id="elem_eSc_line_909f627b"/>affare tucte ingiurie et tucte uillanie per la qual cosa colui il quale uuole<lb break="?" facs="#facs_eSc_line_6b1ea664" xml:id="elem_eSc_line_6b1ea664"/>insegniare chome si de ghouernare le citta in tempo di pace E de inseg~<lb break="?" facs="#facs_eSc_line_2eceba22" xml:id="elem_eSc_line_2eceba22"/>niare qual de essare il consigliero et li giudici che giudicano che cosa e ragiõn<lb break="?" facs="#facs_eSc_line_6fe94d9c" xml:id="elem_eSc_line_6fe94d9c"/>Et de dire qual de essare il poplo il quale per le legi et per ghordinamenti<lb break="?" facs="#facs_eSc_line_388de04a" xml:id="elem_eSc_line_388de04a"/>de essare recto et ghouernato. Donde da queste .iiii. cose di sopra narrate<lb break="?" facs="#facs_eSc_line_545fe448" xml:id="elem_eSc_line_545fe448"/>noi ne diremo in questa siconda parte di questo terço liro. Ma noi direno<lb break="?" facs="#facs_eSc_line_949f041b" xml:id="elem_eSc_line_949f041b"/>primieramẽte del prencipe. Il siconda. C. Insegnia quante maniere sonno<lb break="?" facs="#facs_eSc_line_4cee82f3" xml:id="elem_eSc_line_4cee82f3"/>di signiorie et le qual sonno buone et le qual sonno maluase<lb break="?" facs="#facs_eSc_line_61be832e" xml:id="elem_eSc_line_61be832e"/>L filosofo nel terço liro della pollitica diuide .ui. maniere di signiorie<lb break="?" facs="#facs_eSc_line_b251201a" xml:id="elem_eSc_line_b251201a"/>delle quagli le .iii. sonno buone. et laltre sonno ghattiue pero che se<lb break="?" facs="#facs_eSc_line_ae1180f2" xml:id="elem_eSc_line_ae1180f2"/>in una citta o in una terra o in pui pacsi o in cittade a. uno signiore<lb break="?" facs="#facs_eSc_line_2e9f612a" xml:id="elem_eSc_line_2e9f612a"/>et che intenda principalmẽte se tanto solamente et quel signiore a fare<lb break="?" facs="#facs_eSc_line_0ae84192" xml:id="elem_eSc_line_0ae84192"/>lutile cõmuno tale signioria e buona et diricta Et quella signioria il filoso~<lb break="?" facs="#facs_eSc_line_2812e0c6" xml:id="elem_eSc_line_2812e0c6"/>fo la chiama signioria di Re. pero che il diricto Re de attendare al bene com~<lb break="?" facs="#facs_eSc_line_b06cd30a" xml:id="elem_eSc_line_b06cd30a"/>muno et se il signiore il quale e signioristie tucto solo nella terra et nelle<lb break="?" facs="#facs_eSc_line_a59e70fb" xml:id="elem_eSc_line_a59e70fb"/>citta e nõ attende gia principalmẽte al fare il profitto del cõmune Ançi attẽde<lb break="?" facs="#facs_eSc_line_4e0e2de4" xml:id="elem_eSc_line_4e0e2de4"/>principalmẽte al suo propio profitto tal signioria none gia buona ançi la<lb break="?" facs="#facs_eSc_line_0d8d1942" xml:id="elem_eSc_line_0d8d1942"/>chiama il filosofo signioria di tyrãpno. Et dice il filosofo che se le citta nõ<lb break="?" facs="#facs_eSc_line_509204d3" xml:id="elem_eSc_line_509204d3"/>anno gia solamente uno signiore. ançi uẽna pui ⁊ pui. Et se di piui sigͦri<lb break="?" facs="#facs_eSc_line_95b1da1f" xml:id="elem_eSc_line_95b1da1f"/>sonno buoni et diricti et attendono principalmẽte al profitto del poplo<lb break="?" facs="#facs_eSc_line_a6038147" xml:id="elem_eSc_line_a6038147"/>tale signioria e buona et chiamala il filosofo signioria di barone e/ di rag~<lb break="?" facs="#facs_eSc_line_63bb74ec" xml:id="elem_eSc_line_63bb74ec"/>ione. Si chome noi auiamo ueduto nella citta di Roma che quando e mo~<lb break="?" facs="#facs_eSc_line_259e2bc2" xml:id="elem_eSc_line_259e2bc2"/>riua uno degli Sanatori essi eligenano .xii. huomini sani et approuati<lb break="?" facs="#facs_eSc_line_24209b9b" xml:id="elem_eSc_line_24209b9b"/>⁊ di buona fama li quali li Romani gli chiamauano buoni huomini Et<lb break="?" facs="#facs_eSc_line_955c3dab" xml:id="elem_eSc_line_955c3dab"/>quesa .xii. ghouernauano tucta la citta. E diuisano si li beni et li mali li<lb break="?" facs="#facs_eSc_line_e8270418" xml:id="elem_eSc_line_e8270418"/>quali lor erano fatti sicondo la diuersita delle signiorie ꝑo che si diceua che<lb break="?" facs="#facs_eSc_line_fac6a7f0" xml:id="elem_eSc_line_fac6a7f0"/>alchimie malicie erano scate fatte al tempo delli .xii. buoni huomini. Et<lb break="?" facs="#facs_eSc_line_76040b5b" xml:id="elem_eSc_line_76040b5b"/>disse il filosofo che quisti pui signori nõ attendeuano se none alloro propio<pb n="" facs="../input_files/495.jpg"/><graphic type="initiale" facs="1002 1746 1002 1971 1164 1971 1164 1746 1028 1965 1108 1949 1124 1930 1127 1930 1140 1898 1164 1752 994 1751 1009 1906"/><lb break="?" facs="#facs_eSc_line_f4cc5d38" xml:id="elem_eSc_line_f4cc5d38"/>e condannaranno di ligiero luna delle parti per un pocho di sospiçione se el ue~<lb break="?" facs="#facs_eSc_line_be02ba00" xml:id="elem_eSc_line_be02ba00"/>ghono in lei Per la qual cosa aççio che il giudicamento sia buono et ragio~<lb break="?" facs="#facs_eSc_line_5f2b2526" xml:id="elem_eSc_line_5f2b2526"/>neuolo ⁊ couiene alli giudici auere le .iiii. cose diuançi dette. ¶Primie~<lb break="?" facs="#facs_eSc_line_adc4b3ee" xml:id="elem_eSc_line_adc4b3ee"/>ramente e conuiene che egli abino potençia et auctorita di giudicare Et<lb break="?" facs="#facs_eSc_line_0f63da45" xml:id="elem_eSc_line_0f63da45"/>che sapino le legi et li costumi et che egli amino ragione et giustiçia Et cħ<lb break="?" facs="#facs_eSc_line_5a117d59" xml:id="elem_eSc_line_5a117d59"/>egli abino isꝑimentato molte huopare et fatti humani. Et tuctaltresi co~<lb break="?" facs="#facs_eSc_line_54e2829c" xml:id="elem_eSc_line_54e2829c"/>me noi uegiamo che uno huomo il quale molto a isꝑimentato delle malatie<lb break="?" facs="#facs_eSc_line_e709a915" xml:id="elem_eSc_line_e709a915"/>et aue lauorato in molte malatie E lauora molto meglio et guarisçie i.ͣ<lb break="?" facs="#facs_eSc_line_623da147" xml:id="elem_eSc_line_623da147"/>malatia che nõ fa uno grande licterato il quale a larte et la sciençia di medi-<lb break="?" facs="#facs_eSc_line_49e2ef42" xml:id="elem_eSc_line_49e2ef42"/>cina. Tucto cosi e egli ne giudicii Imꝑcio che choloro che anno isꝑimẽtati<lb break="?" facs="#facs_eSc_line_92d189f4" xml:id="elem_eSc_line_92d189f4"/>molti fatti et huopare humane. Donde egli appar bene che giudici et che<lb break="?" facs="#facs_eSc_line_ef6a426b" xml:id="elem_eSc_line_ef6a426b"/>prochuratori delle cause li Re et li principi deghono auere. et pigliare po~<lb break="?" facs="#facs_eSc_line_b11bdab9" xml:id="elem_eSc_line_b11bdab9"/>che e deghono pigliare giuidici che sieno humili aççio che e nõ destendino<lb break="?" facs="#facs_eSc_line_760368dd" xml:id="elem_eSc_line_760368dd"/>gia loro potere et lor auctorita piu che e nõ deghono. Et cõuiene cħ e sie~<lb break="?" facs="#facs_eSc_line_976dd708" xml:id="elem_eSc_line_976dd708"/>no sani nelle legi et nelli costumi et che le sapino apropiare alli casi che a~<lb break="?" facs="#facs_eSc_line_a5b4a22d" xml:id="elem_eSc_line_a5b4a22d"/>uenghono di giorno ĩ giorno. Et cõuiene che egliamino ragiõn aççio cħ<lb break="?" facs="#facs_eSc_line_758d5664" xml:id="elem_eSc_line_758d5664"/>e nõn giudichino gia per amore ne per odio delle parti Ançi faççino loro<lb break="?" facs="#facs_eSc_line_af906426" xml:id="elem_eSc_line_af906426"/>sentençie per lamore di ragiõn et di giustiçia Et cõuiene che egli abino<lb break="?" facs="#facs_eSc_line_298db0f6" xml:id="elem_eSc_line_298db0f6"/>isperimentato di molte huopare et di molti fatti humani ꝑ meglio inuesti~<lb break="?" facs="#facs_eSc_line_13a3dd1d" xml:id="elem_eSc_line_13a3dd1d"/>gare et meglio giudicare le cause donde e si deghono autro mettere. Il xxi. ca~<lb break="?" facs="#facs_eSc_line_42ea372e" xml:id="elem_eSc_line_42ea372e"/>pitolo insegnia Quante cose et alle quagli e cõuiene che li giudici mirino<lb break="?" facs="#facs_eSc_line_ba250454" xml:id="elem_eSc_line_ba250454"/>aççio che e perdonino et che e sieno pui benigni che crudegli.<lb break="?" facs="#facs_eSc_line_144d547d" xml:id="elem_eSc_line_144d547d"/>L filosofo nel primo di Retoricha dice che .x. cose sonno alle quali li giu~<lb break="?" facs="#facs_eSc_line_ddee8106" xml:id="elem_eSc_line_ddee8106"/>dici deghono considerare per perdõnare a luopare humane Et pruouano<lb break="?" facs="#facs_eSc_line_16aafac5" xml:id="elem_eSc_line_16aafac5"/>queste .x. cose che li giudici deghono essare pui tosto piatosi cħ crudegli<lb break="?" facs="#facs_eSc_line_9ee1517a" xml:id="elem_eSc_line_9ee1517a"/>¶La primiera cosa sie la debileçça della natura humana ꝑo che la na~<lb break="?" facs="#facs_eSc_line_bcc07003" xml:id="elem_eSc_line_bcc07003"/>tura del uomo il quale e debile et mutabile et nichina a malfare de muo~<lb break="?" facs="#facs_eSc_line_4810d583" xml:id="elem_eSc_line_4810d583"/>uare il giudice adauere pieta di cholui che mal fa. ¶La siconda cosa la<lb break="?" facs="#facs_eSc_line_638d2be2" xml:id="elem_eSc_line_638d2be2"/>quale inclina lo giudice a pieta inuerso cholui che a mal facto sie lo Re o il prĩ~<lb break="?" facs="#facs_eSc_line_4fcc4cae" xml:id="elem_eSc_line_4fcc4cae"/>cipe che istabili le legi ꝑo che il giudice de pensare che se il prencipe il qua~<lb break="?" facs="#facs_eSc_line_c3e84536" xml:id="elem_eSc_line_c3e84536"/>le istabili le legi riguardasse le condicioni di colui che fa male Et rattarche<lb break="?" facs="#facs_eSc_line_b73cc7f0" xml:id="elem_eSc_line_b73cc7f0"/>cholui che fa male prudentemẽte ¶La Terra cosa sie quando il giudice<lb break="?" facs="#facs_eSc_line_bb9db252" xml:id="elem_eSc_line_bb9db252"/>intende bene legi ꝑo che le legi per ispauentare li malfattori contengho<lb break="?" facs="#facs_eSc_line_4c3193e2" xml:id="elem_eSc_line_4c3193e2"/>no gran crudelta sicondo çio che egli appoire per le parole delle legi Ma quã~<lb break="?" facs="#facs_eSc_line_1a7221f8" xml:id="elem_eSc_line_1a7221f8"/>do il giudice a. lontendimẽto de la lege buono et sofficente et piatoso<lb break="?" facs="#facs_eSc_line_581b8633" xml:id="elem_eSc_line_581b8633"/>egli a pitisçe et diminuisçe la pena et il tormẽto sicondo ragiõn che le legi<lb break="?" facs="#facs_eSc_line_0ba0c3ef" xml:id="elem_eSc_line_0ba0c3ef"/>dichono che si faççia a cholui che a malfatto. Donde il filosofo dice che<lb break="?" facs="#facs_eSc_line_47edc6d8" xml:id="elem_eSc_line_47edc6d8"/>choloro che giudicano nõ deghono gia guardare alle parole delle legi Ma<lb break="?" facs="#facs_eSc_line_cfc3d84e" xml:id="elem_eSc_line_cfc3d84e"/>e deghono guardare a lentendimento delle legi. ¶ La Quarta cosa cħ<lb break="?" facs="#facs_eSc_line_1d474c89" xml:id="elem_eSc_line_1d474c89"/>de muouare il giudice a pieta sie lautencione di cholui che mal fa pero<lb break="?" facs="#facs_eSc_line_6f594463" xml:id="elem_eSc_line_6f594463"/>che concessa cosa che alchuno sia accusato dalchuna maluagia huopera<lb break="?" facs="#facs_eSc_line_797f5d50" xml:id="elem_eSc_line_797f5d50"/>Pur nõ di meno ꝑ auentura e nõn ebbe male intençione al fare o se egl~<lb break="?" facs="#facs_eSc_line_f65ef2f4" xml:id="elem_eSc_line_f65ef2f4"/>i ebbe maluagia intençione per auentura e nõ lebbe gia si maluagia<lb break="?" facs="#facs_eSc_line_3b83a736" xml:id="elem_eSc_line_3b83a736"/>chome luopera la dimostra. Donde se il giudice puo percepere che colui<pb n="" facs="../input_files/496.jpg"/><lb break="?" facs="#facs_eSc_line_40c5ef70" xml:id="elem_eSc_line_40c5ef70"/>che a fatto male nõ labbi gia fatto per male intençione di farlo o se egli ebbe<lb break="?" facs="#facs_eSc_line_7fd12c81" xml:id="elem_eSc_line_7fd12c81"/>maluasa intenciõn forse e nõ lebbe gia si maluagia chome luopera il dimostra<lb break="?" facs="#facs_eSc_line_69551760" xml:id="elem_eSc_line_69551760"/>Adonche se il guidice puo cogniescere che cholui che a fatto il male e noñ abi~<lb break="?" facs="#facs_eSc_line_ed8a9594" xml:id="elem_eSc_line_ed8a9594"/>gia fatto male di sua intenciõn ançi ⁊ a fatto male ꝑ igniorança o per sch<lb break="?" facs="#facs_eSc_line_914496dc" xml:id="elem_eSc_line_914496dc"/>sçiaglioira e si de incliniare a pieta inuerso di cholui che a malfatto ¶Li<lb break="?" facs="#facs_eSc_line_1cbaf6ae" xml:id="elem_eSc_line_1cbaf6ae"/>Quinta cosa sie le buone huopare cho cholui a fatte pero che concessa cosa<lb break="?" facs="#facs_eSc_line_5ad5a111" xml:id="elem_eSc_line_5ad5a111"/>che alchuno huomo sia accusato dalchuno malificio pur nõ di meno e puo<lb break="?" facs="#facs_eSc_line_ef3055f9" xml:id="elem_eSc_line_ef3055f9"/>auere facto mançi di molte buone huopare. Et çio nõ de gia il giudice sola~<lb break="?" facs="#facs_eSc_line_a687f4b9" xml:id="elem_eSc_line_a687f4b9"/>mente guardare al malifiçio che eglia facto. Ançi de considerare a molte<lb break="?" facs="#facs_eSc_line_4149f2bb" xml:id="elem_eSc_line_4149f2bb"/>buone huopare se eglia fatte diuançi per la qual cosa e side auere pieta<lb break="?" facs="#facs_eSc_line_d25749bf" xml:id="elem_eSc_line_d25749bf"/>et misericordia di lui. ¶La .ui cosa sie quando cholui che a malfatto a seruito<lb break="?" facs="#facs_eSc_line_8ebee9e8" xml:id="elem_eSc_line_8ebee9e8"/>molto longho tempo al signiore per la qual cosa se egli amene che alchuno<lb break="?" facs="#facs_eSc_line_429d86f9" xml:id="elem_eSc_line_429d86f9"/>delli suggietti ad alchuno signiore il quale por molto lungho tempo gli abbi ben<lb break="?" facs="#facs_eSc_line_5869098f" xml:id="elem_eSc_line_5869098f"/>fatto et che labbi ben seruito faççia alchuno malificio in alchuno tempo Il sig~<lb break="?" facs="#facs_eSc_line_b87fb318" xml:id="elem_eSc_line_b87fb318"/>niore sil de tractare pietosamente et discretamẽte et auere misericordia di lui<lb break="?" facs="#facs_eSc_line_132bbb95" xml:id="elem_eSc_line_132bbb95"/>Donde il filosofo dice che il signiore nõ de gia mirar solamẽte quale e cholui<lb break="?" facs="#facs_eSc_line_e3ea8eba" xml:id="elem_eSc_line_e3ea8eba"/>che glie accusato. Ançi de mirare quale egli e stato sempre ¶La .uii. cosa sie<lb break="?" facs="#facs_eSc_line_1cfb8d5f" xml:id="elem_eSc_line_1cfb8d5f"/>che luomo si de pui ricordare di beni et delle cortesie che luomo a riceuuto dal~<lb break="?" facs="#facs_eSc_line_bf290652" xml:id="elem_eSc_line_bf290652"/>chuna persona che e nõ si da delli mali et del ingiurie che eglia fatto. Donde<lb break="?" facs="#facs_eSc_line_6e043fbf" xml:id="elem_eSc_line_6e043fbf"/>giulio cesar era molto da cõmendare sichome si dice imꝑo che egli nõn a~<lb break="?" facs="#facs_eSc_line_614ec57d" xml:id="elem_eSc_line_614ec57d"/>uena gia in memoria lingiurie et le uillanie che luomo li faççona ançi le dis~<lb break="?" facs="#facs_eSc_line_1ab37f9b" xml:id="elem_eSc_line_1ab37f9b"/>mentichaua per la quał cosa se egliauiene che uno faççia male et ingiuria<lb break="?" facs="#facs_eSc_line_261b36ff" xml:id="elem_eSc_line_261b36ff"/>a un altro al quale egli a fatto molti beni et cortesie. Colui si de pui ricordare<lb break="?" facs="#facs_eSc_line_0026cfee" xml:id="elem_eSc_line_0026cfee"/>del bene et delle cortesie che eglia anno da lui che e nõ de del male et del ingiu~<lb break="?" facs="#facs_eSc_line_ac72ae5d" xml:id="elem_eSc_line_ac72ae5d"/>rie che cholui gli a fatto. Et cio deghono bene considerare choloro che giudica<lb break="?" facs="#facs_eSc_line_c63fc62c" xml:id="elem_eSc_line_c63fc62c"/>no loro malificii. ¶Lottaua cosa si e quando cholui che a accusato a in se pa-<lb break="?" facs="#facs_eSc_line_533d7f99" xml:id="elem_eSc_line_533d7f99"/>ciençia. che se alchuno ene accusato dalchuno malifiçio per lo quale se e porta<lb break="?" facs="#facs_eSc_line_d2273c06" xml:id="elem_eSc_line_d2273c06"/>la pena et la punition in paciençia et nõ murmura gia in contra al giudice<lb break="?" facs="#facs_eSc_line_43c0739a" xml:id="elem_eSc_line_43c0739a"/>Ne nõ parla gia de la pena che egli li fa soffrire il giudice de auere pieta et<lb break="?" facs="#facs_eSc_line_126cabb6" xml:id="elem_eSc_line_126cabb6"/>misericordia di lui. ¶La .uiiii cosa si e quando cholui che famalifiçio sene<lb break="?" facs="#facs_eSc_line_bc01524e" xml:id="elem_eSc_line_bc01524e"/>uuole mendare Imꝑo che alchuni sonno si credibili et si damaestrare che per<lb break="?" facs="#facs_eSc_line_61ab3b8c" xml:id="elem_eSc_line_61ab3b8c"/>parola fosolamentẽ quando e sonno biafimati et ripresi de lor malfare e sa<lb break="?" facs="#facs_eSc_line_2472acdc" xml:id="elem_eSc_line_2472acdc"/>mendono et correghono et runanghonsi del mal fare. Et di tal genti~<lb break="?" facs="#facs_eSc_line_0c801cf3" xml:id="elem_eSc_line_0c801cf3"/>si de auere pieta et misericordia et deghonsi tractare dolçemente et pietosa~<lb break="?" facs="#facs_eSc_line_6059b9d1" xml:id="elem_eSc_line_6059b9d1"/>mente ¶La .x. cosa che de inclinare lo giudice ad auere pieta ⁊ miseri~<lb break="?" facs="#facs_eSc_line_cb2bf0b5" xml:id="elem_eSc_line_cb2bf0b5"/>cordia di cholui che mal a fatto et la subiection et humilita di colui che mal fa<lb break="?" facs="#facs_eSc_line_3c90c616" xml:id="elem_eSc_line_3c90c616"/>et che sumilia del tucto et mettesi del tucto nel arbitrio et nella uolonta<lb break="?" facs="#facs_eSc_line_d8180c16" xml:id="elem_eSc_line_d8180c16"/>del giudice E si de tractare pui pietosamẽte pero che cholui che fa contra<lb break="?" facs="#facs_eSc_line_6a9fbd80" xml:id="elem_eSc_line_6a9fbd80"/>ragiõn il quale nõ comporta in alchuna maniera colui il quale del tucto<lb break="?" facs="#facs_eSc_line_5938498f" xml:id="elem_eSc_line_5938498f"/>sumilia a lui Pero che noi uegiamo che le bescie il fanno pero che li cani<lb break="?" facs="#facs_eSc_line_d0f8506f" xml:id="elem_eSc_line_d0f8506f"/>nõ mordano gia. ne nõ fanno male a choloro che sa humiliano a loro et<lb break="?" facs="#facs_eSc_line_d2caccd9" xml:id="elem_eSc_line_d2caccd9"/>che si cholchano a terra diuãçi loro. Et cio dice il filosofo nel sicondo liro di<lb break="?" facs="#facs_eSc_line_3e694f40" xml:id="elem_eSc_line_3e694f40"/>retoricha che li cani che nõ mordano gia choloro che si cholchano et che si<lb break="?" facs="#facs_eSc_line_5b7da6bc" xml:id="elem_eSc_line_5b7da6bc"/>ponghono a sedere diuançi loro pruouano che lumilita de pacificare lira<lb break="?" facs="#facs_eSc_line_7206b687" xml:id="elem_eSc_line_7206b687"/>et il corruççio del uomo. Donde egli appar bene che li giudici deghono bene<lb break="?" facs="#facs_eSc_line_b80931f6" xml:id="elem_eSc_line_b80931f6"/>essare pui benigni et p̶i̶e̶t̶a̶s̶ piatosi che crudegli. Et se li giudici deghono<lb break="?" facs="#facs_eSc_line_1757d4e9" xml:id="elem_eSc_line_1757d4e9"/>95<pb n="" facs="../input_files/497.jpg"/><cb break="?"/><lb break="?" facs="#facs_eSc_line_8a071140" xml:id="elem_eSc_line_8a071140"/>essare tagli chome noi auiamo detto molto pui deghono essare li Re elli prĩ~<lb break="?" facs="#facs_eSc_line_642f9545" xml:id="elem_eSc_line_642f9545"/>cipi piatosi che nullaltro pero che e deghono auere magior bontia che ue~<lb break="?" facs="#facs_eSc_line_a0ed975b" xml:id="elem_eSc_line_a0ed975b"/>runo altro per la qual cosa e deghono essare piatosi et benigni nõ gia per<lb break="?" facs="#facs_eSc_line_92f3834b" xml:id="elem_eSc_line_92f3834b"/>lasciare a fare ragiõn et giustiçie pero che sença giustiçia la pace del Reame<lb break="?" facs="#facs_eSc_line_156d82aa" xml:id="elem_eSc_line_156d82aa"/>et il buono istato del popolo nõ puo durare. Ma per saluare il ben chomuno<lb break="?" facs="#facs_eSc_line_06c54114" xml:id="elem_eSc_line_06c54114"/>et il bene del Reame li Re si deghono inclinare sicondo çio che e possono di pie~<lb break="?" facs="#facs_eSc_line_279bd3f7" xml:id="elem_eSc_line_279bd3f7"/>ta et a misericordia. Noi prouaromo qui apresso chome li Re et li principi<lb break="?" facs="#facs_eSc_line_95a92919" xml:id="elem_eSc_line_95a92919"/>possono essare insieme piatosi et giusti.. Il xxii. Capitolo insegnia che e<lb break="?" facs="#facs_eSc_line_5fa913df" xml:id="elem_eSc_line_5fa913df"/>sonno diuerse maniere di legi et diuerse maniere di ragioni et che<lb break="?" facs="#facs_eSc_line_9ae8debd" xml:id="elem_eSc_line_9ae8debd"/>dalla ragioñ naturale et dalla ragioñ iscuta tucte laltre ragioni sonno<lb break="?" facs="#facs_eSc_line_cf77e4e7" xml:id="elem_eSc_line_cf77e4e7"/>ritratte.<lb break="?" facs="#facs_eSc_line_35434fe2" xml:id="elem_eSc_line_35434fe2"/>L Filosofo nel liro di politica dice che le legi sonno cosi chome una diric~<lb break="?" facs="#facs_eSc_line_1db48fdd" xml:id="elem_eSc_line_1db48fdd"/>ta regliola per la quale legi noi siamo regholati e adriççiati nelle nostre<lb break="?" facs="#facs_eSc_line_b46f100f" xml:id="elem_eSc_line_b46f100f"/>huopare humane et qual cosa e ragioncuola et qual cosa e contra rag~<lb break="?" facs="#facs_eSc_line_2d137f2b" xml:id="elem_eSc_line_2d137f2b"/>ione Per la qual cosa esi de sapere che eglie una legie ragioncuola la q-<lb break="?" facs="#facs_eSc_line_30cf90ce" xml:id="elem_eSc_line_30cf90ce"/>uale si chiama lege cõmuna et ragione naturale un altra lege e che si chiama<lb break="?" facs="#facs_eSc_line_928e18bf" xml:id="elem_eSc_line_928e18bf"/>lege istabilita per la uolonta sichome del Re et del prẽcipe Et di tucto il popo~<lb break="?" facs="#facs_eSc_line_9af96427" xml:id="elem_eSc_line_9af96427"/>lo. Et douemo sapere che le cose sonno ragioneuogli naturalmẽte ꝑo che ra~<lb break="?" facs="#facs_eSc_line_30dd9761" xml:id="elem_eSc_line_30dd9761"/>gioñ naturale. insegnia donde si dice che ragiõn et la lege naturale anno una<lb break="?" facs="#facs_eSc_line_b1fd7de3" xml:id="elem_eSc_line_b1fd7de3"/>medesima uirtu et una medesima potençia in ogni parte Pouiamo che elle si e<lb break="?" facs="#facs_eSc_line_bd238201" xml:id="elem_eSc_line_bd238201"/>no nominate per diuersi nomi in diuerse terre si chome noi uediamo che la cosa<lb break="?" facs="#facs_eSc_line_41a292fe" xml:id="elem_eSc_line_41a292fe"/>la quale e fuocho in françia e fuocho in puglia. Non ostante che e sia nomina~<lb break="?" facs="#facs_eSc_line_6bd4580c" xml:id="elem_eSc_line_6bd4580c"/>to altrimenti in puglia che in francia. Ma alchune cose sonno ragioneuogli le<lb break="?" facs="#facs_eSc_line_8e8f1ac8" xml:id="elem_eSc_line_8e8f1ac8"/>quali nõ sonno gia ragioneuogli per natura Ançi sonno ragioneuoli ꝑ le cõ~<lb break="?" facs="#facs_eSc_line_88fe34ef" xml:id="elem_eSc_line_88fe34ef"/>uenençie et per ghordinamenti della gente. Et tal ragioni nõ sonno gia tucte<lb break="?" facs="#facs_eSc_line_eaa1b203" xml:id="elem_eSc_line_eaa1b203"/>una in ogni parte Pero che li scatuti de popoli et le cõnueniençe delle genti<lb break="?" facs="#facs_eSc_line_c22344d8" xml:id="elem_eSc_line_c22344d8"/>et li banni delli re o delli principi sonno diuersi in diuerse terre. Noi douemo<lb break="?" facs="#facs_eSc_line_9be89ec8" xml:id="elem_eSc_line_9be89ec8"/>sapere diligentemẽte che se si domanda per che cosa e conuene alla ragione<lb break="?" facs="#facs_eSc_line_e78632c0" xml:id="elem_eSc_line_e78632c0"/>naturale et alla lege di natura agiungiare la lege et la ragiõn istabilita per<lb break="?" facs="#facs_eSc_line_5e8abc1b" xml:id="elem_eSc_line_5e8abc1b"/>la uolonta et ꝑ lo consentimẽto delle genti. Noi rispondaremo a cio et direno<lb break="?" facs="#facs_eSc_line_8e65fecd" xml:id="elem_eSc_line_8e65fecd"/>che molte cose sonno cosi ragioneuogli per natura chome egli e natural cosa<lb break="?" facs="#facs_eSc_line_a7ec478b" xml:id="elem_eSc_line_a7ec478b"/>a luomo che e par li pero che noi uediamo che luomo sinclina per sua natura a<lb break="?" facs="#facs_eSc_line_ef30230d" xml:id="elem_eSc_line_ef30230d"/>parlare aççio che egli i̶l̶ possa manifestare altrui çio che eglia nel suo pensiero<lb break="?" facs="#facs_eSc_line_4deae3cb" xml:id="elem_eSc_line_4deae3cb"/>et nel suo intendimiento. Ma che luomo parla questo linguagio o .i. altro e̾ nõ<lb break="?" facs="#facs_eSc_line_d98e8e68" xml:id="elem_eSc_line_d98e8e68"/>la gia da natura. Ançi la per imparare et per sua uolonta. Donde tuctaltresi<lb break="?" facs="#facs_eSc_line_2d2051a6" xml:id="elem_eSc_line_2d2051a6"/>chome luomo de parlare per natura Ma che e parli pui uno linguagio cħ<lb break="?" facs="#facs_eSc_line_8cac6524" xml:id="elem_eSc_line_8cac6524"/>un altro çio nõna egli gia ꝑ natura ançi la sicondo il suo piacere et sicondo çio<lb break="?" facs="#facs_eSc_line_2427af3d" xml:id="elem_eSc_line_2427af3d"/>che egli lompara. Cosi ne piu ne meno ragione naturale et lege naturale<lb break="?" facs="#facs_eSc_line_dcbf6369" xml:id="elem_eSc_line_dcbf6369"/>insegnia che e si de punire li ladroni et li malfattori et che e non si deghono<lb break="?" facs="#facs_eSc_line_4c8b3fbd" xml:id="elem_eSc_line_4c8b3fbd"/>gia. lasçiare uinare. Et molte altre cose insegnia ragione naturale. Ma cħ<lb break="?" facs="#facs_eSc_line_15e8b011" xml:id="elem_eSc_line_15e8b011"/>e si punischa li ladroni et li malfattori ĩ questa maniera o in un altra si chome<lb break="?" facs="#facs_eSc_line_ecdd4ed8" xml:id="elem_eSc_line_ecdd4ed8"/>per inpichare o per trahinare o per taglier la testa e nõ questo nõ sa gia da<lb break="?" facs="#facs_eSc_line_a2c87324" xml:id="elem_eSc_line_a2c87324"/>la ragione di natura Ançi labiamo per le legi et ꝑ gli ordinamẽti delli prin~<lb break="?" facs="#facs_eSc_line_08825103" xml:id="elem_eSc_line_08825103"/>cipi a di popoli. Donde noi uediamo che in tucte terre la done le genti uogl~<lb break="?" facs="#facs_eSc_line_580eef35" xml:id="elem_eSc_line_580eef35"/>iono uiuare bene et in pace e cõuiene che li malfattori sieno puniti et cho~<lb break="?" facs="#facs_eSc_line_69f50bc5" xml:id="elem_eSc_line_69f50bc5"/>loro che fallischono imꝑcio che ragione naturale lonsegnia. Ma .i. medesi~<lb break="?" facs="#facs_eSc_line_676c6165" xml:id="elem_eSc_line_676c6165"/>mo malifiçio nõne gia punito duno punimento ne duna medesima pe~<lb break="?" facs="#facs_eSc_line_1d734e7b" xml:id="elem_eSc_line_1d734e7b"/>E</div>
+    </body>
+  </text>
+</TEI>
