@@ -38,14 +38,14 @@
     </teiHeader>
     <xi:include href="latin/Rome_1607/output/collatex/Rome_W.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
-   <!-- <xi:include
+    <xi:include
       href="latin/Bevilacqua_1498/output/sortie_HTR/collatex/bevilaqua_1498_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include
       href="latin/Planck_1482/output/sortie_HTR/collatex/planck_1482_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include href="latin/Roma_1556/output/sortie_HTR/collatex/rome_1556_out.struct.tokenized.xml"
-      xmlns:xi="http://www.w3.org/2001/XInclude"/>-->
+      xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include
       href="latin/Zainer_1473/output/sortie_HTR/collatex/zainer_1473_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
