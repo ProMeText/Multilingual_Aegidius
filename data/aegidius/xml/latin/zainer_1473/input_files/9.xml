@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>128.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT9245" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4437"
+          HEIGHT="6544"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4437"
+                  HEIGHT="6544">
+        
+        <TextBlock HPOS="1115"
+                   VPOS="596"
+                   WIDTH="1473"
+                   HEIGHT="730"
+                   ID="eSc_textblock_c47305ef"
+                   TAGREFS="BT19261">
+          <Shape><Polygon POINTS="2556 1061 2568 1304 1115 1326 1149 799 2062 770 2225 625 2414 596 2588 600 2588 963"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a04867b4"
+                    TAGREFS="LT6926"
+                    BASELINE="1174 908 2465 894" 
+                    HPOS="1171"
+                    VPOS="821"
+                    WIDTH="1294"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="1243 843 1207 861 1171 879 1174 908 1174 948 2462 948 2465 894 2458 843 2247 825 2243 825 2033 843 1887 821 1883 821 1880 821 1876 821 1876 825 1858 839 1756 825 1752 825 1647 847 1542 825 1538 825 1534 825 1462 850 1287 828 1283 828 1261 832 1243 843"/></Shape>
+	    <String CONTENT="coniuges ordinande. Si enim indecens"
+                    HPOS="1171"
+                    VPOS="821"
+                    WIDTH="1294"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f099b22"
+                    TAGREFS="LT6926"
+                    BASELINE="1178 996 2465 981" 
+                    HPOS="1174"
+                    VPOS="908"
+                    WIDTH="1291"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="1178 996 1178 1028 2465 1028 2465 981 2458 927 1818 908 1814 908 1414 934 1261 916 1258 916 1254 916 1174 937 1178 996"/></Shape>
+	    <String CONTENT="est eas esse ociosas. ut superius dicebatur"
+                    HPOS="1174"
+                    VPOS="908"
+                    WIDTH="1291"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22c5fe0e"
+                    TAGREFS="LT6926"
+                    BASELINE="1185 1079 2458 1061" 
+                    HPOS="1181"
+                    VPOS="996"
+                    WIDTH="1277"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="1185 1079 1185 1108 2451 1112 2458 1061 2451 1007 1691 996 1687 996 1181 1021 1185 1079"/></Shape>
+	    <String CONTENT="discernenda sunt opera. que decet ipsas"
+                    HPOS="1181"
+                    VPOS="996"
+                    WIDTH="1277"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eac28196"
+                    TAGREFS="LT6926"
+                    BASELINE="1181 1159 2465 1148" 
+                    HPOS="1178"
+                    VPOS="1076"
+                    WIDTH="1287"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="1181 1159 1181 1192 1360 1192 1378 1207 1378 1210 1382 1210 1385 1210 1389 1210 1549 1192 1611 1188 1752 1188 1763 1196 1774 1207 1778 1207 1782 1207 1785 1207 1902 1196 2036 1185 2462 1199 2465 1148 2458 1097 2163 1076 2160 1076 2156 1076 2105 1094 1934 1079 1931 1079 1927 1079 1923 1079 1898 1097 1869 1079 1865 1079 1862 1079 1858 1079 1854 1079 1851 1079 1829 1101 1669 1101 1607 1079 1603 1079 1600 1079 1178 1105 1181 1159"/></Shape>
+	    <String CONTENT="coniuges exercere. quia de his infra dicet᷑."
+                    HPOS="1178"
+                    VPOS="1076"
+                    WIDTH="1287"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5f607ad"
+                    TAGREFS="LT6926"
+                    BASELINE="1196 1246 2425 1243" 
+                    HPOS="1192"
+                    VPOS="1170"
+                    WIDTH="1233"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="1196 1246 1196 1283 1854 1272 2291 1290 2316 1290 2320 1290 2323 1290 2327 1290 2327 1286 2345 1272 2414 1290 2425 1243 2418 1188 1294 1170 1291 1170 1192 1188 1196 1246"/></Shape>
+	    <String CONTENT="volumus ea hic silencio pertransire."
+                    HPOS="1192"
+                    VPOS="1170"
+                    WIDTH="1233"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
