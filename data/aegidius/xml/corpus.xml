@@ -53,11 +53,11 @@
     <xi:include
       href="latin/Vatican_Borgh_360/sortie_HTR/collatex/Vatican_Borgh_360_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
-    <!--<xi:include href="latin/Ross_522/sortie_HTR/collatex/Ross_522_out.struct.tokenized.xml"
+    <xi:include href="latin/Ross_522/sortie_HTR/collatex/Ross_522_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include
-      href="latin/Ott_lat_1102/sortie_HTR/collatex/collatex/Ott_lat_1102_out.struct.tokenized.xml"
-      xmlns:xi="http://www.w3.org/2001/XInclude"/>-->
+      href="latin/Ott_lat_1102/sortie_HTR/collatex/Ott_lat_1102_out.struct.tokenized.xml"
+      xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include href="latin/Vat_Lat_590/sortie_HTR/collatex/Vat_Lat_590_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include
