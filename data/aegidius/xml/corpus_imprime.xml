@@ -1,0 +1,51 @@
+<TEI xml:id="drp" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fra">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title resp="#moi" xml:lang="es"/>
+                <author cert="low">Matthias Gille Levenson</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Unpublished</publisher>
+                <availability>
+                    <licence>Creative Commons CC BY-NC-SA 4.0 FR</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Document de test comprenant des fragments intéressants du texte du <title>De
+                        Regimine</title> castillan.</p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+    <TEI type="latin" xml:id="regimine_latin" xml:lang="la">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <p/>
+                </publicationStmt>
+                <sourceDesc>
+                    <p/>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="latin/Rome_1607/collatex/Rome_W.xml"
+            xmlns:xi="http://www.w3.org/2001/XInclude"/>
+        <xi:include
+            href="latin/Bevilacqua_1498/sortie_HTR/collatex/bevilaqua_1498_out.struct.tokenized.xml"
+            xmlns:xi="http://www.w3.org/2001/XInclude"/>
+        <xi:include href="latin/Planck_1482/sortie_HTR/collatex/planck_1482_out.struct.tokenized.xml"
+            xmlns:xi="http://www.w3.org/2001/XInclude"/>
+        <xi:include href="latin/Roma_1556/sortie_HTR/collatex/rome_1556_out.struct.tokenized.xml"
+            xmlns:xi="http://www.w3.org/2001/XInclude"/>
+        <xi:include href="latin/zainer_1473/sortie_HTR/collatex/zainer_1473_out.struct.tokenized.xml"
+            xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    </TEI>
+</TEI>
