@@ -41,6 +41,8 @@
     <xi:include
       href="latin/Bevilacqua_1498/sortie_HTR/collatex/bevilaqua_1498_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="latin/Venise_1502/sortie_HTR/collatex/Venise_1502.struct.tokenized.xml"
+      xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include href="latin/Planck_1482/sortie_HTR/collatex/planck_1482_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include href="latin/Roma_1556/sortie_HTR/collatex/rome_1556_out.struct.tokenized.xml"
@@ -55,8 +57,7 @@
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include href="latin/Ross_522/sortie_HTR/collatex/Ross_522_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
-    <xi:include
-      href="latin/Ott_lat_1102/sortie_HTR/collatex/Ott_lat_1102_out.struct.tokenized.xml"
+    <xi:include href="latin/Ott_lat_1102/sortie_HTR/collatex/Ott_lat_1102_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
     <xi:include href="latin/Vat_Lat_590/sortie_HTR/collatex/Vat_Lat_590_out.struct.tokenized.xml"
       xmlns:xi="http://www.w3.org/2001/XInclude"/>
