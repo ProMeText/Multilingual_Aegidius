@@ -19,8 +19,8 @@ Vous pouvez accéder aux différentes tables de collation ici.
 - Livre 2, partie 1, chapitre 24: [ici](data/aegidius/results/latin_collation_tables/livre_2/partie_1/chapitre_24/tableau_alignement.html)
 
 
-- Livre 3, partie 2, chapitre 1: [](data/aegidius/results/latin_collation_tables/livre_3/partie_2/chapitre_1/tableau_alignement.html)
-- Livre 3, partie 2, chapitre 21: [](data/aegidius/results/latin_collation_tables/livre_3/partie_2/chapitre_21/tableau_alignement.html)
+- Livre 3, partie 2, chapitre 1: [ici](data/aegidius/results/latin_collation_tables/livre_3/partie_2/chapitre_1/tableau_alignement.html)
+- Livre 3, partie 2, chapitre 21: [ici](data/aegidius/results/latin_collation_tables/livre_3/partie_2/chapitre_21/tableau_alignement.html)
 
 
 
