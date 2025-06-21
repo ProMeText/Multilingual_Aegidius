@@ -20,6 +20,9 @@ We integrate traditional philological approaches with digital humanities techniq
 - **Textual variant analysis:** Using manual and automated methods to explore textual differences.
 - **Semantic embedding:** Applying the latest NLP technology to assess textual similarities and divergences.
 
+## Résultats
+
+Pour des résultats préliminaires, vous pouvez consulter la page [https://prometext.github.io/Multilingual_Aegidius/](https://prometext.github.io/Multilingual_Aegidius/).
 
 ## Contributing to the project 🤝
 Contributions to the project are highly encouraged, whether they be additional data, bug fixes, or enhancements to the analysis scripts. To contribute:
