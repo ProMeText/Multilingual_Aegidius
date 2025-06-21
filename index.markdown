@@ -4,7 +4,7 @@
 
 ## Résultats
 
-Vous pouvez accéder aux différentes tables de collation à partir de cette page. 
+Vous pouvez accéder aux différentes tables de collation à partir de cette page:
 
 
 ### Tables de collation du corpus latin
