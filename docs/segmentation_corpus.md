@@ -58,6 +58,8 @@ This variability demanded a **flexible, language-sensitive approach** to both **
 
 [Jump to Source Tracking & Metadata for more detailed information ⤵️](#source-tracking--metadata)
 
+[Jump to Source Tracking & Metadata for more detailed information ⤵️](#source-tracking--metadata)
+[Jump to Source Tracking & Metadata ⤵️](#source-tracking--metadata)
 
 ---
 
@@ -122,7 +124,7 @@ Maus frutto, cioè musa.£Questo frutto è molto gentile e dolce,£della grandez
 10. che colui che siede non sta solo,
 11. ma siede insieme con l'aversario di tutti;
 
-### 🇪🇸 Castilian (shortened)
+### 🇪🇸 Castilian
 
 **Raw annotated with `£`:**
 
@@ -257,6 +259,8 @@ Each excerpt is annotated using the pound sign (`£`) to mark **segment boundari
 - **Segments (`£`)** = total number of `£` delimiters → i.e. segments  
 - **Train/Dev/Test?** = indicates whether `train.json`, `dev.json`, and `test.json` are all present
 
+
+
 > ℹ️ This corpus focuses on **sentence segmentation only**. It does **not include POS tagging, syntactic trees, or named entity annotations**.
 
 
@@ -289,24 +293,13 @@ All annotations, segmentations, and metadata are released under [**CC BY-NC-SA 4
 
 
 
-
 ---
 ## 📚 How to Cite This Corpus
 
-> Macedo, C., Ing, L., & Gille Levenson, M. (2025). *Multilingual Segmentation Corpus for Historical Prose (13th–15th c.)* [Data set].  [GitHub repository](https://github.com/carolisteia/mulada).
-
-
-```bibtex
-@misc{macedo2025segmentation,
-  author       = {Carolina Macedo and Lucence Ing and Matthias Gille Levenson},
-  title        = {Multilingual Segmentation Corpus for Historical Prose (13th–16th c.)},
-  year         = {2025},
-  howpublished = {\url{https://github.com/carolisteia/mulada}},
-  note         = {CC BY-NC-SA 4.0, annotations and segmentation only}
-}
-```
-
-
+> **Citation (draft)**  
+> Please cite as:  
+> Macedo, C., Ing, L., & Gille Levenson, M. (2025). *Multilingual Segmentation Corpus for Historical Prose (13th–16th c.)*. GitHub repository, ongoing.  
+> 📌 Formal publication and DOI pending.  
 
 ## 📫 Contact & Contributions
 - [Open an issue or pull request](https://github.com/ProMeText/Multilingual_Aegidius/issues)
