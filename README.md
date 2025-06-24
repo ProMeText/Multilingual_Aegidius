@@ -67,10 +67,10 @@ The construction of the multilingual **corpus** involved several stages, combini
 To support the development of robust segmentation and alignment models, the project includes curated **training datasets** located in the following directories:
 
 - [`data/segmentation_data`](https://github.com/ProMeText/Multilingual_Aegidius/tree/main/data/segmentation_data)  
-  Annotated datasets for sentence and phrase segmentation. These resources are used to train and evaluate models that detect linguistic units across historical and modern languages.
+  Annotated datasets for sentence and phrase segmentation. These resources are used to train and evaluate models that detect linguistic units across historical languages.
 
 - [`data/alignment_data/bibles`](https://github.com/ProMeText/Multilingual_Aegidius/tree/main/data/alignment_data/bibles)  
-  Biblical texts in multiple medieval languages, used to train alignment models. These structured and parallel datasets offer high-quality multilingual data for cross-lingual learning.
+  Biblical texts in multiple medieval and modern languages, used to train alignment models. These structured and parallel datasets offer high-quality multilingual data for cross-lingual learning.
 
 📄 **Documentation**  
 For detailed dataset guidelines, see:  
