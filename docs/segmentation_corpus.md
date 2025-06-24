@@ -58,9 +58,6 @@ This variability demanded a **flexible, language-sensitive approach** to both **
 
 [Jump to Source Tracking & Metadata for more detailed information ⤵️](#source-tracking--metadata)
 
-[Jump to Source Tracking & Metadata for more detailed information ⤵️](#source-tracking--metadata)
-[Jump to Source Tracking & Metadata ⤵️](#source-tracking--metadata)
-
 ---
 
 ## 🛠️ Data Preparation
