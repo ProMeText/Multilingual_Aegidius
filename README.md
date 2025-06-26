@@ -1,4 +1,6 @@
-<img src="docs/images/logo_v2.png" alt="Corpus Overview" width="500"/>
+<p align="center">
+  <img src="docs/images/logo_v2.png" alt="Corpus Overview" width="700"/>
+</p>
 
 
 
