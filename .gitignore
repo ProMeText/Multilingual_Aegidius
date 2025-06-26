@@ -4,3 +4,8 @@ venv/
 *.jpg
 *.png
 *.tiff
+
+# Allow PNGs in docs/images/
+!docs/images/
+!docs/images/*.png
+
