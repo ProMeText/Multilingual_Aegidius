@@ -79,15 +79,31 @@ By providing aligned data across a diverse set of languages and time periods, th
 
 - Medieval texts stem from diverse religious traditions, requiring careful textual literacy to align them responsibly.
 
-- Canonical order and verse mapping vary significantly across traditions. Some books appear under different names or structures, and others include additions or reassignments not found elsewhere. For example:
-  - The *Epistle of Jeremiah* appears as **Baruch 6** in some canons.
-  - In Theodotion-based Greek traditions (*κατὰ Θεοδοτίωνα*), **Susanna** and **Bel and the Dragon** are appended as **Daniel 13** and **Daniel 14**.
-  - The *Prayer of Azariah* and the *Song of the Three Young Men* are inserted into **Daniel 3** in certain versions.
-  - The books of **Ezra** and **Nehemiah** may appear as a single book in the Hebrew canon, as *1–2 Esdras* in Latin traditions, or as *1 Esdras* and *2 Esdras* in the Septuagint.
-  - *Psalmus 151* is included in the Septuagint but absent from the Hebrew and Latin canons.
+- Canonical order and verse mapping vary significantly across traditions. Some books differ not only in name but also in structure — whether they are combined or split, reordered, expanded, or labeled differently across canons. These structural variations directly affect alignment decisions.
 
-- Even when books are nominally shared, structural divergences may prevent straightforward alignment.
+#### 🧱 Examples of Structural Differences
+
+The following are just a few representative examples of structural differences that occur across traditions and directly impact how texts are aligned in the dataset:
+
+- **Combined vs. Separate Books**
+  - In the Latin Vulgate, *Ezra* and *Nehemiah* are titled *1 Esdras* and *2 Esdras*, respectively.
+  - In the Septuagint, *1 Esdras* (*Esdras A*) is a distinct book that partially overlaps with *Ezra* and includes additional material (e.g., the "Three Bodyguards" story).
+  - The Septuagint's *Ezra–Nehemiah* is presented as *2 Esdras* (*Esdras B*), aligning more closely with the Hebrew/Latin narrative but under a different naming system.
+
+- **Additions and Rearrangements**
+- *Daniel* includes additional materials — such as *Susanna*, *Bel and the Dragon*, the *Prayer of Azariah*, and the *Song of the Three Young Men* — which are present in both the Septuagint and the Latin Vulgate. However, their placement, chapter numbering, and structural treatment differ: for example, the *Prayer of Azariah* and the *Song* are inserted into Daniel 3 in the Septuagint, while the Vulgate includes them with separate headings and variable editorial presentation.
+
+- **Different Chapter/Verse Divisions**
+  - In some traditions, chapters or verses are split or merged differently (e.g., the *Epistle of Jeremiah* appears as **Baruch 6** in the Vulgate).
+  - Psalm numbering varies across versions, complicating direct verse-to-verse comparison.
+
+- **Supplemental or Non-Canonical Additions**
+  - *Psalmus 151* is present in the Septuagint and in some later Latin Vulgate manuscripts, where it is occasionally labeled as apocryphal or appended outside the canonical Psalter. It has no standard position in the Latin tradition and is not consistently represented across witnesses.
+
+- Even when books are nominally shared across traditions, structural divergences may prevent straightforward alignment.
   - ❗ Alignment in such cases requires detailed editorial work: verse splitting, content reordering, and managing interpolated sections. In some cases, texts may be excluded from alignment altogether if no counterpart exists in another tradition.
+
+  - 
 ## 🛠️ Use and Limitations
 
 ⚠️ This dataset is intended **exclusively for training and evaluation purposes**.
