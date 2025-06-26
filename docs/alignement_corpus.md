@@ -51,7 +51,7 @@ By providing aligned data across a diverse set of languages and time periods, th
 - Support research on translation shifts and **textual transmission in multilingual traditions**
 - Offer a flexible and extensible foundation for further corpus-building or annotation efforts 
 
-### 🎯 This corpus is designed for:
+### 🎯 This dataset is designed for:
 - NLP researchers working on low-resource or historical alignment tasks
 - Digital humanists studying translation or textual variants 
 - Scholars exploring textual transmission across religious or linguistic traditions
