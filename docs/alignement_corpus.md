@@ -202,7 +202,7 @@ The multilingual aligned file is a **JSON list of dictionaries**, where each ent
 
 `Import ➝ Structure ➝ Filter ➝ Align (to Vulgate) ➝ Export`
 
-![Alignment Workflow](docs/images/alignment_workflow_diagram.png)
+![Alignment Workflow](images/alignment_workflow_diagram.png)
 
 
 
@@ -252,9 +252,9 @@ This corpus was prepared through a multi-stage alignment pipeline, designed to h
 > Each verse aligned between *N* languages generates *N choose 2* pairings.
 
 
-![Verse counts per language (Biblical)](docs/images/verses_cout_by_language.png)
+![Verse counts per language (Biblical)](images/verses_cout_by_language.png)
 
-![Verse counts per language (Qur'an)](docs/images/verses_count_all.png)
+![Verse counts per language (Qur'an)](images/verses_count_all.png)
 
 ## 📊 Dataset basic stats
 ###  Verse Counts by Version
