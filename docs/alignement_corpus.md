@@ -1,4 +1,4 @@
-# 📘 Multilingual Alignment Corpus for Historical Texts
+# 📘 Multilingual Alignment Dataset for Historical Texts
 
 
 *Curated verse-aligned dataset to support multilingual NLP and historical-text alignment modeling.*
