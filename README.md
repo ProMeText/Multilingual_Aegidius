@@ -1,4 +1,6 @@
-![Corpus Overview](docs/images/logo_v2.png)
+<img src="docs/images/logo_v2.png" alt="Corpus Overview" width="500"/>
+
+
 
 
 # 📜 Multilingual alignment and collation of the *De Regimine Principum* in Latin and vernacular 🌍
