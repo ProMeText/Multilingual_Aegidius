@@ -1,11 +1,14 @@
-<p align="center">
-  <img src="docs/images/document.svg" alt="Corpus Overview" width="700"/>
-</p>
+
+
+<table>
+<tr>
+<td><img src="docs/images/document.svg" alt="Logo" width="140"/></td>
+<td><h1>📜 Multilingual alignment and collation of the <em>De Regimine Principum</em> in Latin and vernacular</h1></td>
+</tr>
+</table>
 
 
 
-
-# 📜 Multilingual alignment and collation of the *De Regimine Principum* in Latin and vernacular 🌍
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC--BY--NC--SA--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Last Commit](https://img.shields.io/github/last-commit/ProMeText/Multilingual_Aegidius)](https://github.com/ProMeText/Multilingual_Aegidius/commits/main)
