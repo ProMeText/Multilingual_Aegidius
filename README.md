@@ -1,6 +1,6 @@
 
 
-<p align="center">   <img src="docs/images/logo-cropped.svg" alt="Corpus Overview" width="600"/> </p>
+<p align="left">   <img src="docs/images/logo-cropped.svg" alt="Corpus Overview" width="600"/> </p>
 
 # 📜 Multilingual alignment and collation of the *De Regimine Principum* in Latin and vernacular 🌍
 
