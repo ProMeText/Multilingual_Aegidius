@@ -103,11 +103,13 @@ By providing aligned data across a diverse set of languages and time periods, th
 
 It does **not preserve canonical verse numbering**, and therefore it is **not suitable** for scholarly edition, canonical citation, or textual-critical research.
 
-### 📌 Examples of structural divergence:
+### 📌 Examples of Structural Divergence:
 
-- *Epistle of Jeremiah* appears as **Baruch 6** in some traditions.
-- *Susanna* is integrated as **Daniel 11**, and *Bel and the Dragon* as **Daniel 13**, depending on the version.
-
+- The text of the *Epistle of Jeremiah* appears as **Baruch 6** in some traditions.
+- In Theodotion-based Greek traditions (*κατὰ Θεοδοτίωνα*), the story of **Susanna** is integrated as **Daniel 13**, and *Bel and the Dragon* as **Daniel 14**, depending on the version.
+- The *Prayer of Azariah* and the *Song of the Three Young Men* are inserted into **Daniel 3** in some traditions.
+- The books of **Ezra and Nehemiah** appear in different forms and arrangements across various textual traditions.
+- These divergences reflect broader differences in canon structure, book ordering, chapter numbering, etc.
 ---
 
 # 📂 Data Sources
