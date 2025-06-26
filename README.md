@@ -1,4 +1,4 @@
-![Corpus Overview](images/logo_v2.png)
+![Corpus Overview](docs/images/logo_v2.png)
 
 
 # 📜 Multilingual alignment and collation of the *De Regimine Principum* in Latin and vernacular 🌍
