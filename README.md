@@ -75,7 +75,7 @@ To support the development of robust segmentation and alignment models, the proj
 📄 **Documentation**  
 For detailed dataset guidelines, see:  
 - [Segmentation Dataset Documentation](docs/segmentation_corpus.md)  
-- [Alignment Dataset Documentation](docs/alignment.md)
+- [Alignment Dataset Documentation](docs/alignement_corpus.md)
 
 ---
 
