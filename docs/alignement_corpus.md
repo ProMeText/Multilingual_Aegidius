@@ -3,10 +3,7 @@
 
 *Curated verse-aligned dataset to support multilingual NLP and historical-text alignment modeling.*
 
-
-> A multilingual corpus of aligned biblical and Qur’anic texts, primarily in medieval languages. Select modern editions are included to enhance diversity and robustness. Designed to support the training and evaluation of sentence alignment models for historical, philological, and comparative-linguistic use cases.
-
-
+> A multilingual dataset of aligned biblical and Qur’anic texts, primarily in medieval languages, gathered from various external sources (see the [📂 Data Sources](#-data-sources) section). Select modern editions are included to enhance diversity and robustness. The dataset is designed to support training and evaluation of sentence alignment models for historical, philological, and comparative-linguistic use cases.
 ---
 
 
@@ -103,13 +100,11 @@ By providing aligned data across a diverse set of languages and time periods, th
 
 It does **not preserve canonical verse numbering**, and therefore it is **not suitable** for scholarly edition, canonical citation, or textual-critical research.
 
-### 📌 Examples of Structural Divergence:
+### 📌 Examples of structural divergence:
 
-- The text of the *Epistle of Jeremiah* appears as **Baruch 6** in some traditions.
-- In Theodotion-based Greek traditions (*κατὰ Θεοδοτίωνα*), the story of **Susanna** is integrated as **Daniel 13**, and *Bel and the Dragon* as **Daniel 14**, depending on the version.
-- The *Prayer of Azariah* and the *Song of the Three Young Men* are inserted into **Daniel 3** in some traditions.
-- The books of **Ezra and Nehemiah** appear in different forms and arrangements across various textual traditions.
-- These divergences reflect broader differences in canon structure, book ordering, chapter numbering, etc.
+- *Epistle of Jeremiah* appears as **Baruch 6** in some traditions.
+- *Susanna* is integrated as **Daniel 11**, and *Bel and the Dragon* as **Daniel 13**, depending on the version.
+
 ---
 
 # 📂 Data Sources
@@ -126,11 +121,11 @@ The Biblical and Qur’anic texts were selected for their **structural compatibi
 | en       | Great Bible                 | [EDGeS Corpus](https://spraakbanken.gu.se/en/resources/openedges)                                                                                                                | `.tsv`        |
 | it       | Gospel of St. Matthew       | [Caterina Menichetti Edition](https://www.sismel.it/pubblicazioni/2059-il-vangelo-secondo-matteo-in-volgare-italiano-studio-ed-edizione-critica-delle-due-versioni-non-glossate)            | `.pdf`        |
 | fr       | La Bible historiale         | [Project site](https://www.biblehistoriale.fr/index.php/xml-tei/)                                                                                                                | `.xml`        |
-| fr       | Esther, Judith, Ruth        | Claudio Lagomarsini Edition                                                                                                                                                | Word\*        |
-| fr       | Gospel of Matthew           | Seth Middleton Transcription                                                                                                                                                | `.txt`\*      |
+| fr       | Esther, Judith, Ruth        |Texts kindly provided by Claudio Lagomarsini                                                                                                                                                | Word\*        |
+| fr       | Gospel of Matthew           |Transcription kindly provided by Seth Middleton                                                                                                                                                | `.txt`\*      |
 | gr       | Septuagint (LXX)            | [Corpus Corporum](https://mlat.uzh.ch/browser?path=/17098/17099/17113/17110/17104)                                                                                               | `.xml`        |
 | es       | Three Medieval Bibles       | [Proyecto Biblia Medieval](https://bibliamedieval.es/recursos/textos)                                                                                                            | `.txt`        |
-| ca       | Three Medieval Bibles       | Pere Casanellas [(Corpus Biblicum Catalanicum)](https://cbcat.abcat.cat/)                                                                                                       | `.xml`, Word\*|
+| ca       | Three Medieval Bibles       | Texts kindly provided by Pere Casanellas [(Corpus Biblicum Catalanicum)](https://cbcat.abcat.cat/)                                                                                                       | `.xml`, Word\*|
 | la       | Vulgata Sixto-Clementina    | [GitLab](https://gitlab.com/crosswire-bible-society/vulgate/-/blob/master/vulgate.osis.xml?ref_type=heads)                                                                      | `.xml`        |
 
 > \* *These texts are not publicly shareable due to copyright restrictions.*
@@ -145,7 +140,7 @@ Nine Bibles in French, English, Portuguese, Greek, and Spanish from [this reposi
 
 ### 🕋 Qur’an
 
-Multilingual alignment compiled by **[Mouhamadoul-Khaly Wélé](https://universite-lyon2.academia.edu/cherifwele)**, spanning 7 languages (Arabic, Latin, English, French, Italian, etc.).  
+Multilingual alignment produced by the **[Coran 12-21](https://coran12-21.org/fr) project** — co-directed by **Mouhamadoul-Khaly Wélé and Tristan Vigliano** — covering 7 languages (Arabic, Latin, English, French, Italian, etc.), with texts kindly provided by Mouhamadoul-Khaly Wélé.
 *Note: This resource is not publicly redistributable.*
 
 ---
@@ -348,7 +343,7 @@ This corpus is an initial foundation intended to grow. Several improvements are 
   Metadata will be enriched to reflect the textual origin (e.g., manuscript family, editor, edition), enabling philological and stemmatic analysis across traditions.
 
 - **Develop a queryable interface or API**  
-  To support broader reuse and exploration, a lightweight web interface or API is under consideration, allowing users to browse and extract aligned verses across versions and languages.
+  To support broader reuse and exploration, develop a queryable interface or lightweight CLI tool is under consideration, allowing users to search and extract aligned verses by book, chapter, language pair, or version — without requiring users to load the full dataset into memory
 
 ### 🗂️ Versioning
 
