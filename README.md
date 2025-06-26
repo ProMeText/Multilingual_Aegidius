@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td><img src="docs/images/document.svg" alt="Logo" width="140"/></td>
+<td><img src="docs/images/document.svg" alt="Logo" width="300"/></td>
 <td><h1>📜 Multilingual alignment and collation of the <em>De Regimine Principum</em> in Latin and vernacular</h1></td>
 </tr>
 </table>
