@@ -122,9 +122,9 @@ The Biblical and Qur’anic texts were selected for their **structural compatibi
 | en       | John Wycliffe Bible         | [GitHub](https://github.com/saibotsivad/john-wycliffes-bible/tree/master/raw-text)                                                                                              | `.txt`        |
 | en       | Coverdale Bible             | [GitHub](https://github.com/Isidore-Guild/coverdale)                                                                                                                             | `.xml`        |
 | en       | Great Bible                 | [EDGeS Corpus](https://spraakbanken.gu.se/en/resources/openedges)                                                                                                                | `.tsv`        |
-| it       | Gospel of St. Matthew       | [SISMEL Edition](https://www.sismel.it/pubblicazioni/2059-il-vangelo-secondo-matteo-in-volgare-italiano-studio-ed-edizione-critica-delle-due-versioni-non-glossate)            | `.pdf`        |
+| it       | Gospel of St. Matthew       | [Caterina Menichetti Edition](https://www.sismel.it/pubblicazioni/2059-il-vangelo-secondo-matteo-in-volgare-italiano-studio-ed-edizione-critica-delle-due-versioni-non-glossate)            | `.pdf`        |
 | fr       | La Bible historiale         | [Project site](https://www.biblehistoriale.fr/index.php/xml-tei/)                                                                                                                | `.xml`        |
-| fr       | Esther, Judith, Ruth        | Claudio Lagomarsini (unpublished)                                                                                                                                                | Word\*        |
+| fr       | Esther, Judith, Ruth        | Claudio Lagomarsini Edition                                                                                                                                                | Word\*        |
 | fr       | Gospel of Matthew           | Seth Middleton Transcription                                                                                                                                                | `.txt`\*      |
 | gr       | Septuagint (LXX)            | [Corpus Corporum](https://mlat.uzh.ch/browser?path=/17098/17099/17113/17110/17104)                                                                                               | `.xml`        |
 | es       | Three Medieval Bibles       | [Proyecto Biblia Medieval](https://bibliamedieval.es/recursos/textos)                                                                                                            | `.txt`        |
@@ -143,7 +143,7 @@ Nine Bibles in French, English, Portuguese, Greek, and Spanish from [this reposi
 
 ### 🕋 Qur’an
 
-Multilingual alignment compiled by **Mouhamadoul-Khaly Wélé**, spanning 7 languages (Arabic, Latin, English, French, Italian, etc.).  
+Multilingual alignment compiled by **[Mouhamadoul-Khaly Wélé](https://universite-lyon2.academia.edu/cherifwele)**, spanning 7 languages (Arabic, Latin, English, French, Italian, etc.).  
 *Note: This resource is not publicly redistributable.*
 
 ---
@@ -202,7 +202,7 @@ The multilingual aligned file is a **JSON list of dictionaries**, where each ent
 
 `Import ➝ Structure ➝ Filter ➝ Align (to Vulgate) ➝ Export`
 
-![Alignment Workflow](alignment_workflow_diagram.png)
+![Alignment Workflow](docs/images/alignment_workflow_diagram.png)
 
 
 
@@ -235,11 +235,9 @@ This corpus was prepared through a multi-stage alignment pipeline, designed to h
 
 ---
 
-## 📈 Dataset Statistics
+## 📈 Dataset Statistics Summary
 
 ### 📖 Biblia Corpus
-
-![Verse counts per language (Biblical)](json/verse_counts_by_language_biblical.png)
 
 **Multilingual** — — **3,927,811 pairs across 42,562 aligned verses**
 
@@ -248,13 +246,15 @@ This corpus was prepared through a multi-stage alignment pipeline, designed to h
 
 ### 🕋 Qur’anic Corpus
 
-![Verse counts per language (Qur'an)](json/verse_counts_by_language_quran.png)
-
 **Multilingual (Qur’an)** — — **114,226 pairs across 6,236 aligned verses**
 
 > 📌 The number of aligned pairs refers to verse-level combinations between two or more languages.  
 > Each verse aligned between *N* languages generates *N choose 2* pairings.
 
+
+![Verse counts per language (Biblical)](docs/images/verses_cout_by_language.png)
+
+![Verse counts per language (Qur'an)](docs/images/verses_count_all.png)
 
 ## 📊 Dataset basic stats
 ###  Verse Counts by Version
@@ -296,8 +296,6 @@ This corpus was prepared through a multi-stage alignment pipeline, designed to h
 ### 📊 Distribution by Language
 
 The following plot summarizes the **total number of verses grouped by language**, aggregating across all available versions:
-
-[Verse counts per language](/home/carolisteia/Desktop/Biblissima/biblia/alignment/data/json_global/analysis/json/verses_cout_by_language.png) <!-- !CHANGE PATH -->
 
 > 📌 This visualization complements the per-version table by offering a clearer view of data coverage **per language**, helping identify underrepresented areas or strong alignments.
 
