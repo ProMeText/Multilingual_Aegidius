@@ -123,7 +123,7 @@
           </sourceDesc>
         </fileDesc>
       </teiHeader>
-      <xi:include href="english/Trevisa/sortie_HTR/Trevisa_out.struct.xml"
+      <xi:include href="english/Trevisa/sortie_HTR/collatex/Trevisa_out.struct.tokenized.xml"
         xmlns:xi="http://www.w3.org/2001/XInclude"/>
     </TEI>
     <TEI type="corpus" xml:lang="ca">
