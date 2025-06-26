@@ -252,8 +252,6 @@ This corpus was prepared through a multi-stage alignment pipeline, designed to h
 > Each verse aligned between *N* languages generates *N choose 2* pairings.
 
 
-![Verse counts per language (Biblical)](images/verses_cout_by_language.png)
-
 ![Verse counts per language (Qur'an)](images/verses_count_all.png)
 
 ## 📊 Dataset basic stats
@@ -298,6 +296,9 @@ This corpus was prepared through a multi-stage alignment pipeline, designed to h
 The following plot summarizes the **total number of verses grouped by language**, aggregating across all available versions:
 
 > 📌 This visualization complements the per-version table by offering a clearer view of data coverage **per language**, helping identify underrepresented areas or strong alignments.
+
+
+![Verse counts per language (Biblical)](images/verses_cout_by_language.png)
 
 ### 🕋 Qur’anic Data
 
