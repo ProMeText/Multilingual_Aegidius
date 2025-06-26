@@ -20,10 +20,10 @@ Vous pouvez accéder aux différentes tables de collation à partir de cette pag
 - Livre 3, partie 2, chapitre 1: [ici](data/aegidius/results/latin_collation_tables/livre_3/partie_2/chapitre_1/tableau_alignement.html)
 - Livre 3, partie 2, chapitre 21: [ici](data/aegidius/results/latin_collation_tables/livre_3/partie_2/chapitre_21/tableau_alignement.html)
 
-- Livre 3, partie 3, chapitre 2: [ici](data/aegidius/results/latin_collation_tables/livre_3/partie_3/chapitre_2/final_result.html)
-- Livre 3, partie 3, chapitre 3: [ici](data/aegidius/results/latin_collation_tables/livre_3/partie_3/chapitre_3/final_result.html)
-- Livre 3, partie 3, chapitre 4: [ici](data/aegidius/results/latin_collation_tables/livre_3/partie_/chapitre_4/final_result.html)
-- Livre 3, partie 3, chapitre 5: [ici](data/aegidius/results/latin_collation_tables/livre_3/partie_3/chapitre_5/final_result.html)
+- Livre 3, partie 3, chapitre 2: [ici](data/aegidius/results/latin_collation_tables/livre_3/partie_3/chapitre_2/tableau_alignement.html)
+- Livre 3, partie 3, chapitre 3: [ici](data/aegidius/results/latin_collation_tables/livre_3/partie_3/chapitre_3/tableau_alignement.html)
+- Livre 3, partie 3, chapitre 4: [ici](data/aegidius/results/latin_collation_tables/livre_3/partie_/chapitre_4/tableau_alignement.html)
+- Livre 3, partie 3, chapitre 5: [ici](data/aegidius/results/latin_collation_tables/livre_3/partie_3/chapitre_5/tableau_alignement.html)
 
 
 ### Tables d'alignement multilingues (LaBSE)
