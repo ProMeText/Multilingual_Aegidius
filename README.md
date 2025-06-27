@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="docs/images/logo_v3.png" alt="Corpus Overview" width="700"/>
-</p>
 
 
-
+<p align="left">   <img src="docs/images/logo-cropped.svg" alt="Corpus Overview" width="600"/> </p>
 
 # 📜 Multilingual alignment and collation of the *De Regimine Principum* in Latin and vernacular 🌍
+
+
+
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC--BY--NC--SA--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Last Commit](https://img.shields.io/github/last-commit/ProMeText/Multilingual_Aegidius)](https://github.com/ProMeText/Multilingual_Aegidius/commits/main)

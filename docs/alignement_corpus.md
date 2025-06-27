@@ -68,7 +68,6 @@ By providing aligned data across a diverse set of languages and time periods, th
 | **Aligned Pairs**  | 3,927,811 pairs                                                                                   | 114,226 pairs                                                                     |
 
 ---
-
 ## 🔍 Challenges
 
 ### 🧩 Source Heterogeneity
@@ -76,34 +75,82 @@ By providing aligned data across a diverse set of languages and time periods, th
 - Modern Bibles are abundant online, but medieval ones are rare, sometimes only available in printed editions or inaccessible formats.
 - Encoding inconsistencies and varying editorial norms require extensive normalization.
 
-
 ### ⚖️ Traditions and Variant Structures
 
-- Medieval texts stem from diverse religious traditions, requiring textual literacy to align them responsibly.
-- Canonical order and verse mapping varies across traditions (e.g. *Esther* in LXX, *Baruch 6* = *Epistle of Jeremiah*).
+- Medieval texts stem from diverse religious traditions, requiring careful textual literacy to align them responsibly.
+
+- Canonical order and verse mapping vary significantly across traditions. Some books differ not only in name but also in structure — whether they are combined or split, reordered, expanded, or labeled differently across canons. These structural variations directly affect alignment decisions.
+
+#### 🧱 Examples of Structural Differences
+
+The following are just a few representative examples of structural differences that occur across traditions and directly impact how texts are aligned in the dataset:
+
+- **Combined vs. Separate Books**
+  - In the Latin Vulgate, *Ezra* and *Nehemiah* are titled *1 Esdras* and *2 Esdras*, respectively.
+  - In the Septuagint, *1 Esdras* (*Esdras A*) is a distinct book that partially overlaps with *Ezra* and includes additional material (e.g., the "Three Bodyguards" story).
+  - The Septuagint's *Ezra–Nehemiah* is presented as *2 Esdras* (*Esdras B*), aligning more closely with the Hebrew/Latin narrative but under a different naming system.
+
+- **Additions and Rearrangements**
+- *Daniel* includes additional materials — such as *Susanna*, *Bel and the Dragon*, the *Prayer of Azariah*, and the *Song of the Three Young Men* — which are present in both the Septuagint and the Latin Vulgate. However, their placement, chapter numbering, and structural treatment differ: for example, the *Prayer of Azariah* and the *Song* are inserted into Daniel 3 in the Septuagint, while the Vulgate includes them with separate headings and variable editorial presentation.
+
+- **Different Chapter/Verse Divisions**
+  - In some traditions, chapters or verses are split or merged differently (e.g., the *Epistle of Jeremiah* appears as **Baruch 6** in the Vulgate).
+  - Psalm numbering varies across versions, complicating direct verse-to-verse comparison.
+
+- **Supplemental or Non-Canonical Additions**
+  - *Psalmus 151* is present in the Septuagint and in some later Latin Vulgate manuscripts, where it is occasionally labeled as apocryphal or appended outside the canonical Psalter. It has no standard position in the Latin tradition and is not consistently represented across witnesses.
+
+- Even when books are nominally shared across traditions, structural divergences may prevent straightforward alignment.
+  - ❗ Alignment in such cases requires detailed editorial work: verse splitting, content reordering, and managing interpolated sections. In some cases, texts may be excluded from alignment altogether if no counterpart exists in another tradition.
+
+  - 
+## 🛠️ Use and Limitations
+
+⚠️ This dataset is intended **exclusively for training and evaluation purposes**.
+
+It does **not preserve canonical verse numbering**, and is therefore **not suitable** for scholarly editions, canonical citation, or textual-critical research.
 
 ---
 
 ## 🤔 Alignment Principles
 
-- **Anchor Text**: The Latin Vulgate serves as the primary reference text for alignment. When the Vulgate is unavailable for a given verse, other available language pairs are still retained.
+The following principles define how the dataset is structured and aligned across traditions, within the scope outlined above.
 
-- **Minimum Pairing Requirement**: A verse or book is included only if at least one pair of aligned texts is available. Segments represented in only one tradition (e.g., found solely in the LXX) are excluded, as the corpus focuses on comparative alignment.
+- **Anchor Text**: The Latin Vulgate serves as the primary reference for alignment due to its historical centrality and stable verse structure. However, when the Vulgate is unavailable for a particular book or verse, alignment is still performed using available language pairs from other traditions.
 
-- **Exclusions for Structural Complexity**: Some books were excluded due to significant challenges in verse mapping across traditions. For instance, the Septuagint version of *Esther* could potentially be aligned (at least in part), but would require significantly more time and manual effort.
+  - In some cases, a book is present in the Vulgate, but certain verses follow a divergent textual tradition (typically the Septuagint) in several witnesses. To account for this, we assign a modified reference (e.g., "3:03") to distinguish verses aligned to the LXX when no corresponding Latin text is available in the dataset. This approach ensures that valuable material is not discarded solely due to the absence of Latin, while still maintaining the minimum pairing requirement for alignment. Below is an example:
+  - 
+    ```json
+    {
+      "book": "nehemiae",
+      "ref": "3:3",
+      "data": {
+        "la_vulgate": "portam autem Piscium aedificaverunt filii Asanaa ...",
+        "gr_lxx": null,
+        "en_wycliffe": "Forsothe the sones of Asamaa bildiden the yatis of fischis ...",
+        "es_e6e8": "los fijos de assnaa fizieron la puerta delos peces ..."
+      }
+    },
+    
+    {
+      "book": "nehemiae",
+      "ref": "3:03",
+      "data": {
+        "la_vulgate": null,
+        "gr_lxx": "καὶ τὴν πύλην τὴν ἰχθυηρὰν ᾠκοδόμησαν υἱοὶ Ασανα· ...",
+        "en_coverdale": "But the Fyshporte dyd the children of Senaa buylde ...",
+        "es_arragel": "& la puerta de los pesçes edeficaron los fiios de çanaa ..."
+      }
+    }
+    ```
 
----
+- **Minimum Pairing Requirement**: A verse or book is included only if at least one aligned counterpart exists in another tradition. In the context of this study, certain texts that are present in the dataset—such as IV Esdras in the Vulgate, 1 Esdras in the Septuagint, or 3–4 Maccabees in the Greek Orthodox canon—are excluded from alignment due to the absence of corresponding versions in the other included traditions. The corpus focuses strictly on comparative alignment between at least two textual witnesses.
 
-## 🛠️ Use and Limitations
+- **Exclusions for Structural Complexity**: Certain books are excluded from the corpus due to major structural divergence and the high manual effort required for reliable verse mapping. For example, while the Septuagint version of *Esther* could, in principle, be partially aligned, doing so would entail substantial manual editorial work and require significantly more time.
 
-⚠️ This dataset is intended **exclusively for training and evaluation purposes**.
+- **Manual Alignment Adjustments**: In order to maintain consistent verse-level alignment across divergent textual traditions, manual intervention is sometimes required. This may involve splitting or shifting parts of a verse (e.g., moving a phrase or portion of it to an adjacent reference) to preserve structural correspondence. These interventions are strictly based on attested content already present in the dataset—never on reconstruction or invention. Patchwork alignment is permitted only when all segments involved are verifiably extant. All such editorial actions are recorded in separate documentation to ensure transparency and reproducibility.
 
-It does **not preserve canonical verse numbering**, and therefore it is **not suitable** for scholarly edition, canonical citation, or textual-critical research.
 
-### 📌 Examples of structural divergence:
-
-- *Epistle of Jeremiah* appears as **Baruch 6** in some traditions.
-- *Susanna* is integrated as **Daniel 11**, and *Bel and the Dragon* as **Daniel 13**, depending on the version.
 
 ---
 
