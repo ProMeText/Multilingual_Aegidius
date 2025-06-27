@@ -5,8 +5,8 @@
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
-      <fileName>3.pdf_page_1.png</fileName>
-      <fileIdentifier>pdf//3.pdf</fileIdentifier>
+      <fileName>2.pdf_page_5.png</fileName>
+      <fileIdentifier>pdf//2.pdf</fileIdentifier>
     </sourceImageInformation>
   </Description>
   
@@ -25,401 +25,419 @@
                   WIDTH="2103"
                   HEIGHT="3000">
         
-        <TextBlock HPOS="313"
-                   VPOS="1491"
-                   WIDTH="1463"
-                   HEIGHT="1214"
-                   ID="eSc_textblock_8052d289"
+        <TextBlock HPOS="320"
+                   VPOS="326"
+                   WIDTH="1442"
+                   HEIGHT="1275"
+                   ID="eSc_textblock_35c101ab"
                    TAGREFS="BT19261">
-          <Shape><Polygon POINTS="1259 1560 1709 1566 1776 1600 1776 2551 1742 2651 952 2658 552 2705 333 2705 313 2685 320 1706 340 1620 420 1573 843 1573 890 1553 912 1505 906 1491 1165 1491"/></Shape>
+          <Shape><Polygon POINTS="1729 333 1762 360 1756 1525 1709 1551 992 1565 897 1600 897 1601 857 1601 830 1585 320 1585 333 360 346 333 1114 326"/></Shape>
           
           
-          <TextLine ID="eSc_line_2dab3532"
+          <TextLine ID="eSc_line_55b85c0f"
                     TAGREFS="LT6926"
-                    BASELINE="920 1538 1154 1535" 
-                    HPOS="918"
-                    VPOS="1488"
-                    WIDTH="236"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="920 1538 920 1548 1018 1560 1020 1560 1022 1560 1050 1551 1060 1550 1152 1553 1154 1535 1145 1488 1125 1501 1065 1495 1064 1495 1060 1495 995 1503 990 1500 983 1493 983 1491 982 1491 980 1491 940 1491 938 1491 937 1491 918 1501 920 1538"/></Shape>
-	    <String CONTENT="Chapter ]"
-                    HPOS="918"
-                    VPOS="1488"
-                    WIDTH="236"
-                    HEIGHT="72"
-                    WC="0.9960507684283786"></String>
+                    BASELINE="340 383 1741 386" 
+                    HPOS="338"
+                    VPOS="355"
+                    WIDTH="1403"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1739 360 1722 360 1706 360 1689 360 1672 360 1656 360 1639 358 1622 358 1606 358 1589 358 1572 358 1555 358 1539 358 1534 356 341 355 340 358 340 383 338 396 1737 400 1741 386 1739 360 1739 360"/></Shape>
+	    <String CONTENT="ordre, þat is for defaute of reson; for þey kunne not distyngwe bytwene"
+                    HPOS="338"
+                    VPOS="355"
+                    WIDTH="1403"
+                    HEIGHT="45"
+                    WC="0.9995310944570622"></String>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_11d0f226"
+          <TextLine ID="eSc_line_5e108d2d"
                     TAGREFS="LT6926"
-                    BASELINE="383 1625 1749 1618" 
-                    HPOS="381"
-                    VPOS="1580"
-                    WIDTH="1368"
+                    BASELINE="340 448 1217 441" 
+                    HPOS="338"
+                    VPOS="401"
+                    WIDTH="879"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="340 448 340 458 1217 456 1217 441 1214 411 1070 411 1047 401 1045 401 1043 401 1042 401 1015 410 997 401 995 401 993 401 992 401 990 401 990 403 988 403 982 411 838 403 837 403 773 413 597 405 595 405 593 405 570 415 376 415 348 406 346 406 345 406 343 406 341 406 341 408 340 408 338 408 340 448"/></Shape>
+	    <String CONTENT="þe manere ot rewelyng ot wif and ot seruant."
+                    HPOS="338"
+                    VPOS="401"
+                    WIDTH="879"
+                    HEIGHT="57"
+                    WC="0.9984005825086073"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c38543f"
+                    TAGREFS="LT6926"
+                    BASELINE="398 493 1741 496" 
+                    HPOS="396"
+                    VPOS="458"
+                    WIDTH="1345"
                     HEIGHT="58">
-            <Shape><Polygon POINTS="1732 1581 1500 1588 1487 1583 1475 1580 1474 1580 1472 1580 1449 1585 1425 1588 1417 1585 1409 1580 1407 1580 1405 1580 1364 1585 1325 1590 1315 1585 1307 1581 1305 1581 1304 1581 1269 1586 1239 1590 1229 1586 1215 1581 1214 1581 1212 1581 1172 1586 1152 1590 1139 1588 1112 1581 1110 1581 1070 1588 1048 1591 968 1590 775 1583 773 1583 688 1593 677 1593 675 1593 663 1585 662 1585 660 1585 658 1585 483 1591 415 1585 413 1585 411 1585 381 1595 383 1625 383 1638 1747 1635 1749 1618 1744 1590 1732 1581"/></Shape>
-	    <String CONTENT="After þat by help ot God we hauen imaad ende ot þe firste partie of"
-                    HPOS="381"
-                    VPOS="1580"
-                    WIDTH="1368"
+            <Shape><Polygon POINTS="398 493 396 506 420 516 421 516 423 516 1739 510 1741 496 1736 460 1709 468 1632 460 1627 460 1626 460 1624 460 1622 460 1594 468 1552 460 1547 460 1545 460 1544 460 1542 460 1514 468 1420 460 1404 460 1402 460 1390 460 1325 468 1304 461 1300 460 1299 460 1297 460 1295 460 1294 460 1294 461 1282 470 1155 470 1137 461 1132 460 1130 460 1129 460 1119 461 1090 468 1077 461 1070 458 1069 458 1067 458 1047 461 1023 466 988 461 958 458 957 458 955 458 945 461 933 466 927 461 922 458 920 458 918 458 917 458 878 463 838 466 783 463 720 458 718 458 717 458 715 458 710 463 705 466 695 463 680 458 678 458 677 458 637 463 608 466 578 463 532 458 530 458 528 458 513 463 505 466 490 463 460 458 458 458 398 463 398 493"/></Shape>
+	    <String CONTENT="Wherfore 3if it is semelich þat alle citeseyns be wise and redy and"
+                    HPOS="396"
+                    VPOS="458"
+                    WIDTH="1345"
                     HEIGHT="58"
-                    WC="0.9964095754409904"></String>
+                    WC="0.9879867946034047"></String>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_7396d608"
+          <TextLine ID="eSc_line_230648d1"
                     TAGREFS="LT6926"
-                    BASELINE="333 1680 1751 1673" 
-                    HPOS="331"
-                    VPOS="1636"
-                    WIDTH="1420"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="333 1680 333 1693 1749 1686 1751 1673 1747 1646 1606 1646 1594 1636 1592 1636 1591 1636 1589 1636 1517 1645 1440 1636 1439 1636 1392 1646 1309 1638 1307 1638 1305 1638 1275 1646 1255 1638 1254 1638 1252 1638 1250 1638 1249 1638 1237 1648 1010 1648 748 1640 747 1640 685 1650 663 1641 662 1641 660 1641 595 1650 568 1641 567 1641 565 1641 563 1641 562 1641 552 1650 533 1641 532 1641 345 1641 343 1641 341 1641 340 1641 331 1646 333 1680"/></Shape>
-	    <String CONTENT="þis þridde book and rehersed certeyn preambules and nedful menes"
-                    HPOS="331"
-                    VPOS="1636"
-                    WIDTH="1420"
-                    HEIGHT="57"
-                    WC="0.9994087209925056"></String>
+                    BASELINE="338 556 1741 550" 
+                    HPOS="336"
+                    VPOS="515"
+                    WIDTH="1405"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="338 556 338 571 1739 568 1741 550 1737 523 1422 515 1420 515 1419 515 1387 523 1385 523 1372 523 1067 516 1065 516 1064 516 1037 525 1035 525 1023 525 908 518 907 518 336 526 338 556"/></Shape>
+	    <String CONTENT="knowe þe kynde manere and ordre, it is vnsemelich to hem to vse here"
+                    HPOS="336"
+                    VPOS="515"
+                    WIDTH="1405"
+                    HEIGHT="56"
+                    WC="0.9810573940767962"></String>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_71db270d"
+          <TextLine ID="eSc_line_5eb2bf87"
                     TAGREFS="LT6926"
-                    BASELINE="335 1733 1752 1730" 
-                    HPOS="333"
-                    VPOS="1696"
-                    WIDTH="1419"
-                    HEIGHT="55">
-            <Shape><Polygon POINTS="335 1733 335 1745 1716 1751 1717 1751 1719 1751 1752 1741 1752 1730 1749 1703 408 1696 406 1696 333 1705 335 1733"/></Shape>
-	    <String CONTENT="to þe purpos and rehersed diuerse opynyons ot þe philosofer þat"
-                    HPOS="333"
-                    VPOS="1696"
-                    WIDTH="1419"
-                    HEIGHT="55"
-                    WC="0.9987552837719993"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_09244c0e"
-                    TAGREFS="LT6926"
-                    BASELINE="313 1790 1742 1785" 
-                    HPOS="310"
-                    VPOS="1750"
-                    WIDTH="1430"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="312 1790 312 1805 1735 1807 1740 1785 1732 1750 310 1752 312 1790"/></Shape>
-	    <String CONTENT="ordeynede policies and tauste art ot rewelyng ot citee and ot regne"
-                    HPOS="310"
-                    VPOS="1750"
-                    WIDTH="1430"
-                    HEIGHT="57"
-                    WC="0.9935877696791692"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_fd100c48"
-                    TAGREFS="LT6926"
-                    BASELINE="335 1843 1747 1835" 
-                    HPOS="333"
-                    VPOS="1801"
-                    WIDTH="1414"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="335 1843 335 1858 1746 1853 1747 1835 1742 1801 852 1813 797 1811 640 1806 638 1806 583 1815 575 1815 560 1815 445 1808 443 1808 333 1816 335 1843"/></Shape>
-	    <String CONTENT="now it is to tretyng ot þe oþere twey parties ot rewelyng ot cite and of"
-                    HPOS="333"
-                    VPOS="1801"
-                    WIDTH="1414"
-                    HEIGHT="57"
-                    WC="0.9889237408836683"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_efc7da43"
-                    TAGREFS="LT6926"
-                    BASELINE="336 1896 1747 1890" 
-                    HPOS="335"
-                    VPOS="1856"
-                    WIDTH="1412"
-                    HEIGHT="55">
-            <Shape><Polygon POINTS="336 1896 336 1911 1746 1910 1747 1890 1744 1865 1422 1856 1420 1856 1419 1856 1390 1865 1139 1858 1137 1858 1037 1866 468 1861 466 1861 335 1870 336 1896"/></Shape>
-	    <String CONTENT="regne in tyme ot pees and ot suche rewelyng in tyme ot werre. þanne it"
-                    HPOS="335"
-                    VPOS="1856"
-                    WIDTH="1412"
-                    HEIGHT="55"
-                    WC="0.9850391609328134"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_64ddb1df"
-                    TAGREFS="LT6926"
-                    BASELINE="335 1953 1746 1941" 
-                    HPOS="333"
-                    VPOS="1908"
+                    BASELINE="328 611 1741 611" 
+                    HPOS="327"
+                    VPOS="577"
                     WIDTH="1413"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="335 1953 335 1966 527 1975 528 1975 737 1966 842 1963 855 1966 872 1971 873 1971 875 1971 910 1966 947 1961 1064 1966 1115 1968 1117 1968 1132 1966 1174 1960 1292 1966 1339 1968 1340 1968 1359 1966 1415 1958 1432 1966 1434 1966 1435 1966 1437 1966 1444 1966 1482 1958 1492 1966 1494 1966 1495 1966 1497 1966 1744 1965 1746 1941 1742 1916 1545 1908 1544 1908 1542 1908 1540 1908 1530 1916 1350 1910 1349 1910 1347 1910 1345 1910 1335 1918 1200 1911 1199 1911 1137 1920 343 1918 341 1918 340 1918 338 1918 338 1920 333 1923 335 1953"/></Shape>
-	    <String CONTENT="is to wetynge þat as in a tyme ot werre a cite scholde be defended by"
-                    HPOS="333"
-                    VPOS="1908"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="327 610 327 627 1737 635 1740 610 1740 577 327 577 327 610"/></Shape>
+	    <String CONTENT="wyfes as seruantes. Bot þat is more vnsemelich for kynges and princes,"
+                    HPOS="327"
+                    VPOS="577"
                     WIDTH="1413"
-                    HEIGHT="67"
-                    WC="0.9988618959551272"></String>
+                    HEIGHT="58"
+                    WC="0.9976797895772117"></String>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_3b10c837"
+          <TextLine ID="eSc_line_6f25d791"
                     TAGREFS="LT6926"
-                    BASELINE="333 2006 1749 2000" 
-                    HPOS="331"
-                    VPOS="1968"
-                    WIDTH="1418"
+                    BASELINE="336 666 1747 666" 
+                    HPOS="336"
+                    VPOS="633"
+                    WIDTH="1411"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="336 666 336 681 1747 681 1747 666 1746 633 336 638 336 666"/></Shape>
+	    <String CONTENT="for it is more vnsemelich þat þei ben barbarus and lacke wit and"
+                    HPOS="336"
+                    VPOS="633"
+                    WIDTH="1411"
+                    HEIGHT="48"
+                    WC="0.9960040664300323"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ece6fc5c"
+                    TAGREFS="LT6926"
+                    BASELINE="338 723 1746 718" 
+                    HPOS="336"
+                    VPOS="688"
+                    WIDTH="1410"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="338 723 338 738 1744 735 1746 718 1742 688 506 688 505 688 336 696 338 723"/></Shape>
+	    <String CONTENT="resoun. þanne by kynde ordre it is declared þat rewlyng coniugale and"
+                    HPOS="336"
+                    VPOS="688"
+                    WIDTH="1410"
+                    HEIGHT="50"
+                    WC="0.9942320922146672"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4d881bf"
+                    TAGREFS="LT6926"
+                    BASELINE="338 780 1741 775" 
+                    HPOS="336"
+                    VPOS="740"
+                    WIDTH="1405"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="338 780 338 795 1739 790 1741 775 1737 750 1664 740 1662 740 1661 740 1659 740 1646 750 1524 750 1500 740 1499 740 1497 740 1495 740 1494 740 1482 750 1394 750 1335 740 1334 740 1332 740 1309 748 1284 740 1282 740 1280 740 1279 740 1277 740 1265 750 1008 741 1007 741 850 750 805 741 803 741 802 741 800 741 782 751 421 743 420 743 336 753 338 780"/></Shape>
+	    <String CONTENT="rewlyng seruyle ben diuerse and þat wifes scholde not be ivsed as"
+                    HPOS="336"
+                    VPOS="740"
+                    WIDTH="1405"
+                    HEIGHT="55"
+                    WC="0.9982148766517639"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cecea9ab"
+                    TAGREFS="LT6926"
+                    BASELINE="338 836 1761 830" 
+                    HPOS="335"
+                    VPOS="797"
+                    WIDTH="1425"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="337 835 337 852 1757 847 1760 830 1752 797 335 800 337 835"/></Shape>
+	    <String CONTENT="seruantes; by rewelyng coniugale þe housebonde rewleþ þe wif and!"
+                    HPOS="335"
+                    VPOS="797"
+                    WIDTH="1425"
+                    HEIGHT="55"
+                    WC="0.9882225137490492"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7967b49a"
+                    TAGREFS="LT6926"
+                    BASELINE="328 893 1320 888" 
+                    HPOS="325"
+                    VPOS="855"
+                    WIDTH="992"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="327 892 327 910 1317 910 1317 887 1310 855 325 857 327 892"/></Shape>
+	    <String CONTENT="by rewelyng seruyle þe lord rewleth his seruantes."
+                    HPOS="325"
+                    VPOS="855"
+                    WIDTH="992"
+                    HEIGHT="55"
+                    WC="0.9890148878097534"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4ebccc9"
+                    TAGREFS="LT6926"
+                    BASELINE="390 943 1739 946" 
+                    HPOS="388"
+                    VPOS="908"
+                    WIDTH="1351"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="390 943 388 955 1736 958 1739 946 1737 920 1646 910 1644 910 1575 918 1572 918 1570 918 1482 910 1480 910 953 916 952 916 940 908 938 908 937 908 935 908 888 916 887 918 628 918 627 916 613 908 612 908 610 908 608 908 607 908 582 916 580 918 431 918 430 916 420 908 418 908 416 908 415 908 413 908 390 915 390 943"/></Shape>
+	    <String CONTENT="þe seconde wey to preue þe same is itake by perfeccioun of hous."
+                    HPOS="388"
+                    VPOS="908"
+                    WIDTH="1351"
+                    HEIGHT="50"
+                    WC="0.9991338476538658"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b7d9ee0"
+                    TAGREFS="LT6926"
+                    BASELINE="338 1000 1739 1000" 
+                    HPOS="338"
+                    VPOS="973"
+                    WIDTH="1401"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="338 1000 338 1016 1739 1016 1739 1000 1739 973 338 973 338 1000"/></Shape>
+	    <String CONTENT="For an hous semeth vnparfit wiþ scarsete ot thinges and not suffisaunt"
+                    HPOS="338"
+                    VPOS="973"
+                    WIDTH="1401"
+                    HEIGHT="43"
+                    WC="0.9904964659895216"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e36021c"
+                    TAGREFS="LT6926"
+                    BASELINE="336 1056 1741 1050" 
+                    HPOS="335"
+                    VPOS="1021"
+                    WIDTH="1406"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="336 1056 336 1070 1741 1063 1741 1050 1737 1025 355 1021 353 1021 351 1021 335 1028 336 1056"/></Shape>
+	    <String CONTENT="to hitself in leuynge aif wif and seruant hauen the same ordre. þerfore"
+                    HPOS="335"
+                    VPOS="1021"
+                    WIDTH="1406"
+                    HEIGHT="49"
+                    WC="0.9957231434298234"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4247c1d7"
+                    TAGREFS="LT6926"
+                    BASELINE="335 1113 1734 1105" 
+                    HPOS="333"
+                    VPOS="1071"
+                    WIDTH="1401"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="335 1113 335 1128 1732 1126 1734 1105 1729 1081 1419 1081 1404 1071 1402 1071 1400 1071 1355 1071 1354 1071 1352 1071 1324 1081 1299 1071 1297 1071 1295 1071 1294 1071 1257 1081 1209 1071 1207 1071 1205 1071 1204 1071 1189 1083 967 1083 898 1073 897 1073 895 1073 893 1073 878 1085 627 1075 625 1075 563 1086 542 1076 540 1076 445 1076 443 1076 441 1076 440 1076 428 1085 396 1076 395 1076 393 1076 391 1076 390 1076 380 1085 350 1076 348 1076 346 1076 345 1076 343 1076 343 1078 333 1085 335 1113"/></Shape>
+	    <String CONTENT="it is iseid, vi Poleticorum, þat pore men, [for þeil hauen not many"
+                    HPOS="333"
+                    VPOS="1071"
+                    WIDTH="1401"
+                    HEIGHT="57"
+                    WC="0.9946671306197323"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8c6c08d"
+                    TAGREFS="LT6926"
+                    BASELINE="328 1171 1737 1163" 
+                    HPOS="325"
+                    VPOS="1132"
+                    WIDTH="1410"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="327 1170 327 1185 1732 1187 1735 1162 1727 1132 325 1137 327 1170"/></Shape>
+	    <String CONTENT="seruantes noþer plente ot thinges þat nedeþ to þe perfeccioun ot an"
+                    HPOS="325"
+                    VPOS="1132"
+                    WIDTH="1410"
+                    HEIGHT="55"
+                    WC="0.997757605652311"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e0a849eb"
+                    TAGREFS="LT6926"
+                    BASELINE="335 1225 1494 1221" 
+                    HPOS="333"
+                    VPOS="1186"
+                    WIDTH="1161"
                     HEIGHT="52">
-            <Shape><Polygon POINTS="333 2006 333 2020 1749 2013 1749 2000 1746 1970 753 1968 752 1968 331 1978 333 2006"/></Shape>
-	    <String CONTENT="armere, so in tyme ot pees þei scholde be reweled by rintful lawes and"
-                    HPOS="331"
-                    VPOS="1968"
-                    WIDTH="1418"
+            <Shape><Polygon POINTS="335 1225 335 1238 1492 1235 1494 1221 1490 1195 913 1186 912 1186 910 1186 908 1186 895 1195 346 1188 345 1188 343 1188 341 1188 333 1193 335 1225"/></Shape>
+	    <String CONTENT="hous, þei vsen here wifes and children as it were seruantes."
+                    HPOS="333"
+                    VPOS="1186"
+                    WIDTH="1161"
                     HEIGHT="52"
-                    WC="0.9896795187677656"></String>
+                    WC="0.9958465188741684"></String>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_35a1617a"
+          <TextLine ID="eSc_line_7f044018"
                     TAGREFS="LT6926"
-                    BASELINE="313 2061 1744 2053" 
-                    HPOS="310"
-                    VPOS="2022"
-                    WIDTH="1432"
-                    HEIGHT="53">
-            <Shape><Polygon POINTS="312 2060 312 2075 1742 2067 1742 2052 1735 2022 310 2027 312 2060"/></Shape>
-	    <String CONTENT="vsages þat ben apreued and hauen strengþe ot lawe. þanne it semeþ"
-                    HPOS="310"
-                    VPOS="2022"
-                    WIDTH="1432"
-                    HEIGHT="53"
-                    WC="0.9903498062720666"></String>
+                    BASELINE="388 1278 1737 1278" 
+                    HPOS="388"
+                    VPOS="1241"
+                    WIDTH="1349"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="388 1278 388 1291 1736 1293 1737 1278 1737 1251 1489 1241 1487 1241 1485 1241 1484 1241 1472 1250 1422 1241 1420 1241 1345 1250 1314 1241 1312 1241 1310 1241 1244 1250 1219 1241 1217 1241 1215 1241 1127 1250 1102 1241 1100 1241 1099 1241 1050 1250 1027 1241 1025 1241 1023 1241 977 1250 967 1241 965 1241 963 1241 883 1241 882 1241 880 1241 852 1250 783 1241 782 1241 780 1241 762 1250 740 1241 738 1241 737 1241 735 1241 733 1241 722 1251 592 1251 511 1241 510 1241 508 1241 488 1250 468 1241 466 1241 465 1241 463 1241 428 1250 406 1241 405 1241 403 1241 401 1241 400 1241 388 1248 388 1278"/></Shape>
+	    <String CONTENT="þe þridde mene is itake by þat þat housebonde and wif ben peres."
+                    HPOS="388"
+                    VPOS="1241"
+                    WIDTH="1349"
+                    HEIGHT="52"
+                    WC="0.9922878798097372"></String>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_a687afbf"
+          <TextLine ID="eSc_line_2517b191"
                     TAGREFS="LT6926"
-                    BASELINE="335 2116 1570 2110" 
+                    BASELINE="335 1335 1734 1328" 
                     HPOS="333"
-                    VPOS="2073"
-                    WIDTH="1237"
+                    VPOS="1295"
+                    WIDTH="1401"
                     HEIGHT="55">
-            <Shape><Polygon POINTS="335 2116 335 2128 1569 2123 1570 2110 1567 2083 1444 2073 1442 2073 1440 2073 1439 2073 1429 2083 1290 2083 1262 2073 1260 2073 1259 2073 1257 2073 1255 2073 1255 2075 1245 2083 1059 2075 1057 2075 1055 2075 1020 2083 952 2075 950 2075 948 2075 928 2085 908 2076 907 2076 905 2076 903 2076 887 2085 748 2076 747 2076 610 2086 582 2078 580 2078 578 2078 577 2078 555 2088 415 2088 345 2078 343 2078 341 2078 340 2078 340 2080 333 2085 335 2116"/></Shape>
-	    <String CONTENT="þat armere in tyme ot werre is ilikned to lawes in tyme ot pees."
+            <Shape><Polygon POINTS="335 1335 335 1350 1732 1348 1734 1328 1732 1305 1694 1295 1692 1295 1691 1295 1689 1295 1669 1303 1649 1296 1647 1296 1646 1296 1377 1305 1137 1296 1135 1296 1084 1305 1033 1296 1032 1296 1030 1296 1028 1296 1015 1306 685 1298 683 1298 682 1298 680 1298 665 1306 343 1300 341 1300 340 1300 338 1300 338 1301 333 1305 335 1335"/></Shape>
+	    <String CONTENT="For þei þe housebonde be aboue þe wif, he can more resoun; 3it he"
                     HPOS="333"
-                    VPOS="2073"
-                    WIDTH="1237"
+                    VPOS="1295"
+                    WIDTH="1401"
                     HEIGHT="55"
-                    WC="0.9808770483359694"></String>
+                    WC="0.9939221024513245"></String>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_f23cde40"
+          <TextLine ID="eSc_line_21854248"
                     TAGREFS="LT6926"
-                    BASELINE="388 2166 1746 2161" 
-                    HPOS="386"
-                    VPOS="2130"
-                    WIDTH="1360"
-                    HEIGHT="51">
-            <Shape><Polygon POINTS="388 2166 388 2181 1744 2176 1746 2161 1742 2136 840 2130 838 2130 837 2130 818 2138 400 2131 398 2131 396 2131 395 2131 386 2136 388 2166"/></Shape>
-	    <String CONTENT="For it is iknowe þat in tyme ot [pees] cite and regne scholde be"
-                    HPOS="386"
-                    VPOS="2130"
-                    WIDTH="1360"
-                    HEIGHT="51"
-                    WC="0.9934852067381144"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_39b5e57e"
-                    TAGREFS="LT6926"
-                    BASELINE="333 2218 1747 2218" 
-                    HPOS="333"
-                    VPOS="2193"
-                    WIDTH="1414"
-                    HEIGHT="42">
-            <Shape><Polygon POINTS="333 2218 333 2235 1747 2235 1747 2218 1747 2193 333 2193 333 2218"/></Shape>
-	    <String CONTENT="reweled by riȝtful lawes and vsages apreued, it may be sone iknowe"
-                    HPOS="333"
-                    VPOS="2193"
-                    WIDTH="1414"
-                    HEIGHT="42"
-                    WC="0.9890670478343964"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_cc968ebb"
-                    TAGREFS="LT6926"
-                    BASELINE="331 2275 1737 2271" 
-                    HPOS="330"
-                    VPOS="2238"
-                    WIDTH="1407"
-                    HEIGHT="53">
-            <Shape><Polygon POINTS="331 2275 331 2288 1734 2291 1737 2271 1734 2245 343 2238 341 2238 340 2238 338 2238 330 2243 331 2275"/></Shape>
-	    <String CONTENT="how many thinges moste be iknowe in suche rewelyng. [And it semeþ,"
-                    HPOS="330"
-                    VPOS="2238"
-                    WIDTH="1407"
-                    HEIGHT="53"
-                    WC="0.996555605621049"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_65278a5c"
-                    TAGREFS="LT6926"
-                    BASELINE="313 2331 1744 2323" 
-                    HPOS="310"
-                    VPOS="2285"
-                    WIDTH="1432"
-                    HEIGHT="62">
-            <Shape><Polygon POINTS="312 2330 312 2347 1742 2347 1742 2322 1737 2292 785 2285 782 2285 310 2297 312 2330"/></Shape>
-	    <String CONTENT="iii Poleticorum, þe philosopher toucheþ foure þat moste be knowe in"
-                    HPOS="310"
-                    VPOS="2285"
-                    WIDTH="1432"
-                    HEIGHT="62"
-                    WC="0.9953491581020071"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_5a416e13"
-                    TAGREFS="LT6926"
-                    BASELINE="331 2385 1746 2385" 
+                    BASELINE="333 1391 1734 1386" 
                     HPOS="331"
-                    VPOS="2346"
-                    WIDTH="1415"
+                    VPOS="1351"
+                    WIDTH="1403"
                     HEIGHT="54">
-            <Shape><Polygon POINTS="331 2385 331 2396 1744 2400 1746 2385 1746 2356 1704 2346 1702 2346 1661 2355 1647 2346 1646 2346 1644 2346 1642 2346 1195 2355 1172 2346 1170 2346 1169 2346 1099 2355 1067 2346 1065 2346 1064 2346 983 2355 958 2346 957 2346 955 2346 897 2355 870 2346 868 2346 867 2346 813 2355 762 2346 760 2346 758 2346 757 2346 745 2356 675 2356 583 2346 582 2346 580 2346 553 2355 525 2346 523 2346 521 2346 520 2346 498 2355 441 2346 440 2346 331 2355 331 2385"/></Shape>
-	    <String CONTENT="rewelyng] ot cite; and þes ben þe prince, þe counsaile, þe gelde halle,"
+            <Shape><Polygon POINTS="333 1391 333 1405 1732 1403 1734 1386 1731 1361 1372 1351 1370 1351 1369 1351 1349 1360 1322 1351 1320 1351 1319 1351 1264 1361 1230 1353 1229 1353 1227 1353 1059 1361 1045 1353 1043 1353 1042 1353 905 1353 903 1353 902 1353 868 1361 817 1353 815 1353 813 1353 812 1353 793 1363 381 1355 380 1355 331 1365 333 1391"/></Shape>
+	    <String CONTENT="scholde not be so moche aboue here þat he scholde vse here as a"
                     HPOS="331"
-                    VPOS="2346"
-                    WIDTH="1415"
+                    VPOS="1351"
+                    WIDTH="1403"
                     HEIGHT="54"
-                    WC="0.9881182145064985"></String>
+                    WC="0.9898538144807967"></String>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_6997b64d"
+          <TextLine ID="eSc_line_5befc527"
                     TAGREFS="LT6926"
-                    BASELINE="330 2436 1780 2440" 
+                    BASELINE="328 1450 1737 1440" 
                     HPOS="325"
-                    VPOS="2400"
-                    WIDTH="1452"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="327 2435 325 2447 1772 2457 1777 2440 1775 2405 327 2400 327 2435"/></Shape>
-	    <String CONTENT="and þe puple. And by selue lawes by þe whiche a citee] scholde be"
+                    VPOS="1407"
+                    WIDTH="1410"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="327 1450 327 1465 1732 1462 1735 1440 1727 1407 325 1415 327 1450"/></Shape>
+	    <String CONTENT="seruant but as a felawe. For þe housebonde is not so moche aboue þe"
                     HPOS="325"
-                    VPOS="2400"
-                    WIDTH="1452"
-                    HEIGHT="57"
-                    WC="0.9853696731420664"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_8a594ab6"
-                    TAGREFS="LT6926"
-                    BASELINE="333 2493 1744 2488" 
-                    HPOS="331"
-                    VPOS="2458"
-                    WIDTH="1413"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="333 2493 333 2506 567 2506 580 2515 582 2515 583 2515 585 2515 687 2506 757 2515 758 2515 837 2505 980 2513 982 2513 1145 2505 1192 2513 1194 2513 1195 2513 1197 2513 1209 2505 1606 2511 1607 2511 1609 2511 1611 2511 1624 2503 1726 2511 1727 2511 1729 2511 1731 2511 1744 2501 1744 2488 1741 2463 436 2458 435 2458 331 2466 333 2493"/></Shape>
-	    <String CONTENT="reweled in tyme ot pees we may preue by twey weyes þat þes foure"
-                    HPOS="331"
-                    VPOS="2458"
-                    WIDTH="1413"
-                    HEIGHT="57"
-                    WC="0.9781074160709977"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_9eca58e1"
-                    TAGREFS="LT6926"
-                    BASELINE="333 2548 1741 2541" 
-                    HPOS="331"
-                    VPOS="2510"
+                    VPOS="1407"
                     WIDTH="1410"
-                    HEIGHT="51">
-            <Shape><Polygon POINTS="333 2548 333 2561 1739 2560 1741 2541 1737 2516 1037 2510 1035 2510 1033 2510 1005 2518 697 2511 695 2511 693 2511 692 2511 678 2520 430 2513 428 2513 331 2521 333 2548"/></Shape>
-	    <String CONTENT="moste be knowe in rewelyng ot citee in tyme ot pees. þe first wey is"
-                    HPOS="331"
-                    VPOS="2510"
-                    WIDTH="1410"
-                    HEIGHT="51"
-                    WC="0.9872274828307769"></String>
+                    HEIGHT="58"
+                    WC="0.9932801216395933"></String>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_4901c560"
+          <TextLine ID="eSc_line_6c02b8e3"
                     TAGREFS="LT6926"
-                    BASELINE="313 2605 1741 2595" 
-                    HPOS="310"
-                    VPOS="2552"
-                    WIDTH="1430"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="312 2605 312 2622 1737 2620 1740 2595 1735 2565 1380 2552 1377 2552 1375 2552 1372 2552 1372 2555 1360 2565 670 2557 667 2557 337 2560 335 2560 310 2570 312 2605"/></Shape>
-	    <String CONTENT="itake by thinges þat nedeþ to lawe; þe seconde, by þe ende wherfore"
-                    HPOS="310"
-                    VPOS="2552"
-                    WIDTH="1430"
-                    HEIGHT="70"
-                    WC="0.9968911400481836"></String>
+                    BASELINE="336 1500 1737 1496" 
+                    HPOS="335"
+                    VPOS="1463"
+                    WIDTH="1402"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="336 1500 336 1513 1734 1516 1737 1496 1734 1471 1072 1463 1070 1463 1007 1471 383 1465 381 1465 335 1473 336 1500"/></Shape>
+	    <String CONTENT="wif as þe lord is aboue þe seruant, but þe housebonde and wif ben"
+                    HPOS="335"
+                    VPOS="1463"
+                    WIDTH="1402"
+                    HEIGHT="53"
+                    WC="0.9958148195193364"></String>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_b2aeb01a"
+          <TextLine ID="eSc_line_938410cd"
                     TAGREFS="LT6926"
-                    BASELINE="333 2658 677 2658" 
-                    HPOS="333"
-                    VPOS="2625"
-                    WIDTH="344"
-                    HEIGHT="51">
-            <Shape><Polygon POINTS="333 2658 333 2676 677 2676 677 2658 675 2625 333 2626 333 2658"/></Shape>
-	    <String CONTENT="þe lawe is imaad."
-                    HPOS="333"
-                    VPOS="2625"
-                    WIDTH="344"
-                    HEIGHT="51"
-                    WC="0.9775320466826943"></String>
+                    BASELINE="338 1555 892 1558" 
+                    HPOS="336"
+                    VPOS="1526"
+                    WIDTH="556"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="338 1555 336 1566 888 1573 892 1558 890 1530 338 1526 338 1555"/></Shape>
+	    <String CONTENT="acounted peres in som wise."
+                    HPOS="336"
+                    VPOS="1526"
+                    WIDTH="556"
+                    HEIGHT="47"
+                    WC="0.9973056978649564"></String>
           </TextLine>
 
           
         </TextBlock>
         
-        <TextBlock HPOS="20"
-                   VPOS="1546"
-                   WIDTH="5"
-                   HEIGHT="45"
-                   ID="eSc_textblock_a797ce70"
+        <TextBlock HPOS="1132"
+                   VPOS="240"
+                   WIDTH="437"
+                   HEIGHT="31"
+                   ID="eSc_textblock_382e2ac7"
                    TAGREFS="BT19261">
-          <Shape><Polygon POINTS="25 1591 20 1591 20 1546 23 1546"/></Shape>
+          <Shape><Polygon POINTS="1482 240 1569 265 1132 271 1132 253 1280 240"/></Shape>
           
         </TextBlock>
         
