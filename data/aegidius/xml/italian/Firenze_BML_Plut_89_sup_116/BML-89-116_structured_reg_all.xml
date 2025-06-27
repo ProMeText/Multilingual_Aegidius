@@ -1060,7 +1060,7 @@
    <text>
       <body>
             <div n="1" type="livre">
-                  <div n="1.2" type="partie">
+                  <div n="2" type="partie">
                         <div n="1" type="chapitre">
                               <pb n="" facs="../input_files/it0.jpg"/>
                               <head n="LzTDRrxe"><lb break="yes"
@@ -1353,7 +1353,7 @@
                   </div>
             </div>
          <div type="livre" n="2">
-            <div type="partie" n="2.1">
+            <div type="partie" n="1">
                <div type="chapitre" n="14" rend="11">
                   <pb facs="#400.jpg"/>
                   <head>
@@ -1774,7 +1774,7 @@
             </div>
          </div>
          <div type="livre" n="3">
-            <div type="partie" n="3.2">
+            <div type="partie" n="2">
                <div type="table">
                   <pb facs="#471.jpg"/>
                   <p>
@@ -2112,7 +2112,10 @@
 
       
       
-      <lb facs="#eSc_line_298db0f6"/>isperimentato di molte huopare et di molti fatti humani per meglio inuesti<lb break="no" facs="#eSc_line_13a3dd1d"/>gare et meglio giudicare le cause donde e si deghono autro mettere. Il xxi. ca<lb break="no" facs="#eSc_line_42ea372e"/>pitolo insegnia Quante cose et alle quagli e conuiene che li giudici mirino
+      <lb facs="#eSc_line_298db0f6"/>isperimentato di molte huopare et di molti fatti humani per meglio inuesti<lb break="no" facs="#eSc_line_13a3dd1d"/>gare et meglio giudicare le cause donde e si deghono autro mettere.
+                  </p></div>
+                  <div type="chapitre" n="21">
+                        Il xxi. ca<lb break="no" facs="#eSc_line_42ea372e"/>pitolo insegnia Quante cose et alle quagli e conuiene che li giudici mirino
 
       
       

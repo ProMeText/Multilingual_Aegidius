@@ -1906,7 +1906,7 @@
    <text>
       <body>
             <div n="1" type="livre">
-                  <div n="1.2" type="partie">
+                  <div n="1" type="partie">
                         <div n="1" type="chapitre">
                               <pb n="" facs="../input_files/fr0.jpg"/>
                               <head n="LzTDRrxe"><lb break="yes" facs="#facs_eSc_line_3afc1275" n="eVX9Cx"
@@ -2199,8 +2199,8 @@
                         </div>
                   </div>
             </div>
-         <div type="partie" n="2">
-            <div type="livre" n="">
+         <div type="livre" n="2">
+            <div type="partie" n="1">
                <div type="chapitre" n="14" rend="11">
                   <head>
                      <pb facs="#124.jpg"/>
@@ -3009,7 +3009,7 @@
             </div>
          </div>
          <div type="livre" n="3">
-            <div type="partie" n="3.2">
+            <div type="partie" n="2">
                <div type="table">
                   <pb facs="#217.jpg"/>
                   <p>

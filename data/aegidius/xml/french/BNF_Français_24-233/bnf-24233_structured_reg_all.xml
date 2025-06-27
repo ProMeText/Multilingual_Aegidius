@@ -2158,7 +2158,7 @@
    <text>
       <body>
             <div n="1" type="livre">
-                  <div n="1.2" type="partie">
+                  <div n="2" type="partie">
                         <div n="1" type="chapitre"><pb n="" facs="../input_files/gauch0.jpg"/><head n="LzTDRrxe"
                                     ><lb break="yes" facs="#facs_eSc_line_f00266e5" n="xiojds"
                                           xml:id="elem_eSc_line_f00266e5"/>Ce. primier cahpitre de la secunde partie du primier<lb
@@ -2405,7 +2405,7 @@
                   </div>
             </div>
          <div type="livre" n="2">
-            <div type="partie" n="2.1">
+            <div type="partie" n="1">
                <div type="chapitre" n="14" rend="11">
                   <pb facs="#50.jpg"/>
                   <head>
@@ -3041,7 +3041,7 @@
             </div>
          </div>
          <div type="livre" n="3">
-            <div type="partie" n="3.2">
+            <div type="partie" n="2">
                <div type="table">
                   <pb facs="#86.jpg"/>
                   <p>

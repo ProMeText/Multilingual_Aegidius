@@ -1558,7 +1558,7 @@
    <text>
       <body>
             <div n="1" type="livre">
-                  <div n="1.2" type="partie">
+                  <div n="2" type="partie">
                         <div n="1" type="chapitre">
                               <pb n="" facs="../input_files/ars0.jpg"/>
                               <p n="jjnPUymf">A<lb break="no" facs="#facs_eSc_line_a01bd21f" n="zUcJW3" xml:id="elem_eSc_line_a01bd21f"/>Pres que par laide de dieu auons acompli la
@@ -1721,7 +1721,7 @@
                   </div>
             </div>
          <div n="2" type="livre">
-            <div n="2.1" type="partie">
+            <div n="1" type="partie">
                <div n="14" type="chapitre">
                   <head>
                      <pb facs="#197.jpg"/>
@@ -2435,7 +2435,7 @@
             </div>
          </div>
          <div type="livre" n="3">
-            <div n="3.2" type="partie">
+            <div n="2" type="partie">
                <pb facs="#340.jpg"/>
                <head>
                   <lb facs="#eSc_line_2ddb7593" break="yes"/>¶ycy finist la premiere partie du tiers liure. et commance la ii.ͤ</head>
