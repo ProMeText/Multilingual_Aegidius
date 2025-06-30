@@ -156,17 +156,17 @@ Segmentation is guided by the following core principles:
 
 ### 🌍 Language-Specific Heuristics
 
-Each language in the corpus has its own set of **typical delimiters**, drawn from recurrent **conjunctions**, **relative pronouns**, **discourse markers**, and **prepositional phrases**. These were defined empirically and encoded in [`main-word-delimiters.json`](https://github.com/carolisteia/mulada/blob/main/data/main-word-delimiters.json).
+Each language in the corpus has its own set of **typical delimiters**, drawn from recurrent **conjunctions**, **relative pronouns**, **discourse markers**, and **prepositional phrases**. These were defined empirically and encoded in [`main-word-delimiters.json`](https://github.com/ProMeText/Multilingual_Aegidius/blob/main/data/segmentation_data/no_split/main-word-delimiters.json)).
 
 Some representative examples:
 
 - **Latin**: `quod`, `cum`, `ut`, `et`, `sed`, `aut`  
-- **French**: `car`, `mais`, `ains`, `quant`, `donct`, `si`  
+- **French**: `car`, `mais`, `ains`, `quant`, `donc`, `si`  
 - **Castilian**: `pues`, `porque`, `aunque`, `cuando`, `entonces`, `si`  
 - **Italian**: `che`, `perché`, `dunque`, `anzi`, `ma`, `poi`  
 - **Catalan**: `que`, `car`, `per això`, `adonchs`, `pus que`, `emperò`  
 - **English**: `þat`, `and þat`, `also`, `whan`, `so þat`
-- **Portuguese**: `porquuoanto`, `desy`, `todavya`, `outrossy"`, `bẽ assy como` ...
+- **Portuguese**: `porquuoanto`, `desy`, `todavya`, `outrossy`, `bẽ assy como` ...
 
 ### 🧠 Annotation Guidelines
 

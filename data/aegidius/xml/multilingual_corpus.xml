@@ -50,8 +50,8 @@
           </sourceDesc>
         </fileDesc>
       </teiHeader>
-      <!--<xi:include href="latin/Rome_1607/collatex/Rome_W.xml"
-        xmlns:xi="http://www.w3.org/2001/XInclude"/>-->
+      <xi:include href="latin/Rome_1607/collatex/Rome_W.xml"
+        xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!--<xi:include
         href="latin/Bevilacqua_1498/sortie_HTR/collatex/bevilaqua_1498_out.struct.tokenized.xml"
         xmlns:xi="http://www.w3.org/2001/XInclude"/>
@@ -59,8 +59,8 @@
         xmlns:xi="http://www.w3.org/2001/XInclude"/>-->
       <!-- <xi:include href="latin/Planck_1482/sortie_HTR/collatex/planck_1482_out.struct.tokenized.xml"
         xmlns:xi="http://www.w3.org/2001/XInclude"/>-->
-      <xi:include href="latin/Roma_1556/sortie_HTR/collatex/rome_1556_out.struct.tokenized.xml"
-        xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <!--<xi:include href="latin/Roma_1556/sortie_HTR/collatex/rome_1556_out.struct.tokenized.xml"
+        xmlns:xi="http://www.w3.org/2001/XInclude"/>-->
       <!-- <xi:include href="latin/zainer_1473/sortie_HTR/collatex/zainer_1473_out.struct.tokenized.xml"
         xmlns:xi="http://www.w3.org/2001/XInclude"/>-->
       <!--<xi:include
@@ -90,8 +90,8 @@
       <!--<xi:include
         href="latin/Cambridge_Corpus_Christi_College_MS_283/sortie_HTR/collatex/Cambridge_Corpus_Christi_College_MS_283_out.struct.tokenized.xml"
         xmlns:xi="http://www.w3.org/2001/XInclude"/>-->
-      <!--<xi:include href="latin/Lille_696/sortie_HTR/collatex/Lille_696_out.struct.tokenized.xml"
-        xmlns:xi="http://www.w3.org/2001/XInclude"/>-->
+      <xi:include href="latin/Lille_696/sortie_HTR/collatex/Lille_696_out.struct.tokenized.xml"
+        xmlns:xi="http://www.w3.org/2001/XInclude"/>
     </TEI>
     <TEI type="corpus" xml:lang="es">
       <teiHeader>
@@ -175,8 +175,7 @@
           </sourceDesc>
         </fileDesc>
       </teiHeader>
-      <xi:include
-        href="french/BNF_Arsenal_5062/sortie_HTR/BNF_Arsenal_5062_out.replaced.expanded.xml"
+      <xi:include href="french/BNF_Arsenal_5062/arsenal-5062_structured_reg_all_full.xml"
         xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- <xi:include
         href="french/BNF_Fran%C3%A7ais_1203/sortie_HTR/BNF_Fran%C3%A7ais_1203_out.replaced.expanded.xml"

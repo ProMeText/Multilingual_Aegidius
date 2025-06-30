@@ -1,7 +1,11 @@
-![Corpus Overview](docs/images/project_logo.png)
 
+
+<p align="left">   <img src="docs/images/logo-cropped.svg" alt="Corpus Overview" width="600"/> </p>
 
 # 📜 Multilingual alignment and collation of the *De Regimine Principum* in Latin and vernacular 🌍
+
+
+
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC--BY--NC--SA--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Last Commit](https://img.shields.io/github/last-commit/ProMeText/Multilingual_Aegidius)](https://github.com/ProMeText/Multilingual_Aegidius/commits/main)
@@ -75,7 +79,7 @@ To support the development of robust segmentation and alignment models, the proj
 📄 **Documentation**  
 For detailed dataset guidelines, see:  
 - [Segmentation Dataset Documentation](docs/segmentation_corpus.md)  
-- [Alignment Dataset Documentation](docs/alignment.md)
+- [Alignment Dataset Documentation](docs/alignement_corpus.md)
 
 ---
 
