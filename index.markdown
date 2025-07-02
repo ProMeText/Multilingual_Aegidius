@@ -49,6 +49,3 @@ Vous pouvez accéder aux différentes tables de collation à partir de cette pag
 - Livre 2, partie 1, chapitre 15: [ici](data/aegidius/results/multilingual_tables_gauchy/livre_2/partie_1/chapitre_15/final_result.html)
 - Livre 2, partie 1, chapitre 24: [ici](data/aegidius/results/multilingual_tables_gauchy/livre_2/partie_1/chapitre_24/final_result.html)
 
-
-- Livre 3, partie 2, chapitre 1: [ici](data/aegidius/results/multilingual_tables_ft/livre_3/partie_2/chapitre_1/final_result.html)
-- Livre 3, partie 2, chapitre 21: [ici](data/aegidius/results/multilingual_tables_ft/livre_3/partie_2/chapitre_21/final_result.html)
