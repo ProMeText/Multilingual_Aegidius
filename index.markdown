@@ -50,6 +50,11 @@ Vous pouvez accéder aux différentes tables de collation à partir de cette pag
 - Livre 3, partie 2, chapitre 1: [ici](data/aegidius/results/multilingual_tables_ft/livre_3/partie_2/chapitre_1/final_result.html)
 - Livre 3, partie 2, chapitre 21: [ici](data/aegidius/results/multilingual_tables_ft/livre_3/partie_2/chapitre_21/final_result.html)
 
+- Livre 3, partie 3, chapitre 2: [ici](data/aegidius/results/multilingual_tables_ft/livre_3/partie_3/chapitre_2/final_result.html)
+- Livre 3, partie 3, chapitre 3: [ici](data/aegidius/results/multilingual_tables_ft/livre_3/partie_3/chapitre_3/final_result.html)
+- Livre 3, partie 3, chapitre 4: [ici](data/aegidius/results/multilingual_tables_ft/livre_3/partie_3/chapitre_4/final_result.html)
+- Livre 3, partie 3, chapitre 5: [ici](data/aegidius/results/multilingual_tables_ft/livre_3/partie_3/chapitre_5/final_result.html)
+
 
 ### Tables d'alignement multilingues (LaBSE finetuné + gauchy)
 
@@ -59,4 +64,5 @@ Vous pouvez accéder aux différentes tables de collation à partir de cette pag
 - Livre 2, partie 1, chapitre 14: [ici](data/aegidius/results/multilingual_tables_gauchy/livre_2/partie_1/chapitre_14/final_result.html)
 - Livre 2, partie 1, chapitre 15: [ici](data/aegidius/results/multilingual_tables_gauchy/livre_2/partie_1/chapitre_15/final_result.html)
 - Livre 2, partie 1, chapitre 24: [ici](data/aegidius/results/multilingual_tables_gauchy/livre_2/partie_1/chapitre_24/final_result.html)
+
 
