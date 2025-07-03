@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>manuscritBC_275442_full.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15316" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15317" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15318" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15319" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15320" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15321" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15322" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15323" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15324" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15325" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15326" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15327" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15328" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15329" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT15330" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT6460" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6461" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6462" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6463" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6464" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1642"
+          HEIGHT="2182"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1642"
+                  HEIGHT="2182">
+        
+        <TextBlock HPOS="222"
+                   VPOS="1394"
+                   WIDTH="1167"
+                   HEIGHT="403"
+                   ID="eSc_textblock_08a1b782"
+                   TAGREFS="BT15320">
+          <Shape><Polygon POINTS="1355 1443 1384 1488 1389 1579 1384 1754 1350 1788 407 1797 247 1792 232 1778 242 1643 281 1624 377 1629 392 1594 382 1492 237 1472 223 1434 222 1394 1370 1394"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_28ccc3c4"
+                    TAGREFS="LT6462"
+                    BASELINE="237 1423 574 1413 876 1414 1383 1407" 
+                    HPOS="234"
+                    VPOS="1376"
+                    WIDTH="1147"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1361 1403 1343 1394 1325 1394 1307 1394 1289 1394 1271 1394 1252 1394 1234 1394 1216 1394 1198 1394 1180 1394 1161 1394 1143 1394 1125 1394 1107 1394 1089 1394 1071 1394 1052 1394 1034 1394 1016 1394 998 1394 980 1394 961 1394 943 1394 925 1394 907 1394 889 1394 871 1394 852 1394 834 1394 816 1394 798 1394 780 1394 761 1394 743 1394 725 1394 707 1394 689 1394 670 1394 652 1394 634 1394 616 1394 598 1394 580 1394 561 1394 543 1394 525 1394 507 1394 489 1394 470 1394 452 1394 434 1394 416 1394 398 1394 380 1394 361 1394 343 1394 325 1394 307 1394 289 1394 270 1394 252 1394 234 1394 236 1421 236 1441 301 1445 303 1445 325 1440 361 1432 396 1440 412 1441 414 1441 416 1441 427 1438 443 1432 458 1438 480 1445 481 1445 483 1445 560 1436 610 1429 727 1429 730 1431 740 1440 741 1440 743 1440 745 1440 796 1431 798 1431 803 1431 1225 1434 1227 1434 1380 1416 1381 1405 1376 1376 1360 1376 1361 1403"/></Shape>
+	    <String CONTENT="¶Capitol pͥmer en qual manera ciutat degya esser regda en temps de pau/. E quals coses"
+                    HPOS="234"
+                    VPOS="1376"
+                    WIDTH="1147"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_412c36d3"
+                    TAGREFS="LT6462"
+                    BASELINE="222 1459 801 1447" 
+                    HPOS="220"
+                    VPOS="1421"
+                    WIDTH="580"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="220 1436 221 1458 221 1472 301 1481 303 1481 305 1481 325 1472 327 1471 800 1467 800 1445 794 1421 229 1427 220 1436"/></Shape>
+	    <String CONTENT="e quãtes deuen esser pensades ental regiment."
+                    HPOS="220"
+                    VPOS="1421"
+                    WIDTH="580"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_694b81c9"
+                    TAGREFS="LT6460"
+                    BASELINE="398 1515 1381 1510" 
+                    HPOS="394"
+                    VPOS="1478"
+                    WIDTH="986"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="396 1514 396 1529 1378 1523 1380 1509 1376 1481 416 1478 414 1478 412 1478 394 1485 396 1514"/></Shape>
+	    <String CONTENT="E pus q̃ deus auidant nos hauẽ cõplid̃a la pͥma ꝑt da q̃st .iii. libre p̾posant algunes"
+                    HPOS="394"
+                    VPOS="1478"
+                    WIDTH="986"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a2bb503"
+                    TAGREFS="LT6460"
+                    BASELINE="398 1544 1382 1540" 
+                    HPOS="394"
+                    VPOS="1512"
+                    WIDTH="987"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="396 1543 396 1558 1331 1561 1332 1561 1381 1551 1381 1538 1376 1512 394 1516 396 1543"/></Shape>
+	    <String CONTENT="coses necessaries al ꝓfit e recitãt oppĩons de diu̾ses philosophs en lo Regimẽt de ciutat"
+                    HPOS="394"
+                    VPOS="1512"
+                    WIDTH="987"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4d08ed6"
+                    TAGREFS="LT6460"
+                    BASELINE="398 1573 1374 1571" 
+                    HPOS="394"
+                    VPOS="1547"
+                    WIDTH="978"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="396 1572 396 1589 1371 1585 1372 1569 1369 1547 394 1547 396 1572"/></Shape>
+	    <String CONTENT="e de Regne/ Roman ara atractar dełs alt̾s dues ꝑtides ço es assaber del Regimẽt del Regⁿᵉ"
+                    HPOS="394"
+                    VPOS="1547"
+                    WIDTH="978"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c80a7bf"
+                    TAGREFS="LT6460"
+                    BASELINE="397 1603 1381 1603" 
+                    HPOS="396"
+                    VPOS="1576"
+                    WIDTH="984"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="396 1601 396 1620 1380 1616 1380 1601 1380 1580 396 1576 396 1601"/></Shape>
+	    <String CONTENT="e dela Cuitat en tẽps de pau/ E daq̃st regiment en tẽps de guerra o debatayla/. Deu don-"
+                    HPOS="396"
+                    VPOS="1576"
+                    WIDTH="984"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ac5d843"
+                    TAGREFS="LT6460"
+                    BASELINE="401 1631 1357 1629" 
+                    HPOS="398"
+                    VPOS="1607"
+                    WIDTH="958"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="400 1629 400 1651 1354 1645 1356 1627 1352 1607 398 1607 400 1629"/></Shape>
+	    <String CONTENT="q̃s hõ saber q̃ axi cõ en tẽps deguerra la ciutat deu esser defensada ꝑ ar mes/ axi"
+                    HPOS="398"
+                    VPOS="1607"
+                    WIDTH="958"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aabb130e"
+                    TAGREFS="LT6460"
+                    BASELINE="251 1661 1381 1659" 
+                    HPOS="249"
+                    VPOS="1632"
+                    WIDTH="1131"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="249 1638 250 1660 250 1676 1378 1674 1380 1658 1374 1632 249 1636 249 1638"/></Shape>
+	    <String CONTENT="en tẽps de pau ella deu esser gou̾nada o Regida ꝑ uistes leys e ꝑ custumes aꝓuades qͥ han força o uir-"
+                    HPOS="249"
+                    VPOS="1632"
+                    WIDTH="1131"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_73a646f7"
+                    TAGREFS="LT6460"
+                    BASELINE="248 1692 1371 1692" 
+                    HPOS="247"
+                    VPOS="1669"
+                    WIDTH="1122"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="247 1691 247 1709 1369 1709 1369 1691 1369 1669 247 1669 247 1691"/></Shape>
+	    <String CONTENT="tut de leys/ axi donq̃s par q̃ sien cõpades les armes atẽp̾s de guerra cõ les leys atẽps de pau̾. Vist"
+                    HPOS="247"
+                    VPOS="1669"
+                    WIDTH="1122"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0227d60b"
+                    TAGREFS="LT6460"
+                    BASELINE="242 1715 653 1723 1374 1720" 
+                    HPOS="241"
+                    VPOS="1692"
+                    WIDTH="1131"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="241 1714 241 1734 1371 1734 1372 1718 1369 1696 241 1692 241 1714"/></Shape>
+	    <String CONTENT="donq̃s q̃ en temps de pau la ciutat deu esser gou̾nada o regida al Regue ꝑ leys iustes e ꝑ custumes"
+                    HPOS="241"
+                    VPOS="1692"
+                    WIDTH="1131"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f118998"
+                    TAGREFS="LT6460"
+                    BASELINE="247 1752 1378 1748" 
+                    HPOS="243"
+                    VPOS="1725"
+                    WIDTH="1133"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="245 1751 245 1776 280 1787 281 1787 283 1787 285 1787 305 1776 314 1772 389 1772 398 1776 436 1792 438 1792 440 1794 512 1794 512 1792 514 1792 556 1776 598 1792 600 1792 601 1794 710 1794 710 1792 712 1792 780 1772 783 1772 785 1772 867 1791 869 1791 871 1791 872 1791 896 1772 898 1771 914 1771 1023 1780 1025 1780 1072 1771 1074 1771 1141 1783 1143 1783 1145 1783 1174 1771 1227 1791 1229 1791 1231 1791 1376 1767 1376 1747 1371 1725 243 1727 245 1751"/></Shape>
+	    <String CONTENT="aꝓuades leugamẽt pot esser maĩfestat quals costs e quãtes deuẽ eẽr põsades en tal Regimẽt. Quar"
+                    HPOS="243"
+                    VPOS="1725"
+                    WIDTH="1133"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="179"
+                   VPOS="1478"
+                   WIDTH="207"
+                   HEIGHT="150"
+                   ID="eSc_textblock_481ab31f"
+                   TAGREFS="BT15319">
+          <Shape><Polygon POINTS="382 1488 386 1603 372 1628 237 1628 179 1594 247 1478"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
