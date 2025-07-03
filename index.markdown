@@ -1,11 +1,20 @@
 # Premiers jalons de la collation multilingue du *De Regimine Principum* latin et vernaculaire
 
+## Liens vers les différents scripts permettant la réalisation de l'alignement et de la collation
+
+### Collation unilingue
+- conversion ALTO => TEI: [https://github.com/matgille/alto_to_tei](https://github.com/matgille/alto_to_tei)
+- identification de la césure à la ligne: [https://github.com/matgille/boudams_like_tokenizer](https://github.com/matgille/boudams_like_tokenizer)
+- développement des abréviations: [https://github.com/matgille/desabbreviate_XML](https://github.com/matgille/desabbreviate_XML)
+- collation unilingue: [https://github.com/matgille/tei-collator](https://github.com/matgille/tei-collator)
+
+### Collation multilingue
+- outils d'alignement multilingue: [https://github.com/ProMeText/Aquilign](https://github.com/ProMeText/Aquilign)
 
 
 ## Résultats
 
 Vous pouvez accéder aux différentes tables de collation à partir de cette page:
-
 
 ### Tables de collation du corpus latin
 
