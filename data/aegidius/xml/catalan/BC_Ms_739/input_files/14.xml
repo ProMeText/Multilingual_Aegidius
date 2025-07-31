@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>manuscritBC_275486_full(2).jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15316" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15317" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15318" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15319" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15320" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15321" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15322" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15323" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15324" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15325" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15326" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15327" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15328" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15329" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT15330" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT6460" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6461" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6462" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6463" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6464" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1645"
+          HEIGHT="2186"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1645"
+                  HEIGHT="2186">
+        
+        <TextBlock HPOS="233"
+                   VPOS="262"
+                   WIDTH="1164"
+                   HEIGHT="1529"
+                   ID="eSc_textblock_8bbb8dcf"
+                   TAGREFS="BT15320">
+          <Shape><Polygon POINTS="1160 262 1382 276 1397 310 1392 1329 1372 1399 1392 1467 1382 1762 1363 1781 247 1791 247 1588 343 1569 379 1528 372 1460 247 1456 233 1412 233 408 252 276 1160 262"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_51ccaffa"
+                    TAGREFS="LT6462"
+                    BASELINE="223 1408 1292 1394" 
+                    HPOS="280"
+                    VPOS="1367"
+                    WIDTH="1012"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="281 1420 312 1428 313 1428 363 1420 365 1420 368 1420 433 1426 434 1426 470 1419 473 1419 476 1419 515 1425 516 1425 517 1425 541 1419 546 1418 551 1419 581 1424 583 1424 617 1418 626 1417 635 1418 663 1423 664 1423 745 1417 787 1414 803 1417 828 1420 829 1420 860 1416 882 1413 1292 1413 1292 1394 1289 1369 1216 1374 1194 1369 1179 1367 1178 1367 1177 1367 1167 1371 1151 1375 1101 1371 1071 1368 1070 1368 1069 1368 1067 1368 1064 1372 1054 1377 1002 1372 971 1369 970 1369 969 1369 968 1369 964 1372 952 1379 883 1373 862 1372 861 1372 860 1372 856 1373 841 1380 745 1377 744 1377 679 1383 666 1377 665 1377 664 1377 617 1384 575 1377 567 1375 566 1375 564 1375 560 1377 530 1386 487 1386 476 1378 475 1378 473 1378 472 1378 470 1378 405 1386 371 1379 370 1379 369 1379 280 1379 281 1408"/></Shape>
+	    <String CONTENT="Capitol .ii. quals son aq̃lls regions en les quals ha meylos bataylados e de quals"
+                    HPOS="280"
+                    VPOS="1367"
+                    WIDTH="1012"
+                    HEIGHT="61"
+                    WC="0.9772866927995915"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b4d4e81"
+                    TAGREFS="LT6462"
+                    BASELINE="226 1441 739 1440 896 1431" 
+                    HPOS="283"
+                    VPOS="1407"
+                    WIDTH="613"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="284 1452 353 1452 355 1453 370 1459 371 1459 372 1459 374 1459 383 1454 393 1462 394 1462 396 1462 397 1462 476 1460 477 1460 496 1453 500 1452 504 1453 518 1460 519 1460 521 1462 564 1462 564 1460 566 1460 567 1460 577 1453 583 1450 603 1453 632 1459 634 1459 674 1453 688 1452 697 1453 716 1459 718 1459 719 1459 720 1459 738 1454 758 1448 776 1454 789 1458 790 1458 792 1458 824 1454 879 1447 891 1454 896 1431 892 1407 838 1408 837 1408 835 1408 823 1417 800 1409 799 1409 798 1409 715 1418 681 1409 680 1409 679 1409 677 1409 676 1409 659 1418 643 1409 642 1409 641 1409 640 1409 634 1409 607 1416 592 1411 589 1409 588 1409 586 1409 585 1409 584 1409 584 1411 583 1411 575 1419 530 1412 529 1412 528 1412 527 1412 483 1419 461 1412 459 1412 458 1412 456 1412 455 1412 453 1413 430 1422 372 1422 352 1414 345 1412 343 1412 342 1412 341 1412 331 1414 314 1419 308 1414 306 1412 304 1412 303 1412 302 1412 283 1414 284 1441"/></Shape>
+	    <String CONTENT="irts deuen esser elegits los homẽs guarragya dos"
+                    HPOS="283"
+                    VPOS="1407"
+                    WIDTH="613"
+                    HEIGHT="55"
+                    WC="0.9686835967764562"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d826d1a"
+                    TAGREFS="LT6460"
+                    BASELINE="387 1481 1365 1467" 
+                    HPOS="386"
+                    VPOS="1436"
+                    WIDTH="979"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="387 1481 387 1493 466 1499 467 1499 581 1492 585 1492 591 1492 793 1494 794 1494 860 1488 891 1486 903 1488 919 1491 920 1491 947 1487 971 1484 1364 1482 1365 1467 1363 1443 1314 1436 1313 1436 1312 1436 1289 1443 1280 1446 1251 1445 1189 1440 1188 1440 1144 1446 1117 1448 1093 1446 1038 1440 1037 1440 1036 1440 1013 1447 1010 1447 999 1447 914 1442 913 1442 912 1442 901 1448 896 1451 871 1448 823 1443 822 1443 790 1450 767 1454 679 1454 671 1451 666 1447 665 1447 664 1447 663 1447 639 1451 609 1456 386 1454 387 1481"/></Shape>
+	    <String CONTENT="nãt al p̃sent septany par q̃ dues cosis sien necissaries en batayla ço es assaber forteleha"
+                    HPOS="386"
+                    VPOS="1436"
+                    WIDTH="979"
+                    HEIGHT="63"
+                    WC="0.9761315834137702"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2618a31d"
+                    TAGREFS="LT6460"
+                    BASELINE="387 1511 1369 1497" 
+                    HPOS="386"
+                    VPOS="1474"
+                    WIDTH="983"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="387 1511 387 1524 466 1530 467 1530 468 1530 485 1524 547 1528 549 1528 580 1522 626 1527 628 1527 1369 1510 1369 1497 1365 1474 1236 1480 1227 1475 1224 1474 1223 1474 1222 1474 1220 1474 1216 1475 1197 1481 1143 1476 1125 1475 1123 1475 1114 1476 1088 1482 1071 1477 1067 1476 1066 1476 1065 1476 1042 1477 968 1484 925 1479 916 1479 914 1479 913 1479 912 1479 912 1480 902 1485 833 1480 816 1480 815 1480 813 1480 811 1481 793 1487 728 1482 714 1481 713 1481 711 1481 710 1481 709 1482 702 1490 630 1490 588 1484 581 1484 580 1484 567 1484 466 1492 386 1487 387 1511"/></Shape>
+	    <String CONTENT="debataylar e prudencia o sauiea en ues les batayles per q̃ si nos uo lẽ saber en quals regiõs"
+                    HPOS="386"
+                    VPOS="1474"
+                    WIDTH="983"
+                    HEIGHT="56"
+                    WC="0.9951573597757439"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab0cf2cb"
+                    TAGREFS="LT6460"
+                    BASELINE="391 1543 1375 1530" 
+                    HPOS="389"
+                    VPOS="1504"
+                    WIDTH="986"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="391 1543 391 1559 837 1555 838 1555 854 1550 862 1549 880 1550 924 1554 925 1554 926 1554 946 1549 953 1548 965 1549 1005 1553 1007 1553 1008 1553 1009 1553 1016 1548 1019 1545 1105 1545 1116 1545 1161 1550 1162 1550 1191 1544 1196 1544 1206 1544 1284 1549 1285 1549 1375 1541 1375 1530 1371 1510 1307 1510 1306 1510 1293 1504 1292 1504 1291 1504 1290 1504 1289 1504 1282 1510 1280 1511 1267 1510 1217 1505 1216 1505 1214 1505 1213 1505 1206 1511 1205 1511 1190 1511 1112 1507 1111 1507 1052 1511 1016 1515 997 1513 974 1509 973 1509 950 1513 928 1516 890 1513 852 1510 851 1510 835 1514 817 1518 781 1514 753 1511 752 1511 750 1511 744 1514 736 1519 389 1518 391 1543"/></Shape>
+	    <String CONTENT="son meylos bataylers coue aguardar en ues les dues coses dauãt dites/ E nles ꝑtides don"
+                    HPOS="389"
+                    VPOS="1504"
+                    WIDTH="986"
+                    HEIGHT="55"
+                    WC="0.9681709517132152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b2cc37e"
+                    TAGREFS="LT6460"
+                    BASELINE="393 1573 1367 1558" 
+                    HPOS="392"
+                    VPOS="1538"
+                    WIDTH="975"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="393 1573 393 1587 1366 1571 1367 1558 1364 1538 392 1553 393 1573"/></Shape>
+	    <String CONTENT="q̃s massa acostades al sol no deuẽ esser massa elegits los bataylados per tal cõ en ells def"
+                    HPOS="392"
+                    VPOS="1538"
+                    WIDTH="975"
+                    HEIGHT="49"
+                    WC="0.974441002658073"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a647ec11"
+                    TAGREFS="LT6460"
+                    BASELINE="255 1609 1375 1586" 
+                    HPOS="253"
+                    VPOS="1566"
+                    WIDTH="1122"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="255 1609 255 1629 566 1618 588 1623 592 1624 594 1624 595 1624 620 1623 690 1617 799 1620 837 1620 838 1620 839 1620 840 1620 841 1618 849 1613 884 1617 895 1618 896 1618 897 1618 899 1618 900 1617 908 1611 936 1617 941 1617 942 1617 943 1617 946 1616 967 1610 1008 1615 1018 1616 1019 1616 1030 1615 1080 1607 1111 1613 1116 1613 1117 1613 1122 1613 1156 1606 1225 1611 1235 1611 1236 1611 1238 1611 1239 1611 1258 1604 1374 1607 1375 1586 1371 1566 253 1587 255 1609"/></Shape>
+	    <String CONTENT="fall fortelea e coratge enues batayla segõs q̃ diu lo philosoph en lo .vii. libre dełs polithiq̃s E raho da ço"
+                    HPOS="253"
+                    VPOS="1566"
+                    WIDTH="1122"
+                    HEIGHT="63"
+                    WC="0.9764666871300766"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7693340c"
+                    TAGREFS="LT6460"
+                    BASELINE="256 1639 1344 1622" 
+                    HPOS="255"
+                    VPOS="1599"
+                    WIDTH="1089"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="256 1639 256 1658 346 1651 402 1656 408 1656 409 1656 424 1656 517 1649 554 1652 564 1654 566 1654 589 1652 654 1646 697 1650 720 1651 721 1651 1343 1635 1344 1622 1342 1605 1280 1599 1279 1599 1236 1605 954 1604 953 1604 719 1613 488 1611 487 1611 485 1611 464 1617 336 1613 335 1613 255 1621 256 1639"/></Shape>
+	    <String CONTENT="es assiguada per uegen en lo pͥmer libre dela cosa de cauallaria en lo capitol segon on es dit q̃ aq̃lles"
+                    HPOS="255"
+                    VPOS="1599"
+                    WIDTH="1089"
+                    HEIGHT="59"
+                    WC="0.9820480863253276"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_011d27c1"
+                    TAGREFS="LT6460"
+                    BASELINE="256 1666 1370 1655" 
+                    HPOS="255"
+                    VPOS="1632"
+                    WIDTH="1115"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="256 1666 256 1684 1369 1669 1370 1655 1369 1639 1343 1632 1342 1632 1341 1632 1297 1638 1287 1632 1286 1632 1285 1632 1284 1632 1127 1633 1126 1633 1098 1640 998 1634 997 1634 871 1644 702 1644 676 1638 675 1638 674 1638 673 1638 671 1638 662 1645 555 1645 519 1639 518 1639 517 1639 500 1648 371 1648 357 1641 355 1641 354 1641 255 1649 256 1666"/></Shape>
+	    <String CONTENT="nacions qͥ massa son uehines o acostades al sol serq̃s ꝑ gran calor elles saben mes mas meỹs habũden"
+                    HPOS="255"
+                    VPOS="1632"
+                    WIDTH="1115"
+                    HEIGHT="52"
+                    WC="0.981548151549171"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99e8e5e9"
+                    TAGREFS="LT6460"
+                    BASELINE="255 1699 1353 1684" 
+                    HPOS="253"
+                    VPOS="1666"
+                    WIDTH="1100"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="255 1699 255 1713 1352 1696 1353 1684 1349 1666 253 1675 255 1699"/></Shape>
+	    <String CONTENT="en sanch E per tal elłs no han fermetat ne fianca de bataylar per co cõ n᷑almẽt temen naffres quar"
+                    HPOS="253"
+                    VPOS="1666"
+                    WIDTH="1100"
+                    HEIGHT="47"
+                    WC="0.9754975402355194"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd7b6119"
+                    TAGREFS="LT6460"
+                    BASELINE="255 1726 1363 1711" 
+                    HPOS="253"
+                    VPOS="1695"
+                    WIDTH="1110"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="255 1726 255 1740 1361 1724 1363 1711 1359 1695 253 1703 255 1726"/></Shape>
+	    <String CONTENT="cõ elłs naturalment hagen poch de sanch nat̾almẽt temen ꝑ dicio de sanch donq̃s ells no son appeylats"
+                    HPOS="253"
+                    VPOS="1695"
+                    WIDTH="1110"
+                    HEIGHT="45"
+                    WC="0.9925818061365664"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_55593a6f"
+                    TAGREFS="LT6460"
+                    BASELINE="256 1753 1374 1741" 
+                    HPOS="255"
+                    VPOS="1719"
+                    WIDTH="1119"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="256 1753 256 1781 375 1779 402 1782 441 1788 442 1788 443 1788 455 1782 461 1779 509 1777 534 1782 562 1787 563 1787 617 1782 628 1781 640 1781 694 1786 696 1786 697 1786 698 1786 705 1781 708 1780 732 1781 779 1785 781 1785 804 1781 846 1774 900 1781 924 1784 925 1784 950 1781 985 1776 1001 1780 1003 1781 1004 1781 1005 1781 1007 1781 1010 1780 1043 1771 1070 1780 1073 1781 1075 1781 1076 1781 1088 1780 1145 1774 1166 1780 1167 1780 1168 1780 1169 1780 1171 1780 1194 1770 1371 1779 1374 1741 1370 1719 255 1730 256 1753"/></Shape>
+	    <String CONTENT="en bons abatayles ne abatimẽs. E ncara en les ꝑtdes deseycõtrio e massa luỹades del sol no deuẽ esser"
+                    HPOS="255"
+                    VPOS="1719"
+                    WIDTH="1119"
+                    HEIGHT="69"
+                    WC="0.9609568664005824"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="213"
+                   VPOS="1452"
+                   WIDTH="159"
+                   HEIGHT="130"
+                   ID="eSc_textblock_2a5cd835"
+                   TAGREFS="BT15319">
+          <Shape><Polygon POINTS="267 1452 372 1462 372 1548 343 1577 247 1582 213 1548 213 1491 267 1452"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1417"
+                   VPOS="140"
+                   WIDTH="38"
+                   HEIGHT="28"
+                   ID="eSc_textblock_2140c85e"
+                   TAGREFS="BT15321">
+          <Shape><Polygon POINTS="1417 140 1445 140 1455 154 1422 168 1417 140"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

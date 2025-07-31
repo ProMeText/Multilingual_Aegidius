@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>197.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15425" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT15426" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT15427" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT15428" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT15429" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT15430" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15431" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15432" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT15433" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT15434" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT15435" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT15436" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT15437" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT15438" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT23032" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT23033" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT6506" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6507" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6508" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6509" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6510" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4329"
+          HEIGHT="6602"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4329"
+                  HEIGHT="6602">
+        
+        <TextBlock HPOS="547"
+                   VPOS="3648"
+                   WIDTH="282"
+                   HEIGHT="220"
+                   ID="eSc_textblock_6ceb3db2"
+                   TAGREFS="BT15428">
+          <Shape><Polygon POINTS="547 3648 547 3868 829 3868 829 3648"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fc013b5d"
+                    
+                    BASELINE="559 3786 829 3793" 
+                    HPOS="550"
+                    VPOS="3639"
+                    WIDTH="276"
+                    HEIGHT="217">
+            <Shape><Polygon POINTS="550 3856 793 3845 820 3801 826 3790 807 3650 556 3639 556 3785"/></Shape>
+	    <String CONTENT="P"
+                    HPOS="550"
+                    VPOS="3639"
+                    WIDTH="276"
+                    HEIGHT="217"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="469"
+                   VPOS="894"
+                   WIDTH="2682"
+                   HEIGHT="3958"
+                   ID="eSc_textblock_d035d58a"
+                   TAGREFS="BT15429">
+          <Shape><Polygon POINTS="3092 938 3092 1522 3151 1657 3092 2200 3136 2611 3077 3711 3136 4063 3107 4808 2989 4852 528 4823 469 4338 501 3844 469 1247 513 938 2670 894"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9199c87a"
+                    TAGREFS="LT6510"
+                    BASELINE="546 3433 3077 3440" 
+                    HPOS="542"
+                    VPOS="3359"
+                    WIDTH="2535"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="546 3433 542 3473 3070 3495 3077 3440 3074 3374 546 3359 546 3433"/></Shape>
+	    <String CONTENT="¶ Le xiiii ͤ chappitre declere que les grans seigneurs et principalemẽt"
+                    HPOS="542"
+                    VPOS="3359"
+                    WIDTH="2535"
+                    HEIGHT="136"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9601b54a"
+                    TAGREFS="LT6510"
+                    BASELINE="528 3521 3041 3543" 
+                    HPOS="524"
+                    VPOS="3444"
+                    WIDTH="2517"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="528 3521 524 3572 3033 3598 3041 3543 3041 3477 528 3444 528 3521"/></Shape>
+	    <String CONTENT="les roys et princes ne doyuent mye gouuerner leurs femmes en tel"
+                    HPOS="524"
+                    VPOS="3444"
+                    WIDTH="2517"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c9ba11d"
+                    TAGREFS="LT6510"
+                    BASELINE="546 3623 1680 3634" 
+                    HPOS="542"
+                    VPOS="3554"
+                    WIDTH="1138"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="546 3623 542 3642 825 3645 843 3653 920 3675 924 3675 1474 3678 1478 3678 1482 3678 1485 3678 1485 3675 1489 3675 1507 3656 1588 3656 1669 3678 1680 3634 1676 3565 546 3554 546 3623"/></Shape>
+	    <String CONTENT="regime comme les enfans."
+                    HPOS="542"
+                    VPOS="3554"
+                    WIDTH="1138"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83ceccec"
+                    TAGREFS="LT6510"
+                    BASELINE="804 3706 3033 3730" 
+                    HPOS="793"
+                    VPOS="3554"
+                    WIDTH="2236"
+                    HEIGHT="231">
+            <Shape><Polygon POINTS="1459 3631 1404 3631 1349 3631 1294 3631 1239 3631 1184 3631 1129 3631 1073 3625 1018 3625 963 3625 908 3625 853 3625 798 3625 798 3702 793 3763 3018 3785 3029 3724 3023 3653 2919 3647 2797 3559 2792 3559 2786 3559 1861 3554 1856 3554 1850 3554 1845 3554 1845 3559 1762 3631 1751 3636 1509 3631 1459 3631"/></Shape>
+	    <String CONTENT="ource que il ne souffist mye sauoir la cause pour est ordonne"
+                    HPOS="793"
+                    VPOS="3554"
+                    WIDTH="2236"
+                    HEIGHT="231"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e41a6df8"
+                    TAGREFS="LT6510"
+                    BASELINE="810 3812 3041 3818" 
+                    HPOS="804"
+                    VPOS="3730"
+                    WIDTH="2236"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="809 3807 804 3856 3029 3867 3040 3812 3034 3741 809 3730 809 3807"/></Shape>
+	    <String CONTENT="mariage ne quelle femme est a querir. si on ne se soit deumẽt"
+                    HPOS="804"
+                    VPOS="3730"
+                    WIDTH="2236"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_73a543b1"
+                    TAGREFS="LT6510"
+                    BASELINE="531 3902 3074 3920" 
+                    HPOS="528"
+                    VPOS="3836"
+                    WIDTH="2546"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="531 3902 528 3950 3066 3975 3074 3920 3074 3840 531 3836 531 3902"/></Shape>
+	    <String CONTENT="se gouuerner uers elle quant on la espousee. Ce pñt chappͤ on quel est"
+                    HPOS="528"
+                    VPOS="3836"
+                    WIDTH="2546"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5718d7a"
+                    TAGREFS="LT6510"
+                    BASELINE="502 4001 3100 4019" 
+                    HPOS="498"
+                    VPOS="3931"
+                    WIDTH="2602"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="502 4001 498 4049 3092 4060 3100 4019 3096 3953 502 3931 502 4001"/></Shape>
+	    <String CONTENT="declere cõment le regime nupcial selon lequel homme doit gouuerner"
+                    HPOS="498"
+                    VPOS="3931"
+                    WIDTH="2602"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_77b9fc30"
+                    TAGREFS="LT6510"
+                    BASELINE="531 4100 3111 4111" 
+                    HPOS="528"
+                    VPOS="4030"
+                    WIDTH="2583"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="531 4100 528 4140 3103 4151 3111 4111 3107 4045 531 4030 531 4100"/></Shape>
+	    <String CONTENT="sa femme differe des aultres regimes aux chappitres precedens est ẽncre."
+                    HPOS="528"
+                    VPOS="4030"
+                    WIDTH="2583"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ffda3aa"
+                    TAGREFS="LT6510"
+                    BASELINE="491 4188 3048 4210" 
+                    HPOS="487"
+                    VPOS="4115"
+                    WIDTH="2561"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="491 4188 487 4243 3041 4269 3048 4210 3044 4148 491 4115 491 4188"/></Shape>
+	    <String CONTENT="car par deux uoyes pouons encercher que les femmes sont a gouuerner"
+                    HPOS="487"
+                    VPOS="4115"
+                    WIDTH="2561"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_535510f9"
+                    TAGREFS="LT6510"
+                    BASELINE="476 4294 3066 4309" 
+                    HPOS="473"
+                    VPOS="4228"
+                    WIDTH="2593"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="476 4294 473 4346 3059 4349 3066 4309 3063 4239 476 4228 476 4294"/></Shape>
+	    <String CONTENT="par aultre regime que ne sont les enfans. La premiere uoie est prinse de"
+                    HPOS="473"
+                    VPOS="4228"
+                    WIDTH="2593"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a3a9d7e0"
+                    TAGREFS="LT6510"
+                    BASELINE="524 4386 3107 4408" 
+                    HPOS="524"
+                    VPOS="4305"
+                    WIDTH="2583"
+                    HEIGHT="158">
+            <Shape><Polygon POINTS="524 4386 524 4441 2149 4441 2278 4445 2681 4463 2685 4463 3103 4445 3107 4408 3107 4327 524 4305 524 4386"/></Shape>
+	    <String CONTENT="la partie du gouuernement. Et la seconde de la partie des euures qui sõt"
+                    HPOS="524"
+                    VPOS="4305"
+                    WIDTH="2583"
+                    HEIGHT="158"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf1bc38e"
+                    TAGREFS="LT6510"
+                    BASELINE="524 4489 3048 4504" 
+                    HPOS="520"
+                    VPOS="4423"
+                    WIDTH="2528"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="524 4489 520 4533 3041 4555 3048 4504 3044 4438 524 4423 524 4489"/></Shape>
+	    <String CONTENT="a faire . ¶ La premiere uoye apert ainsi car selon les phoẽs la maniere"
+                    HPOS="520"
+                    VPOS="4423"
+                    WIDTH="2528"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd26cdcd"
+                    TAGREFS="LT6510"
+                    BASELINE="509 4584 3055 4610" 
+                    HPOS="506"
+                    VPOS="4515"
+                    WIDTH="2549"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="509 4584 506 4617 568 4639 572 4639 575 4639 792 4625 796 4625 799 4625 935 4643 939 4643 1126 4628 1148 4628 1159 4628 1240 4647 3048 4658 3055 4610 3055 4533 509 4515 509 4584"/></Shape>
+	    <String CONTENT="du regime uniuersel est reseruee en ung homme et a cause de ce hõme"
+                    HPOS="506"
+                    VPOS="4515"
+                    WIDTH="2549"
+                    HEIGHT="143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7854108"
+                    TAGREFS="LT6510"
+                    BASELINE="520 4676 3044 4702" 
+                    HPOS="517"
+                    VPOS="4599"
+                    WIDTH="2527"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="520 4676 517 4716 3037 4753 3044 4702 3041 4639 520 4599 520 4676"/></Shape>
+	    <String CONTENT="est appelle le petit monde. car ainsi comme tout le monde ũniuersel est"
+                    HPOS="517"
+                    VPOS="4599"
+                    WIDTH="2527"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa7ff7df"
+                    TAGREFS="LT6510"
+                    BASELINE="520 4768 3081 4793" 
+                    HPOS="517"
+                    VPOS="4709"
+                    WIDTH="2564"
+                    HEIGHT="187">
+            <Shape><Polygon POINTS="520 4749 520 4768 517 4856 660 4878 664 4878 667 4878 719 4859 759 4845 854 4845 887 4859 928 4881 931 4881 935 4881 939 4881 1001 4863 1034 4848 1247 4848 1350 4863 1474 4885 1738 4889 1742 4889 1746 4889 1749 4889 1775 4867 1786 4859 1929 4856 1962 4870 2014 4892 2017 4892 2021 4892 2303 4878 2432 4896 2435 4896 2568 4874 2601 4870 2630 4874 2714 4896 2718 4896 2722 4896 2773 4878 2802 4867 3074 4878 3081 4793 3081 4724 542 4709 520 4749"/></Shape>
+	    <String CONTENT="adroisse et gouuerne dun prince et dun seul dieu qui est entendement"
+                    HPOS="517"
+                    VPOS="4709"
+                    WIDTH="2564"
+                    HEIGHT="187"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

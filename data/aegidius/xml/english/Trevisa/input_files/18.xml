@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>echantillon_4.pdf_page_1.png</fileName>
+      <fileIdentifier>pdf//echantillon_4.pdf</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2103"
+          HEIGHT="3000"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2103"
+                  HEIGHT="3000">
+        
+        <TextBlock HPOS="326"
+                   VPOS="313"
+                   WIDTH="1463"
+                   HEIGHT="2405"
+                   ID="eSc_textblock_f4519fae"
+                   TAGREFS="BT19261">
+          <Shape><Polygon POINTS="426 313 1616 326 1756 340 1782 366 1782 1605 1749 1651 1359 1658 1190 1700 1232 1766 1292 1786 1776 1826 1789 2478 1782 2638 1742 2718 333 2711 326 1986 346 1860 460 1813 823 1806 892 1758 803 1691 326 1685 333 446 340 393 385 380 426 313"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f1b943cd"
+                    TAGREFS="LT6926"
+                    BASELINE="925 1768 1170 1768" 
+                    HPOS="925"
+                    VPOS="1723"
+                    WIDTH="245"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="925 1768 925 1781 1169 1788 1170 1768 1167 1723 1129 1735 993 1735 992 1731 983 1725 983 1723 982 1723 980 1723 945 1723 943 1723 942 1723 940 1723 925 1731 925 1768"/></Shape>
+	    <String CONTENT="Chapter II"
+                    HPOS="925"
+                    VPOS="1723"
+                    WIDTH="245"
+                    HEIGHT="65"
+                    WC="0.9973489105701446"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9ae65ce"
+                    TAGREFS="LT6926"
+                    BASELINE="383 1858 1754 1850" 
+                    HPOS="381"
+                    VPOS="1811"
+                    WIDTH="1373"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="383 1858 383 1870 1752 1868 1754 1850 1751 1821 1692 1811 1691 1811 1689 1811 1656 1820 1469 1813 1467 1813 1465 1813 1464 1813 1452 1821 1429 1813 1427 1813 1425 1813 1364 1821 1279 1813 1277 1813 1202 1823 932 1816 930 1816 928 1816 927 1816 917 1825 698 1816 697 1816 645 1826 627 1818 625 1818 623 1818 562 1826 420 1818 418 1818 416 1818 381 1828 383 1858"/></Shape>
+	    <String CONTENT="As it longeþ to þis doynge tweyne semen nedful to dedes ot batailles:"
+                    HPOS="381"
+                    VPOS="1811"
+                    WIDTH="1373"
+                    HEIGHT="59"
+                    WC="0.9896686837293099"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5bf7c3db"
+                    TAGREFS="LT6926"
+                    BASELINE="345 1910 1754 1901" 
+                    HPOS="340"
+                    VPOS="1867"
+                    WIDTH="1412"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="340 1890 342 1910 342 1927 1750 1925 1752 1900 1745 1867 347 1875 340 1890"/></Shape>
+	    <String CONTENT="strengþe for to fiste, and wisdom to rewle in batailles. Wherfore 3if we"
+                    HPOS="340"
+                    VPOS="1867"
+                    WIDTH="1412"
+                    HEIGHT="60"
+                    WC="0.9857842235101594"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9b4b363"
+                    TAGREFS="LT6926"
+                    BASELINE="346 1961 1757 1955" 
+                    HPOS="345"
+                    VPOS="1926"
+                    WIDTH="1412"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="346 1961 346 1978 1756 1973 1757 1955 1754 1931 698 1926 697 1926 695 1926 660 1935 410 1928 408 1928 345 1936 346 1961"/></Shape>
+	    <String CONTENT="wolle knowe in what contreyes ben best fistyng men, it nedeþ to knowe"
+                    HPOS="345"
+                    VPOS="1926"
+                    WIDTH="1412"
+                    HEIGHT="52"
+                    WC="0.99372473920601"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60f5f1e3"
+                    TAGREFS="LT6926"
+                    BASELINE="345 2020 784 2014" 
+                    HPOS="340"
+                    VPOS="1980"
+                    WIDTH="442"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="342 2020 342 2032 782 2025 782 2012 775 1980 340 1985 342 2020"/></Shape>
+	    <String CONTENT="þe forseyde tweyne."
+                    HPOS="340"
+                    VPOS="1980"
+                    WIDTH="442"
+                    HEIGHT="52"
+                    WC="0.9798185982202229"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1de74c4c"
+                    TAGREFS="LT6926"
+                    BASELINE="396 2073 1774 2068" 
+                    HPOS="392"
+                    VPOS="2035"
+                    WIDTH="1380"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="395 2072 395 2090 1770 2085 1772 2067 1765 2035 392 2037 395 2072"/></Shape>
+	    <String CONTENT="And in contreys þat ben to nyȝ þe sonne scholde not fiȝtynge men"
+                    HPOS="392"
+                    VPOS="2035"
+                    WIDTH="1380"
+                    HEIGHT="55"
+                    WC="0.985625047236681"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_827f38c8"
+                    TAGREFS="LT6926"
+                    BASELINE="345 2126 1559 2125 1757 2118" 
+                    HPOS="340"
+                    VPOS="2087"
+                    WIDTH="1415"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="342 2125 342 2140 1752 2137 1755 2117 1747 2087 340 2087 342 2125"/></Shape>
+	    <String CONTENT="be chose, for in hem faillen myȝt and boldenesse in bataille, as þe phi¬"
+                    HPOS="340"
+                    VPOS="2087"
+                    WIDTH="1415"
+                    HEIGHT="53"
+                    WC="0.9858182536231147"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_888adcd2"
+                    TAGREFS="LT6926"
+                    BASELINE="345 2180 1756 2176" 
+                    HPOS="340"
+                    VPOS="2142"
+                    WIDTH="1415"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="342 2180 342 2197 1750 2200 1755 2175 1747 2142 340 2145 342 2180"/></Shape>
+	    <String CONTENT="losofer seith, vii Poleticorum. And Vigesius, primo libro De Re Militari,"
+                    HPOS="340"
+                    VPOS="2142"
+                    WIDTH="1415"
+                    HEIGHT="58"
+                    WC="0.987603099378821"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fcbebeed"
+                    TAGREFS="LT6926"
+                    BASELINE="345 2233 1761 2228" 
+                    HPOS="340"
+                    VPOS="2190"
+                    WIDTH="1420"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="342 2232 342 2250 1757 2247 1760 2227 1752 2190 340 2200 342 2232"/></Shape>
+	    <String CONTENT="telleþ þe cause and seith þat naciouns þat ben ny þe sonne ben dryed"
+                    HPOS="340"
+                    VPOS="2190"
+                    WIDTH="1420"
+                    HEIGHT="60"
+                    WC="0.9983932840473512"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d23f685"
+                    TAGREFS="LT6926"
+                    BASELINE="345 2285 1788 2275" 
+                    HPOS="340"
+                    VPOS="2245"
+                    WIDTH="1447"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="342 2285 342 2302 1787 2292 1787 2275 1780 2245 340 2252 342 2285"/></Shape>
+	    <String CONTENT="wiþ greet heet ot þe sonne, and ben sleiz, but þei hauen þut litel"
+                    HPOS="340"
+                    VPOS="2245"
+                    WIDTH="1447"
+                    HEIGHT="57"
+                    WC="0.9936386572592186"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12353714"
+                    TAGREFS="LT6926"
+                    BASELINE="345 2341 1756 2335" 
+                    HPOS="340"
+                    VPOS="2305"
+                    WIDTH="1415"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="342 2340 342 2357 1752 2355 1755 2335 1747 2305 340 2307 342 2340"/></Shape>
+	    <String CONTENT="[bllood and hauen þerfore noþer stedefastnesse noþer trist in fistynge"
+                    HPOS="340"
+                    VPOS="2305"
+                    WIDTH="1415"
+                    HEIGHT="52"
+                    WC="0.9973644707884107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_adba41a2"
+                    TAGREFS="LT6926"
+                    BASELINE="345 2396 1756 2390" 
+                    HPOS="340"
+                    VPOS="2350"
+                    WIDTH="1415"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="342 2395 342 2412 1750 2415 1755 2390 1747 2350 340 2360 342 2395"/></Shape>
+	    <String CONTENT="for kyndelich þei dreden wondes. And for kyndeliche þei hauen litel"
+                    HPOS="340"
+                    VPOS="2350"
+                    WIDTH="1415"
+                    HEIGHT="65"
+                    WC="0.9976150642580061"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_07a3a216"
+                    TAGREFS="LT6926"
+                    BASELINE="345 2451 1759 2448" 
+                    HPOS="340"
+                    VPOS="2415"
+                    WIDTH="1417"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="342 2450 342 2470 1755 2470 1757 2447 1750 2415 340 2415 342 2450"/></Shape>
+	    <String CONTENT="bllood, kyndelich þei dreden lost of [bllood. þerfore þei ben not prest"
+                    HPOS="340"
+                    VPOS="2415"
+                    WIDTH="1417"
+                    HEIGHT="55"
+                    WC="0.9924959599132269"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3276c053"
+                    TAGREFS="LT6926"
+                    BASELINE="346 2505 1070 2505" 
+                    HPOS="346"
+                    VPOS="2466"
+                    WIDTH="724"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="346 2505 346 2518 1070 2518 1070 2505 1070 2476 990 2466 988 2466 987 2466 968 2476 818 2476 795 2466 793 2466 792 2466 732 2475 677 2466 675 2466 615 2475 592 2466 590 2466 588 2466 587 2466 585 2466 585 2468 577 2476 520 2476 496 2466 495 2466 493 2466 441 2475 420 2466 418 2466 416 2466 415 2466 413 2466 413 2468 405 2476 346 2476 346 2505"/></Shape>
+	    <String CONTENT="and redy to bataille noþer to strokes."
+                    HPOS="346"
+                    VPOS="2466"
+                    WIDTH="724"
+                    HEIGHT="52"
+                    WC="0.9996837926538367"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3cd275c8"
+                    TAGREFS="LT6926"
+                    BASELINE="396 2560 1757 2556" 
+                    HPOS="395"
+                    VPOS="2520"
+                    WIDTH="1362"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="396 2560 396 2571 1756 2568 1757 2556 1756 2530 1729 2520 1727 2520 1726 2520 1671 2528 1647 2520 1646 2520 1644 2520 1642 2520 1622 2528 1335 2520 1334 2520 1332 2520 1300 2528 1270 2520 1269 2520 1267 2520 1265 2520 1264 2520 1250 2528 1187 2520 1185 2520 1114 2528 1087 2520 1085 2520 1084 2520 1082 2520 1080 2520 1069 2530 638 2521 637 2521 548 2530 513 2521 511 2521 510 2521 508 2521 506 2521 495 2530 418 2521 416 2521 415 2521 395 2530 396 2560"/></Shape>
+	    <String CONTENT="Also in contrees þat beþ to fer norþ and to fer fro þe sonne scholde"
+                    HPOS="395"
+                    VPOS="2520"
+                    WIDTH="1362"
+                    HEIGHT="51"
+                    WC="0.9917216546395246"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_628912e7"
+                    TAGREFS="LT6926"
+                    BASELINE="345 2613 1754 2610" 
+                    HPOS="340"
+                    VPOS="2572"
+                    WIDTH="1412"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="342 2612 342 2630 1747 2632 1752 2610 1745 2572 340 2577 342 2612"/></Shape>
+	    <String CONTENT="not fistynge men be chose. For þei þei haue moche blood so þat þei"
+                    HPOS="340"
+                    VPOS="2572"
+                    WIDTH="1412"
+                    HEIGHT="60"
+                    WC="0.9735054021531885"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_943e0bbd"
+                    TAGREFS="LT6926"
+                    BASELINE="345 2665 1752 2665" 
+                    HPOS="342"
+                    VPOS="2625"
+                    WIDTH="1408"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="342 2665 342 2682 1747 2690 1750 2665 1747 2625 342 2630 342 2665"/></Shape>
+	    <String CONTENT="dreden not woundes, 3ut for moche blood þei ben to hasty and fool"
+                    HPOS="342"
+                    VPOS="2625"
+                    WIDTH="1408"
+                    HEIGHT="65"
+                    WC="0.9979337472182054"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

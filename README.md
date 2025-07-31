@@ -65,21 +65,16 @@ The construction of the multilingual **corpus** involved several stages, combini
 ⚠️ All freely available texts used in this project and obtained through other open-access initiatives are included in this repository. However, due to editorial restrictions, certain materials cannot be shared publicly at this time.
 
 ---
-
 ## 🧠 Training Datasets for Segmentation and Alignment
 
-To support the development of robust segmentation and alignment models, the project includes curated **training datasets** located in the following directories:
+To support the development of robust segmentation and alignment models, the project relies on two complementary resources hosted in separate repositories:
 
-- [`data/segmentation_data`](https://github.com/ProMeText/Multilingual_Aegidius/tree/main/data/segmentation_data)  
-  Annotated datasets for sentence and phrase segmentation. These resources are used to train and evaluate models that detect linguistic units across historical languages.
+- [`multilingual-segmentation-data`](https://github.com/ProMeText/multilingual-segmentation-data)  
+  Annotated datasets for **sentence and phrase segmentation** in historical texts. Includes manually segmented examples across seven medieval languages (13th–16th c.), used to train and evaluate BERT-based segmenters for historical prose.
 
-- [`data/alignment_data/bibles`](https://github.com/ProMeText/Multilingual_Aegidius/tree/main/data/alignment_data/bibles)  
-  Biblical texts in multiple medieval and modern languages, used to train alignment models. These structured and parallel datasets offer high-quality multilingual data for cross-lingual learning.
+- [`parallelium-scriptures-alignment-dataset`](https://github.com/carolisteia/parallelium-scriptures-alignment-dataset)  
+  A multilingual datatset of **aligned Biblical and Qur’anic texts**, combining medieval and modern versions in 9 languages. Designed for training alignment models, especially in historical and philological contexts.
 
-📄 **Documentation**  
-For detailed dataset guidelines, see:  
-- [Segmentation Dataset Documentation](docs/segmentation_corpus.md)  
-- [Alignment Dataset Documentation](docs/alignement_corpus.md)
 
 ---
 
@@ -125,15 +120,31 @@ Contributions to the project are highly encouraged, whether they be additional d
 3. **Submit a Pull Request** – After pushing your changes to your fork, open a pull request for discussion and review.
 
 ---
+## 🔗 Related Projects
 
+This repository is part of a broader ecosystem of tools and corpora developed for the study of medieval multilingual textual traditions:
 
+- [Aquilign](https://github.com/ProMeText/Aquilign)  
+  A clause-level multilingual alignment engine based on contextual embeddings (LaBSE), designed specifically for premodern texts.
+
+- [Multilingual Segmentation Data](https://github.com/ProMeText/multilingual-segmentation-data)  
+  Source texts and segmented versions in multiple medieval Romance languages, as well as Latin and English, used for training and evaluating clause segmentation models.
+
+- [Parallelium – an aligned scriptures dataset](https://github.com/carolisteia/parallelium-scriptures-alignment-dataset/tree/main)  
+  A multilingual dataset of aligned Biblical and Qur’anic texts — spanning medieval and modern languages — designed for training and evaluating multilingual alignment models, especially in historical and philological contexts.
+
+- [Lancelot par maints langages](https://github.com/carolisteia/lancelot-par-maints-langages)  
+  A parallel corpus of translations of the *Lancelot en prose* in medieval French, Castilian, and Italian, segmented and aligned using the Aquilign pipeline.
+
+----
 ## 💰 Funding
 
 This work benefited from national funding managed by the **Agence Nationale de la Recherche** under the *Investissements d'avenir* programme with the reference **ANR-21-ESRE-0005 (Biblissima+)**.
 
 > Ce travail a bénéficié d'une aide de l’État gérée par l’**Agence Nationale de la Recherche** au titre du programme d’**Investissements d’avenir** portant la référence **ANR-21-ESRE-0005 (Biblissima+)**.
 
-![Biblissima+ Logo](docs/images/logo_biblissima.png)
+<img src="docs/images/logo_biblissima.png" alt="Biblissima+ Logo" width="700"/>
+
 
 
 ## ⚖️ Licensing
