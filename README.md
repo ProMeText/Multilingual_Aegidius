@@ -1,17 +1,18 @@
 
 
 <p align="left">   <img src="docs/images/logo-cropped.svg" alt="Corpus Overview" width="600"/> </p>
-# 📜 Multilingual Alignment and Collation of the *De Regimine Principum* in Latin and Vernacular Traditions 🌍
+
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC--BY--NC--SA--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Last Commit](https://img.shields.io/github/last-commit/ProMeText/Multilingual_Aegidius)](https://github.com/ProMeText/Multilingual_Aegidius/commits/main)
 [![Repo Size](https://img.shields.io/github/repo-size/ProMeText/Multilingual_Aegidius)](https://github.com/ProMeText/Multilingual_Aegidius)
 [![Issues](https://img.shields.io/github/issues/ProMeText/Multilingual_Aegidius)](https://github.com/ProMeText/Multilingual_Aegidius/issues)
+# 📜 Multilingual Alignment and Collation of the *De Regimine Principum* in Latin, Vernacular, and English Traditions 🌍
 
 **A corpus-based project for sentence segmentation, multilingual alignment, and philological analysis of medieval translations.**
 
 This repository brings together historical linguistics, digital humanities, and natural language processing (NLP) to address a key challenge in premodern textual studies:  
-🧠 *How can we systematically align, compare, and computationally analyze medieval prose across diverse linguistic, scribal, and editorial traditions?*
+> 🧠 *How can we systematically align, compare, and computationally analyze medieval prose across diverse linguistic, scribal, and editorial traditions?*
 
 We provide open-access datasets and tools for:
 
