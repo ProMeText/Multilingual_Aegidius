@@ -81,7 +81,7 @@ The construction of the multilingual **corpus** involved several stages, combini
 
 To support the development of robust segmentation and alignment models, the project relies on two complementary resources hosted in separate repositories:
 
-- [`multilingual-segmentation-data`](https://github.com/ProMeText/multilingual-segmentation-data)  
+- [`multilingual-segmentation-data`](https://github.com/carolisteia/multilingual-segmentation-dataset) 
   Annotated datasets for **sentence and phrase segmentation** in historical texts. Includes manually segmented examples across seven medieval languages (13th–16th c.), used to train and evaluate BERT-based segmenters for historical prose.
 
 - [`parallelium-scriptures-alignment-dataset`](https://github.com/carolisteia/parallelium-scriptures-alignment-dataset)  
