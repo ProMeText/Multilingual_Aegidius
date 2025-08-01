@@ -7,6 +7,8 @@
 [![Last Commit](https://img.shields.io/github/last-commit/ProMeText/Multilingual_Aegidius)](https://github.com/ProMeText/Multilingual_Aegidius/commits/main)
 [![Repo Size](https://img.shields.io/github/repo-size/ProMeText/Multilingual_Aegidius)](https://github.com/ProMeText/Multilingual_Aegidius)
 [![Issues](https://img.shields.io/github/issues/ProMeText/Multilingual_Aegidius)](https://github.com/ProMeText/Multilingual_Aegidius/issues)
+[![Slides](https://img.shields.io/badge/slides-CILPR2025-blue)](docs/slides_cilpr2025.pdf)
+
 # 📜 Multilingual Alignment and Collation of the *De Regimine Principum* in Latin, Vernacular, and English Traditions 🌍
 
 **A corpus-based project for sentence segmentation, multilingual alignment, and philological analysis of medieval translations.**
