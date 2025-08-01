@@ -146,8 +146,10 @@ This work benefited from national funding managed by the **Agence Nationale de l
 
 > Ce travail a bénéficié d'une aide de l’État gérée par l’**Agence Nationale de la Recherche** au titre du programme d’**Investissements d’avenir** portant la référence **ANR-21-ESRE-0005 (Biblissima+)**.
 
-<img src="docs/images/logo_biblissima.png" alt="Biblissima+ Logo" width="700"/>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/915c871f-fbaa-45ea-8334-2bf3dde8252d" alt="Biblissima+ Logo" width="600"/>
+</p>
 
 
 ## ⚖️ Licensing
