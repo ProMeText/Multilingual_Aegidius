@@ -140,6 +140,13 @@ This repository is part of a broader ecosystem of tools and corpora developed fo
   A parallel corpus of translations of the *Lancelot en prose* in medieval French, Castilian, and Italian, segmented and aligned using the Aquilign pipeline.
 
 ----
+## 🧾 Talks & Slides 
+
+### 🎤 *Congrès International de Linguistique et de Philologie Romanes (CILPR 2025)*  
+**Premiers jalons de la collation multilingue du *De regimine principum* latin et vernaculaire**  
+👤 *Matthias Gille Levenson, Lucence Ing, Carolina Macedo*  
+📽️ [View presentation slides (PDF)](docs/slides_cilpr2025.pdf)
+
 ## 💰 Funding
 
 This work benefited from national funding managed by the **Agence Nationale de la Recherche** under the *Investissements d'avenir* programme with the reference **ANR-21-ESRE-0005 (Biblissima+)**.
