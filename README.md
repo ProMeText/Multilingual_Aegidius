@@ -143,9 +143,10 @@ This repository is part of a broader ecosystem of tools and corpora developed fo
 ## 🧾 Talks & Slides 
 
 ### 🎤 *Congrès International de Linguistique et de Philologie Romanes (CILPR 2025)*  
-*Premiers jalons de la collation multilingue du De regimine principum latin et vernaculaire*
-👤 *Matthias Gille Levenson, Lucence Ing, Carolina Macedo*  
+**_Premiers jalons de la collation multilingue du_ De regimine principum _latin et vernaculaire_**  
+👥 *Matthias Gille Levenson, Lucence Ing, Carolina Macedo*  
 📽️ [View presentation slides (PDF)](docs/slides_cilpr2025.pdf)
+
 
 ## 💰 Funding
 
