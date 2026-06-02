@@ -4,25 +4,22 @@
 
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC--BY--NC--SA--4.0-red.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Last Commit](https://img.shields.io/github/last-commit/ProMeText/Multilingual_Aegidius)](https://github.com/ProMeText/Multilingual_Aegidius/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/ProMeText/Multilingual_Aegidius)](https://github.com/ProMeText/Multilingual_Aegidius)
-[![Issues](https://img.shields.io/github/issues/ProMeText/Multilingual_Aegidius)](https://github.com/ProMeText/Multilingual_Aegidius/issues)
 [![Slides](https://img.shields.io/badge/slides-CILPR2025-blue)](docs/slides_cilpr2025.pdf)
 
-# 📜 Multilingual Alignment and Collation of the *De Regimine Principum* in Latin, Vernacular, and English Traditions 🌍
+# Multilingual Alignment and Collation of the *De Regimine Principum* in Latin, Vernacular, and English Traditions 
 
 **A corpus-based project for sentence segmentation, multilingual alignment, and philological analysis of medieval translations.**
 
 This repository brings together historical linguistics, digital humanities, and natural language processing (NLP) to address a key challenge in premodern textual studies:  
-> 🧠 *How can we systematically align, compare, and computationally analyze medieval prose across diverse linguistic, scribal, and editorial traditions?*
+> *How can we systematically align, compare, and computationally analyze medieval prose across diverse linguistic, scribal, and editorial traditions?*
 
 We provide open-access datasets and tools for:
 
-- ✂️ **Sentence segmentation**
-- 🌐 **Multilingual alignment**
-- 🧩 **Textual collation and variant tracking**
+-  **Sentence segmentation**
+- **Multilingual alignment**
+- **Textual collation and variant tracking**
 
-### 🏰 *A Mirror for Princes Across Borders*  
+###  *A Mirror for Princes Across Borders*  
 **_De Regimine Principum_: Transmission and Translation**
 
 Composed in Latin in the late 13th century, *De Regimine Principum* rapidly circulated throughout Europe and was translated into a range of vernaculars.  
@@ -30,7 +27,7 @@ This corpus offers a unique testbed for multilingual comparison, combining liter
 
 ---
 
-## 📚 Research Background
+##  Research Background
 
 This work on *De Regimine Principum* represents the second phase of a broader research initiative exploring **computational methods for multilingual medieval corpora**.
 
@@ -44,7 +41,7 @@ The present project builds on this foundation and expands the methodology to *De
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 
 - Create historically informed, linguistically diverse **training data** for historical NLP
 - Model **sentence segmentation** in medieval Romance and Latin languages
@@ -53,33 +50,35 @@ The present project builds on this foundation and expands the methodology to *De
 
 ---
 
-## 🧪 Methodology
+## Methodology
 
 We combine philological insight with machine learning techniques:
 
-- 🧭 **Collation workflow**: a reference collation table is built from Latin witnesses  
-- 🌍 **Alignment**: vernacular versions are segmented and aligned using embedding-based tools  
-- 🧮 **Variant detection**: semantic and structural divergences are analyzed using both manual and computational methods
+-  **Collation workflow**: a reference collation table is built from Latin witnesses  
+-  **Alignment**: vernacular versions are segmented and aligned using embedding-based tools  
+-  **Variant detection**: semantic and structural divergences are analyzed using both manual and computational methods
 
 ---
 
-## 📊 Preliminary Results
+##  Preliminary Results
 
 Preliminary alignments and exploratory visualizations are available via the dedicated project page:
 ➡️ [Multilingual Aegidius Project Page](https://prometext.github.io/Multilingual_Aegidius/)
 
+You can also explore the multilingual alignment results in our interactive demo [Aquilign Explorer](https://huggingface.co/spaces/ProMeText/aquilign-explorer). Select the *De regimine principum* reviewed corpus to visualize the aligned segments.
+
 ---
-## 💾 Data Overview
+## Data Overview
 
 This section outlines how textual data was prepared and structured in the *Multilingual Aegidius* project.
 
-## 🧩 Corpus Overview
+##  Corpus Overview
 
 The construction of the multilingual **corpus** involved several stages, combining both curated datasets and primary source texts. Each step in the pipeline is **modular**, **reproducible**, and designed for **extensibility**—enabling future applications across different authors, languages, or textual genres.
 
 ---
 
-## 🧠 Training Datasets for Segmentation and Alignment
+## Training Datasets for Segmentation and Alignment
 
 To support the development of robust segmentation and alignment models, the project relies on two complementary resources hosted in separate repositories:
 
@@ -93,7 +92,7 @@ These resources form the foundation for segmentation and alignment tasks within 
 
 ---
 
-## 📂 Core Aegidius Corpus
+## Core Aegidius Corpus
 
 The [`data/aegidius`](https://github.com/ProMeText/Multilingual_Aegidius/tree/main/data/aegidius) directory contains the core multilingual **text corpus** for this project. It features versions of *De Regimine Principum* in several medieval languages, supporting research in:
 
@@ -109,14 +108,7 @@ The [`data/aegidius`](https://github.com/ProMeText/Multilingual_Aegidius/tree/ma
 This **corpus** forms the foundation of the preliminary results presented in the [Results](#) section.
 
 
-## 📦 Models
-
-Pretrained models and evaluation outputs will be published here as they become available.
-
-📌 Stay tuned for Hugging Face links and downloadable checkpoints in future releases.
-
-
-## 🤝 Contributing to the Project
+## Contributing to the Project
 
 Contributions to the project are highly encouraged, whether they be additional data, bug fixes, or enhancements to the analysis scripts. To contribute:
 
@@ -125,7 +117,7 @@ Contributions to the project are highly encouraged, whether they be additional d
 3. **Submit a Pull Request** – After pushing your changes to your fork, open a pull request for discussion and review.
 
 ---
-## 🔗 Related Projects
+##  Related Projects
 
 This repository is part of a broader ecosystem of tools and corpora developed for the study of medieval multilingual textual traditions:
 
@@ -138,11 +130,8 @@ This repository is part of a broader ecosystem of tools and corpora developed fo
 - [Parallelium – an aligned scriptures dataset](https://github.com/carolisteia/parallelium-scriptures-alignment-dataset/tree/main)  
   A multilingual dataset of aligned Biblical and Qur’anic texts — spanning medieval and modern languages — designed for training and evaluating multilingual alignment models, especially in historical and philological contexts.
 
-- [Lancelot par maints langages](https://github.com/carolisteia/lancelot-par-maints-langages)  
-  A parallel corpus of translations of the *Lancelot en prose* in medieval French, Castilian, and Italian, segmented and aligned using the Aquilign pipeline.
-
 ----
-## 🧾 Talks & Slides 
+##  Talks & Slides 
 
 ### 🎤 *Congrès International de Linguistique et de Philologie Romanes (CILPR 2025)*  
 **_Premiers jalons de la collation multilingue du_ De regimine principum _latin et vernaculaire_**  
@@ -150,7 +139,7 @@ This repository is part of a broader ecosystem of tools and corpora developed fo
 📽️ [View presentation slides (PDF)](docs/slides_cilpr2025.pdf)
 
 
-## 💰 Funding
+##  Funding
 
 This work benefited from national funding managed by the **Agence Nationale de la Recherche** under the *Investissements d'avenir* programme with the reference **ANR-21-ESRE-0005 (Biblissima+)**.
 
@@ -162,7 +151,7 @@ This work benefited from national funding managed by the **Agence Nationale de l
 </p>
 
 
-## ⚖️ Licensing
+##  Licensing
 
 This project is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.  
 This license allows users to adapt, remix, and build upon the work non-commercially, as long as they credit the authors and license their new creations under the same terms.
