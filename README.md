@@ -100,7 +100,7 @@ The [`data/aegidius`](https://github.com/ProMeText/Multilingual_Aegidius/tree/ma
 - Machine translation  
 - Philological analysis
 
-### 📄 Contents:
+### Contents:
 - Parallel texts in Latin, French, English, and more  
 - Sentence-level alignments for comparative study  
 - Metadata for sources and editions
